@@ -1,0 +1,278 @@
+Enter size of heap:
+5
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+5
+Value inserted successfully :)
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+9
+
+Value inserted successfully :)
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+11
+Value inserted successfully :)
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+15
+Value inserted successfully :)
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+20
+Value inserted successfully :)
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+1
+Enter value to insert:
+25
+Size Overflow... Heap is Full
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+7
+PRINTING HEAP...
+[PRINTING HEAP ELEMENTS]...
+5 9 11 15 20
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+2
+Enter value to search:
+5
+VALUE FOUND AT INDEX:0
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+2
+Enter value to search:
+25235253
+VALUE NOT FOUND
+
+-2147483648
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+4
+MIN VALUE FROM HEAP IS:5
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+6
+HEIGHT OF HEAP IS:2
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+5
+EXTRACTED MIN VALUE FROM HEAP IS:5
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+6
+HEIGHT OF HEAP IS:2
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+7
+PRINTING HEAP...
+[PRINTING HEAP ELEMENTS]...
+9 15 11 20
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+4
+MIN VALUE FROM HEAP IS:9
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+5
+EXTRACTED MIN VALUE FROM HEAP IS:9
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+7
+PRINTING HEAP...
+[PRINTING HEAP ELEMENTS]...
+11 15 20
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+5
+EXTRACTED MIN VALUE FROM HEAP IS:11
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+7
+PRINTING HEAP...
+[PRINTING HEAP ELEMENTS]...
+15 20
+
+
+Enter your choice:
+Press:
+1. To insert a key
+2. To search a key
+3. To delete a key
+4. Get min key from heap
+5. To extract min value from heap and remove it
+6. To display height of heap
+7. To print all heap values
+0
+Exiting... Bye Bye
+
+Process finished with exit code 0

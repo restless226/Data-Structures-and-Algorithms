@@ -1,0 +1,450 @@
+//OUTPUT :
+
+
+WELCOME TO THE BINARY SEARCH TREE APPLICATION !!!
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+1
+
+You have entered the Insertion section.
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+1
+
+Enter data to be inserted : 3   23
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 23
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+2
+
+Enter data to be inserted : 45
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 23 45
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+1
+
+Enter data to be inserted : 67
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 23 45 67
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+1
+
+Enter data to be inserted : 2
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 2 23 45 67
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+2
+
+Enter data to be inserted : 99
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 2 23 45 67 99
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+1
+
+Enter data to be inserted : 4
+
+The data is inserted in the BST.
+
+Recursive In-Order Traversal of BST : 2 4 23 45 67 99
+
+Enter your choice :
+ 1. Recursive Insertion.
+ 2. Non-recursive Insertion.
+Enter 0 to exit from Insertion section.
+0
+
+Ended the Insertion section.
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+2
+
+You have entered the Search section.
+
+Enter your choice :
+ 1. Recursive Search.
+ 2. Non-recursive Search.
+Enter 0 to exit from Search section.
+1
+
+Enter data to be searched : 2
+
+2 is found in the BST.
+
+
+Enter your choice :
+ 1. Recursive Search.
+ 2. Non-recursive Search.
+Enter 0 to exit from Search section.
+2
+
+Enter data to be searched : 4
+
+4 is found in the BST.
+
+
+Enter your choice :
+ 1. Recursive Search.
+ 2. Non-recursive Search.
+Enter 0 to exit from Search section.
+1
+
+Enter data to be searched : 5
+Tree is Empty or data not found!
+
+5 is not found in the BST.
+
+
+Enter your choice :
+ 1. Recursive Search.
+ 2. Non-recursive Search.
+Enter 0 to exit from Search section.
+0
+
+Ended the Search section.
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+3
+
+You have entered the Deletion section.
+
+Enter data to be deleted : 5
+Element not found!
+The node has been deleted.
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+4
+
+You have entered the Traversal section.
+
+Enter your choice:
+ 1. Recursive Traversal
+ 2. Non-Recursive Traversal
+Enter 0 to end the Traversal section.
+1
+
+You have entered the Recursive Traversal section.
+Enter your choice(0 to 3) :
+ 1. Recursive In-Order Traversal.
+ 2. Recursive Post-Order Traversal.
+ 3. Recursive Pre-Order Traversal.
+Enter 0 to exit from Recursive section.
+1
+
+Recursive In-Order Traversal of BST : 2 4 23 45 67 99
+
+You have entered the Recursive Traversal section.
+Enter your choice(0 to 3) :
+ 1. Recursive In-Order Traversal.
+ 2. Recursive Post-Order Traversal.
+ 3. Recursive Pre-Order Traversal.
+Enter 0 to exit from Recursive section.
+2
+
+Recursive Post-Order Traversal of BST : 4 2 99 67 45 23
+
+You have entered the Recursive Traversal section.
+Enter your choice(0 to 3) :
+ 1. Recursive In-Order Traversal.
+ 2. Recursive Post-Order Traversal.
+ 3. Recursive Pre-Order Traversal.
+Enter 0 to exit from Recursive section.
+3
+
+Recursive Pre-Order Traversal of BST : 23 2 4 45 67 99
+
+You have entered the Recursive Traversal section.
+Enter your choice(0 to 3) :
+ 1. Recursive In-Order Traversal.
+ 2. Recursive Post-Order Traversal.
+ 3. Recursive Pre-Order Traversal.
+Enter 0 to exit from Recursive section.
+0
+
+Ended the Recursive traversal section.
+
+
+Enter your choice:
+ 1. Recursive Traversal
+ 2. Non-Recursive Traversal
+Enter 0 to end the Traversal section.
+2
+
+You have entered the Non-recursive Traversal section.
+Enter your choice(0 to 4) :
+ 1. Non-recursive In-Order Traversal.
+ 2. Non-recursive Post-Order Traversal.
+ 3. Non-recursive Pre-Order Traversal.
+ 4. Non-recursive Level-Order Traversal.
+Enter 0 to exit from Non-recursive section.
+1
+
+Non-recursive In-Order Traversal of BST : 2 4 23 45 67 99
+
+You have entered the Non-recursive Traversal section.
+Enter your choice(0 to 4) :
+ 1. Non-recursive In-Order Traversal.
+ 2. Non-recursive Post-Order Traversal.
+ 3. Non-recursive Pre-Order Traversal.
+ 4. Non-recursive Level-Order Traversal.
+Enter 0 to exit from Non-recursive section.
+2
+
+Non-recursive Post-Order Traversal of BST : 4 2 99 67 45 23
+
+You have entered the Non-recursive Traversal section.
+Enter your choice(0 to 4) :
+ 1. Non-recursive In-Order Traversal.
+ 2. Non-recursive Post-Order Traversal.
+ 3. Non-recursive Pre-Order Traversal.
+ 4. Non-recursive Level-Order Traversal.
+Enter 0 to exit from Non-recursive section.
+3
+
+Non-recursive Pre-Order Traversal of BST : 23 2 4 45 67 99
+
+You have entered the Non-recursive Traversal section.
+Enter your choice(0 to 4) :
+ 1. Non-recursive In-Order Traversal.
+ 2. Non-recursive Post-Order Traversal.
+ 3. Non-recursive Pre-Order Traversal.
+ 4. Non-recursive Level-Order Traversal.
+Enter 0 to exit from Non-recursive section.
+4
+
+Non-recursive Level-Order Traversal of BST : 23 2 45 4 67 99
+
+You have entered the Non-recursive Traversal section.
+Enter your choice(0 to 4) :
+ 1. Non-recursive In-Order Traversal.
+ 2. Non-recursive Post-Order Traversal.
+ 3. Non-recursive Pre-Order Traversal.
+ 4. Non-recursive Level-Order Traversal.
+Enter 0 to exit from Non-recursive section.
+0
+
+Ended the Non-recursive traversal section.
+
+
+Enter your choice:
+ 1. Recursive Traversal
+ 2. Non-Recursive Traversal
+Enter 0 to end the Traversal section.
+0
+
+Thank you.You have ended the Traversal section.
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+5
+
+You have entered the Depth section.
+Enter your choice :
+ 1. Recursive Depth.
+ 2. Non-recursive Depth.
+
+Enter 0 to exit from Depth section.
+1
+
+The depth of BST : 4
+
+Enter your choice :
+ 1. Recursive Depth.
+ 2. Non-recursive Depth.
+
+Enter 0 to exit from Depth section.
+2
+
+The depth of BST : 4
+
+Enter your choice :
+ 1. Recursive Depth.
+ 2. Non-recursive Depth.
+
+Enter 0 to exit from Depth section.
+0
+
+Ended the Depth section.
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+6
+
+You have entered the Mirror Image section.
+The mirror image of BST is created : 99 67 45 23 4 2
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+7
+
+You have entered the Copy section.
+The copy of BST is created : 99 67 45 23 4 2
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+8
+
+You have entered the Leaf node section.
+The count of leaf nodes : 2
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+9
+
+You have entered the Non-leaf node section.
+The count of non-leaf nodes : 4
+
+
+Enter your choice(0 to 9) for performing following operations on BST :
+ 1. Insertion.
+ 2. Search.
+ 3. Deletion.
+ 4. Traversal.
+ 5. Depth
+ 6. Mirror Image.
+ 7. Copy.
+ 8. Count of Leaf nodes.
+ 9. Count of Non-leaf nodes.
+Enter 0 to exit
+0
+
+Thank you!
+You have ended the application.

@@ -1,0 +1,93 @@
+/*
+OUTPUT:
+
+Enter no of vertices:
+6
+Enter no of edges:
+11
+Enter source vertex in Edge:
+1
+Enter destination vertex in Edge:
+3
+Enter weight of Edge:
+1
+
+Enter source vertex in Edge:
+0
+Enter destination vertex in Edge:
+1
+Enter weight of Edge:
+2
+
+Enter source vertex in Edge:
+0
+Enter destination vertex in Edge:
+3
+Enter weight of Edge:
+3
+
+Enter source vertex in Edge:
+0
+Enter destination vertex in Edge:
+2
+Enter weight of Edge:
+4
+
+Enter source vertex in Edge:
+4
+Enter destination vertex in Edge:
+5
+Enter weight of Edge:
+5
+
+Enter source vertex in Edge:
+2
+Enter destination vertex in Edge:
+3
+Enter weight of Edge:
+6
+
+Enter source vertex in Edge:
+3
+Enter destination vertex in Edge:
+5
+Enter weight of Edge:
+7
+
+Enter source vertex in Edge:
+2
+Enter destination vertex in Edge:
+1
+Enter weight of Edge:
+8
+
+Enter source vertex in Edge:
+2
+Enter destination vertex in Edge:
+4
+Enter weight of Edge:
+9
+
+Enter source vertex in Edge:
+2
+Enter destination vertex in Edge:
+5
+Enter weight of Edge:
+10
+
+Enter source vertex in Edge:
+3
+Enter destination vertex in Edge:
+4
+Enter weight of Edge:
+11
+
+Printing MST...
+source   destination weight
+1           3                1
+0           1                2
+0           2                4
+4           5                5
+3           5                7
+
+*/

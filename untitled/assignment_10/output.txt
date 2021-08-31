@@ -1,0 +1,208 @@
+//Output:-
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+1
+Enter name
+Rohit Anirudha Pendse
+Enter the roll number
+33
+Enter standard
+5
+Enter Division
+e
+Enter address
+Shri Swami Apt,Rajgurunagar
+Want to Continue.....y
+
+Enter name
+Priti Bansilal Gopale
+Enter the roll number
+35
+Enter standard
+7
+Enter Division
+a
+Enter address
+Sai Vhilla,Wada Road,Rajgurunagar
+Want to Continue.....y
+
+Enter name
+Minal Aryan Mane
+Enter the roll number
+76
+Enter standard
+3
+Enter Division
+b
+Enter address
+Happy House,Hadapsar,Pune
+Want to Continue.....y
+
+Enter name
+Sonal Suresh Takalkar
+Enter the roll number
+87
+Enter standard
+3
+Enter Division
+c
+Enter address
+California hites,Kharghar,Mumbai
+Want to Continue.....y
+Enter name
+Komal Suresh Arude
+Enter the roll number
+56
+Enter standard
+7
+Enter Division
+d
+Enter address
+Nirmal Vhista, Pabal Road
+Want to Continue.....y
+
+Enter name
+Akanksha Mohan Lande
+Enter the roll number
+76
+Enter standard
+4
+Enter Division
+e
+Enter address
+Amardip Vhilla,Kalyan west
+Want to Continue.....n
+
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+3
+
+Name                           Roll no         standard        division        address
+|Rohit Anirudha Pendse     |       33      |       5       |       e       |       Shri Swami Apt,Rajgurunagar             |
+|Priti Bansilal Gopale  |       35      |       7       |       a       |       Sai Vhilla,Wada Road,Rajgurunagar       |
+|Minal Aryan Mane       |       76      |       3       |       b       |       Happy House,Hadapsar,Pune               |
+|Sonal Suresh Takalkar  |       87      |       3       |       c       |       California hites,Kharghar,Mumbai        |
+|Komal Suresh Arude     |       56      |       7       |       d       |       Nirmal Vhista, Pabal Road               |
+|Akanksha Mohan Lande   |       76      |       4       |       e       |       Amardip Vhilla,Kalyan west              |
+
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+2
+Enter name
+Sima Sunand More
+Enter the roll number
+54
+Enter standard
+6
+Enter Division
+s
+Enter address
+Ashtvinayak apt
+Want to Continue.....n
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+4
+Enter Roll No that should be searched:87
+
+|Sonal Suresh Takalkar  |       87      |       3       |       c       |       California hites,Kharghar,Mumbai        |
+
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+5
+Enter Roll No. that should be modified:33
+Enter New Record..
+Enter name
+Aditya Manish Kane
+Enter the roll number
+25
+Enter standard
+3
+Enter Division
+r
+Enter address
+Senal Apt, Rajgurunagar
+
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+6
+Enter Roll No. that to be deleted:87
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+3
+
+Name                           Roll no         standard        division        address
+|Aditya Manish Kane     |       25      |       3       |       r       |       Senal Apt, Rajgurunagar            |
+|Priti Bansilal Gopale  |       35      |       7       |       a       |       Sai Vhilla,Wada Road,Rajgurunagar  |
+|Minal Aryan Mane       |       76      |       3       |       b       |       Happy House,Hadapsar,Pune          |
+|Komal Suresh Arude     |       56      |       7       |       d       |       Nirmal Vhista, Pabal Road          |
+|Akanksha Mohan Lande   |       76      |       4       |       e       |       Amardip Vhilla,Kalyan west         |
+|Sima Sunand More       |       54      |       6       |       s       |       Ashtvinayak apt                    |
+Display Main Menu
+1.Create Data File
+2.Add New Record in Data File
+3.Display Record From Data File
+4.Display Particular Record From Data File
+5.Modify Paricular Record From Data File
+6.Delete Particular Record From Data File
+7.Exit From the Program
+
+Enter your Option :
+7
+
+--------------------------------
+Process exited after 586.1 seconds with return value 0

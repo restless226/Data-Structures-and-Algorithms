@@ -1,0 +1,161 @@
+
+Output
+
+TBT Assignment
+
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 1
+
+Enter data to be inserted at root : 10
+
+The node has been created.
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 2
+
+Enter data to be inserted : 2
+
+The current node is : 2
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 1
+
+2 has been inserted in TBT.
+
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 2
+
+Enter data to be inserted : 7
+
+The current node is : 7
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 2
+
+7 has been inserted in TBT.
+
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 2
+
+Enter data to be inserted : 5
+
+The current node is : 5
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 1
+
+The current node is : 5
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 3
+
+Enter from above choices only.
+
+The current node is : 5
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 2
+
+5 has been inserted in TBT.
+
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 3
+Inorder Traversal: 2 5 10 7
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 4
+
+Postorder Traversal: 5 2 7 10
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 5
+
+Preorder Traversal: 10 2 5 7
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 2
+
+Enter data to be inserted : 11
+
+The current node is : 11
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 2
+
+The current node is : 11
+Menu :
+1. Add to left.
+2. Add right.
+Enter your choice : 1
+
+11 has been inserted in TBT.
+
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 3
+Inorder Traversal: 2 5 10 11 7
+Menu:
+	0.Exit
+	1. Create root.
+	2. Inserion.
+	3. Inorder.
+	4. Postorder.
+	5. Preorder.
+Enter your choice : 5
+
+Preorder Traversal: 10 2 5 7 11

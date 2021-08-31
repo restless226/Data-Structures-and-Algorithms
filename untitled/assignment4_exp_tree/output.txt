@@ -1,0 +1,103 @@
+/*
+        ***********************************OUTPUT********************************
+
+1. Recursive Traversal
+2. Non-Recursive Traversal
+3. Exit
+        Enter your choice:
+1
+
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+1
+Enter Infix Expression:
+11+2-1*3/3+2^2^4/3
+The infix expression is invalid!!!
+Re-Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Recursive In-Order Traversal of tree:
+9 + 2 - 1 * 3 / 3 + 2 ^ 2 ^ 4 / 3
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+2
+Enter Infix Expression:
+9++2-1*3/3+2^2^4/3
+Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Recursive Post-Order Traversal of tree:
+9 2 + 1 3 * 3 / - 2 2 4 ^ ^ + 3 /
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+3
+Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Recursive Pre-Order Traversal of tree:
+/ + - + 9 2 / * 1 3 3 ^ 2 ^ 2 4 3
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+4
+Loop exited successfully :)
+
+1. Recursive Traversal
+2. Non-Recursive Traversal
+3. Exit
+        Enter your choice:
+2
+
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+1
+Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Non-Recursive In-Order Traversal of tree:
+9 + 2 - 1 * 3 / 3 + 2 ^ 2 ^ 4 / 3
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+2
+Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Non-Recursive Post-Order Traversal of tree:
+9 2 + 1 3 * 3 / - 2 2 4 ^ ^ + 3 /
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+3
+Enter Infix Expression:
+9+2-1*3/3+2^2^4/3
+Non-Recursive Pre-Order Traversal of tree:
+/ + - + 9 2 / * 1 3 3 ^ 2 ^ 2 4 3
+1. In-Order Traversal
+2. Post-Order Traversal
+3. Pre-Order Traversal
+4. Exit
+4
+Loop exited successfully :)
+
+1. Recursive Traversal
+2. Non-Recursive Traversal
+3. Exit
+        Enter your choice:
+3
+Application exited successfully :)
+
+*/
+
+
+
+
+
+
+

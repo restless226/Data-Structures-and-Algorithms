@@ -1,0 +1,215 @@
+output -
+
+Enter number of locations : 6
+Enter number of links : 10
+*****************************
+Enter location number 1 : A
+Enter location number 2 : B
+Enter location number 3 : C
+Enter location number 4 : D
+Enter location number 5 : E
+Enter location number 6 : F
+*****************************
+Enter source location : A
+Enter target location : B
+Enter distance : 7.5
+*****************************
+Enter source location : A
+Enter target location : E
+Enter distance : 7
+*****************************
+Enter source location : A
+Enter target location : F
+Enter distance : 10
+*****************************
+Enter source location : E
+Enter target location : F
+Enter distance : 4.5
+*****************************
+Enter source location : B
+Enter target location : F
+Enter distance : 1.5
+*****************************
+Enter source location : E
+Enter target location : D
+Enter distance : 1
+*****************************
+Enter source location : B
+Enter target location : D
+Enter distance : 4
+*****************************
+Enter source location : F
+Enter target location : D
+Enter distance : 9.5
+*****************************
+Enter source location : B
+Enter target location : C
+Enter distance : 8
+*****************************
+Enter source location : C
+Enter target location : D
+Enter distance : 3
+*****************************
+Weight matrix :
+   A B C D E F
+ A 0 7.5 0 0 7 10
+ B 7.5 0 8 4 0 1.5
+ C 0 8 0 3 0 0
+ D 0 4 3 0 1 9.5
+ E 7 0 0 1 0 4.5
+ F 10 1.5 0 9.5 4.5 0
+
+Prims Algorithm
+
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	A		A	5000
+C	A		A	5000
+D	A		A	5000
+E	A		A	5000
+F	A		A	5000
+*****************************
+
+Total visited = 1
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	A		A	7.5
+C	A		A	5000
+D	A		A	5000
+E	A		A	7
+F	A		A	10
+*****************************
+
+Finding minimum cost
+For I = 6 Minimum cost = 7 Current = 1
+Current = 1  Total Visited = 2
+*****************************
+
+Total visited = 2
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	B		A	7.5
+C	A		B	8
+D	A		B	4
+E	A		A	7
+F	A		B	1.5
+*****************************
+
+Finding minimum cost
+For I = 6 Minimum cost = 1 Current = 5
+Current = 5  Total Visited = 3
+*****************************
+
+Total visited = 3
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	B		A	7.5
+C	A		B	8
+D	A		B	4
+E	A		F	4.5
+F	B		B	1.5
+*****************************
+
+Finding minimum cost
+For I = 6 Minimum cost = 4 Current = 3
+Current = 3  Total Visited = 4
+*****************************
+
+Total visited = 4
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	B		A	7.5
+C	A		D	3
+D	B		B	4
+E	A		D	1
+F	B		B	1.5
+*****************************
+
+Finding minimum cost
+For I = 6 Minimum cost = 1 Current = 4
+Current = 4  Total Visited = 5
+*****************************
+
+Total visited = 5
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+A	B		A	0
+B	B		A	7.5
+C	A		D	3
+D	B		B	4
+E	B		D	1
+F	B		B	1.5
+*****************************
+
+Finding minimum cost
+For I = 6 Minimum cost = 3 Current = 2
+Current = 2  Total Visited = 6
+*****************************
+
+Minimum span tree is
+ Edge B -> A Weight = 7.5
+ Edge C -> D Weight = 3
+ Edge D -> B Weight = 4
+ Edge E -> D Weight = 1
+ Edge F -> B Weight = 1.5
+
+*****************************
+Minimum cost = 16
+i , visited[i]     p[i]     , d[i]
+A	B		A	0
+B	B		A	7.5
+C	B		D	3
+D	B		B	4
+E	B		D	1
+F	B		B	1.5
+*****************************
+
+Kruskals Algorithm
+Edge array is :
+A -> B = 7.5
+A -> E = 7
+A -> F = 10
+E -> F = 4.5
+B -> F = 1.5
+E -> D = 1
+B -> D = 4
+F -> D = 9.5
+B -> C = 8
+C -> D = 3
+*****************************
+Sorted edge array is :
+E -> D = 1
+B -> F = 1.5
+C -> D = 3
+B -> D = 4
+E -> F = 4.5
+A -> E = 7
+A -> B = 7.5
+B -> C = 8
+F -> D = 9.5
+A -> F = 10
+*****************************
+Edge : E -> D = 1
+Edge : B -> F = 1.5
+Edge : C -> D = 3
+Edge : B -> D = 4
+Edge rejected : E -> F = 4.5
+Edge : A -> E = 7
+Edge rejected : A -> B = 7.5
+Edge rejected : B -> C = 8
+Edge rejected : F -> D = 9.5
+Edge rejected : A -> F = 10
+*****************************
+Kruskals MST contains following edges :
+E -> D = 1
+B -> F = 1.5
+C -> D = 3
+B -> D = 4
+A -> E = 7
+
+Total Cost of MST is 16.5

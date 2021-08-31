@@ -1,0 +1,66 @@
+/*
+OUTPUT:
+
+C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\untitled.exe
+Enter no of vertices:
+5
+Enter no of edges:
+7
+
+Enter edges:
+Enter first vertex of edge:
+0
+Enter second vertex of edge:
+1
+Enter weight of edge:
+4
+
+Enter first vertex of edge:
+0
+Enter second vertex of edge:
+2
+Enter weight of edge:
+8
+
+Enter first vertex of edge:
+1
+Enter second vertex of edge:
+3
+Enter weight of edge:
+5
+
+Enter first vertex of edge:
+1
+Enter second vertex of edge:
+2
+Enter weight of edge:
+2
+
+Enter first vertex of edge:
+2
+Enter second vertex of edge:
+3
+Enter weight of edge:
+5
+
+Enter first vertex of edge:
+2
+Enter second vertex of edge:
+4
+Enter weight of edge:
+9
+
+Enter first vertex of edge:
+3
+Enter second vertex of edge:
+4
+Enter weight of edge:
+4
+
+Printing min distance from source vertex '0' to every other vertex is...
+0 0
+1 4
+2 6
+3 9
+4 13
+*/

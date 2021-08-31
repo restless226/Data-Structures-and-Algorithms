@@ -1,0 +1,198 @@
+
+****************OUTPUT********************************
+
+Enter the Size of the Heap
+5
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+1
+Enter heap Elements:
+7
+11
+2
+78
+9
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+2
+Creating MAX HEAP!
+MAX HEAP:
+78 11 2 7 9
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+3
+Sorting Heap Elements
+Deleted Element: 78
+11 9 2 7
+Deleted Element: 11
+9 7 2
+Deleted Element: 9
+7 2
+Deleted Element: 7
+2
+Deleted Element: 2
+
+2 7 9 11 78
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+4
+Creating MIN HEAP!
+MIN HEAP:2 7 9 11 78
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+5
+Sorting Heap Elements
+Deleted Element: 2
+7 11 9 78
+Deleted Element: 7
+9 11 78
+Deleted Element: 9
+11 78
+Deleted Element: 11
+78
+Deleted Element: 78
+
+78 11 9 7 2
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+6
+Enter the element to be inserted:
+55
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+2
+Creating MAX HEAP!
+MAX HEAP:
+78 11 55 7 2 9
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+3
+Sorting Heap Elements
+Deleted Element: 78
+55 11 9 7 2
+Deleted Element: 55
+11 7 9 2
+Deleted Element: 11
+9 7 2
+Deleted Element: 9
+7 2
+Deleted Element: 7
+2
+Deleted Element: 2
+
+2 7 9 11 55 78
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+4
+Creating MIN HEAP!
+MIN HEAP:2 7 9 11 55 78
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+5
+Sorting Heap Elements
+Deleted Element: 2
+7 11 9 78 55
+Deleted Element: 7
+9 11 55 78
+Deleted Element: 9
+11 78 55
+Deleted Element: 11
+55 78
+Deleted Element: 55
+78
+Deleted Element: 78
+
+78 55 11 9 7 2
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+6
+Enter the element to be inserted:
+70
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+5
+Sorting Heap Elements
+Deleted Element: 2
+7 9 11 70 55 78
+Deleted Element: 7
+9 55 11 70 78
+Deleted Element: 9
+11 55 78 70
+Deleted Element: 11
+55 70 78
+Deleted Element: 55
+70 78
+Deleted Element: 70
+78
+Deleted Element: 78
+
+78 70 55 11 9 7 2
+Which Operation do you want to perform? Enter an Option Number!! Press 0 To Exit!
+1.To Enter Heap Elements.
+2.To Create Max Heap
+3.To Sort The Max Heap
+4.To Create Min Heap
+5.To Sort the Min Heap
+6.To insert new element in the heap
+0
+

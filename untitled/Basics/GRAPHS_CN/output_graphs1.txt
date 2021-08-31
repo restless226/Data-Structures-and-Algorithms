@@ -1,0 +1,52 @@
+/*
+OUTPUT 1:
+
+Enter no of vertices:
+7
+Enter no of edges:
+7
+Enter first vertex in edge 1:
+0
+Enter second vertex in edge 1:
+1
+
+Enter first vertex in edge 2:
+0
+Enter second vertex in edge 2:
+2
+
+Enter first vertex in edge 3:
+1
+Enter second vertex in edge 3:
+5
+
+Enter first vertex in edge 4:
+5
+Enter second vertex in edge 4:
+4
+
+Enter first vertex in edge 5:
+2
+Enter second vertex in edge 5:
+3
+
+Enter first vertex in edge 6:
+2
+Enter second vertex in edge 6:
+6
+
+Enter first vertex in edge 7:
+3
+Enter second vertex in edge 7:
+4
+
+DFS:
+0 1 5 4 3 2 6
+BFS:
+0 1 2 5 3 6 4
+
+DFS FINAL:
+0 1 5 4 3 2 6
+BFS FINAL:
+0 1 2 5 3 6 4
+*/

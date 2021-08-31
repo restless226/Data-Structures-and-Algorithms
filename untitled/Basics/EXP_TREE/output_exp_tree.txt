@@ -1,0 +1,197 @@
+/*
+OUTPUT:
+
+C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\untitled.exe
+ENTER INFIX EXPRESSION:
+a*b/c+e/f*g+k-x*y
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+1
+
+PREFIX EXPRESSION IS:
+-++/*abc*/efgk*xy
+PREFIX EXPRESSION TREE HAS BEEN CONSTRUCTED SUCCESSFULLY :)
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+2
+
+POSTFIX EXPRESSION IS:
+ab*c/ef/g*+k+xy*-
+POSTFIX EXPRESSION TREE HAS BEEN CONSTRUCTED SUCCESSFULLY :)
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+3
+
+Recursive Inorder Traversal:
+a * b / c + e / f * g + k - x * y
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+4
+
+Recursive Preorder Traversal:
+- + + / * a b c * / e f g k * x y
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+5
+
+Recursive Postorder Traversal:
+a b * c / e f / g * + k + x y * -
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+6
+
+Iterative Inorder Traversal:
+a * b / c + e / f * g + k - x * y
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+7
+
+Iterative Preorder Traversal:
+- + + / * a b c * / e f g k * x y
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+8
+
+Iterative Postorder Traversal:
+a b * c / e f / g * + k + x y * -
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+9
+
+PRINTING BINARY EXPRESSION TREE (LR FORMAT)...
+-: L(+) R(*)
++: L(+) R(k)
++: L(/) R(*)
+/: L(*) R(c)
+*: L(a) R(b)
+a:
+b:
+c:
+*: L(/) R(g)
+/: L(e) R(f)
+e:
+f:
+g:
+k:
+*: L(x) R(y)
+x:
+y:
+
+
+Enter your choice:
+Press:
+1. To construct Prefix Expression Tree
+2. To construct Postfix Expression Tree
+3. For Recursive Inorder Traversal
+4. For Recursive Preorder Traversal
+5. For Recursive Postorder Traversal
+6. For Non-Recursive Inorder Traversal
+7. For Non-Recursive Preorder Traversal
+8. For Non-Recursive Postorder Traversal
+9. PRINT BINARY EXPRESSION TREE (LR FORMAT)
+10. To Exit
+10
+
+
+Process finished with exit code 0
+
+/*

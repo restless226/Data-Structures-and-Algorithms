@@ -1,0 +1,145 @@
+Enter Expression:
+((a+b-c)*d^e^f/g
+
+Expression Invalid!! Please Enter a Correct Expression
+
++a+b-c
+Expression Invalid!! Please Enter a Correct Expression
+(a+b-c))
+
+
+Enter Expression:
+((11+9-6)*3^2^2)/5
+Which Operation do you want to perform. Enter the option Number. Press 0 to exit
+1. To Convert the Expression to Postfix Expression
+2. To Convert the Expression to Prefix Expression
+3. To Evaluate the Postfix Expression
+4. To Evaluate the Prefix Expression
+1
+Postfix Expression conversion Table
+Input Token                  Stack                   Postfix expression
+(                               (
+(                               ((
+1                               ((                              1
+1                               ((                              11
++                               +((                             11
+9                               +((                             119
+-                               -((                             119+
+6                               -((                             119+6
+)                               (                               119+6-
+*                               *(                              119+6-
+3                               *(                              119+6-3
+^                               ^*(                             119+6-3
+2                               ^*(                             119+6-32
+^                               ^^*(                            119+6-32
+2                               ^^*(                            119+6-322
+)                               Empty                           119+6-322^^*
+/                               /                               119+6-322^^*
+5                               /                               119+6-322^^*5
+/                               Empty                           119+6-322^^*5/
+
+
+PostFix expression: 119+6-322^^*5/
+Postfix Expression: 119+6-322^^*5/
+Which Operation do you want to perform. Enter the option Number. Press 0 to exit
+1. To Convert the Expression to Postfix Expression
+2. To Convert the Expression to Prefix Expression
+3. To Evaluate the Postfix Expression
+4. To Evaluate the Prefix Expression
+2
+Prefix Expression conversion Table
+Input Token                  Stack                   Prefix expression
+(                               Empty                           5
+(                               /                               5
+1                               (/                              5
+1                               (/                              25
++                               ^(/                             25
+9                               ^(/                             225
+-                               ^(/                             ^225
+6                               ^(/                             3^225
+)                               *(/                             ^3^225
+*                               (*(/                            ^3^225
+3                               (*(/                            6^3^225
+^                               -(*(/                           6^3^225
+2                               -(*(/                           96^3^225
+^                               +-(*(/                          96^3^225
+2                               +-(*(/                          196^3^225
+)                               +-(*(/                          1196^3^225
+/                               *(/                             -+1196^3^225
+5                               /                               *-+1196^3^225
+/                               Empty                           /*-+1196^3^225
+
+
+
+Prefixed Expression!!/*-+1196^3^225
+Prefixed Expression/*-+1196^3^225
+Which Operation do you want to perform. Enter the option Number. Press 0 to exit
+1. To Convert the Expression to Postfix Expression
+2. To Convert the Expression to Prefix Expression
+3. To Evaluate the Postfix Expression
+4. To Evaluate the Prefix Expression
+3
+Postfix Expression conversion Table
+Input Token                  Stack                   Postfix expression
+(                               (
+(                               ((
+1                               ((                              1
+1                               ((                              11
++                               +((                             11
+9                               +((                             119
+-                               -((                             119+
+6                               -((                             119+6
+)                               (                               119+6-
+*                               *(                              119+6-
+3                               *(                              119+6-3
+^                               ^*(                             119+6-3
+2                               ^*(                             119+6-32
+^                               ^^*(                            119+6-32
+2                               ^^*(                            119+6-322
+)                               Empty                           119+6-322^^*
+/                               /                               119+6-322^^*
+5                               /                               119+6-322^^*5
+/                               Empty                           119+6-322^^*5/
+
+
+PostFix expression: 119+6-322^^*5/
+Answer of Postfix evaluation is: -15.4
+Which Operation do you want to perform. Enter the option Number. Press 0 to exit
+1. To Convert the Expression to Postfix Expression
+2. To Convert the Expression to Prefix Expression
+3. To Evaluate the Postfix Expression
+4. To Evaluate the Prefix Expression
+4
+Prefix Expression conversion Table
+Input Token                  Stack                   Prefix expression
+(                               Empty                           5
+(                               /                               5
+1                               (/                              5
+1                               (/                              25
++                               ^(/                             25
+9                               ^(/                             225
+-                               ^(/                             ^225
+6                               ^(/                             3^225
+)                               *(/                             ^3^225
+*                               (*(/                            ^3^225
+3                               (*(/                            6^3^225
+^                               -(*(/                           6^3^225
+2                               -(*(/                           96^3^225
+^                               +-(*(/                          96^3^225
+2                               +-(*(/                          196^3^225
+)                               +-(*(/                          1196^3^225
+/                               *(/                             -+1196^3^225
+5                               /                               *-+1196^3^225
+/                               Empty                           /*-+1196^3^225
+
+
+
+Prefixed Expression!!/*-+1196^3^225
+Value of Prefix Evaluation is: -0.518519
+Which Operation do you want to perform. Enter the option Number. Press 0 to exit
+1. To Convert the Expression to Postfix Expression
+2. To Convert the Expression to Prefix Expression
+3. To Evaluate the Postfix Expression
+4. To Evaluate the Prefix Expression
+0
+Thank You for using the application

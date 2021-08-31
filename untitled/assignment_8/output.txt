@@ -1,0 +1,141 @@
+Output -
+
+Enter number of locations : 6
+Enter number of links : 9
+*****************************
+Enter location number 1 : S
+Enter location number 2 : A
+Enter location number 3 : B
+Enter location number 4 : C
+Enter location number 5 : D
+Enter location number 6 : E
+*****************************
+Enter source location : S
+Enter target location : A
+Enter distance : 1
+*****************************
+Enter source location : S
+Enter target location : B
+Enter distance : 5
+*****************************
+Enter source location : A
+Enter target location : B
+Enter distance : 2
+*****************************
+Enter source location : A
+Enter target location : C
+Enter distance : 2
+*****************************
+Enter source location : B
+Enter target location : D
+Enter distance : 2
+*****************************
+Enter source location : A
+Enter target location : D
+Enter distance : 1
+*****************************
+Enter source location : C
+Enter target location : D
+Enter distance : 3
+*****************************
+Enter source location : C
+Enter target location : E
+Enter distance : 1
+*****************************
+Enter source location : D
+Enter target location : E
+Enter distance : 2
+*****************************
+Weight matrix :
+   S A B C D E
+ S 0 1 5 0 0 0
+ A 1 0 2 2 1 0
+ B 5 2 0 0 2 0
+ C 0 2 0 0 3 1
+ D 0 1 2 3 0 2
+ E 0 0 0 1 2 0
+
+Dijkstras Algorithm
+
+Enter source location : S
+Shortest path = 0
+*****************************
+
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	S		S	1
+B	S		S	5
+C	S		S	32767
+D	S		S	32767
+E	S		S	32767
+*****************************
+
+Selected Vertex is : 1
+Minimum is : 1
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	A		S	1
+B	S		A	3
+C	S		A	3
+D	S		A	2
+E	S		S	32767
+*****************************
+
+Selected Vertex is : 4
+Minimum is : 2
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	A		S	1
+B	S		A	3
+C	S		A	3
+D	A		A	2
+E	S		D	4
+*****************************
+
+Selected Vertex is : 2
+Minimum is : 3
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	A		S	1
+B	A		A	3
+C	S		A	3
+D	A		A	2
+E	S		D	4
+*****************************
+
+Selected Vertex is : 3
+Minimum is : 3
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	A		S	1
+B	A		A	3
+C	A		A	3
+D	A		A	2
+E	S		D	4
+*****************************
+
+Selected Vertex is : 5
+Minimum is : 4
+Visited distance and path status is :
+i	visited[i]	p[i]	d[i]
+S	A		S	0
+A	A		S	1
+B	A		A	3
+C	A		A	3
+D	A		A	2
+E	A		D	4
+*****************************
+
+Shortest Path from Source to all destinations
+Source is -->0
+
+Location = A, Distance = 1 Path = A <- S
+Location = B, Distance = 3 Path = B <- A <- S
+Location = C, Distance = 3 Path = C <- A <- S
+Location = D, Distance = 2 Path = D <- A <- S
+Location = E, Distance = 4 Path = E <- D <- A <- S
