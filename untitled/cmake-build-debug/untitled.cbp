@@ -107,19 +107,46 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Binary_Trees_CN/binary_tree_use.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/count_no_of_subsets_with_given_difference.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/lcs.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/count_subsets_sum_with_given_sum.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/longest_common_substring.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/equal_sum_partition.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/scs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/lps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/fib.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_using_DP.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/min_sum_partition.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/subset_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/target_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_count.cpp">
@@ -128,13 +155,16 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_steps.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_sum_partition.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_one.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/subset_sum.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_two.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/targest_sum.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp">
@@ -533,7 +563,7 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/DM_lists.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/linear_srch.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/linear_searrch.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/occurances.cpp">

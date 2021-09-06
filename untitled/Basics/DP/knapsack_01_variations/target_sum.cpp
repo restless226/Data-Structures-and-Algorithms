@@ -64,7 +64,12 @@
 //        arr_sum += arr[i];
 //    }
 //
-//    int subset_1_sum = (target_sum + arr_sum) / 2;
+//    int subset_1_sum;
+//    if ((arr_sum + target_sum) % 2 != 0) {
+//        return 0;
+//    } else {
+//        subset_1_sum = (target_sum + arr_sum) / 2;
+//    }
 //
 //    int **dp = new int *[n + 1];
 //    for (int i = 0; i < n + 1; ++i) {
@@ -85,7 +90,7 @@
 //        cin >> arr[i];
 //    }
 //
-//    cout<<target_sum_solve(arr, n, target_sum)<<'\n';
+//    cout << target_sum_solve(arr, n, target_sum) << '\n';
 //    return 0;
 //}
 //
@@ -112,4 +117,10 @@
 //1 2 2 3 3
 //
 //3
+//
+//
+//3 3
+//9 2 9
+//
+//0
 // */

@@ -10,7 +10,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         assignment_1/assignment_1_using_struct.cpp assignment_1/studDB.h assignment_1/studDB_impl.cpp
         assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp arrays_practice/ass1.cpp
         arrays_practice/ass1_again.cpp
-        algorithmic_toolbox DM/linear_srch.cpp
+        algorithmic_toolbox DM/linear_searrch.cpp
         DM/occurances.cpp assignment_3_queue/circular_queue_2.cpp assignment_3_queue/queue_final.cpp
         DM/DM_lists.cpp Basics/vectors_tut.cpp Basics/Templates/templates.cpp
         stack_assignment stack_assignment/linkedlistwithstack.h Basics/algorithms/SORTING/selectionSort.cpp
@@ -104,7 +104,13 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DAA/file_handling.cpp DAA/merge_sort.cpp DAA/n_queens.cpp DAA/fractional_knapsack_using_greedy.cpp
         Basics/BACKTRACKING/n_queens.cpp Basics/BACKTRACKING/rat_in_a_maze.cpp
         Basics/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01_using_DP.cpp
-        Basics/DP/knapsack_01_using_DP.cpp Basics/DP/subset_sum.cpp Basics/DP/equal_sum_partition.cpp
-        Basics/DP/count_subsets_sum_with_given_sum.cpp Basics/DP/min_sum_partition.cpp
-        Basics/DP/count_no_of_subsets_with_given_difference.cpp Basics/DP/targest_sum.cpp)
+        Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp Basics/DP/knapsack_01_variations/subset_sum.cpp Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
+        Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp Basics/DP/knapsack_01_variations/min_sum_partition.cpp
+        Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp Basics/DP/knapsack_01_variations/target_sum.cpp
+        Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
+        Basics/DP/unbounded_knapsack/coin_change_one.cpp Basics/DP/unbounded_knapsack/coin_change_two.cpp
+        Basics/DP/DP_LCS/lcs.cpp Basics/DP/DP_LCS/longest_common_substring.cpp
+        Basics/DP/DP_LCS/scs.cpp Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
+        Basics/DP/DP_LPS/lps.cpp Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp)
+
 

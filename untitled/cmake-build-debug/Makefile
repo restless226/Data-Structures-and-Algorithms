@@ -331,86 +331,167 @@ Basics/Binary_Trees_CN/binary_tree_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 .PHONY : Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 
-Basics/DP/count_no_of_subsets_with_given_difference.obj: Basics/DP/count_no_of_subsets_with_given_difference.cpp.obj
+Basics/DP/DP_LCS/lcs.obj: Basics/DP/DP_LCS/lcs.cpp.obj
 
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.obj
-
-# target to build an object file
-Basics/DP/count_no_of_subsets_with_given_difference.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_no_of_subsets_with_given_difference.cpp.obj
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.cpp.obj
-
-Basics/DP/count_no_of_subsets_with_given_difference.i: Basics/DP/count_no_of_subsets_with_given_difference.cpp.i
-
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.i
-
-# target to preprocess a source file
-Basics/DP/count_no_of_subsets_with_given_difference.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_no_of_subsets_with_given_difference.cpp.i
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.cpp.i
-
-Basics/DP/count_no_of_subsets_with_given_difference.s: Basics/DP/count_no_of_subsets_with_given_difference.cpp.s
-
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.s
-
-# target to generate assembly for a file
-Basics/DP/count_no_of_subsets_with_given_difference.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_no_of_subsets_with_given_difference.cpp.s
-.PHONY : Basics/DP/count_no_of_subsets_with_given_difference.cpp.s
-
-Basics/DP/count_subsets_sum_with_given_sum.obj: Basics/DP/count_subsets_sum_with_given_sum.cpp.obj
-
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.obj
+.PHONY : Basics/DP/DP_LCS/lcs.obj
 
 # target to build an object file
-Basics/DP/count_subsets_sum_with_given_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_subsets_sum_with_given_sum.cpp.obj
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.cpp.obj
+Basics/DP/DP_LCS/lcs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj
+.PHONY : Basics/DP/DP_LCS/lcs.cpp.obj
 
-Basics/DP/count_subsets_sum_with_given_sum.i: Basics/DP/count_subsets_sum_with_given_sum.cpp.i
+Basics/DP/DP_LCS/lcs.i: Basics/DP/DP_LCS/lcs.cpp.i
 
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.i
+.PHONY : Basics/DP/DP_LCS/lcs.i
 
 # target to preprocess a source file
-Basics/DP/count_subsets_sum_with_given_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_subsets_sum_with_given_sum.cpp.i
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.cpp.i
+Basics/DP/DP_LCS/lcs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.i
+.PHONY : Basics/DP/DP_LCS/lcs.cpp.i
 
-Basics/DP/count_subsets_sum_with_given_sum.s: Basics/DP/count_subsets_sum_with_given_sum.cpp.s
+Basics/DP/DP_LCS/lcs.s: Basics/DP/DP_LCS/lcs.cpp.s
 
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.s
+.PHONY : Basics/DP/DP_LCS/lcs.s
 
 # target to generate assembly for a file
-Basics/DP/count_subsets_sum_with_given_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/count_subsets_sum_with_given_sum.cpp.s
-.PHONY : Basics/DP/count_subsets_sum_with_given_sum.cpp.s
+Basics/DP/DP_LCS/lcs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.s
+.PHONY : Basics/DP/DP_LCS/lcs.cpp.s
 
-Basics/DP/equal_sum_partition.obj: Basics/DP/equal_sum_partition.cpp.obj
+Basics/DP/DP_LCS/longest_common_substring.obj: Basics/DP/DP_LCS/longest_common_substring.cpp.obj
 
-.PHONY : Basics/DP/equal_sum_partition.obj
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.obj
 
 # target to build an object file
-Basics/DP/equal_sum_partition.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/equal_sum_partition.cpp.obj
-.PHONY : Basics/DP/equal_sum_partition.cpp.obj
+Basics/DP/DP_LCS/longest_common_substring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.cpp.obj
 
-Basics/DP/equal_sum_partition.i: Basics/DP/equal_sum_partition.cpp.i
+Basics/DP/DP_LCS/longest_common_substring.i: Basics/DP/DP_LCS/longest_common_substring.cpp.i
 
-.PHONY : Basics/DP/equal_sum_partition.i
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.i
 
 # target to preprocess a source file
-Basics/DP/equal_sum_partition.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/equal_sum_partition.cpp.i
-.PHONY : Basics/DP/equal_sum_partition.cpp.i
+Basics/DP/DP_LCS/longest_common_substring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.i
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.cpp.i
 
-Basics/DP/equal_sum_partition.s: Basics/DP/equal_sum_partition.cpp.s
+Basics/DP/DP_LCS/longest_common_substring.s: Basics/DP/DP_LCS/longest_common_substring.cpp.s
 
-.PHONY : Basics/DP/equal_sum_partition.s
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.s
 
 # target to generate assembly for a file
-Basics/DP/equal_sum_partition.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/equal_sum_partition.cpp.s
-.PHONY : Basics/DP/equal_sum_partition.cpp.s
+Basics/DP/DP_LCS/longest_common_substring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.s
+.PHONY : Basics/DP/DP_LCS/longest_common_substring.cpp.s
+
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj: Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj
+
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.i: Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.i
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.i
+
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.s: Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.s
+.PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.s
+
+Basics/DP/DP_LCS/scs.obj: Basics/DP/DP_LCS/scs.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/scs.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/scs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj
+.PHONY : Basics/DP/DP_LCS/scs.cpp.obj
+
+Basics/DP/DP_LCS/scs.i: Basics/DP/DP_LCS/scs.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/scs.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/scs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.i
+.PHONY : Basics/DP/DP_LCS/scs.cpp.i
+
+Basics/DP/DP_LCS/scs.s: Basics/DP/DP_LCS/scs.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/scs.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/scs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.s
+.PHONY : Basics/DP/DP_LCS/scs.cpp.s
+
+Basics/DP/DP_LPS/lps.obj: Basics/DP/DP_LPS/lps.cpp.obj
+
+.PHONY : Basics/DP/DP_LPS/lps.obj
+
+# target to build an object file
+Basics/DP/DP_LPS/lps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj
+.PHONY : Basics/DP/DP_LPS/lps.cpp.obj
+
+Basics/DP/DP_LPS/lps.i: Basics/DP/DP_LPS/lps.cpp.i
+
+.PHONY : Basics/DP/DP_LPS/lps.i
+
+# target to preprocess a source file
+Basics/DP/DP_LPS/lps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.i
+.PHONY : Basics/DP/DP_LPS/lps.cpp.i
+
+Basics/DP/DP_LPS/lps.s: Basics/DP/DP_LPS/lps.cpp.s
+
+.PHONY : Basics/DP/DP_LPS/lps.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LPS/lps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.s
+.PHONY : Basics/DP/DP_LPS/lps.cpp.s
+
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.obj: Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj
+
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.obj
+
+# target to build an object file
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj
+
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.i: Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.i
+
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.i
+
+# target to preprocess a source file
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.i
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.i
+
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.s: Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s
+
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s
+.PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s
 
 Basics/DP/fib.obj: Basics/DP/fib.cpp.obj
 
@@ -439,32 +520,194 @@ Basics/DP/fib.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/fib.cpp.s
 .PHONY : Basics/DP/fib.cpp.s
 
-Basics/DP/knapsack_01_using_DP.obj: Basics/DP/knapsack_01_using_DP.cpp.obj
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
-.PHONY : Basics/DP/knapsack_01_using_DP.obj
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
 
 # target to build an object file
-Basics/DP/knapsack_01_using_DP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_using_DP.cpp.obj
-.PHONY : Basics/DP/knapsack_01_using_DP.cpp.obj
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
-Basics/DP/knapsack_01_using_DP.i: Basics/DP/knapsack_01_using_DP.cpp.i
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
 
-.PHONY : Basics/DP/knapsack_01_using_DP.i
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
 
 # target to preprocess a source file
-Basics/DP/knapsack_01_using_DP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_using_DP.cpp.i
-.PHONY : Basics/DP/knapsack_01_using_DP.cpp.i
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
 
-Basics/DP/knapsack_01_using_DP.s: Basics/DP/knapsack_01_using_DP.cpp.s
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
 
-.PHONY : Basics/DP/knapsack_01_using_DP.s
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
 
 # target to generate assembly for a file
-Basics/DP/knapsack_01_using_DP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_using_DP.cpp.s
-.PHONY : Basics/DP/knapsack_01_using_DP.cpp.s
+Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
+
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj: Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
+
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i: Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
+
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s: Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
+
+Basics/DP/knapsack_01_variations/equal_sum_partition.obj: Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
+
+Basics/DP/knapsack_01_variations/equal_sum_partition.i: Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.i
+
+Basics/DP/knapsack_01_variations/equal_sum_partition.s: Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s
+
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
+
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
+
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
+
+Basics/DP/knapsack_01_variations/min_sum_partition.obj: Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj
+
+Basics/DP/knapsack_01_variations/min_sum_partition.i: Basics/DP/knapsack_01_variations/min_sum_partition.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/min_sum_partition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.cpp.i
+
+Basics/DP/knapsack_01_variations/min_sum_partition.s: Basics/DP/knapsack_01_variations/min_sum_partition.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/min_sum_partition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/min_sum_partition.cpp.s
+
+Basics/DP/knapsack_01_variations/subset_sum.obj: Basics/DP/knapsack_01_variations/subset_sum.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/subset_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.cpp.obj
+
+Basics/DP/knapsack_01_variations/subset_sum.i: Basics/DP/knapsack_01_variations/subset_sum.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/subset_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.cpp.i
+
+Basics/DP/knapsack_01_variations/subset_sum.s: Basics/DP/knapsack_01_variations/subset_sum.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/subset_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/subset_sum.cpp.s
+
+Basics/DP/knapsack_01_variations/target_sum.obj: Basics/DP/knapsack_01_variations/target_sum.cpp.obj
+
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.obj
+
+# target to build an object file
+Basics/DP/knapsack_01_variations/target_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.obj
+
+Basics/DP/knapsack_01_variations/target_sum.i: Basics/DP/knapsack_01_variations/target_sum.cpp.i
+
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.i
+
+# target to preprocess a source file
+Basics/DP/knapsack_01_variations/target_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.i
+
+Basics/DP/knapsack_01_variations/target_sum.s: Basics/DP/knapsack_01_variations/target_sum.cpp.s
+
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.s
+
+# target to generate assembly for a file
+Basics/DP/knapsack_01_variations/target_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.s
 
 Basics/DP/min_count.obj: Basics/DP/min_count.cpp.obj
 
@@ -520,86 +763,113 @@ Basics/DP/min_steps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.s
 .PHONY : Basics/DP/min_steps.cpp.s
 
-Basics/DP/min_sum_partition.obj: Basics/DP/min_sum_partition.cpp.obj
+Basics/DP/unbounded_knapsack/coin_change_one.obj: Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
-.PHONY : Basics/DP/min_sum_partition.obj
-
-# target to build an object file
-Basics/DP/min_sum_partition.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_sum_partition.cpp.obj
-.PHONY : Basics/DP/min_sum_partition.cpp.obj
-
-Basics/DP/min_sum_partition.i: Basics/DP/min_sum_partition.cpp.i
-
-.PHONY : Basics/DP/min_sum_partition.i
-
-# target to preprocess a source file
-Basics/DP/min_sum_partition.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_sum_partition.cpp.i
-.PHONY : Basics/DP/min_sum_partition.cpp.i
-
-Basics/DP/min_sum_partition.s: Basics/DP/min_sum_partition.cpp.s
-
-.PHONY : Basics/DP/min_sum_partition.s
-
-# target to generate assembly for a file
-Basics/DP/min_sum_partition.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_sum_partition.cpp.s
-.PHONY : Basics/DP/min_sum_partition.cpp.s
-
-Basics/DP/subset_sum.obj: Basics/DP/subset_sum.cpp.obj
-
-.PHONY : Basics/DP/subset_sum.obj
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.obj
 
 # target to build an object file
-Basics/DP/subset_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/subset_sum.cpp.obj
-.PHONY : Basics/DP/subset_sum.cpp.obj
+Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
-Basics/DP/subset_sum.i: Basics/DP/subset_sum.cpp.i
+Basics/DP/unbounded_knapsack/coin_change_one.i: Basics/DP/unbounded_knapsack/coin_change_one.cpp.i
 
-.PHONY : Basics/DP/subset_sum.i
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.i
 
 # target to preprocess a source file
-Basics/DP/subset_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/subset_sum.cpp.i
-.PHONY : Basics/DP/subset_sum.cpp.i
+Basics/DP/unbounded_knapsack/coin_change_one.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.i
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.cpp.i
 
-Basics/DP/subset_sum.s: Basics/DP/subset_sum.cpp.s
+Basics/DP/unbounded_knapsack/coin_change_one.s: Basics/DP/unbounded_knapsack/coin_change_one.cpp.s
 
-.PHONY : Basics/DP/subset_sum.s
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.s
 
 # target to generate assembly for a file
-Basics/DP/subset_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/subset_sum.cpp.s
-.PHONY : Basics/DP/subset_sum.cpp.s
+Basics/DP/unbounded_knapsack/coin_change_one.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.s
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_one.cpp.s
 
-Basics/DP/targest_sum.obj: Basics/DP/targest_sum.cpp.obj
+Basics/DP/unbounded_knapsack/coin_change_two.obj: Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj
 
-.PHONY : Basics/DP/targest_sum.obj
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.obj
 
 # target to build an object file
-Basics/DP/targest_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/targest_sum.cpp.obj
-.PHONY : Basics/DP/targest_sum.cpp.obj
+Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj
 
-Basics/DP/targest_sum.i: Basics/DP/targest_sum.cpp.i
+Basics/DP/unbounded_knapsack/coin_change_two.i: Basics/DP/unbounded_knapsack/coin_change_two.cpp.i
 
-.PHONY : Basics/DP/targest_sum.i
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.i
 
 # target to preprocess a source file
-Basics/DP/targest_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/targest_sum.cpp.i
-.PHONY : Basics/DP/targest_sum.cpp.i
+Basics/DP/unbounded_knapsack/coin_change_two.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.i
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.cpp.i
 
-Basics/DP/targest_sum.s: Basics/DP/targest_sum.cpp.s
+Basics/DP/unbounded_knapsack/coin_change_two.s: Basics/DP/unbounded_knapsack/coin_change_two.cpp.s
 
-.PHONY : Basics/DP/targest_sum.s
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.s
 
 # target to generate assembly for a file
-Basics/DP/targest_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/targest_sum.cpp.s
-.PHONY : Basics/DP/targest_sum.cpp.s
+Basics/DP/unbounded_knapsack/coin_change_two.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.s
+.PHONY : Basics/DP/unbounded_knapsack/coin_change_two.cpp.s
+
+Basics/DP/unbounded_knapsack/rod_cutting_problem.obj: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.obj
+
+# target to build an object file
+Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+
+Basics/DP/unbounded_knapsack/rod_cutting_problem.i: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
+
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.i
+
+# target to preprocess a source file
+Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
+
+Basics/DP/unbounded_knapsack/rod_cutting_problem.s: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
+
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.s
+
+# target to generate assembly for a file
+Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
+
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj: Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
+
+# target to build an object file
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i: Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
+
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
+
+# target to preprocess a source file
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
+
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s: Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
+
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s
+
+# target to generate assembly for a file
+Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
+.PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
 
 Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
@@ -4003,32 +4273,32 @@ DM/DM_lists.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/DM_lists.cpp.s
 .PHONY : DM/DM_lists.cpp.s
 
-DM/linear_srch.obj: DM/linear_srch.cpp.obj
+DM/linear_searrch.obj: DM/linear_searrch.cpp.obj
 
-.PHONY : DM/linear_srch.obj
+.PHONY : DM/linear_searrch.obj
 
 # target to build an object file
-DM/linear_srch.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_srch.cpp.obj
-.PHONY : DM/linear_srch.cpp.obj
+DM/linear_searrch.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj
+.PHONY : DM/linear_searrch.cpp.obj
 
-DM/linear_srch.i: DM/linear_srch.cpp.i
+DM/linear_searrch.i: DM/linear_searrch.cpp.i
 
-.PHONY : DM/linear_srch.i
+.PHONY : DM/linear_searrch.i
 
 # target to preprocess a source file
-DM/linear_srch.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_srch.cpp.i
-.PHONY : DM/linear_srch.cpp.i
+DM/linear_searrch.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.i
+.PHONY : DM/linear_searrch.cpp.i
 
-DM/linear_srch.s: DM/linear_srch.cpp.s
+DM/linear_searrch.s: DM/linear_searrch.cpp.s
 
-.PHONY : DM/linear_srch.s
+.PHONY : DM/linear_searrch.s
 
 # target to generate assembly for a file
-DM/linear_srch.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_srch.cpp.s
-.PHONY : DM/linear_srch.cpp.s
+DM/linear_searrch.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.s
+.PHONY : DM/linear_searrch.cpp.s
 
 DM/occurances.obj: DM/occurances.cpp.obj
 
@@ -5734,36 +6004,66 @@ help:
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.obj
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.i
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.s
-	@echo ... Basics/DP/count_no_of_subsets_with_given_difference.obj
-	@echo ... Basics/DP/count_no_of_subsets_with_given_difference.i
-	@echo ... Basics/DP/count_no_of_subsets_with_given_difference.s
-	@echo ... Basics/DP/count_subsets_sum_with_given_sum.obj
-	@echo ... Basics/DP/count_subsets_sum_with_given_sum.i
-	@echo ... Basics/DP/count_subsets_sum_with_given_sum.s
-	@echo ... Basics/DP/equal_sum_partition.obj
-	@echo ... Basics/DP/equal_sum_partition.i
-	@echo ... Basics/DP/equal_sum_partition.s
+	@echo ... Basics/DP/DP_LCS/lcs.obj
+	@echo ... Basics/DP/DP_LCS/lcs.i
+	@echo ... Basics/DP/DP_LCS/lcs.s
+	@echo ... Basics/DP/DP_LCS/longest_common_substring.obj
+	@echo ... Basics/DP/DP_LCS/longest_common_substring.i
+	@echo ... Basics/DP/DP_LCS/longest_common_substring.s
+	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj
+	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.i
+	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.s
+	@echo ... Basics/DP/DP_LCS/scs.obj
+	@echo ... Basics/DP/DP_LCS/scs.i
+	@echo ... Basics/DP/DP_LCS/scs.s
+	@echo ... Basics/DP/DP_LPS/lps.obj
+	@echo ... Basics/DP/DP_LPS/lps.i
+	@echo ... Basics/DP/DP_LPS/lps.s
+	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.obj
+	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.i
+	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.s
 	@echo ... Basics/DP/fib.obj
 	@echo ... Basics/DP/fib.i
 	@echo ... Basics/DP/fib.s
-	@echo ... Basics/DP/knapsack_01_using_DP.obj
-	@echo ... Basics/DP/knapsack_01_using_DP.i
-	@echo ... Basics/DP/knapsack_01_using_DP.s
+	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
+	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
+	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
+	@echo ... Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj
+	@echo ... Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i
+	@echo ... Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s
+	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.obj
+	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.i
+	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.s
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s
+	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.obj
+	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.i
+	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.s
+	@echo ... Basics/DP/knapsack_01_variations/subset_sum.obj
+	@echo ... Basics/DP/knapsack_01_variations/subset_sum.i
+	@echo ... Basics/DP/knapsack_01_variations/subset_sum.s
+	@echo ... Basics/DP/knapsack_01_variations/target_sum.obj
+	@echo ... Basics/DP/knapsack_01_variations/target_sum.i
+	@echo ... Basics/DP/knapsack_01_variations/target_sum.s
 	@echo ... Basics/DP/min_count.obj
 	@echo ... Basics/DP/min_count.i
 	@echo ... Basics/DP/min_count.s
 	@echo ... Basics/DP/min_steps.obj
 	@echo ... Basics/DP/min_steps.i
 	@echo ... Basics/DP/min_steps.s
-	@echo ... Basics/DP/min_sum_partition.obj
-	@echo ... Basics/DP/min_sum_partition.i
-	@echo ... Basics/DP/min_sum_partition.s
-	@echo ... Basics/DP/subset_sum.obj
-	@echo ... Basics/DP/subset_sum.i
-	@echo ... Basics/DP/subset_sum.s
-	@echo ... Basics/DP/targest_sum.obj
-	@echo ... Basics/DP/targest_sum.i
-	@echo ... Basics/DP/targest_sum.s
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.obj
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.i
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.s
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.obj
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.i
+	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.s
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.obj
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.i
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.s
+	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
+	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
+	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
@@ -6142,9 +6442,9 @@ help:
 	@echo ... DM/DM_lists.obj
 	@echo ... DM/DM_lists.i
 	@echo ... DM/DM_lists.s
-	@echo ... DM/linear_srch.obj
-	@echo ... DM/linear_srch.i
-	@echo ... DM/linear_srch.s
+	@echo ... DM/linear_searrch.obj
+	@echo ... DM/linear_searrch.i
+	@echo ... DM/linear_searrch.s
 	@echo ... DM/occurances.obj
 	@echo ... DM/occurances.i
 	@echo ... DM/occurances.s

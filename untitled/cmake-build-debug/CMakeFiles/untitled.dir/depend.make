@@ -16,25 +16,45 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj: ../Basi
 
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj: ../Basics/Binary_Trees_CN/binary_tree_use.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/count_no_of_subsets_with_given_difference.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/count_subsets_sum_with_given_sum.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj: ../Basics/DP/DP_LCS/longest_common_substring.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/equal_sum_partition.cpp.obj: ../Basics/DP/equal_sum_partition.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj: ../Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj: ../Basics/DP/DP_LCS/scs.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj: ../Basics/DP/DP_LPS/lps.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/knapsack_01_using_DP.cpp.obj: ../Basics/DP/knapsack_01_using_DP.cpp
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj: ../Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj: ../Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj: ../Basics/DP/knapsack_01_variations/min_sum_partition.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/subset_sum.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/target_sum.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj: ../Basics/DP/min_count.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj: ../Basics/DP/min_steps.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/min_sum_partition.cpp.obj: ../Basics/DP/min_sum_partition.cpp
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_one.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/subset_sum.cpp.obj: ../Basics/DP/subset_sum.cpp
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_two.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/targest_sum.cpp.obj: ../Basics/DP/targest_sum.cpp
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj: ../Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
 
 CMakeFiles/untitled.dir/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 
@@ -288,7 +308,7 @@ CMakeFiles/untitled.dir/DAA/n_queens.cpp.obj: ../DAA/n_queens.cpp
 
 CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj: ../DM/DM_lists.cpp
 
-CMakeFiles/untitled.dir/DM/linear_srch.cpp.obj: ../DM/linear_srch.cpp
+CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj: ../DM/linear_searrch.cpp
 
 CMakeFiles/untitled.dir/DM/occurances.cpp.obj: ../DM/occurances.cpp
 
