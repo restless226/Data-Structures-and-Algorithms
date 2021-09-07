@@ -385,6 +385,33 @@ Basics/DP/DP_LCS/longest_common_substring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.s
 .PHONY : Basics/DP/DP_LCS/longest_common_substring.cpp.s
 
+Basics/DP/DP_LCS/lrs.obj: Basics/DP/DP_LCS/lrs.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/lrs.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/lrs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj
+.PHONY : Basics/DP/DP_LCS/lrs.cpp.obj
+
+Basics/DP/DP_LCS/lrs.i: Basics/DP/DP_LCS/lrs.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/lrs.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/lrs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.i
+.PHONY : Basics/DP/DP_LCS/lrs.cpp.i
+
+Basics/DP/DP_LCS/lrs.s: Basics/DP/DP_LCS/lrs.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/lrs.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/lrs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.s
+.PHONY : Basics/DP/DP_LCS/lrs.cpp.s
+
 Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj: Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj
 
 .PHONY : Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj
@@ -439,6 +466,33 @@ Basics/DP/DP_LCS/scs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.s
 .PHONY : Basics/DP/DP_LCS/scs.cpp.s
 
+Basics/DP/DP_LCS/sequence_pattern_matching.obj: Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
+
+Basics/DP/DP_LCS/sequence_pattern_matching.i: Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i
+
+Basics/DP/DP_LCS/sequence_pattern_matching.s: Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s
+.PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s
+
 Basics/DP/DP_LPS/lps.obj: Basics/DP/DP_LPS/lps.cpp.obj
 
 .PHONY : Basics/DP/DP_LPS/lps.obj
@@ -492,6 +546,33 @@ Basics/DP/DP_LPS/min_deletions_to_make_palindrome.s: Basics/DP/DP_LPS/min_deleti
 Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s
 .PHONY : Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s
+
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.obj: Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
+
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.obj
+
+# target to build an object file
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
+
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.i: Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i
+
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.i
+
+# target to preprocess a source file
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i
+
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s: Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
+
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
+.PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
 
 Basics/DP/fib.obj: Basics/DP/fib.cpp.obj
 
@@ -6010,18 +6091,27 @@ help:
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.obj
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.i
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.s
+	@echo ... Basics/DP/DP_LCS/lrs.obj
+	@echo ... Basics/DP/DP_LCS/lrs.i
+	@echo ... Basics/DP/DP_LCS/lrs.s
 	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.obj
 	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.i
 	@echo ... Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.s
 	@echo ... Basics/DP/DP_LCS/scs.obj
 	@echo ... Basics/DP/DP_LCS/scs.i
 	@echo ... Basics/DP/DP_LCS/scs.s
+	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.obj
+	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.i
+	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.s
 	@echo ... Basics/DP/DP_LPS/lps.obj
 	@echo ... Basics/DP/DP_LPS/lps.i
 	@echo ... Basics/DP/DP_LPS/lps.s
 	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.obj
 	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.i
 	@echo ... Basics/DP/DP_LPS/min_deletions_to_make_palindrome.s
+	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.obj
+	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.i
+	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s
 	@echo ... Basics/DP/fib.obj
 	@echo ... Basics/DP/fib.i
 	@echo ... Basics/DP/fib.s

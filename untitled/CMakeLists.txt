@@ -111,6 +111,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/unbounded_knapsack/coin_change_one.cpp Basics/DP/unbounded_knapsack/coin_change_two.cpp
         Basics/DP/DP_LCS/lcs.cpp Basics/DP/DP_LCS/longest_common_substring.cpp
         Basics/DP/DP_LCS/scs.cpp Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
-        Basics/DP/DP_LPS/lps.cpp Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp)
+        Basics/DP/DP_LPS/lps.cpp Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
+        Basics/DP/DP_LCS/lrs.cpp Basics/DP/DP_LCS/sequence_pattern_matching.cpp
+        Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp)
 
 

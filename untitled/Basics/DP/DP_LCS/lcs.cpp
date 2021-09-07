@@ -12,16 +12,6 @@
 //#define MAX 1001
 //using namespace std;
 //
-//void printArray(int **dp, int n, int m) {
-//    for (int i = 0; i < n + 1; ++i) {
-//        for (int j = 0; j < m + 1; ++j) {
-//            cout << dp[i][j] << " ";
-//        }
-//        cout << '\n';
-//    }
-//    cout << '\n';
-//}
-//
 //int LCS_recursive(string x, string y, int n, int m) {
 //    // base condition
 //    if (n == 0 || m == 0) {
@@ -80,6 +70,16 @@
 //    reverse(ans.begin(), ans.end());
 //    return ans;
 //
+//}
+//
+//void printArray(int **dp, int n, int m) {
+//    for (int i = 0; i < n + 1; ++i) {
+//        for (int j = 0; j < m + 1; ++j) {
+//            cout << dp[i][j] << " ";
+//        }
+//        cout << '\n';
+//    }
+//    cout << '\n';
 //}
 //
 //// top down approach

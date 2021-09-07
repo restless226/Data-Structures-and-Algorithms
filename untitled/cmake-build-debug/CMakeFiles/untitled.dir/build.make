@@ -2884,6 +2884,45 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LPS\min_deletions_to_make_palindrome.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LPS\min_deletions_to_make_palindrome.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj: ../Basics/DP/DP_LCS/lrs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_LCS\lrs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\lrs.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\lrs.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_LCS\lrs.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\lrs.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LCS\lrs.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj: ../Basics/DP/DP_LCS/sequence_pattern_matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_LCS\sequence_pattern_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\sequence_pattern_matching.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\sequence_pattern_matching.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_LCS\sequence_pattern_matching.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\sequence_pattern_matching.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LCS\sequence_pattern_matching.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3101,7 +3140,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3322,11 +3364,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

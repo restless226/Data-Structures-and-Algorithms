@@ -20,13 +20,19 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj: ../Basics/DP/DP_LCS/longest_common_substring.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj: ../Basics/DP/DP_LCS/lrs.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj: ../Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj: ../Basics/DP/DP_LCS/scs.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj: ../Basics/DP/DP_LCS/sequence_pattern_matching.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj: ../Basics/DP/DP_LPS/lps.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 
