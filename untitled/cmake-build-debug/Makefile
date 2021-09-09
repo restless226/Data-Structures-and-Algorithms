@@ -331,6 +331,33 @@ Basics/Binary_Trees_CN/binary_tree_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 .PHONY : Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 
+Basics/DP/DP_LCS/edit_distance.obj: Basics/DP/DP_LCS/edit_distance.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/edit_distance.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/edit_distance.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj
+.PHONY : Basics/DP/DP_LCS/edit_distance.cpp.obj
+
+Basics/DP/DP_LCS/edit_distance.i: Basics/DP/DP_LCS/edit_distance.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/edit_distance.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/edit_distance.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.i
+.PHONY : Basics/DP/DP_LCS/edit_distance.cpp.i
+
+Basics/DP/DP_LCS/edit_distance.s: Basics/DP/DP_LCS/edit_distance.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/edit_distance.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/edit_distance.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.s
+.PHONY : Basics/DP/DP_LCS/edit_distance.cpp.s
+
 Basics/DP/DP_LCS/lcs.obj: Basics/DP/DP_LCS/lcs.cpp.obj
 
 .PHONY : Basics/DP/DP_LCS/lcs.obj
@@ -573,6 +600,60 @@ Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s: Basics/DP/DP_LPS/min_inser
 Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
 .PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
+
+Basics/DP/MCM/mcm.obj: Basics/DP/MCM/mcm.cpp.obj
+
+.PHONY : Basics/DP/MCM/mcm.obj
+
+# target to build an object file
+Basics/DP/MCM/mcm.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj
+.PHONY : Basics/DP/MCM/mcm.cpp.obj
+
+Basics/DP/MCM/mcm.i: Basics/DP/MCM/mcm.cpp.i
+
+.PHONY : Basics/DP/MCM/mcm.i
+
+# target to preprocess a source file
+Basics/DP/MCM/mcm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.i
+.PHONY : Basics/DP/MCM/mcm.cpp.i
+
+Basics/DP/MCM/mcm.s: Basics/DP/MCM/mcm.cpp.s
+
+.PHONY : Basics/DP/MCM/mcm.s
+
+# target to generate assembly for a file
+Basics/DP/MCM/mcm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.s
+.PHONY : Basics/DP/MCM/mcm.cpp.s
+
+Basics/DP/MCM/palindromic_partitioning.obj: Basics/DP/MCM/palindromic_partitioning.cpp.obj
+
+.PHONY : Basics/DP/MCM/palindromic_partitioning.obj
+
+# target to build an object file
+Basics/DP/MCM/palindromic_partitioning.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj
+.PHONY : Basics/DP/MCM/palindromic_partitioning.cpp.obj
+
+Basics/DP/MCM/palindromic_partitioning.i: Basics/DP/MCM/palindromic_partitioning.cpp.i
+
+.PHONY : Basics/DP/MCM/palindromic_partitioning.i
+
+# target to preprocess a source file
+Basics/DP/MCM/palindromic_partitioning.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.i
+.PHONY : Basics/DP/MCM/palindromic_partitioning.cpp.i
+
+Basics/DP/MCM/palindromic_partitioning.s: Basics/DP/MCM/palindromic_partitioning.cpp.s
+
+.PHONY : Basics/DP/MCM/palindromic_partitioning.s
+
+# target to generate assembly for a file
+Basics/DP/MCM/palindromic_partitioning.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.s
+.PHONY : Basics/DP/MCM/palindromic_partitioning.cpp.s
 
 Basics/DP/fib.obj: Basics/DP/fib.cpp.obj
 
@@ -6085,6 +6166,9 @@ help:
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.obj
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.i
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.s
+	@echo ... Basics/DP/DP_LCS/edit_distance.obj
+	@echo ... Basics/DP/DP_LCS/edit_distance.i
+	@echo ... Basics/DP/DP_LCS/edit_distance.s
 	@echo ... Basics/DP/DP_LCS/lcs.obj
 	@echo ... Basics/DP/DP_LCS/lcs.i
 	@echo ... Basics/DP/DP_LCS/lcs.s
@@ -6112,6 +6196,12 @@ help:
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.obj
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.i
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s
+	@echo ... Basics/DP/MCM/mcm.obj
+	@echo ... Basics/DP/MCM/mcm.i
+	@echo ... Basics/DP/MCM/mcm.s
+	@echo ... Basics/DP/MCM/palindromic_partitioning.obj
+	@echo ... Basics/DP/MCM/palindromic_partitioning.i
+	@echo ... Basics/DP/MCM/palindromic_partitioning.s
 	@echo ... Basics/DP/fib.obj
 	@echo ... Basics/DP/fib.i
 	@echo ... Basics/DP/fib.s

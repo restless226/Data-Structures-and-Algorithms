@@ -16,6 +16,8 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Binary_Trees_CN/binary_tree_node.h
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Binary_Trees_CN/binary_tree_use.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/edit_distance.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/lcs.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj
@@ -34,6 +36,10 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.ob
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
+CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/MCM/mcm.cpp
+CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/MCM/palindromic_partitioning.cpp
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/fib.cpp
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj

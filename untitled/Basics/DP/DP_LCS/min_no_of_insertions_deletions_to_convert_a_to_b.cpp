@@ -70,7 +70,7 @@
 //
 //
 //int solve(string x, string y, int n, int m) {
-//    return m + n - (2*length_LCS_DP(x, y, n, m));
+//    return m + n - (2 * length_LCS_DP(x, y, n, m));
 //}
 //
 //int32_t main() {

@@ -16,6 +16,8 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj: ../Basi
 
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj: ../Basics/Binary_Trees_CN/binary_tree_use.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: ../Basics/DP/DP_LCS/edit_distance.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj: ../Basics/DP/DP_LCS/longest_common_substring.cpp
@@ -33,6 +35,10 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj: ../Basics/DP/DP_LPS/lps.cp
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj: ../Basics/DP/MCM/mcm.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/MCM/palindromic_partitioning.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 
