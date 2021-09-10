@@ -16,6 +16,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj"

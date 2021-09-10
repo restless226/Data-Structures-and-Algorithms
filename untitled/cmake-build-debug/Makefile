@@ -601,6 +601,33 @@ Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
 .PHONY : Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
 
+Basics/DP/MCM/boolean_parenthesization.obj: Basics/DP/MCM/boolean_parenthesization.cpp.obj
+
+.PHONY : Basics/DP/MCM/boolean_parenthesization.obj
+
+# target to build an object file
+Basics/DP/MCM/boolean_parenthesization.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj
+.PHONY : Basics/DP/MCM/boolean_parenthesization.cpp.obj
+
+Basics/DP/MCM/boolean_parenthesization.i: Basics/DP/MCM/boolean_parenthesization.cpp.i
+
+.PHONY : Basics/DP/MCM/boolean_parenthesization.i
+
+# target to preprocess a source file
+Basics/DP/MCM/boolean_parenthesization.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.i
+.PHONY : Basics/DP/MCM/boolean_parenthesization.cpp.i
+
+Basics/DP/MCM/boolean_parenthesization.s: Basics/DP/MCM/boolean_parenthesization.cpp.s
+
+.PHONY : Basics/DP/MCM/boolean_parenthesization.s
+
+# target to generate assembly for a file
+Basics/DP/MCM/boolean_parenthesization.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.s
+.PHONY : Basics/DP/MCM/boolean_parenthesization.cpp.s
+
 Basics/DP/MCM/mcm.obj: Basics/DP/MCM/mcm.cpp.obj
 
 .PHONY : Basics/DP/MCM/mcm.obj
@@ -6196,6 +6223,9 @@ help:
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.obj
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.i
 	@echo ... Basics/DP/DP_LPS/min_insertions_to_form_palindrome.s
+	@echo ... Basics/DP/MCM/boolean_parenthesization.obj
+	@echo ... Basics/DP/MCM/boolean_parenthesization.i
+	@echo ... Basics/DP/MCM/boolean_parenthesization.s
 	@echo ... Basics/DP/MCM/mcm.obj
 	@echo ... Basics/DP/MCM/mcm.i
 	@echo ... Basics/DP/MCM/mcm.s

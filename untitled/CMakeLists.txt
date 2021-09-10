@@ -114,6 +114,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_LPS/lps.cpp Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
         Basics/DP/DP_LCS/lrs.cpp Basics/DP/DP_LCS/sequence_pattern_matching.cpp
         Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp Basics/DP/MCM/mcm.cpp
-        Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/MCM/palindromic_partitioning.cpp)
+        Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/MCM/palindromic_partitioning.cpp
+        Basics/DP/MCM/boolean_parenthesization.cpp)
 
 

@@ -21,6 +21,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/lps.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/Basics/DP/MCM/boolean_parenthesization.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/MCM/mcm.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/MCM/palindromic_partitioning.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/fib.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj"
