@@ -2923,18 +2923,18 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LPS\min_insertions_to_form_palindrome.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj: ../Basics/DP/MCM/mcm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\MCM\mcm.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\mcm.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj: ../Basics/DP/DP_MCM/mcm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\mcm.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\mcm.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\mcm.cpp > CMakeFiles\untitled.dir\Basics\DP\MCM\mcm.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\mcm.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_MCM\mcm.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\mcm.cpp -o CMakeFiles\untitled.dir\Basics\DP\MCM\mcm.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\mcm.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\mcm.cpp.s
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: ../Basics/DP/DP_LCS/edit_distance.cpp
@@ -2949,31 +2949,44 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_LCS\edit_distance.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_LCS\edit_distance.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/MCM/palindromic_partitioning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\MCM\palindromic_partitioning.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\palindromic_partitioning.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/DP_MCM/palindromic_partitioning.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\palindromic_partitioning.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\palindromic_partitioning.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\palindromic_partitioning.cpp > CMakeFiles\untitled.dir\Basics\DP\MCM\palindromic_partitioning.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\palindromic_partitioning.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_MCM\palindromic_partitioning.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\palindromic_partitioning.cpp -o CMakeFiles\untitled.dir\Basics\DP\MCM\palindromic_partitioning.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\palindromic_partitioning.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\palindromic_partitioning.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj: ../Basics/DP/MCM/boolean_parenthesization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\MCM\boolean_parenthesization.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\boolean_parenthesization.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj: ../Basics/DP/DP_MCM/boolean_parenthesization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\boolean_parenthesization.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\boolean_parenthesization.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\boolean_parenthesization.cpp > CMakeFiles\untitled.dir\Basics\DP\MCM\boolean_parenthesization.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\boolean_parenthesization.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_MCM\boolean_parenthesization.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\MCM\boolean_parenthesization.cpp -o CMakeFiles\untitled.dir\Basics\DP\MCM\boolean_parenthesization.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\boolean_parenthesization.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\boolean_parenthesization.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj: ../Basics/DP/DP_MCM/egg_dropping.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\egg_dropping.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\egg_dropping.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\egg_dropping.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_MCM\egg_dropping.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\egg_dropping.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\egg_dropping.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -3196,10 +3209,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3423,15 +3437,16 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_pal
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -49,7 +49,7 @@
 //}
 //
 //int knapsack_01_MEMOIZATION(int weights[], int values[], int n, int W) {
-//    int dp[MAX][MAX];    // dp matrix for MEMOIZATION
+//    static int dp[MAX][MAX];    // dp matrix for MEMOIZATION
 //    memset(dp, -1, sizeof(dp));   // initializing all entries in dp matrix with -1
 //
 //    // base condition
