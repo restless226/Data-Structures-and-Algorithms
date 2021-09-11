@@ -115,6 +115,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_LCS/lrs.cpp Basics/DP/DP_LCS/sequence_pattern_matching.cpp
         Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp Basics/DP/DP_MCM/mcm.cpp
         Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/DP_MCM/palindromic_partitioning.cpp
-        Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp)
+        Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp
+        Basics/DP/DP_MCM/scrambled_string.cpp)
 
 

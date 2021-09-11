@@ -709,6 +709,33 @@ Basics/DP/DP_MCM/palindromic_partitioning.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.s
 .PHONY : Basics/DP/DP_MCM/palindromic_partitioning.cpp.s
 
+Basics/DP/DP_MCM/scrambled_string.obj: Basics/DP/DP_MCM/scrambled_string.cpp.obj
+
+.PHONY : Basics/DP/DP_MCM/scrambled_string.obj
+
+# target to build an object file
+Basics/DP/DP_MCM/scrambled_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj
+.PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.obj
+
+Basics/DP/DP_MCM/scrambled_string.i: Basics/DP/DP_MCM/scrambled_string.cpp.i
+
+.PHONY : Basics/DP/DP_MCM/scrambled_string.i
+
+# target to preprocess a source file
+Basics/DP/DP_MCM/scrambled_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.i
+.PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.i
+
+Basics/DP/DP_MCM/scrambled_string.s: Basics/DP/DP_MCM/scrambled_string.cpp.s
+
+.PHONY : Basics/DP/DP_MCM/scrambled_string.s
+
+# target to generate assembly for a file
+Basics/DP/DP_MCM/scrambled_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s
+.PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.s
+
 Basics/DP/fib.obj: Basics/DP/fib.cpp.obj
 
 .PHONY : Basics/DP/fib.obj
@@ -6262,6 +6289,9 @@ help:
 	@echo ... Basics/DP/DP_MCM/palindromic_partitioning.obj
 	@echo ... Basics/DP/DP_MCM/palindromic_partitioning.i
 	@echo ... Basics/DP/DP_MCM/palindromic_partitioning.s
+	@echo ... Basics/DP/DP_MCM/scrambled_string.obj
+	@echo ... Basics/DP/DP_MCM/scrambled_string.i
+	@echo ... Basics/DP/DP_MCM/scrambled_string.s
 	@echo ... Basics/DP/fib.obj
 	@echo ... Basics/DP/fib.i
 	@echo ... Basics/DP/fib.s

@@ -44,6 +44,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj: ../Basics/DP/DP_MCM/mcm.cp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/DP_MCM/palindromic_partitioning.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/DP_MCM/scrambled_string.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
