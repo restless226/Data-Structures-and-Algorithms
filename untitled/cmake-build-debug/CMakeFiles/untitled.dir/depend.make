@@ -36,13 +36,13 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.ob
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/boolean_parenthesization.cpp.obj: ../Basics/DP/MCM/boolean_parenthesization.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj: ../Basics/DP/DP_MCM/boolean_parenthesization.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/egg_dropping.cpp.obj: ../Basics/DP/MCM/egg_dropping.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj: ../Basics/DP/DP_MCM/egg_dropping.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/mcm.cpp.obj: ../Basics/DP/MCM/mcm.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj: ../Basics/DP/DP_MCM/mcm.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/MCM/palindromic_partitioning.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Basics/DP/DP_MCM/palindromic_partitioning.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 

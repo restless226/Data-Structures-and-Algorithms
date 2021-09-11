@@ -25,7 +25,7 @@
 //
 //// TODO
 //// top down approach
-//int pp_DP(string x){
+//int pp_DP(string x) {
 //    int dp[x.length()][x.length()];
 //
 //    // INITIALIZATION
@@ -67,6 +67,7 @@
 //            left = dp[i][k];
 //        } else {
 //            left = pp_MEMOIZED(x, i, k);
+//            dp[i][k] = left;
 //        }
 //
 //        // OPTIMIZATION-2...
@@ -74,6 +75,7 @@
 //            right = dp[k + 1][j];
 //        } else {
 //            right = pp_MEMOIZED(x, k + 1, j);
+//            dp[k + 1][j] = right;
 //        }
 //
 //        dp[i][j] = left + right + 1;

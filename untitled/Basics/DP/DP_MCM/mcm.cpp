@@ -48,6 +48,7 @@
 //            left = dp[i][k];
 //        } else {
 //            left = mcm_memoized(arr, i, k);
+//            dp[i][k] = left;
 //        }
 //
 //        // OPTIMIZATION-2...
@@ -55,6 +56,7 @@
 //            right = dp[k + 1][j];
 //        } else {
 //            right = mcm_memoized(arr, k + 1, j);
+//            dp[k + 1][j] = right;
 //        }
 //
 //        dp[i][j] = left + right + arr[i - 1] * arr[k] * arr[j];
