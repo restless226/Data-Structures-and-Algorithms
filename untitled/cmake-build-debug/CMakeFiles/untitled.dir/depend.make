@@ -76,6 +76,10 @@ CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
 
+CMakeFiles/untitled.dir/Basics/EXPONENTATION/matrix_exp.cpp.obj: ../Basics/EXPONENTATION/matrix_exp.cpp
+
+CMakeFiles/untitled.dir/Basics/EXPONENTATION/mod_exp.cpp.obj: ../Basics/EXPONENTATION/mod_exp.cpp
+
 CMakeFiles/untitled.dir/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 
 CMakeFiles/untitled.dir/Basics/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../Basics/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
@@ -222,7 +226,7 @@ CMakeFiles/untitled.dir/Basics/LinkedList_CN/LL_main.cpp.obj: ../Basics/LinkedLi
 
 CMakeFiles/untitled.dir/Basics/LinkedList_CN/LL_node.cpp.obj: ../Basics/LinkedList_CN/LL_node.cpp
 
-CMakeFiles/untitled.dir/Basics/Lists.cpp.obj: ../Basics/Lists.cpp
+CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.obj: ../Basics/MATRIX/matrix.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.obj: ../Basics/Recursion/all_indices.cpp
 
@@ -239,6 +243,20 @@ CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj: ../Basics/Recursion
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.obj: ../Basics/STL/Lists.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.obj: ../Basics/STL/function_objects.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/hashing.cpp.obj: ../Basics/STL/hashing.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/maps.cpp.obj: ../Basics/STL/maps.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/priority_queue.cpp.obj: ../Basics/STL/priority_queue.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/sets.cpp.obj: ../Basics/STL/sets.cpp
+
+CMakeFiles/untitled.dir/Basics/STL/vectors_tut.cpp.obj: ../Basics/STL/vectors_tut.cpp
 
 CMakeFiles/untitled.dir/Basics/Stack/Expression_conversions/infix_to_postfix.cpp.obj: ../Basics/Stack/Expression_conversions/infix_to_postfix.cpp
 
@@ -280,8 +298,6 @@ CMakeFiles/untitled.dir/Basics/dequeue/deque3.cpp.obj: ../Basics/dequeue/deque3.
 
 CMakeFiles/untitled.dir/Basics/dequeue/dequeue.cpp.obj: ../Basics/dequeue/dequeue.cpp
 
-CMakeFiles/untitled.dir/Basics/function_objects.cpp.obj: ../Basics/function_objects.cpp
-
 CMakeFiles/untitled.dir/Basics/graphs/Djikstras.cpp.obj: ../Basics/graphs/Djikstras.cpp
 
 CMakeFiles/untitled.dir/Basics/graphs/MST_Prim.cpp.obj: ../Basics/graphs/MST_Prim.cpp
@@ -294,27 +310,13 @@ CMakeFiles/untitled.dir/Basics/graphs/graph.cpp.obj: ../Basics/graphs/graph.cpp
 
 CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.obj: ../Basics/graphs/graph2.cpp
 
-CMakeFiles/untitled.dir/Basics/hashing.cpp.obj: ../Basics/hashing.cpp
-
-CMakeFiles/untitled.dir/Basics/maps.cpp.obj: ../Basics/maps.cpp
-
-CMakeFiles/untitled.dir/Basics/matrix_exp.cpp.obj: ../Basics/matrix_exp.cpp
-
-CMakeFiles/untitled.dir/Basics/mod_exp.cpp.obj: ../Basics/mod_exp.cpp
-
-CMakeFiles/untitled.dir/Basics/priority_queue.cpp.obj: ../Basics/priority_queue.cpp
-
 CMakeFiles/untitled.dir/Basics/queue/circular_queue.cpp.obj: ../Basics/queue/circular_queue.cpp
 
 CMakeFiles/untitled.dir/Basics/queue/queue_code.cpp.obj: ../Basics/queue/queue_code.cpp
 
 CMakeFiles/untitled.dir/Basics/queue/queue_using_LL.cpp.obj: ../Basics/queue/queue_using_LL.cpp
 
-CMakeFiles/untitled.dir/Basics/sets.cpp.obj: ../Basics/sets.cpp
-
 CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.obj: ../Basics/sliding_window/max_sum_subarray_size_k.cpp
-
-CMakeFiles/untitled.dir/Basics/vectors_tut.cpp.obj: ../Basics/vectors_tut.cpp
 
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: ../DAA/file_handling.cpp
 
@@ -443,10 +445,6 @@ CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_impl.cpp.obj: ../assignment_
 CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.obj: ../assignment_9_heap_sort/heap_main.cpp
 
 CMakeFiles/untitled.dir/calculator/calculator_II.cpp.obj: ../calculator/calculator_II.cpp
-
-CMakeFiles/untitled.dir/others/main1.cpp.obj: ../others/main1.cpp
-
-CMakeFiles/untitled.dir/others/matrix.cpp.obj: ../others/matrix.cpp
 
 CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.obj: ../queue_again/queue_impl.cpp
 

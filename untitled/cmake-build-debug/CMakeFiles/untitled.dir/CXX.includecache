@@ -6,11 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rapen/CLionProjects/untitled/Basics/DP/get_min_squares.cpp
-
 C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_count.cpp
-bits/stdc++.h
--
+
+C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/matrix_exp.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/mod_exp.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/MATRIX/matrix.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/Lists.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/function_objects.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/hashing.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/maps.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/priority_queue.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/sets.cpp
+
+C:/Users/rapen/CLionProjects/untitled/Basics/STL/vectors_tut.cpp
 
 C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough5.cpp
+bits/stdc++.h
+-
 

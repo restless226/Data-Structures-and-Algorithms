@@ -76,6 +76,10 @@ CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
+CMakeFiles/untitled.dir/Basics/EXPONENTATION/matrix_exp.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/matrix_exp.cpp
+CMakeFiles/untitled.dir/Basics/EXPONENTATION/mod_exp.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/mod_exp.cpp
 CMakeFiles/untitled.dir/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 CMakeFiles/untitled.dir/Basics/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
@@ -222,8 +226,8 @@ CMakeFiles/untitled.dir/Basics/LinkedList_CN/LL_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/LinkedList_CN/LL_main.cpp
 CMakeFiles/untitled.dir/Basics/LinkedList_CN/LL_node.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/LinkedList_CN/LL_node.cpp
-CMakeFiles/untitled.dir/Basics/Lists.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/Lists.cpp
+CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/MATRIX/matrix.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/all_indices.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/array_sort.cpp.obj
@@ -240,6 +244,20 @@ CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
+CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/Lists.cpp
+CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/function_objects.cpp
+CMakeFiles/untitled.dir/Basics/STL/hashing.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/hashing.cpp
+CMakeFiles/untitled.dir/Basics/STL/maps.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/maps.cpp
+CMakeFiles/untitled.dir/Basics/STL/priority_queue.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/priority_queue.cpp
+CMakeFiles/untitled.dir/Basics/STL/sets.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/sets.cpp
+CMakeFiles/untitled.dir/Basics/STL/vectors_tut.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/STL/vectors_tut.cpp
 CMakeFiles/untitled.dir/Basics/Stack/Expression_conversions/infix_to_postfix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Stack/Expression_conversions/infix_to_postfix.cpp
 CMakeFiles/untitled.dir/Basics/Stack/Expression_conversions/infix_to_prefix.cpp.obj
@@ -280,8 +298,6 @@ CMakeFiles/untitled.dir/Basics/dequeue/deque3.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/dequeue/deque3.cpp
 CMakeFiles/untitled.dir/Basics/dequeue/dequeue.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/dequeue/dequeue.cpp
-CMakeFiles/untitled.dir/Basics/function_objects.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/function_objects.cpp
 CMakeFiles/untitled.dir/Basics/graphs/Djikstras.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/graphs/Djikstras.cpp
 CMakeFiles/untitled.dir/Basics/graphs/MST_Prim.cpp.obj
@@ -294,28 +310,14 @@ CMakeFiles/untitled.dir/Basics/graphs/graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/graphs/graph.cpp
 CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/graphs/graph2.cpp
-CMakeFiles/untitled.dir/Basics/hashing.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/hashing.cpp
-CMakeFiles/untitled.dir/Basics/maps.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/maps.cpp
-CMakeFiles/untitled.dir/Basics/matrix_exp.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/matrix_exp.cpp
-CMakeFiles/untitled.dir/Basics/mod_exp.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/mod_exp.cpp
-CMakeFiles/untitled.dir/Basics/priority_queue.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/priority_queue.cpp
 CMakeFiles/untitled.dir/Basics/queue/circular_queue.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/queue/circular_queue.cpp
 CMakeFiles/untitled.dir/Basics/queue/queue_code.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/queue/queue_code.cpp
 CMakeFiles/untitled.dir/Basics/queue/queue_using_LL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/queue/queue_using_LL.cpp
-CMakeFiles/untitled.dir/Basics/sets.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/sets.cpp
 CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/sliding_window/max_sum_subarray_size_k.cpp
-CMakeFiles/untitled.dir/Basics/vectors_tut.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/vectors_tut.cpp
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DAA/file_handling.cpp
 CMakeFiles/untitled.dir/DAA/fractional_knapsack_using_greedy.cpp.obj
@@ -444,10 +446,6 @@ CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/assignment_9_heap_sort/heap_main.cpp
 CMakeFiles/untitled.dir/calculator/calculator_II.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/calculator/calculator_II.cpp
-CMakeFiles/untitled.dir/others/main1.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/others/main1.cpp
-CMakeFiles/untitled.dir/others/matrix.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/others/matrix.cpp
 CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/queue_again/queue_impl.cpp
 CMakeFiles/untitled.dir/queue_again/queue_main.cpp.obj
