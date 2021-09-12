@@ -48,6 +48,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/
 
 CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj: ../Basics/DP/get_min_squares.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp

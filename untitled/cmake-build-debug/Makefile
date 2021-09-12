@@ -763,6 +763,33 @@ Basics/DP/fib.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/fib.cpp.s
 .PHONY : Basics/DP/fib.cpp.s
 
+Basics/DP/get_min_squares.obj: Basics/DP/get_min_squares.cpp.obj
+
+.PHONY : Basics/DP/get_min_squares.obj
+
+# target to build an object file
+Basics/DP/get_min_squares.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj
+.PHONY : Basics/DP/get_min_squares.cpp.obj
+
+Basics/DP/get_min_squares.i: Basics/DP/get_min_squares.cpp.i
+
+.PHONY : Basics/DP/get_min_squares.i
+
+# target to preprocess a source file
+Basics/DP/get_min_squares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.i
+.PHONY : Basics/DP/get_min_squares.cpp.i
+
+Basics/DP/get_min_squares.s: Basics/DP/get_min_squares.cpp.s
+
+.PHONY : Basics/DP/get_min_squares.s
+
+# target to generate assembly for a file
+Basics/DP/get_min_squares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.s
+.PHONY : Basics/DP/get_min_squares.cpp.s
+
 Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
 .PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
@@ -6295,6 +6322,9 @@ help:
 	@echo ... Basics/DP/fib.obj
 	@echo ... Basics/DP/fib.i
 	@echo ... Basics/DP/fib.s
+	@echo ... Basics/DP/get_min_squares.obj
+	@echo ... Basics/DP/get_min_squares.i
+	@echo ... Basics/DP/get_min_squares.s
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s

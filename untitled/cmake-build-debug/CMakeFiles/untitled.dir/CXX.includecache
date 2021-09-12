@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/edit_distance.cpp
+C:/Users/rapen/CLionProjects/untitled/Basics/DP/get_min_squares.cpp
 
-C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/palindromic_partitioning.cpp
+C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_count.cpp
+bits/stdc++.h
+-
 
-C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough4.cpp
+C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough5.cpp
 

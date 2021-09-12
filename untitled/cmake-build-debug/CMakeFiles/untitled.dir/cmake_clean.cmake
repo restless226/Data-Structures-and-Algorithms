@@ -22,6 +22,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj"
