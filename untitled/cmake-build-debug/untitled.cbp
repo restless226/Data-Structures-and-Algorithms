@@ -197,6 +197,12 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/matrix_exp.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/EXPONENTATION/mod_exp.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -428,7 +434,7 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/LinkedList_CN/LL_node.h">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Lists.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/MATRIX/matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/all_indices.cpp">
@@ -449,10 +455,34 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/last_index.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/Lists.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/function_objects.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/hashing.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/maps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/priority_queue.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/sets.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/vectors_tut.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Stack/Expression_conversions/infix_to_postfix.cpp">
@@ -521,9 +551,6 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/dequeue/dequeue.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/function_objects.cpp">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/Djikstras.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -542,21 +569,6 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/graph2.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/hashing.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/maps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/matrix_exp.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/mod_exp.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/priority_queue.cpp">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/queue/circular_queue.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -564,15 +576,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/queue/queue_using_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/sets.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/sliding_window/max_sum_subarray_size_k.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/vectors_tut.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/file_handling.cpp">
@@ -807,12 +810,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/calculator/calculator_II.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/others/main1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/others/matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/queue_again/queue_final.h">

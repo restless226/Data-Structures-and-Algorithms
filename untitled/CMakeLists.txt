@@ -6,16 +6,16 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(untitled algorithmic_toolbox/test.cpp
         calculator/calculator_II.cpp arrays_practice/array_sorting.cpp arrays_practice/array1.cpp
         arrays_practice/arrays3.cpp arrays_practice/array4.cpp arrays_practice/array3_1.cpp
-        arrays_practice/array3_1.cpp arrays_practice/array4_1.cpp others/matrix.cpp
+        arrays_practice/array3_1.cpp arrays_practice/array4_1.cpp Basics/MATRIX/matrix.cpp
         assignment_1/assignment_1_using_struct.cpp assignment_1/studDB.h assignment_1/studDB_impl.cpp
         assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp arrays_practice/ass1.cpp
         arrays_practice/ass1_again.cpp
         algorithmic_toolbox DM/linear_searrch.cpp
         DM/occurances.cpp assignment_3_queue/circular_queue_2.cpp assignment_3_queue/queue_final.cpp
-        DM/DM_lists.cpp Basics/vectors_tut.cpp Basics/Templates/templates.cpp
+        DM/DM_lists.cpp Basics/STL/vectors_tut.cpp Basics/Templates/templates.cpp
         stack_assignment stack_assignment/linkedlistwithstack.h Basics/algorithms/SORTING/selectionSort.cpp
         Basics/algorithms/SORTING/BubbleSort.cpp Basics/algorithms/SORTING/InsertionSort.cpp
-        Basics/algorithms/SORTING/MergeSort.cpp Basics/algorithms/SORTING/QuickSort.cpp others/main1.cpp
+        Basics/algorithms/SORTING/MergeSort.cpp Basics/algorithms/SORTING/QuickSort.cpp
         queue_again/queue_final.h queue_again/queue_impl.cpp queue_again/queue_main.cpp Basics/LinkedList/Single_LL/List.h
         Basics/LinkedList/Single_LL/List_impl.cpp Basics/LinkedList/Single_LL/list_main.cpp stack_2/stack_again.cpp
         Basics/LinkedList/Single_LL/LinkedList_again/LL._again.cpp Basics/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp
@@ -50,8 +50,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/GFG/Stack/reverse_a_string.cpp Basics/GFG/Stack/stack_using_two_queues.cpp
         Basics/BST/BST_impl.cpp Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
         Basics/Templates/templates2.cpp Basics/Templates/function_templates.cpp
-        Basics/Templates/overloading_templates.cpp Basics/Lists.cpp Basics/maps.cpp
-        Basics/function_objects.cpp
+        Basics/Templates/overloading_templates.cpp Basics/STL/Lists.cpp Basics/STL/maps.cpp
+        Basics/STL/function_objects.cpp
         assignment_3_queue/queue.h assignment_3_queue/main.cpp assignment_3_queue/impl.cpp
         assignment_1/studDB.h assignment_1/studDB_impl.cpp assignment_1/main_interface.cpp
         assignment_2_stack/mainFile.cpp assignment_2_stack/stack_impl.cpp
@@ -74,7 +74,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         assignment_7/mst_header.h assignment_7/mst_impl.cpp assignment_7/mst_main.cpp
         assignment_8/dijk_header.h assignment_8/dijk_impl.cpp assignment_8/dijk_main.cpp
         assignment_10/header.h assignment_10/impl.cpp assignment_10/main.cpp
-        Basics/hashing.cpp Basics/sets.cpp
+        Basics/STL/hashing.cpp Basics/STL/sets.cpp
         assignment_6_TBT/TBT_FINAL.cpp ROUGH_FILES/rough4.cpp ROUGH_FILES/rough5.cpp
         algorithmic_toolbox/week3/money_change.cpp
         algorithmic_toolbox/week3/max_loot.cpp
@@ -82,12 +82,12 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/Templates/unordered_maps.cpp
         Basics/graphs/graph.cpp Basics/graphs/graph2.cpp Basics/graphs/MST_Prim2.cpp
         Basics/graphs/Djikstras.cpp Basics/dequeue/dequeue.cpp Basics/dequeue/deque2.cpp
-        Basics/dequeue/deque3.cpp Basics/mod_exp.cpp Basics/matrix_exp.cpp Basics/priority_queue.cpp
+        Basics/dequeue/deque3.cpp Basics/EXPONENTATION/mod_exp.cpp Basics/EXPONENTATION/matrix_exp.cpp Basics/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp ROUGH_FILES/main.cpp
         Basics/Recursion/fib.cpp Basics/Recursion/array_sort.cpp
         Basics/Recursion/first_index.cpp Basics/Recursion/last_index.cpp
         Basics/Recursion/all_indices.cpp Basics/Recursion/find_char_arr_length.cpp
-        Basics/sliding_window/max_sum_subarray_size_k.cpp
+        Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp
         Basics/Trees_CN/tree_node.h Basics/Trees_CN/tree_use.cpp Basics/Binary_Trees_CN/binary_tree_node.h
         Basics/Binary_Trees_CN/binary_tree_use.cpp
         Basics/Binary_Trees_CN/binary_tree_main.cpp Basics/BST_CN/BST.h

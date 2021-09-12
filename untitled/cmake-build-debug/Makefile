@@ -1141,6 +1141,60 @@ Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
 .PHONY : Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
 
+Basics/EXPONENTATION/matrix_exp.obj: Basics/EXPONENTATION/matrix_exp.cpp.obj
+
+.PHONY : Basics/EXPONENTATION/matrix_exp.obj
+
+# target to build an object file
+Basics/EXPONENTATION/matrix_exp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/matrix_exp.cpp.obj
+.PHONY : Basics/EXPONENTATION/matrix_exp.cpp.obj
+
+Basics/EXPONENTATION/matrix_exp.i: Basics/EXPONENTATION/matrix_exp.cpp.i
+
+.PHONY : Basics/EXPONENTATION/matrix_exp.i
+
+# target to preprocess a source file
+Basics/EXPONENTATION/matrix_exp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/matrix_exp.cpp.i
+.PHONY : Basics/EXPONENTATION/matrix_exp.cpp.i
+
+Basics/EXPONENTATION/matrix_exp.s: Basics/EXPONENTATION/matrix_exp.cpp.s
+
+.PHONY : Basics/EXPONENTATION/matrix_exp.s
+
+# target to generate assembly for a file
+Basics/EXPONENTATION/matrix_exp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/matrix_exp.cpp.s
+.PHONY : Basics/EXPONENTATION/matrix_exp.cpp.s
+
+Basics/EXPONENTATION/mod_exp.obj: Basics/EXPONENTATION/mod_exp.cpp.obj
+
+.PHONY : Basics/EXPONENTATION/mod_exp.obj
+
+# target to build an object file
+Basics/EXPONENTATION/mod_exp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/mod_exp.cpp.obj
+.PHONY : Basics/EXPONENTATION/mod_exp.cpp.obj
+
+Basics/EXPONENTATION/mod_exp.i: Basics/EXPONENTATION/mod_exp.cpp.i
+
+.PHONY : Basics/EXPONENTATION/mod_exp.i
+
+# target to preprocess a source file
+Basics/EXPONENTATION/mod_exp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/mod_exp.cpp.i
+.PHONY : Basics/EXPONENTATION/mod_exp.cpp.i
+
+Basics/EXPONENTATION/mod_exp.s: Basics/EXPONENTATION/mod_exp.cpp.s
+
+.PHONY : Basics/EXPONENTATION/mod_exp.s
+
+# target to generate assembly for a file
+Basics/EXPONENTATION/mod_exp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/EXPONENTATION/mod_exp.cpp.s
+.PHONY : Basics/EXPONENTATION/mod_exp.cpp.s
+
 Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
 .PHONY : Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
@@ -3112,32 +3166,32 @@ Basics/LinkedList_CN/LL_node.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/LinkedList_CN/LL_node.cpp.s
 .PHONY : Basics/LinkedList_CN/LL_node.cpp.s
 
-Basics/Lists.obj: Basics/Lists.cpp.obj
+Basics/MATRIX/matrix.obj: Basics/MATRIX/matrix.cpp.obj
 
-.PHONY : Basics/Lists.obj
+.PHONY : Basics/MATRIX/matrix.obj
 
 # target to build an object file
-Basics/Lists.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Lists.cpp.obj
-.PHONY : Basics/Lists.cpp.obj
+Basics/MATRIX/matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.obj
+.PHONY : Basics/MATRIX/matrix.cpp.obj
 
-Basics/Lists.i: Basics/Lists.cpp.i
+Basics/MATRIX/matrix.i: Basics/MATRIX/matrix.cpp.i
 
-.PHONY : Basics/Lists.i
+.PHONY : Basics/MATRIX/matrix.i
 
 # target to preprocess a source file
-Basics/Lists.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Lists.cpp.i
-.PHONY : Basics/Lists.cpp.i
+Basics/MATRIX/matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.i
+.PHONY : Basics/MATRIX/matrix.cpp.i
 
-Basics/Lists.s: Basics/Lists.cpp.s
+Basics/MATRIX/matrix.s: Basics/MATRIX/matrix.cpp.s
 
-.PHONY : Basics/Lists.s
+.PHONY : Basics/MATRIX/matrix.s
 
 # target to generate assembly for a file
-Basics/Lists.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Lists.cpp.s
-.PHONY : Basics/Lists.cpp.s
+Basics/MATRIX/matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.s
+.PHONY : Basics/MATRIX/matrix.cpp.s
 
 Basics/Recursion/all_indices.obj: Basics/Recursion/all_indices.cpp.obj
 
@@ -3301,6 +3355,33 @@ Basics/Recursion/last_index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.s
 .PHONY : Basics/Recursion/last_index.cpp.s
 
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
+
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
+
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
+
 Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj: Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
 
 .PHONY : Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
@@ -3354,6 +3435,195 @@ Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.s: Basics/SORTING_ALGORITHMS_AGAIN/qu
 Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 .PHONY : Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
+
+Basics/STL/Lists.obj: Basics/STL/Lists.cpp.obj
+
+.PHONY : Basics/STL/Lists.obj
+
+# target to build an object file
+Basics/STL/Lists.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.obj
+.PHONY : Basics/STL/Lists.cpp.obj
+
+Basics/STL/Lists.i: Basics/STL/Lists.cpp.i
+
+.PHONY : Basics/STL/Lists.i
+
+# target to preprocess a source file
+Basics/STL/Lists.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.i
+.PHONY : Basics/STL/Lists.cpp.i
+
+Basics/STL/Lists.s: Basics/STL/Lists.cpp.s
+
+.PHONY : Basics/STL/Lists.s
+
+# target to generate assembly for a file
+Basics/STL/Lists.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.s
+.PHONY : Basics/STL/Lists.cpp.s
+
+Basics/STL/function_objects.obj: Basics/STL/function_objects.cpp.obj
+
+.PHONY : Basics/STL/function_objects.obj
+
+# target to build an object file
+Basics/STL/function_objects.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.obj
+.PHONY : Basics/STL/function_objects.cpp.obj
+
+Basics/STL/function_objects.i: Basics/STL/function_objects.cpp.i
+
+.PHONY : Basics/STL/function_objects.i
+
+# target to preprocess a source file
+Basics/STL/function_objects.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.i
+.PHONY : Basics/STL/function_objects.cpp.i
+
+Basics/STL/function_objects.s: Basics/STL/function_objects.cpp.s
+
+.PHONY : Basics/STL/function_objects.s
+
+# target to generate assembly for a file
+Basics/STL/function_objects.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.s
+.PHONY : Basics/STL/function_objects.cpp.s
+
+Basics/STL/hashing.obj: Basics/STL/hashing.cpp.obj
+
+.PHONY : Basics/STL/hashing.obj
+
+# target to build an object file
+Basics/STL/hashing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/hashing.cpp.obj
+.PHONY : Basics/STL/hashing.cpp.obj
+
+Basics/STL/hashing.i: Basics/STL/hashing.cpp.i
+
+.PHONY : Basics/STL/hashing.i
+
+# target to preprocess a source file
+Basics/STL/hashing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/hashing.cpp.i
+.PHONY : Basics/STL/hashing.cpp.i
+
+Basics/STL/hashing.s: Basics/STL/hashing.cpp.s
+
+.PHONY : Basics/STL/hashing.s
+
+# target to generate assembly for a file
+Basics/STL/hashing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/hashing.cpp.s
+.PHONY : Basics/STL/hashing.cpp.s
+
+Basics/STL/maps.obj: Basics/STL/maps.cpp.obj
+
+.PHONY : Basics/STL/maps.obj
+
+# target to build an object file
+Basics/STL/maps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/maps.cpp.obj
+.PHONY : Basics/STL/maps.cpp.obj
+
+Basics/STL/maps.i: Basics/STL/maps.cpp.i
+
+.PHONY : Basics/STL/maps.i
+
+# target to preprocess a source file
+Basics/STL/maps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/maps.cpp.i
+.PHONY : Basics/STL/maps.cpp.i
+
+Basics/STL/maps.s: Basics/STL/maps.cpp.s
+
+.PHONY : Basics/STL/maps.s
+
+# target to generate assembly for a file
+Basics/STL/maps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/maps.cpp.s
+.PHONY : Basics/STL/maps.cpp.s
+
+Basics/STL/priority_queue.obj: Basics/STL/priority_queue.cpp.obj
+
+.PHONY : Basics/STL/priority_queue.obj
+
+# target to build an object file
+Basics/STL/priority_queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/priority_queue.cpp.obj
+.PHONY : Basics/STL/priority_queue.cpp.obj
+
+Basics/STL/priority_queue.i: Basics/STL/priority_queue.cpp.i
+
+.PHONY : Basics/STL/priority_queue.i
+
+# target to preprocess a source file
+Basics/STL/priority_queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/priority_queue.cpp.i
+.PHONY : Basics/STL/priority_queue.cpp.i
+
+Basics/STL/priority_queue.s: Basics/STL/priority_queue.cpp.s
+
+.PHONY : Basics/STL/priority_queue.s
+
+# target to generate assembly for a file
+Basics/STL/priority_queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/priority_queue.cpp.s
+.PHONY : Basics/STL/priority_queue.cpp.s
+
+Basics/STL/sets.obj: Basics/STL/sets.cpp.obj
+
+.PHONY : Basics/STL/sets.obj
+
+# target to build an object file
+Basics/STL/sets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/sets.cpp.obj
+.PHONY : Basics/STL/sets.cpp.obj
+
+Basics/STL/sets.i: Basics/STL/sets.cpp.i
+
+.PHONY : Basics/STL/sets.i
+
+# target to preprocess a source file
+Basics/STL/sets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/sets.cpp.i
+.PHONY : Basics/STL/sets.cpp.i
+
+Basics/STL/sets.s: Basics/STL/sets.cpp.s
+
+.PHONY : Basics/STL/sets.s
+
+# target to generate assembly for a file
+Basics/STL/sets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/sets.cpp.s
+.PHONY : Basics/STL/sets.cpp.s
+
+Basics/STL/vectors_tut.obj: Basics/STL/vectors_tut.cpp.obj
+
+.PHONY : Basics/STL/vectors_tut.obj
+
+# target to build an object file
+Basics/STL/vectors_tut.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/vectors_tut.cpp.obj
+.PHONY : Basics/STL/vectors_tut.cpp.obj
+
+Basics/STL/vectors_tut.i: Basics/STL/vectors_tut.cpp.i
+
+.PHONY : Basics/STL/vectors_tut.i
+
+# target to preprocess a source file
+Basics/STL/vectors_tut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/vectors_tut.cpp.i
+.PHONY : Basics/STL/vectors_tut.cpp.i
+
+Basics/STL/vectors_tut.s: Basics/STL/vectors_tut.cpp.s
+
+.PHONY : Basics/STL/vectors_tut.s
+
+# target to generate assembly for a file
+Basics/STL/vectors_tut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STL/vectors_tut.cpp.s
+.PHONY : Basics/STL/vectors_tut.cpp.s
 
 Basics/Stack/Expression_conversions/infix_to_postfix.obj: Basics/Stack/Expression_conversions/infix_to_postfix.cpp.obj
 
@@ -3895,33 +4165,6 @@ Basics/dequeue/dequeue.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/dequeue/dequeue.cpp.s
 .PHONY : Basics/dequeue/dequeue.cpp.s
 
-Basics/function_objects.obj: Basics/function_objects.cpp.obj
-
-.PHONY : Basics/function_objects.obj
-
-# target to build an object file
-Basics/function_objects.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/function_objects.cpp.obj
-.PHONY : Basics/function_objects.cpp.obj
-
-Basics/function_objects.i: Basics/function_objects.cpp.i
-
-.PHONY : Basics/function_objects.i
-
-# target to preprocess a source file
-Basics/function_objects.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/function_objects.cpp.i
-.PHONY : Basics/function_objects.cpp.i
-
-Basics/function_objects.s: Basics/function_objects.cpp.s
-
-.PHONY : Basics/function_objects.s
-
-# target to generate assembly for a file
-Basics/function_objects.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/function_objects.cpp.s
-.PHONY : Basics/function_objects.cpp.s
-
 Basics/graphs/Djikstras.obj: Basics/graphs/Djikstras.cpp.obj
 
 .PHONY : Basics/graphs/Djikstras.obj
@@ -4084,141 +4327,6 @@ Basics/graphs/graph2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.s
 .PHONY : Basics/graphs/graph2.cpp.s
 
-Basics/hashing.obj: Basics/hashing.cpp.obj
-
-.PHONY : Basics/hashing.obj
-
-# target to build an object file
-Basics/hashing.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/hashing.cpp.obj
-.PHONY : Basics/hashing.cpp.obj
-
-Basics/hashing.i: Basics/hashing.cpp.i
-
-.PHONY : Basics/hashing.i
-
-# target to preprocess a source file
-Basics/hashing.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/hashing.cpp.i
-.PHONY : Basics/hashing.cpp.i
-
-Basics/hashing.s: Basics/hashing.cpp.s
-
-.PHONY : Basics/hashing.s
-
-# target to generate assembly for a file
-Basics/hashing.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/hashing.cpp.s
-.PHONY : Basics/hashing.cpp.s
-
-Basics/maps.obj: Basics/maps.cpp.obj
-
-.PHONY : Basics/maps.obj
-
-# target to build an object file
-Basics/maps.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/maps.cpp.obj
-.PHONY : Basics/maps.cpp.obj
-
-Basics/maps.i: Basics/maps.cpp.i
-
-.PHONY : Basics/maps.i
-
-# target to preprocess a source file
-Basics/maps.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/maps.cpp.i
-.PHONY : Basics/maps.cpp.i
-
-Basics/maps.s: Basics/maps.cpp.s
-
-.PHONY : Basics/maps.s
-
-# target to generate assembly for a file
-Basics/maps.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/maps.cpp.s
-.PHONY : Basics/maps.cpp.s
-
-Basics/matrix_exp.obj: Basics/matrix_exp.cpp.obj
-
-.PHONY : Basics/matrix_exp.obj
-
-# target to build an object file
-Basics/matrix_exp.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/matrix_exp.cpp.obj
-.PHONY : Basics/matrix_exp.cpp.obj
-
-Basics/matrix_exp.i: Basics/matrix_exp.cpp.i
-
-.PHONY : Basics/matrix_exp.i
-
-# target to preprocess a source file
-Basics/matrix_exp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/matrix_exp.cpp.i
-.PHONY : Basics/matrix_exp.cpp.i
-
-Basics/matrix_exp.s: Basics/matrix_exp.cpp.s
-
-.PHONY : Basics/matrix_exp.s
-
-# target to generate assembly for a file
-Basics/matrix_exp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/matrix_exp.cpp.s
-.PHONY : Basics/matrix_exp.cpp.s
-
-Basics/mod_exp.obj: Basics/mod_exp.cpp.obj
-
-.PHONY : Basics/mod_exp.obj
-
-# target to build an object file
-Basics/mod_exp.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/mod_exp.cpp.obj
-.PHONY : Basics/mod_exp.cpp.obj
-
-Basics/mod_exp.i: Basics/mod_exp.cpp.i
-
-.PHONY : Basics/mod_exp.i
-
-# target to preprocess a source file
-Basics/mod_exp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/mod_exp.cpp.i
-.PHONY : Basics/mod_exp.cpp.i
-
-Basics/mod_exp.s: Basics/mod_exp.cpp.s
-
-.PHONY : Basics/mod_exp.s
-
-# target to generate assembly for a file
-Basics/mod_exp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/mod_exp.cpp.s
-.PHONY : Basics/mod_exp.cpp.s
-
-Basics/priority_queue.obj: Basics/priority_queue.cpp.obj
-
-.PHONY : Basics/priority_queue.obj
-
-# target to build an object file
-Basics/priority_queue.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/priority_queue.cpp.obj
-.PHONY : Basics/priority_queue.cpp.obj
-
-Basics/priority_queue.i: Basics/priority_queue.cpp.i
-
-.PHONY : Basics/priority_queue.i
-
-# target to preprocess a source file
-Basics/priority_queue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/priority_queue.cpp.i
-.PHONY : Basics/priority_queue.cpp.i
-
-Basics/priority_queue.s: Basics/priority_queue.cpp.s
-
-.PHONY : Basics/priority_queue.s
-
-# target to generate assembly for a file
-Basics/priority_queue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/priority_queue.cpp.s
-.PHONY : Basics/priority_queue.cpp.s
-
 Basics/queue/circular_queue.obj: Basics/queue/circular_queue.cpp.obj
 
 .PHONY : Basics/queue/circular_queue.obj
@@ -4299,87 +4407,6 @@ Basics/queue/queue_using_LL.s: Basics/queue/queue_using_LL.cpp.s
 Basics/queue/queue_using_LL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/queue/queue_using_LL.cpp.s
 .PHONY : Basics/queue/queue_using_LL.cpp.s
-
-Basics/sets.obj: Basics/sets.cpp.obj
-
-.PHONY : Basics/sets.obj
-
-# target to build an object file
-Basics/sets.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sets.cpp.obj
-.PHONY : Basics/sets.cpp.obj
-
-Basics/sets.i: Basics/sets.cpp.i
-
-.PHONY : Basics/sets.i
-
-# target to preprocess a source file
-Basics/sets.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sets.cpp.i
-.PHONY : Basics/sets.cpp.i
-
-Basics/sets.s: Basics/sets.cpp.s
-
-.PHONY : Basics/sets.s
-
-# target to generate assembly for a file
-Basics/sets.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sets.cpp.s
-.PHONY : Basics/sets.cpp.s
-
-Basics/sliding_window/max_sum_subarray_size_k.obj: Basics/sliding_window/max_sum_subarray_size_k.cpp.obj
-
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.obj
-
-# target to build an object file
-Basics/sliding_window/max_sum_subarray_size_k.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.obj
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.cpp.obj
-
-Basics/sliding_window/max_sum_subarray_size_k.i: Basics/sliding_window/max_sum_subarray_size_k.cpp.i
-
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.i
-
-# target to preprocess a source file
-Basics/sliding_window/max_sum_subarray_size_k.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.i
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.cpp.i
-
-Basics/sliding_window/max_sum_subarray_size_k.s: Basics/sliding_window/max_sum_subarray_size_k.cpp.s
-
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.s
-
-# target to generate assembly for a file
-Basics/sliding_window/max_sum_subarray_size_k.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.s
-.PHONY : Basics/sliding_window/max_sum_subarray_size_k.cpp.s
-
-Basics/vectors_tut.obj: Basics/vectors_tut.cpp.obj
-
-.PHONY : Basics/vectors_tut.obj
-
-# target to build an object file
-Basics/vectors_tut.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/vectors_tut.cpp.obj
-.PHONY : Basics/vectors_tut.cpp.obj
-
-Basics/vectors_tut.i: Basics/vectors_tut.cpp.i
-
-.PHONY : Basics/vectors_tut.i
-
-# target to preprocess a source file
-Basics/vectors_tut.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/vectors_tut.cpp.i
-.PHONY : Basics/vectors_tut.cpp.i
-
-Basics/vectors_tut.s: Basics/vectors_tut.cpp.s
-
-.PHONY : Basics/vectors_tut.s
-
-# target to generate assembly for a file
-Basics/vectors_tut.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/vectors_tut.cpp.s
-.PHONY : Basics/vectors_tut.cpp.s
 
 DAA/file_handling.obj: DAA/file_handling.cpp.obj
 
@@ -6109,60 +6136,6 @@ calculator/calculator_II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/calculator/calculator_II.cpp.s
 .PHONY : calculator/calculator_II.cpp.s
 
-others/main1.obj: others/main1.cpp.obj
-
-.PHONY : others/main1.obj
-
-# target to build an object file
-others/main1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/main1.cpp.obj
-.PHONY : others/main1.cpp.obj
-
-others/main1.i: others/main1.cpp.i
-
-.PHONY : others/main1.i
-
-# target to preprocess a source file
-others/main1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/main1.cpp.i
-.PHONY : others/main1.cpp.i
-
-others/main1.s: others/main1.cpp.s
-
-.PHONY : others/main1.s
-
-# target to generate assembly for a file
-others/main1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/main1.cpp.s
-.PHONY : others/main1.cpp.s
-
-others/matrix.obj: others/matrix.cpp.obj
-
-.PHONY : others/matrix.obj
-
-# target to build an object file
-others/matrix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/matrix.cpp.obj
-.PHONY : others/matrix.cpp.obj
-
-others/matrix.i: others/matrix.cpp.i
-
-.PHONY : others/matrix.i
-
-# target to preprocess a source file
-others/matrix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/matrix.cpp.i
-.PHONY : others/matrix.cpp.i
-
-others/matrix.s: others/matrix.cpp.s
-
-.PHONY : others/matrix.s
-
-# target to generate assembly for a file
-others/matrix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/others/matrix.cpp.s
-.PHONY : others/matrix.cpp.s
-
 queue_again/queue_impl.obj: queue_again/queue_impl.cpp.obj
 
 .PHONY : queue_again/queue_impl.obj
@@ -6364,6 +6337,12 @@ help:
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s
+	@echo ... Basics/EXPONENTATION/matrix_exp.obj
+	@echo ... Basics/EXPONENTATION/matrix_exp.i
+	@echo ... Basics/EXPONENTATION/matrix_exp.s
+	@echo ... Basics/EXPONENTATION/mod_exp.obj
+	@echo ... Basics/EXPONENTATION/mod_exp.i
+	@echo ... Basics/EXPONENTATION/mod_exp.s
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
 	@echo ... Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
@@ -6583,9 +6562,9 @@ help:
 	@echo ... Basics/LinkedList_CN/LL_node.obj
 	@echo ... Basics/LinkedList_CN/LL_node.i
 	@echo ... Basics/LinkedList_CN/LL_node.s
-	@echo ... Basics/Lists.obj
-	@echo ... Basics/Lists.i
-	@echo ... Basics/Lists.s
+	@echo ... Basics/MATRIX/matrix.obj
+	@echo ... Basics/MATRIX/matrix.i
+	@echo ... Basics/MATRIX/matrix.s
 	@echo ... Basics/Recursion/all_indices.obj
 	@echo ... Basics/Recursion/all_indices.i
 	@echo ... Basics/Recursion/all_indices.s
@@ -6604,12 +6583,36 @@ help:
 	@echo ... Basics/Recursion/last_index.obj
 	@echo ... Basics/Recursion/last_index.i
 	@echo ... Basics/Recursion/last_index.s
+	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj
+	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i
+	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.s
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.s
+	@echo ... Basics/STL/Lists.obj
+	@echo ... Basics/STL/Lists.i
+	@echo ... Basics/STL/Lists.s
+	@echo ... Basics/STL/function_objects.obj
+	@echo ... Basics/STL/function_objects.i
+	@echo ... Basics/STL/function_objects.s
+	@echo ... Basics/STL/hashing.obj
+	@echo ... Basics/STL/hashing.i
+	@echo ... Basics/STL/hashing.s
+	@echo ... Basics/STL/maps.obj
+	@echo ... Basics/STL/maps.i
+	@echo ... Basics/STL/maps.s
+	@echo ... Basics/STL/priority_queue.obj
+	@echo ... Basics/STL/priority_queue.i
+	@echo ... Basics/STL/priority_queue.s
+	@echo ... Basics/STL/sets.obj
+	@echo ... Basics/STL/sets.i
+	@echo ... Basics/STL/sets.s
+	@echo ... Basics/STL/vectors_tut.obj
+	@echo ... Basics/STL/vectors_tut.i
+	@echo ... Basics/STL/vectors_tut.s
 	@echo ... Basics/Stack/Expression_conversions/infix_to_postfix.obj
 	@echo ... Basics/Stack/Expression_conversions/infix_to_postfix.i
 	@echo ... Basics/Stack/Expression_conversions/infix_to_postfix.s
@@ -6670,9 +6673,6 @@ help:
 	@echo ... Basics/dequeue/dequeue.obj
 	@echo ... Basics/dequeue/dequeue.i
 	@echo ... Basics/dequeue/dequeue.s
-	@echo ... Basics/function_objects.obj
-	@echo ... Basics/function_objects.i
-	@echo ... Basics/function_objects.s
 	@echo ... Basics/graphs/Djikstras.obj
 	@echo ... Basics/graphs/Djikstras.i
 	@echo ... Basics/graphs/Djikstras.s
@@ -6691,21 +6691,6 @@ help:
 	@echo ... Basics/graphs/graph2.obj
 	@echo ... Basics/graphs/graph2.i
 	@echo ... Basics/graphs/graph2.s
-	@echo ... Basics/hashing.obj
-	@echo ... Basics/hashing.i
-	@echo ... Basics/hashing.s
-	@echo ... Basics/maps.obj
-	@echo ... Basics/maps.i
-	@echo ... Basics/maps.s
-	@echo ... Basics/matrix_exp.obj
-	@echo ... Basics/matrix_exp.i
-	@echo ... Basics/matrix_exp.s
-	@echo ... Basics/mod_exp.obj
-	@echo ... Basics/mod_exp.i
-	@echo ... Basics/mod_exp.s
-	@echo ... Basics/priority_queue.obj
-	@echo ... Basics/priority_queue.i
-	@echo ... Basics/priority_queue.s
 	@echo ... Basics/queue/circular_queue.obj
 	@echo ... Basics/queue/circular_queue.i
 	@echo ... Basics/queue/circular_queue.s
@@ -6715,15 +6700,6 @@ help:
 	@echo ... Basics/queue/queue_using_LL.obj
 	@echo ... Basics/queue/queue_using_LL.i
 	@echo ... Basics/queue/queue_using_LL.s
-	@echo ... Basics/sets.obj
-	@echo ... Basics/sets.i
-	@echo ... Basics/sets.s
-	@echo ... Basics/sliding_window/max_sum_subarray_size_k.obj
-	@echo ... Basics/sliding_window/max_sum_subarray_size_k.i
-	@echo ... Basics/sliding_window/max_sum_subarray_size_k.s
-	@echo ... Basics/vectors_tut.obj
-	@echo ... Basics/vectors_tut.i
-	@echo ... Basics/vectors_tut.s
 	@echo ... DAA/file_handling.obj
 	@echo ... DAA/file_handling.i
 	@echo ... DAA/file_handling.s
@@ -6916,12 +6892,6 @@ help:
 	@echo ... calculator/calculator_II.obj
 	@echo ... calculator/calculator_II.i
 	@echo ... calculator/calculator_II.s
-	@echo ... others/main1.obj
-	@echo ... others/main1.i
-	@echo ... others/main1.s
-	@echo ... others/matrix.obj
-	@echo ... others/matrix.i
-	@echo ... others/matrix.s
 	@echo ... queue_again/queue_impl.obj
 	@echo ... queue_again/queue_impl.i
 	@echo ... queue_again/queue_impl.s
