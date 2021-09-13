@@ -16,6 +16,18 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj: ../Basi
 
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj: ../Basics/Binary_Trees_CN/binary_tree_use.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj: ../Basics/DP/DP_CN/max_cost_path.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: ../Basics/DP/DP_CN/min_cost_path.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/min_count.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: ../Basics/DP/DP_LCS/edit_distance.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cpp
@@ -46,10 +58,6 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Ba
 
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/DP_MCM/scrambled_string.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj: ../Basics/DP/get_min_squares.cpp
-
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp
@@ -63,14 +71,6 @@ CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.o
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/subset_sum.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/target_sum.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/max_cost_path.cpp.obj: ../Basics/DP/max_cost_path.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj: ../Basics/DP/min_cost_path.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj: ../Basics/DP/min_count.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj: ../Basics/DP/min_steps.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_one.cpp
 
