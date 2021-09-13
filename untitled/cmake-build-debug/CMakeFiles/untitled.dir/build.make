@@ -2507,44 +2507,44 @@ CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_FINAL.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_FINAL.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\FILE_HANDLING\file_handling_FINAL.cpp -o CMakeFiles\untitled.dir\Basics\FILE_HANDLING\file_handling_FINAL.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj: ../Basics/DP/fib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\fib.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\fib.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\fib.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\fib.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/fib.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/fib.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\fib.cpp > CMakeFiles\untitled.dir\Basics\DP\fib.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\fib.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\fib.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/fib.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/fib.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\fib.cpp -o CMakeFiles\untitled.dir\Basics\DP\fib.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\fib.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\fib.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj: ../Basics/DP/min_steps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\min_steps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_steps.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_steps.cpp > CMakeFiles\untitled.dir\Basics\DP\min_steps.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_steps.cpp -o CMakeFiles\untitled.dir\Basics\DP\min_steps.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj: ../Basics/DP/min_count.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\min_count.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_count.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/min_count.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_count.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_count.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_count.cpp > CMakeFiles\untitled.dir\Basics\DP\min_count.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_count.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_count.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_count.cpp -o CMakeFiles\untitled.dir\Basics\DP\min_count.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_count.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_count.cpp.s
 
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: ../DAA/file_handling.cpp
@@ -2988,31 +2988,44 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_MCM\scrambled_string.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_MCM\scrambled_string.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj: ../Basics/DP/get_min_squares.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\get_min_squares.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\get_min_squares.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\get_min_squares.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\get_min_squares.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\get_min_squares.cpp > CMakeFiles\untitled.dir\Basics\DP\get_min_squares.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\get_min_squares.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\get_min_squares.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\get_min_squares.cpp -o CMakeFiles\untitled.dir\Basics\DP\get_min_squares.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\get_min_squares.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\get_min_squares.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj: ../Basics/DP/min_cost_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\min_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_cost_path.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: ../Basics/DP/DP_CN/min_cost_path.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_cost_path.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_cost_path.cpp > CMakeFiles\untitled.dir\Basics\DP\min_cost_path.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_cost_path.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_cost_path.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\min_cost_path.cpp -o CMakeFiles\untitled.dir\Basics\DP\min_cost_path.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_cost_path.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_cost_path.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj: ../Basics/DP/DP_CN/max_cost_path.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_cost_path.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_cost_path.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_cost_path.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_cost_path.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_cost_path.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -3203,9 +3216,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_2.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_FINAL.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA/merge_sort.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA/n_queens.cpp.obj" \
@@ -3240,8 +3253,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3433,9 +3447,9 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/EXP_TREE/exp_tree_impl.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/FILE_HANDLING/file_handling_FINAL.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA/merge_sort.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA/n_queens.cpp.obj
@@ -3470,13 +3484,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/boolean_parenthesization.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/egg_dropping.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

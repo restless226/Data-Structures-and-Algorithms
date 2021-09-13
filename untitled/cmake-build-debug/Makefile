@@ -331,6 +331,168 @@ Basics/Binary_Trees_CN/binary_tree_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 .PHONY : Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 
+Basics/DP/DP_CN/fib.obj: Basics/DP/DP_CN/fib.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/fib.obj
+
+# target to build an object file
+Basics/DP/DP_CN/fib.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj
+.PHONY : Basics/DP/DP_CN/fib.cpp.obj
+
+Basics/DP/DP_CN/fib.i: Basics/DP/DP_CN/fib.cpp.i
+
+.PHONY : Basics/DP/DP_CN/fib.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/fib.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.i
+.PHONY : Basics/DP/DP_CN/fib.cpp.i
+
+Basics/DP/DP_CN/fib.s: Basics/DP/DP_CN/fib.cpp.s
+
+.PHONY : Basics/DP/DP_CN/fib.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/fib.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.s
+.PHONY : Basics/DP/DP_CN/fib.cpp.s
+
+Basics/DP/DP_CN/get_min_squares.obj: Basics/DP/DP_CN/get_min_squares.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/get_min_squares.obj
+
+# target to build an object file
+Basics/DP/DP_CN/get_min_squares.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj
+.PHONY : Basics/DP/DP_CN/get_min_squares.cpp.obj
+
+Basics/DP/DP_CN/get_min_squares.i: Basics/DP/DP_CN/get_min_squares.cpp.i
+
+.PHONY : Basics/DP/DP_CN/get_min_squares.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/get_min_squares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.i
+.PHONY : Basics/DP/DP_CN/get_min_squares.cpp.i
+
+Basics/DP/DP_CN/get_min_squares.s: Basics/DP/DP_CN/get_min_squares.cpp.s
+
+.PHONY : Basics/DP/DP_CN/get_min_squares.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/get_min_squares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.s
+.PHONY : Basics/DP/DP_CN/get_min_squares.cpp.s
+
+Basics/DP/DP_CN/max_cost_path.obj: Basics/DP/DP_CN/max_cost_path.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/max_cost_path.obj
+
+# target to build an object file
+Basics/DP/DP_CN/max_cost_path.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj
+.PHONY : Basics/DP/DP_CN/max_cost_path.cpp.obj
+
+Basics/DP/DP_CN/max_cost_path.i: Basics/DP/DP_CN/max_cost_path.cpp.i
+
+.PHONY : Basics/DP/DP_CN/max_cost_path.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/max_cost_path.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.i
+.PHONY : Basics/DP/DP_CN/max_cost_path.cpp.i
+
+Basics/DP/DP_CN/max_cost_path.s: Basics/DP/DP_CN/max_cost_path.cpp.s
+
+.PHONY : Basics/DP/DP_CN/max_cost_path.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/max_cost_path.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s
+.PHONY : Basics/DP/DP_CN/max_cost_path.cpp.s
+
+Basics/DP/DP_CN/min_cost_path.obj: Basics/DP/DP_CN/min_cost_path.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/min_cost_path.obj
+
+# target to build an object file
+Basics/DP/DP_CN/min_cost_path.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj
+.PHONY : Basics/DP/DP_CN/min_cost_path.cpp.obj
+
+Basics/DP/DP_CN/min_cost_path.i: Basics/DP/DP_CN/min_cost_path.cpp.i
+
+.PHONY : Basics/DP/DP_CN/min_cost_path.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/min_cost_path.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.i
+.PHONY : Basics/DP/DP_CN/min_cost_path.cpp.i
+
+Basics/DP/DP_CN/min_cost_path.s: Basics/DP/DP_CN/min_cost_path.cpp.s
+
+.PHONY : Basics/DP/DP_CN/min_cost_path.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/min_cost_path.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.s
+.PHONY : Basics/DP/DP_CN/min_cost_path.cpp.s
+
+Basics/DP/DP_CN/min_count.obj: Basics/DP/DP_CN/min_count.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/min_count.obj
+
+# target to build an object file
+Basics/DP/DP_CN/min_count.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj
+.PHONY : Basics/DP/DP_CN/min_count.cpp.obj
+
+Basics/DP/DP_CN/min_count.i: Basics/DP/DP_CN/min_count.cpp.i
+
+.PHONY : Basics/DP/DP_CN/min_count.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/min_count.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.i
+.PHONY : Basics/DP/DP_CN/min_count.cpp.i
+
+Basics/DP/DP_CN/min_count.s: Basics/DP/DP_CN/min_count.cpp.s
+
+.PHONY : Basics/DP/DP_CN/min_count.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/min_count.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.s
+.PHONY : Basics/DP/DP_CN/min_count.cpp.s
+
+Basics/DP/DP_CN/min_steps.obj: Basics/DP/DP_CN/min_steps.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/min_steps.obj
+
+# target to build an object file
+Basics/DP/DP_CN/min_steps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj
+.PHONY : Basics/DP/DP_CN/min_steps.cpp.obj
+
+Basics/DP/DP_CN/min_steps.i: Basics/DP/DP_CN/min_steps.cpp.i
+
+.PHONY : Basics/DP/DP_CN/min_steps.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/min_steps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.i
+.PHONY : Basics/DP/DP_CN/min_steps.cpp.i
+
+Basics/DP/DP_CN/min_steps.s: Basics/DP/DP_CN/min_steps.cpp.s
+
+.PHONY : Basics/DP/DP_CN/min_steps.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/min_steps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s
+.PHONY : Basics/DP/DP_CN/min_steps.cpp.s
+
 Basics/DP/DP_LCS/edit_distance.obj: Basics/DP/DP_LCS/edit_distance.cpp.obj
 
 .PHONY : Basics/DP/DP_LCS/edit_distance.obj
@@ -736,60 +898,6 @@ Basics/DP/DP_MCM/scrambled_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s
 .PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.s
 
-Basics/DP/fib.obj: Basics/DP/fib.cpp.obj
-
-.PHONY : Basics/DP/fib.obj
-
-# target to build an object file
-Basics/DP/fib.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/fib.cpp.obj
-.PHONY : Basics/DP/fib.cpp.obj
-
-Basics/DP/fib.i: Basics/DP/fib.cpp.i
-
-.PHONY : Basics/DP/fib.i
-
-# target to preprocess a source file
-Basics/DP/fib.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/fib.cpp.i
-.PHONY : Basics/DP/fib.cpp.i
-
-Basics/DP/fib.s: Basics/DP/fib.cpp.s
-
-.PHONY : Basics/DP/fib.s
-
-# target to generate assembly for a file
-Basics/DP/fib.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/fib.cpp.s
-.PHONY : Basics/DP/fib.cpp.s
-
-Basics/DP/get_min_squares.obj: Basics/DP/get_min_squares.cpp.obj
-
-.PHONY : Basics/DP/get_min_squares.obj
-
-# target to build an object file
-Basics/DP/get_min_squares.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.obj
-.PHONY : Basics/DP/get_min_squares.cpp.obj
-
-Basics/DP/get_min_squares.i: Basics/DP/get_min_squares.cpp.i
-
-.PHONY : Basics/DP/get_min_squares.i
-
-# target to preprocess a source file
-Basics/DP/get_min_squares.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.i
-.PHONY : Basics/DP/get_min_squares.cpp.i
-
-Basics/DP/get_min_squares.s: Basics/DP/get_min_squares.cpp.s
-
-.PHONY : Basics/DP/get_min_squares.s
-
-# target to generate assembly for a file
-Basics/DP/get_min_squares.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/get_min_squares.cpp.s
-.PHONY : Basics/DP/get_min_squares.cpp.s
-
 Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
 .PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
@@ -978,87 +1086,6 @@ Basics/DP/knapsack_01_variations/target_sum.s: Basics/DP/knapsack_01_variations/
 Basics/DP/knapsack_01_variations/target_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.s
 .PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.s
-
-Basics/DP/min_cost_path.obj: Basics/DP/min_cost_path.cpp.obj
-
-.PHONY : Basics/DP/min_cost_path.obj
-
-# target to build an object file
-Basics/DP/min_cost_path.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj
-.PHONY : Basics/DP/min_cost_path.cpp.obj
-
-Basics/DP/min_cost_path.i: Basics/DP/min_cost_path.cpp.i
-
-.PHONY : Basics/DP/min_cost_path.i
-
-# target to preprocess a source file
-Basics/DP/min_cost_path.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.i
-.PHONY : Basics/DP/min_cost_path.cpp.i
-
-Basics/DP/min_cost_path.s: Basics/DP/min_cost_path.cpp.s
-
-.PHONY : Basics/DP/min_cost_path.s
-
-# target to generate assembly for a file
-Basics/DP/min_cost_path.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.s
-.PHONY : Basics/DP/min_cost_path.cpp.s
-
-Basics/DP/min_count.obj: Basics/DP/min_count.cpp.obj
-
-.PHONY : Basics/DP/min_count.obj
-
-# target to build an object file
-Basics/DP/min_count.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj
-.PHONY : Basics/DP/min_count.cpp.obj
-
-Basics/DP/min_count.i: Basics/DP/min_count.cpp.i
-
-.PHONY : Basics/DP/min_count.i
-
-# target to preprocess a source file
-Basics/DP/min_count.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.i
-.PHONY : Basics/DP/min_count.cpp.i
-
-Basics/DP/min_count.s: Basics/DP/min_count.cpp.s
-
-.PHONY : Basics/DP/min_count.s
-
-# target to generate assembly for a file
-Basics/DP/min_count.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.s
-.PHONY : Basics/DP/min_count.cpp.s
-
-Basics/DP/min_steps.obj: Basics/DP/min_steps.cpp.obj
-
-.PHONY : Basics/DP/min_steps.obj
-
-# target to build an object file
-Basics/DP/min_steps.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj
-.PHONY : Basics/DP/min_steps.cpp.obj
-
-Basics/DP/min_steps.i: Basics/DP/min_steps.cpp.i
-
-.PHONY : Basics/DP/min_steps.i
-
-# target to preprocess a source file
-Basics/DP/min_steps.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.i
-.PHONY : Basics/DP/min_steps.cpp.i
-
-Basics/DP/min_steps.s: Basics/DP/min_steps.cpp.s
-
-.PHONY : Basics/DP/min_steps.s
-
-# target to generate assembly for a file
-Basics/DP/min_steps.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.s
-.PHONY : Basics/DP/min_steps.cpp.s
 
 Basics/DP/unbounded_knapsack/coin_change_one.obj: Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
@@ -6274,6 +6301,24 @@ help:
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.obj
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.i
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.s
+	@echo ... Basics/DP/DP_CN/fib.obj
+	@echo ... Basics/DP/DP_CN/fib.i
+	@echo ... Basics/DP/DP_CN/fib.s
+	@echo ... Basics/DP/DP_CN/get_min_squares.obj
+	@echo ... Basics/DP/DP_CN/get_min_squares.i
+	@echo ... Basics/DP/DP_CN/get_min_squares.s
+	@echo ... Basics/DP/DP_CN/max_cost_path.obj
+	@echo ... Basics/DP/DP_CN/max_cost_path.i
+	@echo ... Basics/DP/DP_CN/max_cost_path.s
+	@echo ... Basics/DP/DP_CN/min_cost_path.obj
+	@echo ... Basics/DP/DP_CN/min_cost_path.i
+	@echo ... Basics/DP/DP_CN/min_cost_path.s
+	@echo ... Basics/DP/DP_CN/min_count.obj
+	@echo ... Basics/DP/DP_CN/min_count.i
+	@echo ... Basics/DP/DP_CN/min_count.s
+	@echo ... Basics/DP/DP_CN/min_steps.obj
+	@echo ... Basics/DP/DP_CN/min_steps.i
+	@echo ... Basics/DP/DP_CN/min_steps.s
 	@echo ... Basics/DP/DP_LCS/edit_distance.obj
 	@echo ... Basics/DP/DP_LCS/edit_distance.i
 	@echo ... Basics/DP/DP_LCS/edit_distance.s
@@ -6319,12 +6364,6 @@ help:
 	@echo ... Basics/DP/DP_MCM/scrambled_string.obj
 	@echo ... Basics/DP/DP_MCM/scrambled_string.i
 	@echo ... Basics/DP/DP_MCM/scrambled_string.s
-	@echo ... Basics/DP/fib.obj
-	@echo ... Basics/DP/fib.i
-	@echo ... Basics/DP/fib.s
-	@echo ... Basics/DP/get_min_squares.obj
-	@echo ... Basics/DP/get_min_squares.i
-	@echo ... Basics/DP/get_min_squares.s
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
@@ -6346,15 +6385,6 @@ help:
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.obj
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.i
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.s
-	@echo ... Basics/DP/min_cost_path.obj
-	@echo ... Basics/DP/min_cost_path.i
-	@echo ... Basics/DP/min_cost_path.s
-	@echo ... Basics/DP/min_count.obj
-	@echo ... Basics/DP/min_count.i
-	@echo ... Basics/DP/min_count.s
-	@echo ... Basics/DP/min_steps.obj
-	@echo ... Basics/DP/min_steps.i
-	@echo ... Basics/DP/min_steps.s
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.obj
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.i
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.s

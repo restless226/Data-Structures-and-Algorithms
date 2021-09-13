@@ -100,7 +100,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp Basics/EXP_TREE/exp_tree_impl.cpp Basics/EXP_TREE/exp_tree.h
         Basics/EXP_TREE/exp_tree.h Basics/FILE_HANDLING/file_handling.cpp
         Basics/FILE_HANDLING/file_handling_2.cpp Basics/FILE_HANDLING/file_handling_FINAL.cpp
-        Basics/DP/fib.cpp Basics/DP/min_steps.cpp Basics/DP/min_count.cpp
+        Basics/DP/DP_CN/fib.cpp Basics/DP/DP_CN/min_steps.cpp Basics/DP/DP_CN/min_count.cpp
         DAA/file_handling.cpp DAA/merge_sort.cpp DAA/n_queens.cpp DAA/fractional_knapsack_using_greedy.cpp
         Basics/BACKTRACKING/n_queens.cpp Basics/BACKTRACKING/rat_in_a_maze.cpp
         Basics/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01_using_DP.cpp
@@ -116,6 +116,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp Basics/DP/DP_MCM/mcm.cpp
         Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/DP_MCM/palindromic_partitioning.cpp
         Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp
-        Basics/DP/DP_MCM/scrambled_string.cpp Basics/DP/get_min_squares.cpp Basics/DP/min_cost_path.cpp)
+        Basics/DP/DP_MCM/scrambled_string.cpp Basics/DP/DP_CN/get_min_squares.cpp Basics/DP/DP_CN/min_cost_path.cpp
+        Basics/DP/DP_CN/max_cost_path.cpp)
 
 
