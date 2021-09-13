@@ -979,6 +979,33 @@ Basics/DP/knapsack_01_variations/target_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.s
 .PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.s
 
+Basics/DP/min_cost_path.obj: Basics/DP/min_cost_path.cpp.obj
+
+.PHONY : Basics/DP/min_cost_path.obj
+
+# target to build an object file
+Basics/DP/min_cost_path.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj
+.PHONY : Basics/DP/min_cost_path.cpp.obj
+
+Basics/DP/min_cost_path.i: Basics/DP/min_cost_path.cpp.i
+
+.PHONY : Basics/DP/min_cost_path.i
+
+# target to preprocess a source file
+Basics/DP/min_cost_path.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.i
+.PHONY : Basics/DP/min_cost_path.cpp.i
+
+Basics/DP/min_cost_path.s: Basics/DP/min_cost_path.cpp.s
+
+.PHONY : Basics/DP/min_cost_path.s
+
+# target to generate assembly for a file
+Basics/DP/min_cost_path.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.s
+.PHONY : Basics/DP/min_cost_path.cpp.s
+
 Basics/DP/min_count.obj: Basics/DP/min_count.cpp.obj
 
 .PHONY : Basics/DP/min_count.obj
@@ -6319,6 +6346,9 @@ help:
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.obj
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.i
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.s
+	@echo ... Basics/DP/min_cost_path.obj
+	@echo ... Basics/DP/min_cost_path.i
+	@echo ... Basics/DP/min_cost_path.s
 	@echo ... Basics/DP/min_count.obj
 	@echo ... Basics/DP/min_count.i
 	@echo ... Basics/DP/min_count.s

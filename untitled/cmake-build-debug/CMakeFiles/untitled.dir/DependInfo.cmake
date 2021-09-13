@@ -35,6 +35,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/min_sum_partition.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/subset_sum.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/target_sum.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_cost_path.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_count.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/min_steps.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_one.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj"

@@ -30,6 +30,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj"

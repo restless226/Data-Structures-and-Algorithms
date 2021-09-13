@@ -64,6 +64,8 @@ CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj: ../
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/target_sum.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/min_cost_path.cpp.obj: ../Basics/DP/min_cost_path.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/min_count.cpp.obj: ../Basics/DP/min_count.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/min_steps.cpp.obj: ../Basics/DP/min_steps.cpp
