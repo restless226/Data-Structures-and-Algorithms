@@ -3027,6 +3027,45 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_cost_path.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_cost_path.cpp.s
 
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\first_-ve_no_in_every_window_size_k.cpp.s
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj: ../Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\count_occurrance_of_anagrams.cpp.s
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\max_of_all_subarrays_of_size_k.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3255,7 +3294,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3487,11 +3529,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
