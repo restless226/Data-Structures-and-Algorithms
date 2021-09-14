@@ -320,13 +320,13 @@ CMakeFiles/untitled.dir/Basics/queue/queue_code.cpp.obj: ../Basics/queue/queue_c
 
 CMakeFiles/untitled.dir/Basics/queue/queue_using_LL.cpp.obj: ../Basics/queue/queue_using_LL.cpp
 
-CMakeFiles/untitled.dir/Basics/sliding_window/count_occurrance_of_anagrams.cpp.obj: ../Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp
+CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/count_occurrance_of_anagrams.cpp.obj: ../Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp
 
-CMakeFiles/untitled.dir/Basics/sliding_window/first_-ve_no_in_every_window_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp
+CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
 
-CMakeFiles/untitled.dir/Basics/sliding_window/max_of_all_subarrays_of_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp
+CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/max_of_all_subarrays_of_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
 
-CMakeFiles/untitled.dir/Basics/sliding_window/max_sum_subarray_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp
+CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/max_sum_subarray_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
 
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: ../DAA/file_handling.cpp
 

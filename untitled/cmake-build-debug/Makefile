@@ -3409,113 +3409,113 @@ Basics/Recursion/last_index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.s
 .PHONY : Basics/Recursion/last_index.cpp.s
 
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.obj: Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.obj
-
-# target to build an object file
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.obj
-
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.i: Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i
-
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.i
-
-# target to preprocess a source file
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.i
-
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.s: Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s
-
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.s
-
-# target to generate assembly for a file
-Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s
-.PHONY : Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp.s
-
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.obj: Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj
-
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj
 
 # target to build an object file
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.i: Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.i
 
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i
 
 # target to preprocess a source file
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.i
 
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.s: Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.s
 
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s
 
 # target to generate assembly for a file
-Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s
-.PHONY : Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.s
 
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.obj: Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.obj: Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj
 
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.obj
 
 # target to build an object file
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj
 
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.i: Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.i: Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.i
 
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.i
 
 # target to preprocess a source file
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.i
 
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.s: Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.s: Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.s
 
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.s
 
 # target to generate assembly for a file
-Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s
-.PHONY : Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.s
 
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.obj: Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj
 
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.obj
 
 # target to build an object file
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.obj
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj
 
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.i: Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.i
 
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.i
 
 # target to preprocess a source file
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.i
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.i
 
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s: Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.s: Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.s
 
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.s
 
 # target to generate assembly for a file
-Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
-.PHONY : Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp.s
+Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.s
+
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.obj: Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj
+
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.i: Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.i
+
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.s: Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s
 
 Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj: Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
 
@@ -6724,18 +6724,18 @@ help:
 	@echo ... Basics/Recursion/last_index.obj
 	@echo ... Basics/Recursion/last_index.i
 	@echo ... Basics/Recursion/last_index.s
-	@echo ... Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.obj
-	@echo ... Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.i
-	@echo ... Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.s
-	@echo ... Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.obj
-	@echo ... Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.i
-	@echo ... Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.s
-	@echo ... Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.obj
-	@echo ... Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.i
-	@echo ... Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.s
-	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.obj
-	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.i
-	@echo ... Basics/SLIDING_WINDOW/max_sum_subarray_size_k.s
+	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj
+	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i
+	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s
+	@echo ... Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.obj
+	@echo ... Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.i
+	@echo ... Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.s
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.obj
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.i
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.s
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.obj
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.i
+	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.s
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.s

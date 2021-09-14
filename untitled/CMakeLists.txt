@@ -87,7 +87,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/Recursion/fib.cpp Basics/Recursion/array_sort.cpp
         Basics/Recursion/first_index.cpp Basics/Recursion/last_index.cpp
         Basics/Recursion/all_indices.cpp Basics/Recursion/find_char_arr_length.cpp
-        Basics/SLIDING_WINDOW/max_sum_subarray_size_k.cpp
+        Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
         Basics/Trees_CN/tree_node.h Basics/Trees_CN/tree_use.cpp Basics/Binary_Trees_CN/binary_tree_node.h
         Basics/Binary_Trees_CN/binary_tree_use.cpp
         Basics/Binary_Trees_CN/binary_tree_main.cpp Basics/BST_CN/BST.h
@@ -117,7 +117,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/DP_MCM/palindromic_partitioning.cpp
         Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp
         Basics/DP/DP_MCM/scrambled_string.cpp Basics/DP/DP_CN/get_min_squares.cpp Basics/DP/DP_CN/min_cost_path.cpp
-        Basics/DP/DP_CN/max_cost_path.cpp Basics/SLIDING_WINDOW/first_-ve_no_in_every_window_size_k.cpp
-        Basics/SLIDING_WINDOW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/max_of_all_subarrays_of_size_k.cpp)
+        Basics/DP/DP_CN/max_cost_path.cpp Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
+        Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp)
 
 
