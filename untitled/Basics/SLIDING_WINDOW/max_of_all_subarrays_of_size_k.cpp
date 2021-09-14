@@ -10,6 +10,39 @@
 //#define int long long
 //using namespace std;
 //
+//vector<int> max_of_all_subarray_3(int arr[], int n, int K) {
+//    int i = 0;    // window back pointer
+//    int j = 0;    // window front pointer
+//    vector<int> ans;
+//    deque<int> dq;
+//
+//    while (j < n) {
+//        // calculation for j
+//        while (!dq.empty() && dq.back() < arr[j]) {
+//            dq.pop_back();
+//        }
+//        dq.push_back(arr[j]);
+//
+//        if (j - i + 1 < K) {
+//            j++;
+//        } else if (j - i + 1 == K) {
+//            // calculation for ans
+//            ans.push_back(dq.front());
+//
+//            // calculation for i
+//            if (dq.front() == arr[i]) {
+//                dq.pop_front();
+//            }
+//
+//            // to slide the window further
+//            i++;
+//            j++;
+//        }
+//    }
+//
+//    return ans;
+//}
+//
 //vector<int> max_of_all_subarray_2(int arr[], int n, int K) {
 //    vector<int> ans;
 //
@@ -33,7 +66,6 @@
 //    }
 //    return ans;
 //}
-//
 //
 //vector<int> max_of_all_subarray(int arr[], int n, int K) {
 //
@@ -95,13 +127,20 @@
 //
 //        vector<int> ans = max_of_all_subarray(arr, n, K);
 //
-//        cout << "\nmax element for each subarray is :\n ";
+//        cout << "\nmax element for each subarray is :\n";
 //        for (auto itr: ans) {
 //            cout << itr << " ";
 //        }
 //        cout << '\n';
 //
 //        ans = max_of_all_subarray_2(arr, n, K);
+//
+//        for (auto itr: ans) {
+//            cout << itr << " ";
+//        }
+//        cout << '\n';
+//
+//        ans = max_of_all_subarray_3(arr, n, K);
 //
 //        for (auto itr: ans) {
 //            cout << itr << " ";
@@ -120,6 +159,7 @@
 //1 2 3 1 4 5 2 3 6
 //
 //max element for each subarray is :
+//3 3 4 5 5 5 6
 //3 3 4 5 5 5 6
 //3 3 4 5 5 5 6
 //*/
