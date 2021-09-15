@@ -473,6 +473,18 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>

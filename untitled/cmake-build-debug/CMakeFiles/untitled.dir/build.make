@@ -3066,6 +3066,58 @@ CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\FSSW\max_of_all_subarrays_of_size_k.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\FSSW\max_of_all_subarrays_of_size_k.cpp.s
 
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp.s
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp.s
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp.s
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp > CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp.i
+
+CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3297,7 +3349,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3532,11 +3588,15 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

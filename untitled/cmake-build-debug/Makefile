@@ -3517,6 +3517,114 @@ Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s
 .PHONY : Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s
 
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.obj: Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.i: Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.s: Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.obj: Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.i: Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.s: Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.s
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.obj: Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.i: Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.s: Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
+
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj: Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i: Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s: Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
+
 Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj: Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
 
 .PHONY : Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
@@ -6736,6 +6844,18 @@ help:
 	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.obj
 	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.i
 	@echo ... Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.s

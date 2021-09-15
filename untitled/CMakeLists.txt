@@ -118,6 +118,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp
         Basics/DP/DP_MCM/scrambled_string.cpp Basics/DP/DP_CN/get_min_squares.cpp Basics/DP/DP_CN/min_cost_path.cpp
         Basics/DP/DP_CN/max_cost_path.cpp Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
-        Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp)
+        Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
+        Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
+        Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
+        Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp)
 
 

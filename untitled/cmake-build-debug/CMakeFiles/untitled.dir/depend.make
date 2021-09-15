@@ -328,6 +328,14 @@ CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/max_of_all_subarrays_of_size_
 
 CMakeFiles/untitled.dir/Basics/sliding_window/FSSW/max_sum_subarray_size_k.cpp.obj: ../Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
 
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/largest_subarray_of_sum_K.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp
+
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/longest_substring_with_K_unique_characters.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
+
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/longest_substring_without_repeating_characters.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
+
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/subarray_with_given_sum.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
+
 CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: ../DAA/file_handling.cpp
 
 CMakeFiles/untitled.dir/DAA/fractional_knapsack_using_greedy.cpp.obj: ../DAA/fractional_knapsack_using_greedy.cpp

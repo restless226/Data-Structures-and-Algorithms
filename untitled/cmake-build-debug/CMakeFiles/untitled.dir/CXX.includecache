@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp
-
-C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
-
-C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
-
-C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
-
-C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough4.cpp
+C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
+bits/stdc++.h
+-
 
