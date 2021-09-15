@@ -3598,6 +3598,33 @@ Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
 .PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
 
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.obj: Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.i: Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.s: Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s
+
 Basics/SLIDING_WINDOW/VSSW/pick_toys.obj: Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
 
 .PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.obj
@@ -6880,6 +6907,9 @@ help:
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.obj
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.i
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/min_window_substring.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/min_window_substring.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/min_window_substring.s
 	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.obj
 	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.i
 	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.s

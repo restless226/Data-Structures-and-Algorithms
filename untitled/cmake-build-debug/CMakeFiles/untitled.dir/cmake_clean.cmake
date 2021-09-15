@@ -127,6 +127,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj"

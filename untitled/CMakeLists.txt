@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(untitled)
 
+
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(untitled algorithmic_toolbox/test.cpp
@@ -122,6 +123,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
-        Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp)
+        Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
+        )
 
 

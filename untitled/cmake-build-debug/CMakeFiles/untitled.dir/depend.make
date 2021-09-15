@@ -334,6 +334,10 @@ CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/longest_substring_with_K_uniq
 
 CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/longest_substring_without_repeating_characters.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
 
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/min_window_substring.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
+
+CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/no_of_subarrays_with_given_sum.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/no_of_subarrays_with_given_sum.cpp
+
 CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/pick_toys.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp
 
 CMakeFiles/untitled.dir/Basics/sliding_window/VSSW/subarray_with_given_sum.cpp.obj: ../Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
