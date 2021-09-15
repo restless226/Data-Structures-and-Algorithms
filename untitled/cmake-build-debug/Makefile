@@ -3598,6 +3598,33 @@ Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
 .PHONY : Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.s
 
+Basics/SLIDING_WINDOW/VSSW/pick_toys.obj: Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.obj
+
+# target to build an object file
+Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
+
+Basics/SLIDING_WINDOW/VSSW/pick_toys.i: Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.i
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.i
+
+# target to preprocess a source file
+Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.i
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.i
+
+Basics/SLIDING_WINDOW/VSSW/pick_toys.s: Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.s
+
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.s
+
+# target to generate assembly for a file
+Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.s
+.PHONY : Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.s
+
 Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj: Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
 
 .PHONY : Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
@@ -6853,6 +6880,9 @@ help:
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.obj
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.i
 	@echo ... Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.s
+	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.obj
+	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.i
+	@echo ... Basics/SLIDING_WINDOW/VSSW/pick_toys.s
 	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
 	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
 	@echo ... Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s

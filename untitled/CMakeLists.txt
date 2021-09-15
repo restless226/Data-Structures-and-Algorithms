@@ -121,6 +121,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
         Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
-        Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp)
+        Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
+        Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp)
 
 
