@@ -3144,6 +3144,58 @@ CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\min_window_substring.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\min_window_substring.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: ../Basics/DP/DP_CN/loot_houses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\loot_houses.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\loot_houses.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\loot_houses.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\loot_houses.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\loot_houses.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\loot_houses.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj: ../Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj: ../Basics/DP/DP_CN/suss.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3381,7 +3433,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3622,11 +3678,15 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substri
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

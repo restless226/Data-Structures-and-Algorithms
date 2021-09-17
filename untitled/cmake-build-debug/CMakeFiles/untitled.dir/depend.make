@@ -20,7 +20,13 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: ../Basics/DP/DP_CN/loot_houses.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj: ../Basics/DP/DP_CN/max_cost_path.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj: ../Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: ../Basics/DP/DP_CN/min_cost_path.cpp
 

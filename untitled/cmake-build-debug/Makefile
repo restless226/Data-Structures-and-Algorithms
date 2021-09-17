@@ -385,6 +385,60 @@ Basics/DP/DP_CN/get_min_squares.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.s
 .PHONY : Basics/DP/DP_CN/get_min_squares.cpp.s
 
+Basics/DP/DP_CN/lis.obj: Basics/DP/DP_CN/lis.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/lis.obj
+
+# target to build an object file
+Basics/DP/DP_CN/lis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
+.PHONY : Basics/DP/DP_CN/lis.cpp.obj
+
+Basics/DP/DP_CN/lis.i: Basics/DP/DP_CN/lis.cpp.i
+
+.PHONY : Basics/DP/DP_CN/lis.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/lis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i
+.PHONY : Basics/DP/DP_CN/lis.cpp.i
+
+Basics/DP/DP_CN/lis.s: Basics/DP/DP_CN/lis.cpp.s
+
+.PHONY : Basics/DP/DP_CN/lis.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/lis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s
+.PHONY : Basics/DP/DP_CN/lis.cpp.s
+
+Basics/DP/DP_CN/loot_houses.obj: Basics/DP/DP_CN/loot_houses.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/loot_houses.obj
+
+# target to build an object file
+Basics/DP/DP_CN/loot_houses.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj
+.PHONY : Basics/DP/DP_CN/loot_houses.cpp.obj
+
+Basics/DP/DP_CN/loot_houses.i: Basics/DP/DP_CN/loot_houses.cpp.i
+
+.PHONY : Basics/DP/DP_CN/loot_houses.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/loot_houses.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.i
+.PHONY : Basics/DP/DP_CN/loot_houses.cpp.i
+
+Basics/DP/DP_CN/loot_houses.s: Basics/DP/DP_CN/loot_houses.cpp.s
+
+.PHONY : Basics/DP/DP_CN/loot_houses.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/loot_houses.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.s
+.PHONY : Basics/DP/DP_CN/loot_houses.cpp.s
+
 Basics/DP/DP_CN/max_cost_path.obj: Basics/DP/DP_CN/max_cost_path.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/max_cost_path.obj
@@ -411,6 +465,33 @@ Basics/DP/DP_CN/max_cost_path.s: Basics/DP/DP_CN/max_cost_path.cpp.s
 Basics/DP/DP_CN/max_cost_path.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.s
 .PHONY : Basics/DP/DP_CN/max_cost_path.cpp.s
+
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.obj: Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.obj
+
+# target to build an object file
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
+
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.i: Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i
+
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.i
+
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.s: Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s
+
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s
+.PHONY : Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s
 
 Basics/DP/DP_CN/min_cost_path.obj: Basics/DP/DP_CN/min_cost_path.cpp.obj
 
@@ -492,6 +573,33 @@ Basics/DP/DP_CN/min_steps.s: Basics/DP/DP_CN/min_steps.cpp.s
 Basics/DP/DP_CN/min_steps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s
 .PHONY : Basics/DP/DP_CN/min_steps.cpp.s
+
+Basics/DP/DP_CN/suss.obj: Basics/DP/DP_CN/suss.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/suss.obj
+
+# target to build an object file
+Basics/DP/DP_CN/suss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj
+.PHONY : Basics/DP/DP_CN/suss.cpp.obj
+
+Basics/DP/DP_CN/suss.i: Basics/DP/DP_CN/suss.cpp.i
+
+.PHONY : Basics/DP/DP_CN/suss.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/suss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i
+.PHONY : Basics/DP/DP_CN/suss.cpp.i
+
+Basics/DP/DP_CN/suss.s: Basics/DP/DP_CN/suss.cpp.s
+
+.PHONY : Basics/DP/DP_CN/suss.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/suss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s
+.PHONY : Basics/DP/DP_CN/suss.cpp.s
 
 Basics/DP/DP_LCS/edit_distance.obj: Basics/DP/DP_LCS/edit_distance.cpp.obj
 
@@ -6550,9 +6658,18 @@ help:
 	@echo ... Basics/DP/DP_CN/get_min_squares.obj
 	@echo ... Basics/DP/DP_CN/get_min_squares.i
 	@echo ... Basics/DP/DP_CN/get_min_squares.s
+	@echo ... Basics/DP/DP_CN/lis.obj
+	@echo ... Basics/DP/DP_CN/lis.i
+	@echo ... Basics/DP/DP_CN/lis.s
+	@echo ... Basics/DP/DP_CN/loot_houses.obj
+	@echo ... Basics/DP/DP_CN/loot_houses.i
+	@echo ... Basics/DP/DP_CN/loot_houses.s
 	@echo ... Basics/DP/DP_CN/max_cost_path.obj
 	@echo ... Basics/DP/DP_CN/max_cost_path.i
 	@echo ... Basics/DP/DP_CN/max_cost_path.s
+	@echo ... Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.obj
+	@echo ... Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.i
+	@echo ... Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.s
 	@echo ... Basics/DP/DP_CN/min_cost_path.obj
 	@echo ... Basics/DP/DP_CN/min_cost_path.i
 	@echo ... Basics/DP/DP_CN/min_cost_path.s
@@ -6562,6 +6679,9 @@ help:
 	@echo ... Basics/DP/DP_CN/min_steps.obj
 	@echo ... Basics/DP/DP_CN/min_steps.i
 	@echo ... Basics/DP/DP_CN/min_steps.s
+	@echo ... Basics/DP/DP_CN/suss.obj
+	@echo ... Basics/DP/DP_CN/suss.i
+	@echo ... Basics/DP/DP_CN/suss.s
 	@echo ... Basics/DP/DP_LCS/edit_distance.obj
 	@echo ... Basics/DP/DP_LCS/edit_distance.i
 	@echo ... Basics/DP/DP_LCS/edit_distance.s

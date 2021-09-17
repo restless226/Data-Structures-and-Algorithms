@@ -113,7 +113,16 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/get_min_squares.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/lis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/loot_houses.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/max_cost_path.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_cost_path.cpp">
@@ -123,6 +132,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/suss.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/edit_distance.cpp">
