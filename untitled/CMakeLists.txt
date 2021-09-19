@@ -125,6 +125,6 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
         Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
         Basics/DP/DP_CN/lis.cpp Basics/DP/DP_CN/loot_houses.cpp Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
-        Basics/DP/DP_CN/suss.cpp)
+        Basics/DP/DP_CN/sus.cpp)
 
 

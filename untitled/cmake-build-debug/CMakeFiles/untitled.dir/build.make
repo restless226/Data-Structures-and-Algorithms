@@ -3183,18 +3183,18 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\max_square_matrix_with_all_zeroes.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj: ../Basics/DP/DP_CN/suss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj: ../Basics/DP/DP_CN/sus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\sus.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\sus.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\sus.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\sus.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\suss.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\suss.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\sus.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\sus.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -3437,7 +3437,7 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3681,7 +3681,7 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_subs
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp

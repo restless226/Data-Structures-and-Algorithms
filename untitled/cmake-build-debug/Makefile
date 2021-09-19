@@ -574,32 +574,32 @@ Basics/DP/DP_CN/min_steps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s
 .PHONY : Basics/DP/DP_CN/min_steps.cpp.s
 
-Basics/DP/DP_CN/suss.obj: Basics/DP/DP_CN/suss.cpp.obj
+Basics/DP/DP_CN/sus.obj: Basics/DP/DP_CN/sus.cpp.obj
 
-.PHONY : Basics/DP/DP_CN/suss.obj
+.PHONY : Basics/DP/DP_CN/sus.obj
 
 # target to build an object file
-Basics/DP/DP_CN/suss.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj
-.PHONY : Basics/DP/DP_CN/suss.cpp.obj
+Basics/DP/DP_CN/sus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj
+.PHONY : Basics/DP/DP_CN/sus.cpp.obj
 
-Basics/DP/DP_CN/suss.i: Basics/DP/DP_CN/suss.cpp.i
+Basics/DP/DP_CN/sus.i: Basics/DP/DP_CN/sus.cpp.i
 
-.PHONY : Basics/DP/DP_CN/suss.i
+.PHONY : Basics/DP/DP_CN/sus.i
 
 # target to preprocess a source file
-Basics/DP/DP_CN/suss.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.i
-.PHONY : Basics/DP/DP_CN/suss.cpp.i
+Basics/DP/DP_CN/sus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.i
+.PHONY : Basics/DP/DP_CN/sus.cpp.i
 
-Basics/DP/DP_CN/suss.s: Basics/DP/DP_CN/suss.cpp.s
+Basics/DP/DP_CN/sus.s: Basics/DP/DP_CN/sus.cpp.s
 
-.PHONY : Basics/DP/DP_CN/suss.s
+.PHONY : Basics/DP/DP_CN/sus.s
 
 # target to generate assembly for a file
-Basics/DP/DP_CN/suss.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.s
-.PHONY : Basics/DP/DP_CN/suss.cpp.s
+Basics/DP/DP_CN/sus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.s
+.PHONY : Basics/DP/DP_CN/sus.cpp.s
 
 Basics/DP/DP_LCS/edit_distance.obj: Basics/DP/DP_LCS/edit_distance.cpp.obj
 
@@ -6679,9 +6679,9 @@ help:
 	@echo ... Basics/DP/DP_CN/min_steps.obj
 	@echo ... Basics/DP/DP_CN/min_steps.i
 	@echo ... Basics/DP/DP_CN/min_steps.s
-	@echo ... Basics/DP/DP_CN/suss.obj
-	@echo ... Basics/DP/DP_CN/suss.i
-	@echo ... Basics/DP/DP_CN/suss.s
+	@echo ... Basics/DP/DP_CN/sus.obj
+	@echo ... Basics/DP/DP_CN/sus.i
+	@echo ... Basics/DP/DP_CN/sus.s
 	@echo ... Basics/DP/DP_LCS/edit_distance.obj
 	@echo ... Basics/DP/DP_LCS/edit_distance.i
 	@echo ... Basics/DP/DP_LCS/edit_distance.s

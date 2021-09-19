@@ -20,7 +20,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_cost_path.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_count.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj"
-  "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/suss.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/sus.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/edit_distance.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/lcs.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/longest_common_substring.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj"

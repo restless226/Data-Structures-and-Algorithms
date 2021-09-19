@@ -15,7 +15,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj"
-  "CMakeFiles/untitled.dir/Basics/DP/DP_CN/suss.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj"

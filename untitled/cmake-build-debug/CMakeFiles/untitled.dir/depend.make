@@ -34,6 +34,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/mi
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj: ../Basics/DP/DP_CN/sus.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: ../Basics/DP/DP_LCS/edit_distance.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cpp
