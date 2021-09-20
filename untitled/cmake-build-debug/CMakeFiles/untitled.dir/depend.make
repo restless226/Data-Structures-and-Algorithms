@@ -24,6 +24,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: ../Basics/DP/DP_CN/loot_houses.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/lus.cpp.obj: ../Basics/DP/DP_CN/lus.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_cost_path.cpp.obj: ../Basics/DP/DP_CN/max_cost_path.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj: ../Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
@@ -256,6 +258,20 @@ CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../B
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
 
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.obj: ../Basics/STACK_PROBLEMS/mah.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj: ../Basics/STACK_PROBLEMS/mar.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngl.cpp.obj: ../Basics/STACK_PROBLEMS/ngl.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngr.cpp.obj: ../Basics/STACK_PROBLEMS/ngr.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsl.cpp.obj: ../Basics/STACK_PROBLEMS/nsl.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.obj: ../Basics/STACK_PROBLEMS/nsr.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.obj: ../Basics/STACK_PROBLEMS/stock_span.cpp
+
 CMakeFiles/untitled.dir/Basics/STL/Lists.cpp.obj: ../Basics/STL/Lists.cpp
 
 CMakeFiles/untitled.dir/Basics/STL/function_objects.cpp.obj: ../Basics/STL/function_objects.cpp
@@ -368,6 +384,88 @@ CMakeFiles/untitled.dir/DSAL_mock/impl.cpp.obj: ../DSAL_mock/impl.cpp
 
 CMakeFiles/untitled.dir/DSAL_mock/main.cpp.obj: ../DSAL_mock/main.cpp
 
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array1.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array4.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/ass1.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.obj: ../DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.obj: ../DSA_ASSIGNMENTS/assignment_1/main_interface.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
+
 CMakeFiles/untitled.dir/DSA_mock_test.cpp.obj: ../DSA_mock_test.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.obj: ../ROUGH_FILES/main.cpp
@@ -391,88 +489,6 @@ CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj: ../algori
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj: ../algorithmic_toolbox/week3/max_loot.cpp
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj: ../algorithmic_toolbox/week3/money_change.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/array1.cpp.obj: ../arrays_practice/array1.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/array3_1.cpp.obj: ../arrays_practice/array3_1.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/array4.cpp.obj: ../arrays_practice/array4.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/array4_1.cpp.obj: ../arrays_practice/array4_1.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/array_sorting.cpp.obj: ../arrays_practice/array_sorting.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/arrays3.cpp.obj: ../arrays_practice/arrays3.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/ass1.cpp.obj: ../arrays_practice/ass1.cpp
-
-CMakeFiles/untitled.dir/arrays_practice/ass1_again.cpp.obj: ../arrays_practice/ass1_again.cpp
-
-CMakeFiles/untitled.dir/assignment4_exp_tree/Assignment4.cpp.obj: ../assignment4_exp_tree/Assignment4.cpp
-
-CMakeFiles/untitled.dir/assignment4_exp_tree/ExpressionImplementation.cpp.obj: ../assignment4_exp_tree/ExpressionImplementation.cpp
-
-CMakeFiles/untitled.dir/assignment4_exp_tree/StackImplementation.cpp.obj: ../assignment4_exp_tree/StackImplementation.cpp
-
-CMakeFiles/untitled.dir/assignment4_exp_tree/TreeExpressionImplementation.cpp.obj: ../assignment4_exp_tree/TreeExpressionImplementation.cpp
-
-CMakeFiles/untitled.dir/assignment4_exp_tree/exp_tree_final.cpp.obj: ../assignment4_exp_tree/exp_tree_final.cpp
-
-CMakeFiles/untitled.dir/assignment_1/assignment_1_using_struct.cpp.obj: ../assignment_1/assignment_1_using_struct.cpp
-
-CMakeFiles/untitled.dir/assignment_1/main_interface.cpp.obj: ../assignment_1/main_interface.cpp
-
-CMakeFiles/untitled.dir/assignment_1/studDB_impl.cpp.obj: ../assignment_1/studDB_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_10/assignment_10.cpp.obj: ../assignment_10/assignment_10.cpp
-
-CMakeFiles/untitled.dir/assignment_10/impl.cpp.obj: ../assignment_10/impl.cpp
-
-CMakeFiles/untitled.dir/assignment_10/main.cpp.obj: ../assignment_10/main.cpp
-
-CMakeFiles/untitled.dir/assignment_2_stack/mainFile.cpp.obj: ../assignment_2_stack/mainFile.cpp
-
-CMakeFiles/untitled.dir/assignment_2_stack/stack_final.cpp.obj: ../assignment_2_stack/stack_final.cpp
-
-CMakeFiles/untitled.dir/assignment_2_stack/stack_impl.cpp.obj: ../assignment_2_stack/stack_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_3_queue/circular_queue_2.cpp.obj: ../assignment_3_queue/circular_queue_2.cpp
-
-CMakeFiles/untitled.dir/assignment_3_queue/impl.cpp.obj: ../assignment_3_queue/impl.cpp
-
-CMakeFiles/untitled.dir/assignment_3_queue/main.cpp.obj: ../assignment_3_queue/main.cpp
-
-CMakeFiles/untitled.dir/assignment_3_queue/queue_final.cpp.obj: ../assignment_3_queue/queue_final.cpp
-
-CMakeFiles/untitled.dir/assignment_5_BST/BST.cpp.obj: ../assignment_5_BST/BST.cpp
-
-CMakeFiles/untitled.dir/assignment_5_BST/BST_Main.cpp.obj: ../assignment_5_BST/BST_Main.cpp
-
-CMakeFiles/untitled.dir/assignment_5_BST/BST_final.cpp.obj: ../assignment_5_BST/BST_final.cpp
-
-CMakeFiles/untitled.dir/assignment_6_TBT/TBT_FINAL.cpp.obj: ../assignment_6_TBT/TBT_FINAL.cpp
-
-CMakeFiles/untitled.dir/assignment_6_TBT/tbt_impl.cpp.obj: ../assignment_6_TBT/tbt_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_6_TBT/tbt_main.cpp.obj: ../assignment_6_TBT/tbt_main.cpp
-
-CMakeFiles/untitled.dir/assignment_7/assignment_7.cpp.obj: ../assignment_7/assignment_7.cpp
-
-CMakeFiles/untitled.dir/assignment_7/mst_impl.cpp.obj: ../assignment_7/mst_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_7/mst_main.cpp.obj: ../assignment_7/mst_main.cpp
-
-CMakeFiles/untitled.dir/assignment_8/assignment_8.cpp.obj: ../assignment_8/assignment_8.cpp
-
-CMakeFiles/untitled.dir/assignment_8/dijk_impl.cpp.obj: ../assignment_8/dijk_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_8/dijk_main.cpp.obj: ../assignment_8/dijk_main.cpp
-
-CMakeFiles/untitled.dir/assignment_9_heap_sort/HEAP.cpp.obj: ../assignment_9_heap_sort/HEAP.cpp
-
-CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_impl.cpp.obj: ../assignment_9_heap_sort/heap_impl.cpp
-
-CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.obj: ../assignment_9_heap_sort/heap_main.cpp
 
 CMakeFiles/untitled.dir/calculator/calculator_II.cpp.obj: ../calculator/calculator_II.cpp
 

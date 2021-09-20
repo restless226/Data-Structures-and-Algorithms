@@ -439,6 +439,33 @@ Basics/DP/DP_CN/loot_houses.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.s
 .PHONY : Basics/DP/DP_CN/loot_houses.cpp.s
 
+Basics/DP/DP_CN/lus.obj: Basics/DP/DP_CN/lus.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/lus.obj
+
+# target to build an object file
+Basics/DP/DP_CN/lus.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lus.cpp.obj
+.PHONY : Basics/DP/DP_CN/lus.cpp.obj
+
+Basics/DP/DP_CN/lus.i: Basics/DP/DP_CN/lus.cpp.i
+
+.PHONY : Basics/DP/DP_CN/lus.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/lus.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lus.cpp.i
+.PHONY : Basics/DP/DP_CN/lus.cpp.i
+
+Basics/DP/DP_CN/lus.s: Basics/DP/DP_CN/lus.cpp.s
+
+.PHONY : Basics/DP/DP_CN/lus.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/lus.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lus.cpp.s
+.PHONY : Basics/DP/DP_CN/lus.cpp.s
+
 Basics/DP/DP_CN/max_cost_path.obj: Basics/DP/DP_CN/max_cost_path.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/max_cost_path.obj
@@ -3841,6 +3868,195 @@ Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 .PHONY : Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 
+Basics/STACK_PROBLEMS/mah.obj: Basics/STACK_PROBLEMS/mah.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/mah.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/mah.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/mah.cpp.obj
+
+Basics/STACK_PROBLEMS/mah.i: Basics/STACK_PROBLEMS/mah.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/mah.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/mah.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/mah.cpp.i
+
+Basics/STACK_PROBLEMS/mah.s: Basics/STACK_PROBLEMS/mah.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/mah.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/mah.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/mah.cpp.s
+
+Basics/STACK_PROBLEMS/mar.obj: Basics/STACK_PROBLEMS/mar.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/mar.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/mar.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/mar.cpp.obj
+
+Basics/STACK_PROBLEMS/mar.i: Basics/STACK_PROBLEMS/mar.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/mar.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/mar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/mar.cpp.i
+
+Basics/STACK_PROBLEMS/mar.s: Basics/STACK_PROBLEMS/mar.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/mar.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/mar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/mar.cpp.s
+
+Basics/STACK_PROBLEMS/ngl.obj: Basics/STACK_PROBLEMS/ngl.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/ngl.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/ngl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngl.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/ngl.cpp.obj
+
+Basics/STACK_PROBLEMS/ngl.i: Basics/STACK_PROBLEMS/ngl.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/ngl.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/ngl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngl.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/ngl.cpp.i
+
+Basics/STACK_PROBLEMS/ngl.s: Basics/STACK_PROBLEMS/ngl.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/ngl.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/ngl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngl.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/ngl.cpp.s
+
+Basics/STACK_PROBLEMS/ngr.obj: Basics/STACK_PROBLEMS/ngr.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/ngr.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/ngr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngr.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/ngr.cpp.obj
+
+Basics/STACK_PROBLEMS/ngr.i: Basics/STACK_PROBLEMS/ngr.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/ngr.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/ngr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngr.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/ngr.cpp.i
+
+Basics/STACK_PROBLEMS/ngr.s: Basics/STACK_PROBLEMS/ngr.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/ngr.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/ngr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngr.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/ngr.cpp.s
+
+Basics/STACK_PROBLEMS/nsl.obj: Basics/STACK_PROBLEMS/nsl.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/nsl.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/nsl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsl.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/nsl.cpp.obj
+
+Basics/STACK_PROBLEMS/nsl.i: Basics/STACK_PROBLEMS/nsl.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/nsl.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/nsl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsl.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/nsl.cpp.i
+
+Basics/STACK_PROBLEMS/nsl.s: Basics/STACK_PROBLEMS/nsl.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/nsl.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/nsl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsl.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/nsl.cpp.s
+
+Basics/STACK_PROBLEMS/nsr.obj: Basics/STACK_PROBLEMS/nsr.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/nsr.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/nsr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/nsr.cpp.obj
+
+Basics/STACK_PROBLEMS/nsr.i: Basics/STACK_PROBLEMS/nsr.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/nsr.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/nsr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/nsr.cpp.i
+
+Basics/STACK_PROBLEMS/nsr.s: Basics/STACK_PROBLEMS/nsr.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/nsr.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/nsr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/nsr.cpp.s
+
+Basics/STACK_PROBLEMS/stock_span.obj: Basics/STACK_PROBLEMS/stock_span.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/stock_span.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/stock_span.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/stock_span.cpp.obj
+
+Basics/STACK_PROBLEMS/stock_span.i: Basics/STACK_PROBLEMS/stock_span.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/stock_span.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/stock_span.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/stock_span.cpp.i
+
+Basics/STACK_PROBLEMS/stock_span.s: Basics/STACK_PROBLEMS/stock_span.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/stock_span.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/stock_span.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/stock_span.cpp.s
+
 Basics/STL/Lists.obj: Basics/STL/Lists.cpp.obj
 
 .PHONY : Basics/STL/Lists.obj
@@ -5083,6 +5299,1113 @@ DSAL_mock/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/main.cpp.s
 .PHONY : DSAL_mock/main.cpp.s
 
+DSA_ASSIGNMENTS/arrays_practice/array1.obj: DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/array1.i: DSA_ASSIGNMENTS/arrays_practice/array1.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/array1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array1.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/array1.s: DSA_ASSIGNMENTS/arrays_practice/array1.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/array1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array1.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array1.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/array3_1.obj: DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/array3_1.i: DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/array3_1.s: DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/array4.obj: DSA_ASSIGNMENTS/arrays_practice/array4.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/array4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/array4.i: DSA_ASSIGNMENTS/arrays_practice/array4.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/array4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/array4.s: DSA_ASSIGNMENTS/arrays_practice/array4.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/array4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/array4_1.obj: DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/array4_1.i: DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/array4_1.s: DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.obj: DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.i: DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.s: DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/arrays3.obj: DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/arrays3.i: DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/arrays3.s: DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/ass1.obj: DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/ass1.i: DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/ass1.s: DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.s
+
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.obj: DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj
+
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.i: DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.i
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.i
+
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.s: DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s
+.PHONY : DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s
+
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.obj: DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.i: DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.i
+
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.s: DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp.s
+
+DSA_ASSIGNMENTS/assignment_1/main_interface.obj: DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_1/main_interface.i: DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.i
+
+DSA_ASSIGNMENTS/assignment_1/main_interface.s: DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_1/main_interface.cpp.s
+
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.obj: DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.i: DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.s: DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_10/assignment_10.obj: DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_10/assignment_10.i: DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.i
+
+DSA_ASSIGNMENTS/assignment_10/assignment_10.s: DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.s
+
+DSA_ASSIGNMENTS/assignment_10/impl.obj: DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_10/impl.i: DSA_ASSIGNMENTS/assignment_10/impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_10/impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_10/impl.s: DSA_ASSIGNMENTS/assignment_10/impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_10/impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_10/impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_10/main.obj: DSA_ASSIGNMENTS/assignment_10/main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_10/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_10/main.i: DSA_ASSIGNMENTS/assignment_10/main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_10/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_10/main.s: DSA_ASSIGNMENTS/assignment_10/main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_10/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_10/main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.obj: DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.i: DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.i
+
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.s: DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.s
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.obj: DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.i: DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.i
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.s: DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.s
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.obj: DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.i: DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.s: DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.obj: DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.i: DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.i
+
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.s: DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.s
+
+DSA_ASSIGNMENTS/assignment_3_queue/impl.obj: DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_3_queue/impl.i: DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_3_queue/impl.s: DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_3_queue/main.obj: DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_3_queue/main.i: DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_3_queue/main.s: DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.obj: DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.i: DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.i
+
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.s: DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.obj: DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.i: DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.i
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.s: DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.s
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.obj: DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.i: DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.i
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.s: DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.s
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.obj: DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.i: DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.i
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.s: DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.s
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.obj: DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.i: DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.i
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.s: DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.s
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.obj: DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.i: DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.i
+
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.s: DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.s
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST.obj: DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST.i: DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.i
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST.s: DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.s
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.obj: DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.i: DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.s: DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.obj: DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.i: DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.i
+
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.s: DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.s
+
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.obj: DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.i: DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.i
+
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.s: DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.s
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.obj: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.i: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.s: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.obj: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.i: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.s: DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_7/assignment_7.obj: DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_7/assignment_7.i: DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.i
+
+DSA_ASSIGNMENTS/assignment_7/assignment_7.s: DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.s
+
+DSA_ASSIGNMENTS/assignment_7/mst_impl.obj: DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_7/mst_impl.i: DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_7/mst_impl.s: DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_7/mst_main.obj: DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_7/mst_main.i: DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_7/mst_main.s: DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_8/assignment_8.obj: DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_8/assignment_8.i: DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.i
+
+DSA_ASSIGNMENTS/assignment_8/assignment_8.s: DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.s
+
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.obj: DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.i: DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.s: DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_8/dijk_main.obj: DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_8/dijk_main.i: DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_8/dijk_main.s: DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.s
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.obj: DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.i: DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.i
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.s: DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.s
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.obj: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.i: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.i
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.s: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.s
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.obj: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.obj
+
+# target to build an object file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.i: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.i
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.i
+
+# target to preprocess a source file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.i
+
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.s: DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s
+
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.s
+
+# target to generate assembly for a file
+DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s
+
 DSA_mock_test.obj: DSA_mock_test.cpp.obj
 
 .PHONY : DSA_mock_test.obj
@@ -5407,1113 +6730,6 @@ algorithmic_toolbox/week3/money_change.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.s
 .PHONY : algorithmic_toolbox/week3/money_change.cpp.s
 
-arrays_practice/array1.obj: arrays_practice/array1.cpp.obj
-
-.PHONY : arrays_practice/array1.obj
-
-# target to build an object file
-arrays_practice/array1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array1.cpp.obj
-.PHONY : arrays_practice/array1.cpp.obj
-
-arrays_practice/array1.i: arrays_practice/array1.cpp.i
-
-.PHONY : arrays_practice/array1.i
-
-# target to preprocess a source file
-arrays_practice/array1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array1.cpp.i
-.PHONY : arrays_practice/array1.cpp.i
-
-arrays_practice/array1.s: arrays_practice/array1.cpp.s
-
-.PHONY : arrays_practice/array1.s
-
-# target to generate assembly for a file
-arrays_practice/array1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array1.cpp.s
-.PHONY : arrays_practice/array1.cpp.s
-
-arrays_practice/array3_1.obj: arrays_practice/array3_1.cpp.obj
-
-.PHONY : arrays_practice/array3_1.obj
-
-# target to build an object file
-arrays_practice/array3_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array3_1.cpp.obj
-.PHONY : arrays_practice/array3_1.cpp.obj
-
-arrays_practice/array3_1.i: arrays_practice/array3_1.cpp.i
-
-.PHONY : arrays_practice/array3_1.i
-
-# target to preprocess a source file
-arrays_practice/array3_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array3_1.cpp.i
-.PHONY : arrays_practice/array3_1.cpp.i
-
-arrays_practice/array3_1.s: arrays_practice/array3_1.cpp.s
-
-.PHONY : arrays_practice/array3_1.s
-
-# target to generate assembly for a file
-arrays_practice/array3_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array3_1.cpp.s
-.PHONY : arrays_practice/array3_1.cpp.s
-
-arrays_practice/array4.obj: arrays_practice/array4.cpp.obj
-
-.PHONY : arrays_practice/array4.obj
-
-# target to build an object file
-arrays_practice/array4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4.cpp.obj
-.PHONY : arrays_practice/array4.cpp.obj
-
-arrays_practice/array4.i: arrays_practice/array4.cpp.i
-
-.PHONY : arrays_practice/array4.i
-
-# target to preprocess a source file
-arrays_practice/array4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4.cpp.i
-.PHONY : arrays_practice/array4.cpp.i
-
-arrays_practice/array4.s: arrays_practice/array4.cpp.s
-
-.PHONY : arrays_practice/array4.s
-
-# target to generate assembly for a file
-arrays_practice/array4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4.cpp.s
-.PHONY : arrays_practice/array4.cpp.s
-
-arrays_practice/array4_1.obj: arrays_practice/array4_1.cpp.obj
-
-.PHONY : arrays_practice/array4_1.obj
-
-# target to build an object file
-arrays_practice/array4_1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4_1.cpp.obj
-.PHONY : arrays_practice/array4_1.cpp.obj
-
-arrays_practice/array4_1.i: arrays_practice/array4_1.cpp.i
-
-.PHONY : arrays_practice/array4_1.i
-
-# target to preprocess a source file
-arrays_practice/array4_1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4_1.cpp.i
-.PHONY : arrays_practice/array4_1.cpp.i
-
-arrays_practice/array4_1.s: arrays_practice/array4_1.cpp.s
-
-.PHONY : arrays_practice/array4_1.s
-
-# target to generate assembly for a file
-arrays_practice/array4_1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array4_1.cpp.s
-.PHONY : arrays_practice/array4_1.cpp.s
-
-arrays_practice/array_sorting.obj: arrays_practice/array_sorting.cpp.obj
-
-.PHONY : arrays_practice/array_sorting.obj
-
-# target to build an object file
-arrays_practice/array_sorting.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array_sorting.cpp.obj
-.PHONY : arrays_practice/array_sorting.cpp.obj
-
-arrays_practice/array_sorting.i: arrays_practice/array_sorting.cpp.i
-
-.PHONY : arrays_practice/array_sorting.i
-
-# target to preprocess a source file
-arrays_practice/array_sorting.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array_sorting.cpp.i
-.PHONY : arrays_practice/array_sorting.cpp.i
-
-arrays_practice/array_sorting.s: arrays_practice/array_sorting.cpp.s
-
-.PHONY : arrays_practice/array_sorting.s
-
-# target to generate assembly for a file
-arrays_practice/array_sorting.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/array_sorting.cpp.s
-.PHONY : arrays_practice/array_sorting.cpp.s
-
-arrays_practice/arrays3.obj: arrays_practice/arrays3.cpp.obj
-
-.PHONY : arrays_practice/arrays3.obj
-
-# target to build an object file
-arrays_practice/arrays3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/arrays3.cpp.obj
-.PHONY : arrays_practice/arrays3.cpp.obj
-
-arrays_practice/arrays3.i: arrays_practice/arrays3.cpp.i
-
-.PHONY : arrays_practice/arrays3.i
-
-# target to preprocess a source file
-arrays_practice/arrays3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/arrays3.cpp.i
-.PHONY : arrays_practice/arrays3.cpp.i
-
-arrays_practice/arrays3.s: arrays_practice/arrays3.cpp.s
-
-.PHONY : arrays_practice/arrays3.s
-
-# target to generate assembly for a file
-arrays_practice/arrays3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/arrays3.cpp.s
-.PHONY : arrays_practice/arrays3.cpp.s
-
-arrays_practice/ass1.obj: arrays_practice/ass1.cpp.obj
-
-.PHONY : arrays_practice/ass1.obj
-
-# target to build an object file
-arrays_practice/ass1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1.cpp.obj
-.PHONY : arrays_practice/ass1.cpp.obj
-
-arrays_practice/ass1.i: arrays_practice/ass1.cpp.i
-
-.PHONY : arrays_practice/ass1.i
-
-# target to preprocess a source file
-arrays_practice/ass1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1.cpp.i
-.PHONY : arrays_practice/ass1.cpp.i
-
-arrays_practice/ass1.s: arrays_practice/ass1.cpp.s
-
-.PHONY : arrays_practice/ass1.s
-
-# target to generate assembly for a file
-arrays_practice/ass1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1.cpp.s
-.PHONY : arrays_practice/ass1.cpp.s
-
-arrays_practice/ass1_again.obj: arrays_practice/ass1_again.cpp.obj
-
-.PHONY : arrays_practice/ass1_again.obj
-
-# target to build an object file
-arrays_practice/ass1_again.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1_again.cpp.obj
-.PHONY : arrays_practice/ass1_again.cpp.obj
-
-arrays_practice/ass1_again.i: arrays_practice/ass1_again.cpp.i
-
-.PHONY : arrays_practice/ass1_again.i
-
-# target to preprocess a source file
-arrays_practice/ass1_again.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1_again.cpp.i
-.PHONY : arrays_practice/ass1_again.cpp.i
-
-arrays_practice/ass1_again.s: arrays_practice/ass1_again.cpp.s
-
-.PHONY : arrays_practice/ass1_again.s
-
-# target to generate assembly for a file
-arrays_practice/ass1_again.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/arrays_practice/ass1_again.cpp.s
-.PHONY : arrays_practice/ass1_again.cpp.s
-
-assignment4_exp_tree/Assignment4.obj: assignment4_exp_tree/Assignment4.cpp.obj
-
-.PHONY : assignment4_exp_tree/Assignment4.obj
-
-# target to build an object file
-assignment4_exp_tree/Assignment4.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/Assignment4.cpp.obj
-.PHONY : assignment4_exp_tree/Assignment4.cpp.obj
-
-assignment4_exp_tree/Assignment4.i: assignment4_exp_tree/Assignment4.cpp.i
-
-.PHONY : assignment4_exp_tree/Assignment4.i
-
-# target to preprocess a source file
-assignment4_exp_tree/Assignment4.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/Assignment4.cpp.i
-.PHONY : assignment4_exp_tree/Assignment4.cpp.i
-
-assignment4_exp_tree/Assignment4.s: assignment4_exp_tree/Assignment4.cpp.s
-
-.PHONY : assignment4_exp_tree/Assignment4.s
-
-# target to generate assembly for a file
-assignment4_exp_tree/Assignment4.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/Assignment4.cpp.s
-.PHONY : assignment4_exp_tree/Assignment4.cpp.s
-
-assignment4_exp_tree/ExpressionImplementation.obj: assignment4_exp_tree/ExpressionImplementation.cpp.obj
-
-.PHONY : assignment4_exp_tree/ExpressionImplementation.obj
-
-# target to build an object file
-assignment4_exp_tree/ExpressionImplementation.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/ExpressionImplementation.cpp.obj
-.PHONY : assignment4_exp_tree/ExpressionImplementation.cpp.obj
-
-assignment4_exp_tree/ExpressionImplementation.i: assignment4_exp_tree/ExpressionImplementation.cpp.i
-
-.PHONY : assignment4_exp_tree/ExpressionImplementation.i
-
-# target to preprocess a source file
-assignment4_exp_tree/ExpressionImplementation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/ExpressionImplementation.cpp.i
-.PHONY : assignment4_exp_tree/ExpressionImplementation.cpp.i
-
-assignment4_exp_tree/ExpressionImplementation.s: assignment4_exp_tree/ExpressionImplementation.cpp.s
-
-.PHONY : assignment4_exp_tree/ExpressionImplementation.s
-
-# target to generate assembly for a file
-assignment4_exp_tree/ExpressionImplementation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/ExpressionImplementation.cpp.s
-.PHONY : assignment4_exp_tree/ExpressionImplementation.cpp.s
-
-assignment4_exp_tree/StackImplementation.obj: assignment4_exp_tree/StackImplementation.cpp.obj
-
-.PHONY : assignment4_exp_tree/StackImplementation.obj
-
-# target to build an object file
-assignment4_exp_tree/StackImplementation.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/StackImplementation.cpp.obj
-.PHONY : assignment4_exp_tree/StackImplementation.cpp.obj
-
-assignment4_exp_tree/StackImplementation.i: assignment4_exp_tree/StackImplementation.cpp.i
-
-.PHONY : assignment4_exp_tree/StackImplementation.i
-
-# target to preprocess a source file
-assignment4_exp_tree/StackImplementation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/StackImplementation.cpp.i
-.PHONY : assignment4_exp_tree/StackImplementation.cpp.i
-
-assignment4_exp_tree/StackImplementation.s: assignment4_exp_tree/StackImplementation.cpp.s
-
-.PHONY : assignment4_exp_tree/StackImplementation.s
-
-# target to generate assembly for a file
-assignment4_exp_tree/StackImplementation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/StackImplementation.cpp.s
-.PHONY : assignment4_exp_tree/StackImplementation.cpp.s
-
-assignment4_exp_tree/TreeExpressionImplementation.obj: assignment4_exp_tree/TreeExpressionImplementation.cpp.obj
-
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.obj
-
-# target to build an object file
-assignment4_exp_tree/TreeExpressionImplementation.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/TreeExpressionImplementation.cpp.obj
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.cpp.obj
-
-assignment4_exp_tree/TreeExpressionImplementation.i: assignment4_exp_tree/TreeExpressionImplementation.cpp.i
-
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.i
-
-# target to preprocess a source file
-assignment4_exp_tree/TreeExpressionImplementation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/TreeExpressionImplementation.cpp.i
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.cpp.i
-
-assignment4_exp_tree/TreeExpressionImplementation.s: assignment4_exp_tree/TreeExpressionImplementation.cpp.s
-
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.s
-
-# target to generate assembly for a file
-assignment4_exp_tree/TreeExpressionImplementation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/TreeExpressionImplementation.cpp.s
-.PHONY : assignment4_exp_tree/TreeExpressionImplementation.cpp.s
-
-assignment4_exp_tree/exp_tree_final.obj: assignment4_exp_tree/exp_tree_final.cpp.obj
-
-.PHONY : assignment4_exp_tree/exp_tree_final.obj
-
-# target to build an object file
-assignment4_exp_tree/exp_tree_final.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/exp_tree_final.cpp.obj
-.PHONY : assignment4_exp_tree/exp_tree_final.cpp.obj
-
-assignment4_exp_tree/exp_tree_final.i: assignment4_exp_tree/exp_tree_final.cpp.i
-
-.PHONY : assignment4_exp_tree/exp_tree_final.i
-
-# target to preprocess a source file
-assignment4_exp_tree/exp_tree_final.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/exp_tree_final.cpp.i
-.PHONY : assignment4_exp_tree/exp_tree_final.cpp.i
-
-assignment4_exp_tree/exp_tree_final.s: assignment4_exp_tree/exp_tree_final.cpp.s
-
-.PHONY : assignment4_exp_tree/exp_tree_final.s
-
-# target to generate assembly for a file
-assignment4_exp_tree/exp_tree_final.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment4_exp_tree/exp_tree_final.cpp.s
-.PHONY : assignment4_exp_tree/exp_tree_final.cpp.s
-
-assignment_1/assignment_1_using_struct.obj: assignment_1/assignment_1_using_struct.cpp.obj
-
-.PHONY : assignment_1/assignment_1_using_struct.obj
-
-# target to build an object file
-assignment_1/assignment_1_using_struct.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/assignment_1_using_struct.cpp.obj
-.PHONY : assignment_1/assignment_1_using_struct.cpp.obj
-
-assignment_1/assignment_1_using_struct.i: assignment_1/assignment_1_using_struct.cpp.i
-
-.PHONY : assignment_1/assignment_1_using_struct.i
-
-# target to preprocess a source file
-assignment_1/assignment_1_using_struct.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/assignment_1_using_struct.cpp.i
-.PHONY : assignment_1/assignment_1_using_struct.cpp.i
-
-assignment_1/assignment_1_using_struct.s: assignment_1/assignment_1_using_struct.cpp.s
-
-.PHONY : assignment_1/assignment_1_using_struct.s
-
-# target to generate assembly for a file
-assignment_1/assignment_1_using_struct.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/assignment_1_using_struct.cpp.s
-.PHONY : assignment_1/assignment_1_using_struct.cpp.s
-
-assignment_1/main_interface.obj: assignment_1/main_interface.cpp.obj
-
-.PHONY : assignment_1/main_interface.obj
-
-# target to build an object file
-assignment_1/main_interface.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/main_interface.cpp.obj
-.PHONY : assignment_1/main_interface.cpp.obj
-
-assignment_1/main_interface.i: assignment_1/main_interface.cpp.i
-
-.PHONY : assignment_1/main_interface.i
-
-# target to preprocess a source file
-assignment_1/main_interface.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/main_interface.cpp.i
-.PHONY : assignment_1/main_interface.cpp.i
-
-assignment_1/main_interface.s: assignment_1/main_interface.cpp.s
-
-.PHONY : assignment_1/main_interface.s
-
-# target to generate assembly for a file
-assignment_1/main_interface.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/main_interface.cpp.s
-.PHONY : assignment_1/main_interface.cpp.s
-
-assignment_1/studDB_impl.obj: assignment_1/studDB_impl.cpp.obj
-
-.PHONY : assignment_1/studDB_impl.obj
-
-# target to build an object file
-assignment_1/studDB_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/studDB_impl.cpp.obj
-.PHONY : assignment_1/studDB_impl.cpp.obj
-
-assignment_1/studDB_impl.i: assignment_1/studDB_impl.cpp.i
-
-.PHONY : assignment_1/studDB_impl.i
-
-# target to preprocess a source file
-assignment_1/studDB_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/studDB_impl.cpp.i
-.PHONY : assignment_1/studDB_impl.cpp.i
-
-assignment_1/studDB_impl.s: assignment_1/studDB_impl.cpp.s
-
-.PHONY : assignment_1/studDB_impl.s
-
-# target to generate assembly for a file
-assignment_1/studDB_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_1/studDB_impl.cpp.s
-.PHONY : assignment_1/studDB_impl.cpp.s
-
-assignment_10/assignment_10.obj: assignment_10/assignment_10.cpp.obj
-
-.PHONY : assignment_10/assignment_10.obj
-
-# target to build an object file
-assignment_10/assignment_10.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/assignment_10.cpp.obj
-.PHONY : assignment_10/assignment_10.cpp.obj
-
-assignment_10/assignment_10.i: assignment_10/assignment_10.cpp.i
-
-.PHONY : assignment_10/assignment_10.i
-
-# target to preprocess a source file
-assignment_10/assignment_10.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/assignment_10.cpp.i
-.PHONY : assignment_10/assignment_10.cpp.i
-
-assignment_10/assignment_10.s: assignment_10/assignment_10.cpp.s
-
-.PHONY : assignment_10/assignment_10.s
-
-# target to generate assembly for a file
-assignment_10/assignment_10.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/assignment_10.cpp.s
-.PHONY : assignment_10/assignment_10.cpp.s
-
-assignment_10/impl.obj: assignment_10/impl.cpp.obj
-
-.PHONY : assignment_10/impl.obj
-
-# target to build an object file
-assignment_10/impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/impl.cpp.obj
-.PHONY : assignment_10/impl.cpp.obj
-
-assignment_10/impl.i: assignment_10/impl.cpp.i
-
-.PHONY : assignment_10/impl.i
-
-# target to preprocess a source file
-assignment_10/impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/impl.cpp.i
-.PHONY : assignment_10/impl.cpp.i
-
-assignment_10/impl.s: assignment_10/impl.cpp.s
-
-.PHONY : assignment_10/impl.s
-
-# target to generate assembly for a file
-assignment_10/impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/impl.cpp.s
-.PHONY : assignment_10/impl.cpp.s
-
-assignment_10/main.obj: assignment_10/main.cpp.obj
-
-.PHONY : assignment_10/main.obj
-
-# target to build an object file
-assignment_10/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/main.cpp.obj
-.PHONY : assignment_10/main.cpp.obj
-
-assignment_10/main.i: assignment_10/main.cpp.i
-
-.PHONY : assignment_10/main.i
-
-# target to preprocess a source file
-assignment_10/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/main.cpp.i
-.PHONY : assignment_10/main.cpp.i
-
-assignment_10/main.s: assignment_10/main.cpp.s
-
-.PHONY : assignment_10/main.s
-
-# target to generate assembly for a file
-assignment_10/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_10/main.cpp.s
-.PHONY : assignment_10/main.cpp.s
-
-assignment_2_stack/mainFile.obj: assignment_2_stack/mainFile.cpp.obj
-
-.PHONY : assignment_2_stack/mainFile.obj
-
-# target to build an object file
-assignment_2_stack/mainFile.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/mainFile.cpp.obj
-.PHONY : assignment_2_stack/mainFile.cpp.obj
-
-assignment_2_stack/mainFile.i: assignment_2_stack/mainFile.cpp.i
-
-.PHONY : assignment_2_stack/mainFile.i
-
-# target to preprocess a source file
-assignment_2_stack/mainFile.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/mainFile.cpp.i
-.PHONY : assignment_2_stack/mainFile.cpp.i
-
-assignment_2_stack/mainFile.s: assignment_2_stack/mainFile.cpp.s
-
-.PHONY : assignment_2_stack/mainFile.s
-
-# target to generate assembly for a file
-assignment_2_stack/mainFile.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/mainFile.cpp.s
-.PHONY : assignment_2_stack/mainFile.cpp.s
-
-assignment_2_stack/stack_final.obj: assignment_2_stack/stack_final.cpp.obj
-
-.PHONY : assignment_2_stack/stack_final.obj
-
-# target to build an object file
-assignment_2_stack/stack_final.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_final.cpp.obj
-.PHONY : assignment_2_stack/stack_final.cpp.obj
-
-assignment_2_stack/stack_final.i: assignment_2_stack/stack_final.cpp.i
-
-.PHONY : assignment_2_stack/stack_final.i
-
-# target to preprocess a source file
-assignment_2_stack/stack_final.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_final.cpp.i
-.PHONY : assignment_2_stack/stack_final.cpp.i
-
-assignment_2_stack/stack_final.s: assignment_2_stack/stack_final.cpp.s
-
-.PHONY : assignment_2_stack/stack_final.s
-
-# target to generate assembly for a file
-assignment_2_stack/stack_final.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_final.cpp.s
-.PHONY : assignment_2_stack/stack_final.cpp.s
-
-assignment_2_stack/stack_impl.obj: assignment_2_stack/stack_impl.cpp.obj
-
-.PHONY : assignment_2_stack/stack_impl.obj
-
-# target to build an object file
-assignment_2_stack/stack_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_impl.cpp.obj
-.PHONY : assignment_2_stack/stack_impl.cpp.obj
-
-assignment_2_stack/stack_impl.i: assignment_2_stack/stack_impl.cpp.i
-
-.PHONY : assignment_2_stack/stack_impl.i
-
-# target to preprocess a source file
-assignment_2_stack/stack_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_impl.cpp.i
-.PHONY : assignment_2_stack/stack_impl.cpp.i
-
-assignment_2_stack/stack_impl.s: assignment_2_stack/stack_impl.cpp.s
-
-.PHONY : assignment_2_stack/stack_impl.s
-
-# target to generate assembly for a file
-assignment_2_stack/stack_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_2_stack/stack_impl.cpp.s
-.PHONY : assignment_2_stack/stack_impl.cpp.s
-
-assignment_3_queue/circular_queue_2.obj: assignment_3_queue/circular_queue_2.cpp.obj
-
-.PHONY : assignment_3_queue/circular_queue_2.obj
-
-# target to build an object file
-assignment_3_queue/circular_queue_2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/circular_queue_2.cpp.obj
-.PHONY : assignment_3_queue/circular_queue_2.cpp.obj
-
-assignment_3_queue/circular_queue_2.i: assignment_3_queue/circular_queue_2.cpp.i
-
-.PHONY : assignment_3_queue/circular_queue_2.i
-
-# target to preprocess a source file
-assignment_3_queue/circular_queue_2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/circular_queue_2.cpp.i
-.PHONY : assignment_3_queue/circular_queue_2.cpp.i
-
-assignment_3_queue/circular_queue_2.s: assignment_3_queue/circular_queue_2.cpp.s
-
-.PHONY : assignment_3_queue/circular_queue_2.s
-
-# target to generate assembly for a file
-assignment_3_queue/circular_queue_2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/circular_queue_2.cpp.s
-.PHONY : assignment_3_queue/circular_queue_2.cpp.s
-
-assignment_3_queue/impl.obj: assignment_3_queue/impl.cpp.obj
-
-.PHONY : assignment_3_queue/impl.obj
-
-# target to build an object file
-assignment_3_queue/impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/impl.cpp.obj
-.PHONY : assignment_3_queue/impl.cpp.obj
-
-assignment_3_queue/impl.i: assignment_3_queue/impl.cpp.i
-
-.PHONY : assignment_3_queue/impl.i
-
-# target to preprocess a source file
-assignment_3_queue/impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/impl.cpp.i
-.PHONY : assignment_3_queue/impl.cpp.i
-
-assignment_3_queue/impl.s: assignment_3_queue/impl.cpp.s
-
-.PHONY : assignment_3_queue/impl.s
-
-# target to generate assembly for a file
-assignment_3_queue/impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/impl.cpp.s
-.PHONY : assignment_3_queue/impl.cpp.s
-
-assignment_3_queue/main.obj: assignment_3_queue/main.cpp.obj
-
-.PHONY : assignment_3_queue/main.obj
-
-# target to build an object file
-assignment_3_queue/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/main.cpp.obj
-.PHONY : assignment_3_queue/main.cpp.obj
-
-assignment_3_queue/main.i: assignment_3_queue/main.cpp.i
-
-.PHONY : assignment_3_queue/main.i
-
-# target to preprocess a source file
-assignment_3_queue/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/main.cpp.i
-.PHONY : assignment_3_queue/main.cpp.i
-
-assignment_3_queue/main.s: assignment_3_queue/main.cpp.s
-
-.PHONY : assignment_3_queue/main.s
-
-# target to generate assembly for a file
-assignment_3_queue/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/main.cpp.s
-.PHONY : assignment_3_queue/main.cpp.s
-
-assignment_3_queue/queue_final.obj: assignment_3_queue/queue_final.cpp.obj
-
-.PHONY : assignment_3_queue/queue_final.obj
-
-# target to build an object file
-assignment_3_queue/queue_final.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/queue_final.cpp.obj
-.PHONY : assignment_3_queue/queue_final.cpp.obj
-
-assignment_3_queue/queue_final.i: assignment_3_queue/queue_final.cpp.i
-
-.PHONY : assignment_3_queue/queue_final.i
-
-# target to preprocess a source file
-assignment_3_queue/queue_final.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/queue_final.cpp.i
-.PHONY : assignment_3_queue/queue_final.cpp.i
-
-assignment_3_queue/queue_final.s: assignment_3_queue/queue_final.cpp.s
-
-.PHONY : assignment_3_queue/queue_final.s
-
-# target to generate assembly for a file
-assignment_3_queue/queue_final.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_3_queue/queue_final.cpp.s
-.PHONY : assignment_3_queue/queue_final.cpp.s
-
-assignment_5_BST/BST.obj: assignment_5_BST/BST.cpp.obj
-
-.PHONY : assignment_5_BST/BST.obj
-
-# target to build an object file
-assignment_5_BST/BST.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST.cpp.obj
-.PHONY : assignment_5_BST/BST.cpp.obj
-
-assignment_5_BST/BST.i: assignment_5_BST/BST.cpp.i
-
-.PHONY : assignment_5_BST/BST.i
-
-# target to preprocess a source file
-assignment_5_BST/BST.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST.cpp.i
-.PHONY : assignment_5_BST/BST.cpp.i
-
-assignment_5_BST/BST.s: assignment_5_BST/BST.cpp.s
-
-.PHONY : assignment_5_BST/BST.s
-
-# target to generate assembly for a file
-assignment_5_BST/BST.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST.cpp.s
-.PHONY : assignment_5_BST/BST.cpp.s
-
-assignment_5_BST/BST_Main.obj: assignment_5_BST/BST_Main.cpp.obj
-
-.PHONY : assignment_5_BST/BST_Main.obj
-
-# target to build an object file
-assignment_5_BST/BST_Main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_Main.cpp.obj
-.PHONY : assignment_5_BST/BST_Main.cpp.obj
-
-assignment_5_BST/BST_Main.i: assignment_5_BST/BST_Main.cpp.i
-
-.PHONY : assignment_5_BST/BST_Main.i
-
-# target to preprocess a source file
-assignment_5_BST/BST_Main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_Main.cpp.i
-.PHONY : assignment_5_BST/BST_Main.cpp.i
-
-assignment_5_BST/BST_Main.s: assignment_5_BST/BST_Main.cpp.s
-
-.PHONY : assignment_5_BST/BST_Main.s
-
-# target to generate assembly for a file
-assignment_5_BST/BST_Main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_Main.cpp.s
-.PHONY : assignment_5_BST/BST_Main.cpp.s
-
-assignment_5_BST/BST_final.obj: assignment_5_BST/BST_final.cpp.obj
-
-.PHONY : assignment_5_BST/BST_final.obj
-
-# target to build an object file
-assignment_5_BST/BST_final.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_final.cpp.obj
-.PHONY : assignment_5_BST/BST_final.cpp.obj
-
-assignment_5_BST/BST_final.i: assignment_5_BST/BST_final.cpp.i
-
-.PHONY : assignment_5_BST/BST_final.i
-
-# target to preprocess a source file
-assignment_5_BST/BST_final.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_final.cpp.i
-.PHONY : assignment_5_BST/BST_final.cpp.i
-
-assignment_5_BST/BST_final.s: assignment_5_BST/BST_final.cpp.s
-
-.PHONY : assignment_5_BST/BST_final.s
-
-# target to generate assembly for a file
-assignment_5_BST/BST_final.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_5_BST/BST_final.cpp.s
-.PHONY : assignment_5_BST/BST_final.cpp.s
-
-assignment_6_TBT/TBT_FINAL.obj: assignment_6_TBT/TBT_FINAL.cpp.obj
-
-.PHONY : assignment_6_TBT/TBT_FINAL.obj
-
-# target to build an object file
-assignment_6_TBT/TBT_FINAL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/TBT_FINAL.cpp.obj
-.PHONY : assignment_6_TBT/TBT_FINAL.cpp.obj
-
-assignment_6_TBT/TBT_FINAL.i: assignment_6_TBT/TBT_FINAL.cpp.i
-
-.PHONY : assignment_6_TBT/TBT_FINAL.i
-
-# target to preprocess a source file
-assignment_6_TBT/TBT_FINAL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/TBT_FINAL.cpp.i
-.PHONY : assignment_6_TBT/TBT_FINAL.cpp.i
-
-assignment_6_TBT/TBT_FINAL.s: assignment_6_TBT/TBT_FINAL.cpp.s
-
-.PHONY : assignment_6_TBT/TBT_FINAL.s
-
-# target to generate assembly for a file
-assignment_6_TBT/TBT_FINAL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/TBT_FINAL.cpp.s
-.PHONY : assignment_6_TBT/TBT_FINAL.cpp.s
-
-assignment_6_TBT/tbt_impl.obj: assignment_6_TBT/tbt_impl.cpp.obj
-
-.PHONY : assignment_6_TBT/tbt_impl.obj
-
-# target to build an object file
-assignment_6_TBT/tbt_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_impl.cpp.obj
-.PHONY : assignment_6_TBT/tbt_impl.cpp.obj
-
-assignment_6_TBT/tbt_impl.i: assignment_6_TBT/tbt_impl.cpp.i
-
-.PHONY : assignment_6_TBT/tbt_impl.i
-
-# target to preprocess a source file
-assignment_6_TBT/tbt_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_impl.cpp.i
-.PHONY : assignment_6_TBT/tbt_impl.cpp.i
-
-assignment_6_TBT/tbt_impl.s: assignment_6_TBT/tbt_impl.cpp.s
-
-.PHONY : assignment_6_TBT/tbt_impl.s
-
-# target to generate assembly for a file
-assignment_6_TBT/tbt_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_impl.cpp.s
-.PHONY : assignment_6_TBT/tbt_impl.cpp.s
-
-assignment_6_TBT/tbt_main.obj: assignment_6_TBT/tbt_main.cpp.obj
-
-.PHONY : assignment_6_TBT/tbt_main.obj
-
-# target to build an object file
-assignment_6_TBT/tbt_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_main.cpp.obj
-.PHONY : assignment_6_TBT/tbt_main.cpp.obj
-
-assignment_6_TBT/tbt_main.i: assignment_6_TBT/tbt_main.cpp.i
-
-.PHONY : assignment_6_TBT/tbt_main.i
-
-# target to preprocess a source file
-assignment_6_TBT/tbt_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_main.cpp.i
-.PHONY : assignment_6_TBT/tbt_main.cpp.i
-
-assignment_6_TBT/tbt_main.s: assignment_6_TBT/tbt_main.cpp.s
-
-.PHONY : assignment_6_TBT/tbt_main.s
-
-# target to generate assembly for a file
-assignment_6_TBT/tbt_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_6_TBT/tbt_main.cpp.s
-.PHONY : assignment_6_TBT/tbt_main.cpp.s
-
-assignment_7/assignment_7.obj: assignment_7/assignment_7.cpp.obj
-
-.PHONY : assignment_7/assignment_7.obj
-
-# target to build an object file
-assignment_7/assignment_7.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/assignment_7.cpp.obj
-.PHONY : assignment_7/assignment_7.cpp.obj
-
-assignment_7/assignment_7.i: assignment_7/assignment_7.cpp.i
-
-.PHONY : assignment_7/assignment_7.i
-
-# target to preprocess a source file
-assignment_7/assignment_7.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/assignment_7.cpp.i
-.PHONY : assignment_7/assignment_7.cpp.i
-
-assignment_7/assignment_7.s: assignment_7/assignment_7.cpp.s
-
-.PHONY : assignment_7/assignment_7.s
-
-# target to generate assembly for a file
-assignment_7/assignment_7.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/assignment_7.cpp.s
-.PHONY : assignment_7/assignment_7.cpp.s
-
-assignment_7/mst_impl.obj: assignment_7/mst_impl.cpp.obj
-
-.PHONY : assignment_7/mst_impl.obj
-
-# target to build an object file
-assignment_7/mst_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_impl.cpp.obj
-.PHONY : assignment_7/mst_impl.cpp.obj
-
-assignment_7/mst_impl.i: assignment_7/mst_impl.cpp.i
-
-.PHONY : assignment_7/mst_impl.i
-
-# target to preprocess a source file
-assignment_7/mst_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_impl.cpp.i
-.PHONY : assignment_7/mst_impl.cpp.i
-
-assignment_7/mst_impl.s: assignment_7/mst_impl.cpp.s
-
-.PHONY : assignment_7/mst_impl.s
-
-# target to generate assembly for a file
-assignment_7/mst_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_impl.cpp.s
-.PHONY : assignment_7/mst_impl.cpp.s
-
-assignment_7/mst_main.obj: assignment_7/mst_main.cpp.obj
-
-.PHONY : assignment_7/mst_main.obj
-
-# target to build an object file
-assignment_7/mst_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_main.cpp.obj
-.PHONY : assignment_7/mst_main.cpp.obj
-
-assignment_7/mst_main.i: assignment_7/mst_main.cpp.i
-
-.PHONY : assignment_7/mst_main.i
-
-# target to preprocess a source file
-assignment_7/mst_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_main.cpp.i
-.PHONY : assignment_7/mst_main.cpp.i
-
-assignment_7/mst_main.s: assignment_7/mst_main.cpp.s
-
-.PHONY : assignment_7/mst_main.s
-
-# target to generate assembly for a file
-assignment_7/mst_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_7/mst_main.cpp.s
-.PHONY : assignment_7/mst_main.cpp.s
-
-assignment_8/assignment_8.obj: assignment_8/assignment_8.cpp.obj
-
-.PHONY : assignment_8/assignment_8.obj
-
-# target to build an object file
-assignment_8/assignment_8.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/assignment_8.cpp.obj
-.PHONY : assignment_8/assignment_8.cpp.obj
-
-assignment_8/assignment_8.i: assignment_8/assignment_8.cpp.i
-
-.PHONY : assignment_8/assignment_8.i
-
-# target to preprocess a source file
-assignment_8/assignment_8.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/assignment_8.cpp.i
-.PHONY : assignment_8/assignment_8.cpp.i
-
-assignment_8/assignment_8.s: assignment_8/assignment_8.cpp.s
-
-.PHONY : assignment_8/assignment_8.s
-
-# target to generate assembly for a file
-assignment_8/assignment_8.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/assignment_8.cpp.s
-.PHONY : assignment_8/assignment_8.cpp.s
-
-assignment_8/dijk_impl.obj: assignment_8/dijk_impl.cpp.obj
-
-.PHONY : assignment_8/dijk_impl.obj
-
-# target to build an object file
-assignment_8/dijk_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_impl.cpp.obj
-.PHONY : assignment_8/dijk_impl.cpp.obj
-
-assignment_8/dijk_impl.i: assignment_8/dijk_impl.cpp.i
-
-.PHONY : assignment_8/dijk_impl.i
-
-# target to preprocess a source file
-assignment_8/dijk_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_impl.cpp.i
-.PHONY : assignment_8/dijk_impl.cpp.i
-
-assignment_8/dijk_impl.s: assignment_8/dijk_impl.cpp.s
-
-.PHONY : assignment_8/dijk_impl.s
-
-# target to generate assembly for a file
-assignment_8/dijk_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_impl.cpp.s
-.PHONY : assignment_8/dijk_impl.cpp.s
-
-assignment_8/dijk_main.obj: assignment_8/dijk_main.cpp.obj
-
-.PHONY : assignment_8/dijk_main.obj
-
-# target to build an object file
-assignment_8/dijk_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_main.cpp.obj
-.PHONY : assignment_8/dijk_main.cpp.obj
-
-assignment_8/dijk_main.i: assignment_8/dijk_main.cpp.i
-
-.PHONY : assignment_8/dijk_main.i
-
-# target to preprocess a source file
-assignment_8/dijk_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_main.cpp.i
-.PHONY : assignment_8/dijk_main.cpp.i
-
-assignment_8/dijk_main.s: assignment_8/dijk_main.cpp.s
-
-.PHONY : assignment_8/dijk_main.s
-
-# target to generate assembly for a file
-assignment_8/dijk_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_8/dijk_main.cpp.s
-.PHONY : assignment_8/dijk_main.cpp.s
-
-assignment_9_heap_sort/HEAP.obj: assignment_9_heap_sort/HEAP.cpp.obj
-
-.PHONY : assignment_9_heap_sort/HEAP.obj
-
-# target to build an object file
-assignment_9_heap_sort/HEAP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/HEAP.cpp.obj
-.PHONY : assignment_9_heap_sort/HEAP.cpp.obj
-
-assignment_9_heap_sort/HEAP.i: assignment_9_heap_sort/HEAP.cpp.i
-
-.PHONY : assignment_9_heap_sort/HEAP.i
-
-# target to preprocess a source file
-assignment_9_heap_sort/HEAP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/HEAP.cpp.i
-.PHONY : assignment_9_heap_sort/HEAP.cpp.i
-
-assignment_9_heap_sort/HEAP.s: assignment_9_heap_sort/HEAP.cpp.s
-
-.PHONY : assignment_9_heap_sort/HEAP.s
-
-# target to generate assembly for a file
-assignment_9_heap_sort/HEAP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/HEAP.cpp.s
-.PHONY : assignment_9_heap_sort/HEAP.cpp.s
-
-assignment_9_heap_sort/heap_impl.obj: assignment_9_heap_sort/heap_impl.cpp.obj
-
-.PHONY : assignment_9_heap_sort/heap_impl.obj
-
-# target to build an object file
-assignment_9_heap_sort/heap_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_impl.cpp.obj
-.PHONY : assignment_9_heap_sort/heap_impl.cpp.obj
-
-assignment_9_heap_sort/heap_impl.i: assignment_9_heap_sort/heap_impl.cpp.i
-
-.PHONY : assignment_9_heap_sort/heap_impl.i
-
-# target to preprocess a source file
-assignment_9_heap_sort/heap_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_impl.cpp.i
-.PHONY : assignment_9_heap_sort/heap_impl.cpp.i
-
-assignment_9_heap_sort/heap_impl.s: assignment_9_heap_sort/heap_impl.cpp.s
-
-.PHONY : assignment_9_heap_sort/heap_impl.s
-
-# target to generate assembly for a file
-assignment_9_heap_sort/heap_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_impl.cpp.s
-.PHONY : assignment_9_heap_sort/heap_impl.cpp.s
-
-assignment_9_heap_sort/heap_main.obj: assignment_9_heap_sort/heap_main.cpp.obj
-
-.PHONY : assignment_9_heap_sort/heap_main.obj
-
-# target to build an object file
-assignment_9_heap_sort/heap_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.obj
-.PHONY : assignment_9_heap_sort/heap_main.cpp.obj
-
-assignment_9_heap_sort/heap_main.i: assignment_9_heap_sort/heap_main.cpp.i
-
-.PHONY : assignment_9_heap_sort/heap_main.i
-
-# target to preprocess a source file
-assignment_9_heap_sort/heap_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.i
-.PHONY : assignment_9_heap_sort/heap_main.cpp.i
-
-assignment_9_heap_sort/heap_main.s: assignment_9_heap_sort/heap_main.cpp.s
-
-.PHONY : assignment_9_heap_sort/heap_main.s
-
-# target to generate assembly for a file
-assignment_9_heap_sort/heap_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/assignment_9_heap_sort/heap_main.cpp.s
-.PHONY : assignment_9_heap_sort/heap_main.cpp.s
-
 calculator/calculator_II.obj: calculator/calculator_II.cpp.obj
 
 .PHONY : calculator/calculator_II.obj
@@ -6664,6 +6880,9 @@ help:
 	@echo ... Basics/DP/DP_CN/loot_houses.obj
 	@echo ... Basics/DP/DP_CN/loot_houses.i
 	@echo ... Basics/DP/DP_CN/loot_houses.s
+	@echo ... Basics/DP/DP_CN/lus.obj
+	@echo ... Basics/DP/DP_CN/lus.i
+	@echo ... Basics/DP/DP_CN/lus.s
 	@echo ... Basics/DP/DP_CN/max_cost_path.obj
 	@echo ... Basics/DP/DP_CN/max_cost_path.i
 	@echo ... Basics/DP/DP_CN/max_cost_path.s
@@ -7042,6 +7261,27 @@ help:
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.s
+	@echo ... Basics/STACK_PROBLEMS/mah.obj
+	@echo ... Basics/STACK_PROBLEMS/mah.i
+	@echo ... Basics/STACK_PROBLEMS/mah.s
+	@echo ... Basics/STACK_PROBLEMS/mar.obj
+	@echo ... Basics/STACK_PROBLEMS/mar.i
+	@echo ... Basics/STACK_PROBLEMS/mar.s
+	@echo ... Basics/STACK_PROBLEMS/ngl.obj
+	@echo ... Basics/STACK_PROBLEMS/ngl.i
+	@echo ... Basics/STACK_PROBLEMS/ngl.s
+	@echo ... Basics/STACK_PROBLEMS/ngr.obj
+	@echo ... Basics/STACK_PROBLEMS/ngr.i
+	@echo ... Basics/STACK_PROBLEMS/ngr.s
+	@echo ... Basics/STACK_PROBLEMS/nsl.obj
+	@echo ... Basics/STACK_PROBLEMS/nsl.i
+	@echo ... Basics/STACK_PROBLEMS/nsl.s
+	@echo ... Basics/STACK_PROBLEMS/nsr.obj
+	@echo ... Basics/STACK_PROBLEMS/nsr.i
+	@echo ... Basics/STACK_PROBLEMS/nsr.s
+	@echo ... Basics/STACK_PROBLEMS/stock_span.obj
+	@echo ... Basics/STACK_PROBLEMS/stock_span.i
+	@echo ... Basics/STACK_PROBLEMS/stock_span.s
 	@echo ... Basics/STL/Lists.obj
 	@echo ... Basics/STL/Lists.i
 	@echo ... Basics/STL/Lists.s
@@ -7180,6 +7420,129 @@ help:
 	@echo ... DSAL_mock/main.obj
 	@echo ... DSAL_mock/main.i
 	@echo ... DSAL_mock/main.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array3_1.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array3_1.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array3_1.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4_1.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4_1.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array4_1.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array_sorting.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array_sorting.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/array_sorting.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/arrays3.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/arrays3.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/arrays3.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1.s
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1_again.obj
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1_again.i
+	@echo ... DSA_ASSIGNMENTS/arrays_practice/ass1_again.s
+	@echo ... DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.i
+	@echo ... DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.s
+	@echo ... DSA_ASSIGNMENTS/assignment_1/main_interface.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_1/main_interface.i
+	@echo ... DSA_ASSIGNMENTS/assignment_1/main_interface.s
+	@echo ... DSA_ASSIGNMENTS/assignment_1/studDB_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_1/studDB_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_1/studDB_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_10/assignment_10.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_10/assignment_10.i
+	@echo ... DSA_ASSIGNMENTS/assignment_10/assignment_10.s
+	@echo ... DSA_ASSIGNMENTS/assignment_10/impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_10/impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_10/impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_10/main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_10/main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_10/main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/mainFile.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/mainFile.i
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/mainFile.s
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_final.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_final.i
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_final.s
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.i
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.s
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/queue_final.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/queue_final.i
+	@echo ... DSA_ASSIGNMENTS/assignment_3_queue/queue_final.s
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.i
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.s
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.i
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.s
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.i
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.s
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.i
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.s
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.i
+	@echo ... DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.s
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST.i
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST.s
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_final.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_final.i
+	@echo ... DSA_ASSIGNMENTS/assignment_5_BST/BST_final.s
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.i
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.s
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_7/assignment_7.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_7/assignment_7.i
+	@echo ... DSA_ASSIGNMENTS/assignment_7/assignment_7.s
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_7/mst_main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_8/assignment_8.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_8/assignment_8.i
+	@echo ... DSA_ASSIGNMENTS/assignment_8/assignment_8.s
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_8/dijk_main.s
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.i
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.s
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.i
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.s
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.obj
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.i
+	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.s
 	@echo ... DSA_mock_test.obj
 	@echo ... DSA_mock_test.i
 	@echo ... DSA_mock_test.s
@@ -7216,129 +7579,6 @@ help:
 	@echo ... algorithmic_toolbox/week3/money_change.obj
 	@echo ... algorithmic_toolbox/week3/money_change.i
 	@echo ... algorithmic_toolbox/week3/money_change.s
-	@echo ... arrays_practice/array1.obj
-	@echo ... arrays_practice/array1.i
-	@echo ... arrays_practice/array1.s
-	@echo ... arrays_practice/array3_1.obj
-	@echo ... arrays_practice/array3_1.i
-	@echo ... arrays_practice/array3_1.s
-	@echo ... arrays_practice/array4.obj
-	@echo ... arrays_practice/array4.i
-	@echo ... arrays_practice/array4.s
-	@echo ... arrays_practice/array4_1.obj
-	@echo ... arrays_practice/array4_1.i
-	@echo ... arrays_practice/array4_1.s
-	@echo ... arrays_practice/array_sorting.obj
-	@echo ... arrays_practice/array_sorting.i
-	@echo ... arrays_practice/array_sorting.s
-	@echo ... arrays_practice/arrays3.obj
-	@echo ... arrays_practice/arrays3.i
-	@echo ... arrays_practice/arrays3.s
-	@echo ... arrays_practice/ass1.obj
-	@echo ... arrays_practice/ass1.i
-	@echo ... arrays_practice/ass1.s
-	@echo ... arrays_practice/ass1_again.obj
-	@echo ... arrays_practice/ass1_again.i
-	@echo ... arrays_practice/ass1_again.s
-	@echo ... assignment4_exp_tree/Assignment4.obj
-	@echo ... assignment4_exp_tree/Assignment4.i
-	@echo ... assignment4_exp_tree/Assignment4.s
-	@echo ... assignment4_exp_tree/ExpressionImplementation.obj
-	@echo ... assignment4_exp_tree/ExpressionImplementation.i
-	@echo ... assignment4_exp_tree/ExpressionImplementation.s
-	@echo ... assignment4_exp_tree/StackImplementation.obj
-	@echo ... assignment4_exp_tree/StackImplementation.i
-	@echo ... assignment4_exp_tree/StackImplementation.s
-	@echo ... assignment4_exp_tree/TreeExpressionImplementation.obj
-	@echo ... assignment4_exp_tree/TreeExpressionImplementation.i
-	@echo ... assignment4_exp_tree/TreeExpressionImplementation.s
-	@echo ... assignment4_exp_tree/exp_tree_final.obj
-	@echo ... assignment4_exp_tree/exp_tree_final.i
-	@echo ... assignment4_exp_tree/exp_tree_final.s
-	@echo ... assignment_1/assignment_1_using_struct.obj
-	@echo ... assignment_1/assignment_1_using_struct.i
-	@echo ... assignment_1/assignment_1_using_struct.s
-	@echo ... assignment_1/main_interface.obj
-	@echo ... assignment_1/main_interface.i
-	@echo ... assignment_1/main_interface.s
-	@echo ... assignment_1/studDB_impl.obj
-	@echo ... assignment_1/studDB_impl.i
-	@echo ... assignment_1/studDB_impl.s
-	@echo ... assignment_10/assignment_10.obj
-	@echo ... assignment_10/assignment_10.i
-	@echo ... assignment_10/assignment_10.s
-	@echo ... assignment_10/impl.obj
-	@echo ... assignment_10/impl.i
-	@echo ... assignment_10/impl.s
-	@echo ... assignment_10/main.obj
-	@echo ... assignment_10/main.i
-	@echo ... assignment_10/main.s
-	@echo ... assignment_2_stack/mainFile.obj
-	@echo ... assignment_2_stack/mainFile.i
-	@echo ... assignment_2_stack/mainFile.s
-	@echo ... assignment_2_stack/stack_final.obj
-	@echo ... assignment_2_stack/stack_final.i
-	@echo ... assignment_2_stack/stack_final.s
-	@echo ... assignment_2_stack/stack_impl.obj
-	@echo ... assignment_2_stack/stack_impl.i
-	@echo ... assignment_2_stack/stack_impl.s
-	@echo ... assignment_3_queue/circular_queue_2.obj
-	@echo ... assignment_3_queue/circular_queue_2.i
-	@echo ... assignment_3_queue/circular_queue_2.s
-	@echo ... assignment_3_queue/impl.obj
-	@echo ... assignment_3_queue/impl.i
-	@echo ... assignment_3_queue/impl.s
-	@echo ... assignment_3_queue/main.obj
-	@echo ... assignment_3_queue/main.i
-	@echo ... assignment_3_queue/main.s
-	@echo ... assignment_3_queue/queue_final.obj
-	@echo ... assignment_3_queue/queue_final.i
-	@echo ... assignment_3_queue/queue_final.s
-	@echo ... assignment_5_BST/BST.obj
-	@echo ... assignment_5_BST/BST.i
-	@echo ... assignment_5_BST/BST.s
-	@echo ... assignment_5_BST/BST_Main.obj
-	@echo ... assignment_5_BST/BST_Main.i
-	@echo ... assignment_5_BST/BST_Main.s
-	@echo ... assignment_5_BST/BST_final.obj
-	@echo ... assignment_5_BST/BST_final.i
-	@echo ... assignment_5_BST/BST_final.s
-	@echo ... assignment_6_TBT/TBT_FINAL.obj
-	@echo ... assignment_6_TBT/TBT_FINAL.i
-	@echo ... assignment_6_TBT/TBT_FINAL.s
-	@echo ... assignment_6_TBT/tbt_impl.obj
-	@echo ... assignment_6_TBT/tbt_impl.i
-	@echo ... assignment_6_TBT/tbt_impl.s
-	@echo ... assignment_6_TBT/tbt_main.obj
-	@echo ... assignment_6_TBT/tbt_main.i
-	@echo ... assignment_6_TBT/tbt_main.s
-	@echo ... assignment_7/assignment_7.obj
-	@echo ... assignment_7/assignment_7.i
-	@echo ... assignment_7/assignment_7.s
-	@echo ... assignment_7/mst_impl.obj
-	@echo ... assignment_7/mst_impl.i
-	@echo ... assignment_7/mst_impl.s
-	@echo ... assignment_7/mst_main.obj
-	@echo ... assignment_7/mst_main.i
-	@echo ... assignment_7/mst_main.s
-	@echo ... assignment_8/assignment_8.obj
-	@echo ... assignment_8/assignment_8.i
-	@echo ... assignment_8/assignment_8.s
-	@echo ... assignment_8/dijk_impl.obj
-	@echo ... assignment_8/dijk_impl.i
-	@echo ... assignment_8/dijk_impl.s
-	@echo ... assignment_8/dijk_main.obj
-	@echo ... assignment_8/dijk_main.i
-	@echo ... assignment_8/dijk_main.s
-	@echo ... assignment_9_heap_sort/HEAP.obj
-	@echo ... assignment_9_heap_sort/HEAP.i
-	@echo ... assignment_9_heap_sort/HEAP.s
-	@echo ... assignment_9_heap_sort/heap_impl.obj
-	@echo ... assignment_9_heap_sort/heap_impl.i
-	@echo ... assignment_9_heap_sort/heap_impl.s
-	@echo ... assignment_9_heap_sort/heap_main.obj
-	@echo ... assignment_9_heap_sort/heap_main.i
-	@echo ... assignment_9_heap_sort/heap_main.s
 	@echo ... calculator/calculator_II.obj
 	@echo ... calculator/calculator_II.i
 	@echo ... calculator/calculator_II.s

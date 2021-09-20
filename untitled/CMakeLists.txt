@@ -5,14 +5,14 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(untitled algorithmic_toolbox/test.cpp
-        calculator/calculator_II.cpp arrays_practice/array_sorting.cpp arrays_practice/array1.cpp
-        arrays_practice/arrays3.cpp arrays_practice/array4.cpp arrays_practice/array3_1.cpp
-        arrays_practice/array3_1.cpp arrays_practice/array4_1.cpp Basics/MATRIX/matrix.cpp
-        assignment_1/assignment_1_using_struct.cpp assignment_1/studDB.h assignment_1/studDB_impl.cpp
-        assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp arrays_practice/ass1.cpp
-        arrays_practice/ass1_again.cpp
+        calculator/calculator_II.cpp DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp DSA_ASSIGNMENTS/arrays_practice/array1.cpp
+        DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp DSA_ASSIGNMENTS/arrays_practice/array4.cpp DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp
+        DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp Basics/MATRIX/matrix.cpp
+        DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp
+        DSA_ASSIGNMENTS/assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp DSA_ASSIGNMENTS/arrays_practice/ass1.cpp
+        DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp
         algorithmic_toolbox DM/linear_searrch.cpp
-        DM/occurances.cpp assignment_3_queue/circular_queue_2.cpp assignment_3_queue/queue_final.cpp
+        DM/occurances.cpp DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
         DM/DM_lists.cpp Basics/STL/vectors_tut.cpp Basics/Templates/templates.cpp
         stack_assignment stack_assignment/linkedlistwithstack.h Basics/algorithms/SORTING/selectionSort.cpp
         Basics/algorithms/SORTING/BubbleSort.cpp Basics/algorithms/SORTING/InsertionSort.cpp
@@ -53,30 +53,30 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/Templates/templates2.cpp Basics/Templates/function_templates.cpp
         Basics/Templates/overloading_templates.cpp Basics/STL/Lists.cpp Basics/STL/maps.cpp
         Basics/STL/function_objects.cpp
-        assignment_3_queue/queue.h assignment_3_queue/main.cpp assignment_3_queue/impl.cpp
-        assignment_1/studDB.h assignment_1/studDB_impl.cpp assignment_1/main_interface.cpp
-        assignment_2_stack/mainFile.cpp assignment_2_stack/stack_impl.cpp
-        assignment_2_stack/Stack.h
-        assignment4_exp_tree/Assignment4.cpp assignment4_exp_tree/ExpressionHeader.h
-        assignment4_exp_tree/ExpressionImplementation.cpp assignment4_exp_tree/StackHeader.h
-        assignment4_exp_tree/StackImplementation.cpp assignment4_exp_tree/TreeExpressionHeader.h
-        assignment4_exp_tree/TreeExpressionImplementation.cpp
-        assignment_5_BST/BST.cpp assignment_5_BST/BST.h assignment_5_BST/BST_Main.cpp
-        assignment_2_stack/stack_final.cpp assignment4_exp_tree/exp_tree_final.cpp
-        assignment_5_BST/BST_final.cpp
-        assignment_7/assignment_7.cpp assignment_8/assignment_8.cpp
-        assignment_6_TBT/tbt.h assignment_6_TBT/tbt_impl.cpp assignment_6_TBT/tbt_main.cpp
-        assignment_9_heap_sort/heap_header.h
-        assignment_9_heap_sort/heap_main.cpp
-        assignment_9_heap_sort/heap_impl.cpp
-        assignment_9_heap_sort/HEAP.cpp
+        DSA_ASSIGNMENTS/assignment_3_queue/queue.h DSA_ASSIGNMENTS/assignment_3_queue/main.cpp DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp
+        DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp DSA_ASSIGNMENTS/assignment_1/main_interface.cpp
+        DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp
+        DSA_ASSIGNMENTS/assignment_2_stack/Stack.h
+        DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionHeader.h
+        DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp DSA_ASSIGNMENTS/assignment_4_exp_tree/StackHeader.h
+        DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionHeader.h
+        DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp
+        DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp DSA_ASSIGNMENTS/assignment_5_BST/BST.h DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp
+        DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp
+        DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp
+        DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp
+        DSA_ASSIGNMENTS/assignment_6_TBT/tbt.h DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp
+        DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_header.h
+        DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
+        DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
+        DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
         ROUGH_FILES/rough3.cpp Basics/graphs/MST_kruskal.cpp Basics/graphs/MST_Prim.cpp
-        assignment_10/assignment_10.cpp
-        assignment_7/mst_header.h assignment_7/mst_impl.cpp assignment_7/mst_main.cpp
-        assignment_8/dijk_header.h assignment_8/dijk_impl.cpp assignment_8/dijk_main.cpp
-        assignment_10/header.h assignment_10/impl.cpp assignment_10/main.cpp
+        DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
+        DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
+        DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
+        DSA_ASSIGNMENTS/assignment_10/header.h DSA_ASSIGNMENTS/assignment_10/impl.cpp DSA_ASSIGNMENTS/assignment_10/main.cpp
         Basics/STL/hashing.cpp Basics/STL/sets.cpp
-        assignment_6_TBT/TBT_FINAL.cpp ROUGH_FILES/rough4.cpp ROUGH_FILES/rough5.cpp
+        DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp ROUGH_FILES/rough4.cpp ROUGH_FILES/rough5.cpp
         algorithmic_toolbox/week3/money_change.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
@@ -125,6 +125,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
         Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
         Basics/DP/DP_CN/lis.cpp Basics/DP/DP_CN/loot_houses.cpp Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
-        Basics/DP/DP_CN/sus.cpp)
+        Basics/DP/DP_CN/sus.cpp Basics/DP/DP_CN/lus.cpp Basics/STACK_PROBLEMS/ngr.cpp
+        Basics/STACK_PROBLEMS/ngl.cpp Basics/STACK_PROBLEMS/nsl.cpp
+        Basics/STACK_PROBLEMS/nsr.cpp Basics/STACK_PROBLEMS/stock_span.cpp
+        Basics/STACK_PROBLEMS/mah.cpp Basics/STACK_PROBLEMS/mar.cpp)
 
 

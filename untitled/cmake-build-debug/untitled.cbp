@@ -119,6 +119,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/loot_houses.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/lus.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/max_cost_path.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -509,6 +512,27 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/mah.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/mar.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/ngl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/ngr.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/nsl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/nsr.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STACK_PROBLEMS/stock_span.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/STL/Lists.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -656,6 +680,165 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSAL_mock/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/array1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/array4.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_1/main_interface.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_1/studDB.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_10/header.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_10/impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_10/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_2_stack/Stack.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_3_queue/queue.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionHeader.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackHeader.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionHeader.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_5_BST/BST.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_6_TBT/tbt.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_7/mst_header.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_8/dijk_header.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_header.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_mock_test.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -693,165 +876,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/algorithmic_toolbox/week3/money_change.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/array1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/array3_1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/array4.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/array4_1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/array_sorting.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/arrays3.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/ass1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/arrays_practice/ass1_again.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/Assignment4.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/ExpressionHeader.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/ExpressionImplementation.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/StackHeader.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/StackImplementation.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/TreeExpressionHeader.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/TreeExpressionImplementation.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment4_exp_tree/exp_tree_final.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_1/assignment_1_using_struct.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_1/main_interface.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_1/studDB.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_1/studDB_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_10/assignment_10.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_10/header.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_10/impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_10/main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_2_stack/Stack.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_2_stack/mainFile.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_2_stack/stack_final.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_2_stack/stack_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_3_queue/circular_queue_2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_3_queue/impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_3_queue/main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_3_queue/queue.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_3_queue/queue_final.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_5_BST/BST.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_5_BST/BST.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_5_BST/BST_Main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_5_BST/BST_final.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_6_TBT/TBT_FINAL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_6_TBT/tbt.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_6_TBT/tbt_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_6_TBT/tbt_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_7/assignment_7.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_7/mst_header.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_7/mst_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_7/mst_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_8/assignment_8.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_8/dijk_header.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_8/dijk_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_8/dijk_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_9_heap_sort/HEAP.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_9_heap_sort/heap_header.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_9_heap_sort/heap_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/assignment_9_heap_sort/heap_main.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/calculator/calculator_II.cpp">
