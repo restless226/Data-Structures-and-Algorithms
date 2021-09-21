@@ -3868,6 +3868,33 @@ Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 .PHONY : Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 
+Basics/STACK_PROBLEMS/celebrity.obj: Basics/STACK_PROBLEMS/celebrity.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/celebrity.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/celebrity.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/celebrity.cpp.obj
+
+Basics/STACK_PROBLEMS/celebrity.i: Basics/STACK_PROBLEMS/celebrity.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/celebrity.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/celebrity.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/celebrity.cpp.i
+
+Basics/STACK_PROBLEMS/celebrity.s: Basics/STACK_PROBLEMS/celebrity.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/celebrity.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/celebrity.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/celebrity.cpp.s
+
 Basics/STACK_PROBLEMS/mah.obj: Basics/STACK_PROBLEMS/mah.cpp.obj
 
 .PHONY : Basics/STACK_PROBLEMS/mah.obj
@@ -4029,6 +4056,33 @@ Basics/STACK_PROBLEMS/nsr.s: Basics/STACK_PROBLEMS/nsr.cpp.s
 Basics/STACK_PROBLEMS/nsr.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.s
 .PHONY : Basics/STACK_PROBLEMS/nsr.cpp.s
+
+Basics/STACK_PROBLEMS/rwt.obj: Basics/STACK_PROBLEMS/rwt.cpp.obj
+
+.PHONY : Basics/STACK_PROBLEMS/rwt.obj
+
+# target to build an object file
+Basics/STACK_PROBLEMS/rwt.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj
+.PHONY : Basics/STACK_PROBLEMS/rwt.cpp.obj
+
+Basics/STACK_PROBLEMS/rwt.i: Basics/STACK_PROBLEMS/rwt.cpp.i
+
+.PHONY : Basics/STACK_PROBLEMS/rwt.i
+
+# target to preprocess a source file
+Basics/STACK_PROBLEMS/rwt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.i
+.PHONY : Basics/STACK_PROBLEMS/rwt.cpp.i
+
+Basics/STACK_PROBLEMS/rwt.s: Basics/STACK_PROBLEMS/rwt.cpp.s
+
+.PHONY : Basics/STACK_PROBLEMS/rwt.s
+
+# target to generate assembly for a file
+Basics/STACK_PROBLEMS/rwt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.s
+.PHONY : Basics/STACK_PROBLEMS/rwt.cpp.s
 
 Basics/STACK_PROBLEMS/stock_span.obj: Basics/STACK_PROBLEMS/stock_span.cpp.obj
 
@@ -7261,6 +7315,9 @@ help:
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.i
 	@echo ... Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.s
+	@echo ... Basics/STACK_PROBLEMS/celebrity.obj
+	@echo ... Basics/STACK_PROBLEMS/celebrity.i
+	@echo ... Basics/STACK_PROBLEMS/celebrity.s
 	@echo ... Basics/STACK_PROBLEMS/mah.obj
 	@echo ... Basics/STACK_PROBLEMS/mah.i
 	@echo ... Basics/STACK_PROBLEMS/mah.s
@@ -7279,6 +7336,9 @@ help:
 	@echo ... Basics/STACK_PROBLEMS/nsr.obj
 	@echo ... Basics/STACK_PROBLEMS/nsr.i
 	@echo ... Basics/STACK_PROBLEMS/nsr.s
+	@echo ... Basics/STACK_PROBLEMS/rwt.obj
+	@echo ... Basics/STACK_PROBLEMS/rwt.i
+	@echo ... Basics/STACK_PROBLEMS/rwt.s
 	@echo ... Basics/STACK_PROBLEMS/stock_span.obj
 	@echo ... Basics/STACK_PROBLEMS/stock_span.i
 	@echo ... Basics/STACK_PROBLEMS/stock_span.s

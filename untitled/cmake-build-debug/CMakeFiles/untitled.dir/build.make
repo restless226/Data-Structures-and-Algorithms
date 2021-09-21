@@ -3300,6 +3300,32 @@ CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\mar.cpp -o CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\mar.cpp.s
 
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj: ../Basics/STACK_PROBLEMS/rwt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\rwt.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\rwt.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\rwt.cpp > CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\rwt.cpp.i
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\rwt.cpp -o CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\rwt.cpp.s
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj: ../Basics/STACK_PROBLEMS/celebrity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\celebrity.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\celebrity.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\celebrity.cpp > CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\celebrity.cpp.i
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\STACK_PROBLEMS\celebrity.cpp -o CMakeFiles\untitled.dir\Basics\STACK_PROBLEMS\celebrity.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3549,7 +3575,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3802,11 +3830,13 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

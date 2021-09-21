@@ -1,7 +1,7 @@
 ///*
 // * Name: Rohit Pendse
 // * Roll no: 33358
-// * Subject: Daa Lab Assignment 1
+// * Subject: DAA Lab Assignment 1
 // *
 // * Problem Statement:
 // * Write a menu driven C++ program to implement Fractional Knapsack using Greedy Algorithm
@@ -26,7 +26,6 @@
 //
 //
 //double fractionalKnapsack(int W, Item arr[], int n) {
-//    // Your code here
 //    sort(arr, arr + n, cmp);
 //
 //    int total_weights = 0;

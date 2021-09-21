@@ -258,6 +258,8 @@ CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../B
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
 
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj: ../Basics/STACK_PROBLEMS/celebrity.cpp
+
 CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mah.cpp.obj: ../Basics/STACK_PROBLEMS/mah.cpp
 
 CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/mar.cpp.obj: ../Basics/STACK_PROBLEMS/mar.cpp
@@ -269,6 +271,8 @@ CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/ngr.cpp.obj: ../Basics/STACK_PROBL
 CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsl.cpp.obj: ../Basics/STACK_PROBLEMS/nsl.cpp
 
 CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/nsr.cpp.obj: ../Basics/STACK_PROBLEMS/nsr.cpp
+
+CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj: ../Basics/STACK_PROBLEMS/rwt.cpp
 
 CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/stock_span.cpp.obj: ../Basics/STACK_PROBLEMS/stock_span.cpp
 
