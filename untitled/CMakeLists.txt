@@ -104,8 +104,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_CN/fib.cpp Basics/DP/DP_CN/min_steps.cpp Basics/DP/DP_CN/min_count.cpp
         DAA/file_handling.cpp DAA/merge_sort.cpp DAA/n_queens.cpp DAA/fractional_knapsack_using_greedy.cpp
         Basics/BACKTRACKING/n_queens.cpp Basics/BACKTRACKING/rat_in_a_maze.cpp
-        Basics/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01_using_DP.cpp
-        Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp Basics/DP/knapsack_01_variations/subset_sum.cpp Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
+        Basics/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01.cpp
+        Basics/DP/knapsack_01_variations/knapsack_01.cpp Basics/DP/knapsack_01_variations/subset_sum.cpp Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
         Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp Basics/DP/knapsack_01_variations/min_sum_partition.cpp
         Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp Basics/DP/knapsack_01_variations/target_sum.cpp
         Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp

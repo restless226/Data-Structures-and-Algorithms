@@ -74,7 +74,7 @@ CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.obj: ../Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj: ../Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp
+CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01.cpp.obj: ../Basics/DP/knapsack_01_variations/knapsack_01.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj: ../Basics/DP/knapsack_01_variations/min_sum_partition.cpp
 
@@ -372,7 +372,7 @@ CMakeFiles/untitled.dir/DAA/file_handling.cpp.obj: ../DAA/file_handling.cpp
 
 CMakeFiles/untitled.dir/DAA/fractional_knapsack_using_greedy.cpp.obj: ../DAA/fractional_knapsack_using_greedy.cpp
 
-CMakeFiles/untitled.dir/DAA/knapsack_01_using_DP.cpp.obj: ../DAA/knapsack_01_using_DP.cpp
+CMakeFiles/untitled.dir/DAA/knapsack_01.cpp.obj: ../DAA/knapsack_01.cpp
 
 CMakeFiles/untitled.dir/DAA/merge_sort.cpp.obj: ../DAA/merge_sort.cpp
 

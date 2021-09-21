@@ -1,11 +1,10 @@
 ///*
-// * Name: Rohit Pendse
-// * Roll no: 33358
-// * Subject: DAA Lab Assignment 1
-// *
-// * Problem Statement:
-// * Write a menu driven C++ program to implement Fractional Knapsack using Greedy Algorithm
-// */
+//Name: Rohit Pendse
+//Roll no: 33358
+//Subject: DAA Lab Assignment 1
+//Problem Statement:
+//Write a menu driven C++ program to implement Fractional Knapsack using Greedy Algorithm
+//*/
 //
 //#include <bits/stdc++.h>
 //
@@ -52,7 +51,6 @@
 //    }
 //
 //    return value;
-//
 //}
 //
 //int32_t main() {
@@ -83,8 +81,7 @@
 //}
 //
 ///*
-//OUTPUT:
-//
+//INPUT:
 //Enter no of items:
 //3
 //Enter capacity of knapsack:
@@ -101,5 +98,7 @@
 //120
 //Enter weight 3:
 //30
+//
+//OUTPUT:
 //Total Maximum value of item we can have from the given capacity of sack is:240
 // */

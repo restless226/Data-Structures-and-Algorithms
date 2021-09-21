@@ -1114,32 +1114,32 @@ Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s
 .PHONY : Basics/DP/knapsack_01_variations/equal_sum_partition.cpp.s
 
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
+Basics/DP/knapsack_01_variations/knapsack_01.obj: Basics/DP/knapsack_01_variations/knapsack_01.cpp.obj
 
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.obj
 
 # target to build an object file
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.obj
+Basics/DP/knapsack_01_variations/knapsack_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01.cpp.obj
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.cpp.obj
 
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
+Basics/DP/knapsack_01_variations/knapsack_01.i: Basics/DP/knapsack_01_variations/knapsack_01.cpp.i
 
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.i
 
 # target to preprocess a source file
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.i
+Basics/DP/knapsack_01_variations/knapsack_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01.cpp.i
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.cpp.i
 
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s: Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
+Basics/DP/knapsack_01_variations/knapsack_01.s: Basics/DP/knapsack_01_variations/knapsack_01.cpp.s
 
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.s
 
 # target to generate assembly for a file
-Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
-.PHONY : Basics/DP/knapsack_01_variations/knapsack_01_using_DP.cpp.s
+Basics/DP/knapsack_01_variations/knapsack_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/knapsack_01.cpp.s
+.PHONY : Basics/DP/knapsack_01_variations/knapsack_01.cpp.s
 
 Basics/DP/knapsack_01_variations/min_sum_partition.obj: Basics/DP/knapsack_01_variations/min_sum_partition.cpp.obj
 
@@ -5137,32 +5137,32 @@ DAA/fractional_knapsack_using_greedy.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/fractional_knapsack_using_greedy.cpp.s
 .PHONY : DAA/fractional_knapsack_using_greedy.cpp.s
 
-DAA/knapsack_01_using_DP.obj: DAA/knapsack_01_using_DP.cpp.obj
+DAA/knapsack_01.obj: DAA/knapsack_01.cpp.obj
 
-.PHONY : DAA/knapsack_01_using_DP.obj
+.PHONY : DAA/knapsack_01.obj
 
 # target to build an object file
-DAA/knapsack_01_using_DP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01_using_DP.cpp.obj
-.PHONY : DAA/knapsack_01_using_DP.cpp.obj
+DAA/knapsack_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01.cpp.obj
+.PHONY : DAA/knapsack_01.cpp.obj
 
-DAA/knapsack_01_using_DP.i: DAA/knapsack_01_using_DP.cpp.i
+DAA/knapsack_01.i: DAA/knapsack_01.cpp.i
 
-.PHONY : DAA/knapsack_01_using_DP.i
+.PHONY : DAA/knapsack_01.i
 
 # target to preprocess a source file
-DAA/knapsack_01_using_DP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01_using_DP.cpp.i
-.PHONY : DAA/knapsack_01_using_DP.cpp.i
+DAA/knapsack_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01.cpp.i
+.PHONY : DAA/knapsack_01.cpp.i
 
-DAA/knapsack_01_using_DP.s: DAA/knapsack_01_using_DP.cpp.s
+DAA/knapsack_01.s: DAA/knapsack_01.cpp.s
 
-.PHONY : DAA/knapsack_01_using_DP.s
+.PHONY : DAA/knapsack_01.s
 
 # target to generate assembly for a file
-DAA/knapsack_01_using_DP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01_using_DP.cpp.s
-.PHONY : DAA/knapsack_01_using_DP.cpp.s
+DAA/knapsack_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA/knapsack_01.cpp.s
+.PHONY : DAA/knapsack_01.cpp.s
 
 DAA/merge_sort.obj: DAA/merge_sort.cpp.obj
 
@@ -7009,9 +7009,9 @@ help:
 	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.obj
 	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.i
 	@echo ... Basics/DP/knapsack_01_variations/equal_sum_partition.s
-	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.obj
-	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.i
-	@echo ... Basics/DP/knapsack_01_variations/knapsack_01_using_DP.s
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01.obj
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01.i
+	@echo ... Basics/DP/knapsack_01_variations/knapsack_01.s
 	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.obj
 	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.i
 	@echo ... Basics/DP/knapsack_01_variations/min_sum_partition.s
@@ -7456,9 +7456,9 @@ help:
 	@echo ... DAA/fractional_knapsack_using_greedy.obj
 	@echo ... DAA/fractional_knapsack_using_greedy.i
 	@echo ... DAA/fractional_knapsack_using_greedy.s
-	@echo ... DAA/knapsack_01_using_DP.obj
-	@echo ... DAA/knapsack_01_using_DP.i
-	@echo ... DAA/knapsack_01_using_DP.s
+	@echo ... DAA/knapsack_01.obj
+	@echo ... DAA/knapsack_01.i
+	@echo ... DAA/knapsack_01.s
 	@echo ... DAA/merge_sort.obj
 	@echo ... DAA/merge_sort.i
 	@echo ... DAA/merge_sort.s
