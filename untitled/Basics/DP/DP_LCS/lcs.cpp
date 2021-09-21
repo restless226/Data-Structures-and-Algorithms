@@ -5,7 +5,7 @@
 //A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous.
 //*/
 //
-///* (Length of SCS) = (m + n) - (Length os LCS) */
+///* (Length of SCS) = (m + n) - (Length of LCS) */
 //
 //#include <bits/stdc++.h>
 //
@@ -69,7 +69,6 @@
 //
 //    reverse(ans.begin(), ans.end());
 //    return ans;
-//
 //}
 //
 //void printArray(int **dp, int n, int m) {

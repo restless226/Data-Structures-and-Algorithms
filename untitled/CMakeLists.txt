@@ -129,6 +129,6 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/STACK_PROBLEMS/ngl.cpp Basics/STACK_PROBLEMS/nsl.cpp
         Basics/STACK_PROBLEMS/nsr.cpp Basics/STACK_PROBLEMS/stock_span.cpp
         Basics/STACK_PROBLEMS/mah.cpp Basics/STACK_PROBLEMS/mar.cpp Basics/STACK_PROBLEMS/rwt.cpp
-        Basics/STACK_PROBLEMS/celebrity.cpp)
+        Basics/STACK_PROBLEMS/celebrity.cpp Basics/DP/DP_LCS/lcs_of_3_strings.cpp)
 
 

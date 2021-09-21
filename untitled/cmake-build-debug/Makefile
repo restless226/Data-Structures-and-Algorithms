@@ -682,6 +682,33 @@ Basics/DP/DP_LCS/lcs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.s
 .PHONY : Basics/DP/DP_LCS/lcs.cpp.s
 
+Basics/DP/DP_LCS/lcs_of_3_strings.obj: Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj
+
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.obj
+
+# target to build an object file
+Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj
+
+Basics/DP/DP_LCS/lcs_of_3_strings.i: Basics/DP/DP_LCS/lcs_of_3_strings.cpp.i
+
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.i
+
+# target to preprocess a source file
+Basics/DP/DP_LCS/lcs_of_3_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.i
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.cpp.i
+
+Basics/DP/DP_LCS/lcs_of_3_strings.s: Basics/DP/DP_LCS/lcs_of_3_strings.cpp.s
+
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LCS/lcs_of_3_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.s
+.PHONY : Basics/DP/DP_LCS/lcs_of_3_strings.cpp.s
+
 Basics/DP/DP_LCS/longest_common_substring.obj: Basics/DP/DP_LCS/longest_common_substring.cpp.obj
 
 .PHONY : Basics/DP/DP_LCS/longest_common_substring.obj
@@ -6961,6 +6988,9 @@ help:
 	@echo ... Basics/DP/DP_LCS/lcs.obj
 	@echo ... Basics/DP/DP_LCS/lcs.i
 	@echo ... Basics/DP/DP_LCS/lcs.s
+	@echo ... Basics/DP/DP_LCS/lcs_of_3_strings.obj
+	@echo ... Basics/DP/DP_LCS/lcs_of_3_strings.i
+	@echo ... Basics/DP/DP_LCS/lcs_of_3_strings.s
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.obj
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.i
 	@echo ... Basics/DP/DP_LCS/longest_common_substring.s

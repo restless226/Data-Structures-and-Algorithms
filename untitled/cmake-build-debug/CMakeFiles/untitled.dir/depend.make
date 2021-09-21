@@ -42,6 +42,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj: ../Basics/DP/DP_
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj: ../Basics/DP/DP_LCS/lcs.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj: ../Basics/DP/DP_LCS/lcs_of_3_strings.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/longest_common_substring.cpp.obj: ../Basics/DP/DP_LCS/longest_common_substring.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lrs.cpp.obj: ../Basics/DP/DP_LCS/lrs.cpp
