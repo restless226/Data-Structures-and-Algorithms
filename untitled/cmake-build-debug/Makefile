@@ -601,6 +601,33 @@ Basics/DP/DP_CN/min_steps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s
 .PHONY : Basics/DP/DP_CN/min_steps.cpp.s
 
+Basics/DP/DP_CN/print_all_ss_of_a_string.obj: Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.obj
+
+# target to build an object file
+Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
+
+Basics/DP/DP_CN/print_all_ss_of_a_string.i: Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.i
+
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.i
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.i
+
+Basics/DP/DP_CN/print_all_ss_of_a_string.s: Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s
+
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s
+.PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s
+
 Basics/DP/DP_CN/sus.obj: Basics/DP/DP_CN/sus.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/sus.obj
@@ -1248,6 +1275,33 @@ Basics/DP/knapsack_01_variations/target_sum.s: Basics/DP/knapsack_01_variations/
 Basics/DP/knapsack_01_variations/target_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.s
 .PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.s
+
+Basics/DP/string_ss.obj: Basics/DP/string_ss.cpp.obj
+
+.PHONY : Basics/DP/string_ss.obj
+
+# target to build an object file
+Basics/DP/string_ss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj
+.PHONY : Basics/DP/string_ss.cpp.obj
+
+Basics/DP/string_ss.i: Basics/DP/string_ss.cpp.i
+
+.PHONY : Basics/DP/string_ss.i
+
+# target to preprocess a source file
+Basics/DP/string_ss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.i
+.PHONY : Basics/DP/string_ss.cpp.i
+
+Basics/DP/string_ss.s: Basics/DP/string_ss.cpp.s
+
+.PHONY : Basics/DP/string_ss.s
+
+# target to generate assembly for a file
+Basics/DP/string_ss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.s
+.PHONY : Basics/DP/string_ss.cpp.s
 
 Basics/DP/unbounded_knapsack/coin_change_one.obj: Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
@@ -6979,6 +7033,9 @@ help:
 	@echo ... Basics/DP/DP_CN/min_steps.obj
 	@echo ... Basics/DP/DP_CN/min_steps.i
 	@echo ... Basics/DP/DP_CN/min_steps.s
+	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.obj
+	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.i
+	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.s
 	@echo ... Basics/DP/DP_CN/sus.obj
 	@echo ... Basics/DP/DP_CN/sus.i
 	@echo ... Basics/DP/DP_CN/sus.s
@@ -7051,6 +7108,9 @@ help:
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.obj
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.i
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.s
+	@echo ... Basics/DP/string_ss.obj
+	@echo ... Basics/DP/string_ss.i
+	@echo ... Basics/DP/string_ss.s
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.obj
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.i
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.s

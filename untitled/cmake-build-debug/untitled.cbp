@@ -137,6 +137,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/sus.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -207,6 +210,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/target_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/string_ss.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_one.cpp">
