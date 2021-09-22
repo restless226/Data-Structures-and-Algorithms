@@ -20,6 +20,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj: ../Bas
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: ../Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj: ../Basics/DP/DP_CN/distinct_occurrences.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
@@ -41,6 +43,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: ../Basics/DP/DP_C
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/min_count.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj: ../Basics/DP/DP_CN/min_steps_to_dest.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj: ../Basics/DP/DP_CN/print_all_ss_of_a_string.cpp
 

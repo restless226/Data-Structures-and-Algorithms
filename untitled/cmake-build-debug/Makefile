@@ -385,6 +385,33 @@ Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s
 .PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s
 
+Basics/DP/DP_CN/distinct_occurrences.obj: Basics/DP/DP_CN/distinct_occurrences.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.obj
+
+# target to build an object file
+Basics/DP/DP_CN/distinct_occurrences.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.cpp.obj
+
+Basics/DP/DP_CN/distinct_occurrences.i: Basics/DP/DP_CN/distinct_occurrences.cpp.i
+
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/distinct_occurrences.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.i
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.cpp.i
+
+Basics/DP/DP_CN/distinct_occurrences.s: Basics/DP/DP_CN/distinct_occurrences.cpp.s
+
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/distinct_occurrences.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.s
+.PHONY : Basics/DP/DP_CN/distinct_occurrences.cpp.s
+
 Basics/DP/DP_CN/fib.obj: Basics/DP/DP_CN/fib.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/fib.obj
@@ -655,6 +682,33 @@ Basics/DP/DP_CN/min_count.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.s
 .PHONY : Basics/DP/DP_CN/min_count.cpp.s
 
+Basics/DP/DP_CN/min_no_of_jumps.obj: Basics/DP/DP_CN/min_no_of_jumps.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.obj
+
+# target to build an object file
+Basics/DP/DP_CN/min_no_of_jumps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.cpp.obj
+
+Basics/DP/DP_CN/min_no_of_jumps.i: Basics/DP/DP_CN/min_no_of_jumps.cpp.i
+
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/min_no_of_jumps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.i
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.cpp.i
+
+Basics/DP/DP_CN/min_no_of_jumps.s: Basics/DP/DP_CN/min_no_of_jumps.cpp.s
+
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/min_no_of_jumps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.s
+.PHONY : Basics/DP/DP_CN/min_no_of_jumps.cpp.s
+
 Basics/DP/DP_CN/min_steps.obj: Basics/DP/DP_CN/min_steps.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/min_steps.obj
@@ -681,6 +735,33 @@ Basics/DP/DP_CN/min_steps.s: Basics/DP/DP_CN/min_steps.cpp.s
 Basics/DP/DP_CN/min_steps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.s
 .PHONY : Basics/DP/DP_CN/min_steps.cpp.s
+
+Basics/DP/DP_CN/min_steps_to_dest.obj: Basics/DP/DP_CN/min_steps_to_dest.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.obj
+
+# target to build an object file
+Basics/DP/DP_CN/min_steps_to_dest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.cpp.obj
+
+Basics/DP/DP_CN/min_steps_to_dest.i: Basics/DP/DP_CN/min_steps_to_dest.cpp.i
+
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/min_steps_to_dest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.i
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.cpp.i
+
+Basics/DP/DP_CN/min_steps_to_dest.s: Basics/DP/DP_CN/min_steps_to_dest.cpp.s
+
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/min_steps_to_dest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.s
+.PHONY : Basics/DP/DP_CN/min_steps_to_dest.cpp.s
 
 Basics/DP/DP_CN/print_all_ss_of_a_string.obj: Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
 
@@ -7090,6 +7171,9 @@ help:
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.i
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.s
+	@echo ... Basics/DP/DP_CN/distinct_occurrences.obj
+	@echo ... Basics/DP/DP_CN/distinct_occurrences.i
+	@echo ... Basics/DP/DP_CN/distinct_occurrences.s
 	@echo ... Basics/DP/DP_CN/fib.obj
 	@echo ... Basics/DP/DP_CN/fib.i
 	@echo ... Basics/DP/DP_CN/fib.s
@@ -7120,9 +7204,15 @@ help:
 	@echo ... Basics/DP/DP_CN/min_count.obj
 	@echo ... Basics/DP/DP_CN/min_count.i
 	@echo ... Basics/DP/DP_CN/min_count.s
+	@echo ... Basics/DP/DP_CN/min_no_of_jumps.obj
+	@echo ... Basics/DP/DP_CN/min_no_of_jumps.i
+	@echo ... Basics/DP/DP_CN/min_no_of_jumps.s
 	@echo ... Basics/DP/DP_CN/min_steps.obj
 	@echo ... Basics/DP/DP_CN/min_steps.i
 	@echo ... Basics/DP/DP_CN/min_steps.s
+	@echo ... Basics/DP/DP_CN/min_steps_to_dest.obj
+	@echo ... Basics/DP/DP_CN/min_steps_to_dest.i
+	@echo ... Basics/DP/DP_CN/min_steps_to_dest.s
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.obj
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.i
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.s

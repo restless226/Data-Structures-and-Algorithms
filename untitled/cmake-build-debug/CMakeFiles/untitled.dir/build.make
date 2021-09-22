@@ -3404,6 +3404,45 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj: ../Basics/DP/DP_CN/min_steps_to_dest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps_to_dest.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps_to_dest.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps_to_dest.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps_to_dest.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_steps_to_dest.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_steps_to_dest.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj: ../Basics/DP/DP_CN/distinct_occurrences.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\distinct_occurrences.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\distinct_occurrences.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\distinct_occurrences.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\distinct_occurrences.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\distinct_occurrences.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\distinct_occurrences.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj: ../Basics/DP/DP_CN/min_no_of_jumps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_no_of_jumps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_no_of_jumps.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_no_of_jumps.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_no_of_jumps.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_no_of_jumps.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_no_of_jumps.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3661,7 +3700,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3922,11 +3964,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

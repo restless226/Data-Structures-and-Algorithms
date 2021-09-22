@@ -131,6 +131,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/STACK_PROBLEMS/mah.cpp Basics/STACK_PROBLEMS/mar.cpp Basics/STACK_PROBLEMS/rwt.cpp
         Basics/STACK_PROBLEMS/celebrity.cpp Basics/DP/DP_LCS/lcs_of_3_strings.cpp
         Basics/DP/DP_CN/print_all_ss_of_a_string.cpp Basics/DP/DP_CN/string_ss.cpp Basics/DP/DP_CN/count_all_possible_paths.cpp
-        Basics/DP/DP_CN/gold_mine.cpp Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp)
+        Basics/DP/DP_CN/gold_mine.cpp Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
+        Basics/DP/DP_CN/min_steps_to_dest.cpp Basics/DP/DP_CN/distinct_occurrences.cpp
+        Basics/DP/DP_CN/min_no_of_jumps.cpp)
 
 

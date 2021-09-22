@@ -113,6 +113,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/distinct_occurrences.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/fib.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -143,7 +146,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_count.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_no_of_jumps.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps_to_dest.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp">
