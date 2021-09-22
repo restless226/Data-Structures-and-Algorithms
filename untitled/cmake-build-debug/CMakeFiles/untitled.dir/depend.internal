@@ -16,10 +16,16 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Binary_Trees_CN/binary_tree_node.h
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Binary_Trees_CN/binary_tree_use.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_all_possible_paths.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/fib.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/get_min_squares.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/gold_mine.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/lis.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj
@@ -38,6 +44,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/min_steps.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/string_ss.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/sus.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/edit_distance.cpp.obj
@@ -86,8 +94,6 @@ CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/subset_sum.cpp
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/target_sum.cpp
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/DP/string_ss.cpp
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_one.cpp
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj

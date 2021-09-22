@@ -7,6 +7,6 @@
 #IncludeRegexTransform: 
 
 C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough5.cpp
-iostream
+bits/stdc++.h
 -
 

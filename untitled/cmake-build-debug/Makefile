@@ -331,6 +331,60 @@ Basics/Binary_Trees_CN/binary_tree_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 .PHONY : Basics/Binary_Trees_CN/binary_tree_use.cpp.s
 
+Basics/DP/DP_CN/count_all_possible_paths.obj: Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.obj
+
+# target to build an object file
+Basics/DP/DP_CN/count_all_possible_paths.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
+
+Basics/DP/DP_CN/count_all_possible_paths.i: Basics/DP/DP_CN/count_all_possible_paths.cpp.i
+
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/count_all_possible_paths.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.i
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.cpp.i
+
+Basics/DP/DP_CN/count_all_possible_paths.s: Basics/DP/DP_CN/count_all_possible_paths.cpp.s
+
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/count_all_possible_paths.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.s
+.PHONY : Basics/DP/DP_CN/count_all_possible_paths.cpp.s
+
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj: Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj
+
+# target to build an object file
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
+
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.i: Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i
+
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i
+
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.s: Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s
+
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s
+.PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s
+
 Basics/DP/DP_CN/fib.obj: Basics/DP/DP_CN/fib.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/fib.obj
@@ -384,6 +438,33 @@ Basics/DP/DP_CN/get_min_squares.s: Basics/DP/DP_CN/get_min_squares.cpp.s
 Basics/DP/DP_CN/get_min_squares.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.s
 .PHONY : Basics/DP/DP_CN/get_min_squares.cpp.s
+
+Basics/DP/DP_CN/gold_mine.obj: Basics/DP/DP_CN/gold_mine.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/gold_mine.obj
+
+# target to build an object file
+Basics/DP/DP_CN/gold_mine.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj
+.PHONY : Basics/DP/DP_CN/gold_mine.cpp.obj
+
+Basics/DP/DP_CN/gold_mine.i: Basics/DP/DP_CN/gold_mine.cpp.i
+
+.PHONY : Basics/DP/DP_CN/gold_mine.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/gold_mine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.i
+.PHONY : Basics/DP/DP_CN/gold_mine.cpp.i
+
+Basics/DP/DP_CN/gold_mine.s: Basics/DP/DP_CN/gold_mine.cpp.s
+
+.PHONY : Basics/DP/DP_CN/gold_mine.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/gold_mine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.s
+.PHONY : Basics/DP/DP_CN/gold_mine.cpp.s
 
 Basics/DP/DP_CN/lis.obj: Basics/DP/DP_CN/lis.cpp.obj
 
@@ -627,6 +708,33 @@ Basics/DP/DP_CN/print_all_ss_of_a_string.s: Basics/DP/DP_CN/print_all_ss_of_a_st
 Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s
 .PHONY : Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s
+
+Basics/DP/DP_CN/string_ss.obj: Basics/DP/DP_CN/string_ss.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/string_ss.obj
+
+# target to build an object file
+Basics/DP/DP_CN/string_ss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj
+.PHONY : Basics/DP/DP_CN/string_ss.cpp.obj
+
+Basics/DP/DP_CN/string_ss.i: Basics/DP/DP_CN/string_ss.cpp.i
+
+.PHONY : Basics/DP/DP_CN/string_ss.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/string_ss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.i
+.PHONY : Basics/DP/DP_CN/string_ss.cpp.i
+
+Basics/DP/DP_CN/string_ss.s: Basics/DP/DP_CN/string_ss.cpp.s
+
+.PHONY : Basics/DP/DP_CN/string_ss.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/string_ss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.s
+.PHONY : Basics/DP/DP_CN/string_ss.cpp.s
 
 Basics/DP/DP_CN/sus.obj: Basics/DP/DP_CN/sus.cpp.obj
 
@@ -1275,33 +1383,6 @@ Basics/DP/knapsack_01_variations/target_sum.s: Basics/DP/knapsack_01_variations/
 Basics/DP/knapsack_01_variations/target_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.s
 .PHONY : Basics/DP/knapsack_01_variations/target_sum.cpp.s
-
-Basics/DP/string_ss.obj: Basics/DP/string_ss.cpp.obj
-
-.PHONY : Basics/DP/string_ss.obj
-
-# target to build an object file
-Basics/DP/string_ss.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj
-.PHONY : Basics/DP/string_ss.cpp.obj
-
-Basics/DP/string_ss.i: Basics/DP/string_ss.cpp.i
-
-.PHONY : Basics/DP/string_ss.i
-
-# target to preprocess a source file
-Basics/DP/string_ss.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.i
-.PHONY : Basics/DP/string_ss.cpp.i
-
-Basics/DP/string_ss.s: Basics/DP/string_ss.cpp.s
-
-.PHONY : Basics/DP/string_ss.s
-
-# target to generate assembly for a file
-Basics/DP/string_ss.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.s
-.PHONY : Basics/DP/string_ss.cpp.s
 
 Basics/DP/unbounded_knapsack/coin_change_one.obj: Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
@@ -7003,12 +7084,21 @@ help:
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.obj
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.i
 	@echo ... Basics/Binary_Trees_CN/binary_tree_use.s
+	@echo ... Basics/DP/DP_CN/count_all_possible_paths.obj
+	@echo ... Basics/DP/DP_CN/count_all_possible_paths.i
+	@echo ... Basics/DP/DP_CN/count_all_possible_paths.s
+	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj
+	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.i
+	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.s
 	@echo ... Basics/DP/DP_CN/fib.obj
 	@echo ... Basics/DP/DP_CN/fib.i
 	@echo ... Basics/DP/DP_CN/fib.s
 	@echo ... Basics/DP/DP_CN/get_min_squares.obj
 	@echo ... Basics/DP/DP_CN/get_min_squares.i
 	@echo ... Basics/DP/DP_CN/get_min_squares.s
+	@echo ... Basics/DP/DP_CN/gold_mine.obj
+	@echo ... Basics/DP/DP_CN/gold_mine.i
+	@echo ... Basics/DP/DP_CN/gold_mine.s
 	@echo ... Basics/DP/DP_CN/lis.obj
 	@echo ... Basics/DP/DP_CN/lis.i
 	@echo ... Basics/DP/DP_CN/lis.s
@@ -7036,6 +7126,9 @@ help:
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.obj
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.i
 	@echo ... Basics/DP/DP_CN/print_all_ss_of_a_string.s
+	@echo ... Basics/DP/DP_CN/string_ss.obj
+	@echo ... Basics/DP/DP_CN/string_ss.i
+	@echo ... Basics/DP/DP_CN/string_ss.s
 	@echo ... Basics/DP/DP_CN/sus.obj
 	@echo ... Basics/DP/DP_CN/sus.i
 	@echo ... Basics/DP/DP_CN/sus.s
@@ -7108,9 +7201,6 @@ help:
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.obj
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.i
 	@echo ... Basics/DP/knapsack_01_variations/target_sum.s
-	@echo ... Basics/DP/string_ss.obj
-	@echo ... Basics/DP/string_ss.i
-	@echo ... Basics/DP/string_ss.s
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.obj
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.i
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_one.s

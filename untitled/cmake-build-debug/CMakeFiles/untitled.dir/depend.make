@@ -16,9 +16,15 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_main.cpp.obj: ../Basi
 
 CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj: ../Basics/Binary_Trees_CN/binary_tree_use.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj: ../Basics/DP/DP_CN/count_all_possible_paths.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: ../Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj: ../Basics/DP/DP_CN/gold_mine.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
 
@@ -37,6 +43,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/mi
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj: ../Basics/DP/DP_CN/print_all_ss_of_a_string.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj: ../Basics/DP/DP_CN/string_ss.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj: ../Basics/DP/DP_CN/sus.cpp
 
@@ -85,8 +93,6 @@ CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_partition.cpp.o
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/subset_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/subset_sum.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/target_sum.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj: ../Basics/DP/string_ss.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_one.cpp
 

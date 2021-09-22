@@ -3352,18 +3352,57 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\print_all_ss_of_a_string.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\print_all_ss_of_a_string.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj: ../Basics/DP/string_ss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\string_ss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\string_ss.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj: ../Basics/DP/DP_CN/string_ss.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\string_ss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\string_ss.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\string_ss.cpp > CMakeFiles\untitled.dir\Basics\DP\string_ss.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\string_ss.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\string_ss.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\string_ss.cpp -o CMakeFiles\untitled.dir\Basics\DP\string_ss.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\string_ss.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\string_ss.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj: ../Basics/DP/DP_CN/count_all_possible_paths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_all_possible_paths.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_all_possible_paths.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_all_possible_paths.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_all_possible_paths.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_all_possible_paths.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_all_possible_paths.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj: ../Basics/DP/DP_CN/gold_mine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\gold_mine.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\gold_mine.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\gold_mine.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\gold_mine.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\gold_mine.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\gold_mine.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: ../Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_ways_to_reach_nth_stair.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -3619,7 +3658,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3876,12 +3918,15 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/rwt.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/STACK_PROBLEMS/celebrity.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs_of_3_strings.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/print_all_ss_of_a_string.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/string_ss.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/string_ss.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
