@@ -90,6 +90,8 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj: ../Basics/DP/T
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basics/DP/TECH_DOSE/interleaved_strings.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj: ../Basics/DP/TECH_DOSE/las.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp

@@ -1330,6 +1330,33 @@ Basics/DP/TECH_DOSE/interleaved_strings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/interleaved_strings.cpp.s
 
+Basics/DP/TECH_DOSE/las.obj: Basics/DP/TECH_DOSE/las.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/las.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/las.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/las.cpp.obj
+
+Basics/DP/TECH_DOSE/las.i: Basics/DP/TECH_DOSE/las.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/las.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/las.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/las.cpp.i
+
+Basics/DP/TECH_DOSE/las.s: Basics/DP/TECH_DOSE/las.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/las.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/las.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/las.cpp.s
+
 Basics/DP/TECH_DOSE/lis.obj: Basics/DP/TECH_DOSE/lis.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/lis.obj
@@ -7384,6 +7411,9 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.obj
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.i
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.s
+	@echo ... Basics/DP/TECH_DOSE/las.obj
+	@echo ... Basics/DP/TECH_DOSE/las.i
+	@echo ... Basics/DP/TECH_DOSE/las.s
 	@echo ... Basics/DP/TECH_DOSE/lis.obj
 	@echo ... Basics/DP/TECH_DOSE/lis.i
 	@echo ... Basics/DP/TECH_DOSE/lis.s
