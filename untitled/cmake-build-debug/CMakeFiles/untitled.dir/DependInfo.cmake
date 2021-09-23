@@ -46,6 +46,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/mcm.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/palindromic_partitioning.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/scrambled_string.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/box_stacking.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/interleaved_strings.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/msis.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj"

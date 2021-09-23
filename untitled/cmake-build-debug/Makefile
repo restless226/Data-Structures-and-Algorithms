@@ -1276,6 +1276,33 @@ Basics/DP/DP_MCM/scrambled_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s
 .PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.s
 
+Basics/DP/TECH_DOSE/box_stacking.obj: Basics/DP/TECH_DOSE/box_stacking.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/box_stacking.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.cpp.obj
+
+Basics/DP/TECH_DOSE/box_stacking.i: Basics/DP/TECH_DOSE/box_stacking.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/box_stacking.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.cpp.i
+
+Basics/DP/TECH_DOSE/box_stacking.s: Basics/DP/TECH_DOSE/box_stacking.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/box_stacking.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/box_stacking.cpp.s
+
 Basics/DP/TECH_DOSE/interleaved_strings.obj: Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/interleaved_strings.obj
@@ -7351,6 +7378,9 @@ help:
 	@echo ... Basics/DP/DP_MCM/scrambled_string.obj
 	@echo ... Basics/DP/DP_MCM/scrambled_string.i
 	@echo ... Basics/DP/DP_MCM/scrambled_string.s
+	@echo ... Basics/DP/TECH_DOSE/box_stacking.obj
+	@echo ... Basics/DP/TECH_DOSE/box_stacking.i
+	@echo ... Basics/DP/TECH_DOSE/box_stacking.s
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.obj
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.i
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.s

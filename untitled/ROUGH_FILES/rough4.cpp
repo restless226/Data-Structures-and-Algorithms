@@ -1,40 +1,98 @@
 //// { Driver Code Starts
-//// Initial Template for C++
-//
-//#include <bits/stdc++.h>
+//#include<bits/stdc++.h>
 //
 //using namespace std;
 //
+//struct Box {
+//    int height;
+//    int width;
+//    int length;
+//};
+//
+//bool cmp(struct Box b1, struct Box b2) {
+//    if (b1.length > b2.length && b1.width > b2.width) {
+//        return true;
+//    }
+//    return false;
+//}
 //
 //// } Driver Code Ends
-//// User function Template for C++
-//
 //class Solution {
-//public:
-//    int cutRod(int price[], int n) {
-//        //code here
-//        int dp[n + 1][n + 1];    // dp matrix for MEMOIZATION
+//    void printBox(struct Box box[], int n) {
+//        cout << "\nheight   " << "width     " << "length\n";
+//        for (int i = 0; i < n; ++i) {
+//            cout << box[i].height << "          " << box[i].width << "          " << box[i].length << '\n';
+//        }
+//        cout << '\n';
+//    }
 //
-//        // INITIALIZATION (it corresponds to base condition in RECURSIVE SOLUTION)
-//        // initializing first row and first column with all zeroes
+//    int solve(struct Box box[], int n) {
+//        int dp[n];
 //
-//        for (int i = 0; i < n + 1; ++i) {
-//            for (int j = 0; j < n + 1; ++j) {
-//                if (i == 0 || j == 0) {
-//                    if (i == 0) {
-//                        dp[i][j] = INT_MIN;
-//                    } else {
-//                        dp[i][j] = 0;
-//                    }
-//                } else if (price[i - 1] <= j) {
-//                    // minor change: dp[i-1] (int 0-1 knapsack) -> dp[i] (unbounded knapsack)
-//                    dp[i][j] = max(1 + dp[i][j - price[i - 1]], dp[i - 1][j]);
-//                } else if (price[i - 1] > j) {
-//                    dp[i][j] = dp[i - 1][j];
+//        for (int i = 0; i < n; i++) {
+//            dp[i] = box[i].height;
+//        }
+//
+//        for (int i = 0; i < n; i++) {
+//            for (int j = 0; j < i; j++) {
+//                if (box[i].length < box[j].length
+//                    && box[i].width < box[j].width
+//                    && dp[i] < dp[j] + box[i].height) {
+//                    dp[i] = dp[j] + box[i].height;
 //                }
 //            }
 //        }
-//        return dp[n][n] < 0 ? 0 : dp[n][n];
+//
+//        int ans = 0;
+//        for (int i = 0; i < n; i++) {
+//            ans = max(ans, dp[i]);
+//        }
+//        return ans;
+//    }
+//
+//public:
+//    /*The function takes an array of heights, width and
+//    length as its 3 arguments where each index i value
+//    determines the height, width, length of the ith box.
+//    Here n is the total no of boxes.*/
+//    int maxHeight(int height[], int width[], int length[], int n) {
+//        //Your code here
+//        struct Box box[3 * n];
+//
+//        // height
+//        for (int i = 0; i < n; i++) {
+//            box[i].height = height[i];
+//        }
+//        for (int i = 0; i < n; i++) {
+//            box[i].width = width[i];
+//        }
+//        for (int i = 0; i < n; i++) {
+//            box[i].length = length[i];
+//        }
+//
+////        cout << "\nSORTED BOX ARRAY BEFORE...\n";
+////        printBox(box, n);
+//
+//        // width
+//        for (int i = n; i < 2 * n; i++) {
+//            box[i].height = box[i - n].width;
+//            box[i].width = box[i - n].length;
+//            box[i].length = box[i - n].height;
+//        }
+//
+//        // length
+//        for (int i = 2 * n; i < 3 * n; i++) {
+//            box[i].width = box[i - n].length;
+//            box[i].length = box[i - n].height;
+//            box[i].height = box[i - n].width;
+//        }
+//
+//        sort(box, box + 3 * n, cmp);
+//
+////        cout << "\nSORTED BOX ARRAY AFTER...\n";
+////        printBox(box, 3 * n);
+//
+//        return solve(box, 3 * n);
 //    }
 //};
 //
@@ -46,13 +104,16 @@
 //    while (t--) {
 //        int n;
 //        cin >> n;
-//        int a[n];
-//        for (int i = 0; i < n; i++)
-//            cin >> a[i];
 //
+//
+//        int A[105], B[105], C[105];
+//        for (int i = 0; i < n; i++)cin >> A[i];
+//        for (int j = 0; j < n; j++)cin >> B[j];
+//        for (int k = 0; k < n; k++)cin >> C[k];
 //        Solution ob;
-//
-//        cout << ob.cutRod(a, n) << endl;
+//        cout << ob.maxHeight(A, B, C, n) << endl;
 //    }
+//
 //    return 0;
-//}  // } Driver Code Ends
+//}
+//// } Driver Code Ends

@@ -134,6 +134,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_CN/gold_mine.cpp Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
         Basics/DP/DP_CN/min_steps_to_dest.cpp Basics/DP/DP_CN/distinct_occurrences.cpp
         Basics/DP/DP_CN/min_no_of_jumps.cpp Basics/DP/DP_CN/count_no_of_substrings.cpp
-        Basics/DP/TECH_DOSE/interleaved_strings.cpp Basics/DP/TECH_DOSE/msis.cpp)
+        Basics/DP/TECH_DOSE/interleaved_strings.cpp Basics/DP/TECH_DOSE/msis.cpp
+        Basics/DP/TECH_DOSE/box_stacking.cpp)
 
 

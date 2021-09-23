@@ -86,6 +86,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Ba
 
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/DP_MCM/scrambled_string.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj: ../Basics/DP/TECH_DOSE/box_stacking.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basics/DP/TECH_DOSE/interleaved_strings.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp

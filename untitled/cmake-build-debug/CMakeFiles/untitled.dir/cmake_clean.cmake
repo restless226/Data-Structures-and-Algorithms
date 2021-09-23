@@ -41,6 +41,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/mcm.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj"
+  "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj"
   "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj"
