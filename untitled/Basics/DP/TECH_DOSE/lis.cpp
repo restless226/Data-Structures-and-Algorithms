@@ -9,26 +9,22 @@
 //#define int long long
 //using namespace std;
 //
-//int lis(int a[], int n) {
+//// Time Complexity - O(n^2)
+//int lis(int arr[], int n) {
 //    int dp[n];
 //    dp[0] = 1;
-//
 //    for (int i = 1; i < n; i++) {
 //        dp[i] = 1;
-//        for (int j = i - 1; j >= 0; j--) {
-//            if (a[j] > a[i]) {
-//                continue;
+//        for (int j = 0; j < i; j++) {
+//            if (arr[i] > arr[j] && dp[i] < 1 + dp[j]) {
+//                dp[i] = 1 + dp[j];
 //            }
-//            int possibleAns = dp[j] + 1;
-//            dp[i] = max(dp[i], possibleAns);
 //        }
 //    }
-//
 //    int ans = 1;
 //    for (int i = 0; i < n; i++) {
 //        ans = max(ans, dp[i]);
 //    }
-//
 //    return ans;
 //}
 //
@@ -44,12 +40,12 @@
 //        int n;
 //        cin >> n;
 //
-//        int a[n];
+//        int arr[n];
 //
 //        for (int i = 0; i < n; i++) {
-//            cin >> a[i];
+//            cin >> arr[i];
 //        }
-//        cout << "length of the longest increasing subsequence is : " << lis(a, n) << '\n';
+//        cout << "length of the longest increasing subsequence is : " << lis(arr, n) << '\n';
 //    }
 //
 //    return 0;

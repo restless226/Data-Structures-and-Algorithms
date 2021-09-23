@@ -2754,18 +2754,18 @@ CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp -o CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj: ../Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../Basics/DP/unbounded_knapsack/rod_cutting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp > CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting.cpp > CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp -o CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting_problem.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\unbounded_knapsack\rod_cutting.cpp -o CMakeFiles\untitled.dir\Basics\DP\unbounded_knapsack\rod_cutting.cpp.s
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_one.cpp
@@ -3144,18 +3144,18 @@ CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\SLIDING_WINDOW\VSSW\min_window_substring.cpp -o CMakeFiles\untitled.dir\Basics\SLIDING_WINDOW\VSSW\min_window_substring.cpp.s
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lis.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.i
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lis.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lis.cpp.i
 
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\lis.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\lis.cpp.s
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lis.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lis.cpp.s
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: ../Basics/DP/DP_CN/loot_houses.cpp
@@ -3443,6 +3443,45 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\min_no_of_jumps.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\min_no_of_jumps.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj: ../Basics/DP/DP_CN/count_no_of_substrings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_no_of_substrings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_no_of_substrings.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_no_of_substrings.cpp > CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_no_of_substrings.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\DP_CN\count_no_of_substrings.cpp -o CMakeFiles\untitled.dir\Basics\DP\DP_CN\count_no_of_substrings.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basics/DP/TECH_DOSE/interleaved_strings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\interleaved_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\interleaved_strings.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\interleaved_strings.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\interleaved_strings.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\interleaved_strings.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\interleaved_strings.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\msis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\msis.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\msis.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\msis.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\msis.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\msis.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3651,7 +3690,7 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj" \
@@ -3681,7 +3720,7 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj" \
@@ -3703,7 +3742,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -3914,7 +3956,7 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/min_sum_p
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/target_sum.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LCS/lcs.cpp.obj
@@ -3944,7 +3986,7 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substri
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/sus.cpp.obj
@@ -3967,11 +4009,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_st
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps_to_dest.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

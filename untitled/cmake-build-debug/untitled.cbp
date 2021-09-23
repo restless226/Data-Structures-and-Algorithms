@@ -110,6 +110,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_all_possible_paths.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_no_of_substrings.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -123,9 +126,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/gold_mine.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/lis.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_CN/loot_houses.cpp">
@@ -212,6 +212,15 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/scrambled_string.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/interleaved_strings.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/msis.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -239,7 +248,7 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/coin_change_two.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/rod_cutting.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp">

@@ -3,13 +3,12 @@
 //"Rod Cutting Problem"
 //Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n.
 //Determine the maximum value obtainable by cutting up the rod and selling the pieces.
-// */
+//*/
 //
 //#include <bits/stdc++.h>
 //
 //using namespace std;
 //#define int long long
-//
 //
 //struct Rod {
 //    int length;
@@ -17,13 +16,12 @@
 //};
 //
 //int rod_cutting_DP(struct Rod arr[], int n) {
-//
 //    // INITIALIZING LENGTH ARRAY
 //    for (int i = 0; i < n; ++i) {
 //        arr[i].length = i + 1;
 //    }
 //
-//    int dp[n + 1][n + 1];    // dp matrix for MEMOIZATION
+//    int dp[n + 1][n + 1];
 //
 //    // INITIALIZATION (it corresponds to base condition in RECURSIVE SOLUTION)
 //    // initializing first row and first column with all zeroes
@@ -52,12 +50,11 @@
 //    }
 //
 //    return dp[n][n];
-//
 //}
 //
 //int32_t main() {
-//    cin.tie(NULL);
-//    cout.tie(NULL);
+//    cin.tie(nullptr);
+//    cout.tie(nullptr);
 //    ios_base::sync_with_stdio(false);
 //
 //    int n;

@@ -358,6 +358,33 @@ Basics/DP/DP_CN/count_all_possible_paths.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.s
 .PHONY : Basics/DP/DP_CN/count_all_possible_paths.cpp.s
 
+Basics/DP/DP_CN/count_no_of_substrings.obj: Basics/DP/DP_CN/count_no_of_substrings.cpp.obj
+
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.obj
+
+# target to build an object file
+Basics/DP/DP_CN/count_no_of_substrings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.cpp.obj
+
+Basics/DP/DP_CN/count_no_of_substrings.i: Basics/DP/DP_CN/count_no_of_substrings.cpp.i
+
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.i
+
+# target to preprocess a source file
+Basics/DP/DP_CN/count_no_of_substrings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.i
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.cpp.i
+
+Basics/DP/DP_CN/count_no_of_substrings.s: Basics/DP/DP_CN/count_no_of_substrings.cpp.s
+
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.s
+
+# target to generate assembly for a file
+Basics/DP/DP_CN/count_no_of_substrings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.s
+.PHONY : Basics/DP/DP_CN/count_no_of_substrings.cpp.s
+
 Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj: Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj
 
 .PHONY : Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj
@@ -492,33 +519,6 @@ Basics/DP/DP_CN/gold_mine.s: Basics/DP/DP_CN/gold_mine.cpp.s
 Basics/DP/DP_CN/gold_mine.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.s
 .PHONY : Basics/DP/DP_CN/gold_mine.cpp.s
-
-Basics/DP/DP_CN/lis.obj: Basics/DP/DP_CN/lis.cpp.obj
-
-.PHONY : Basics/DP/DP_CN/lis.obj
-
-# target to build an object file
-Basics/DP/DP_CN/lis.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj
-.PHONY : Basics/DP/DP_CN/lis.cpp.obj
-
-Basics/DP/DP_CN/lis.i: Basics/DP/DP_CN/lis.cpp.i
-
-.PHONY : Basics/DP/DP_CN/lis.i
-
-# target to preprocess a source file
-Basics/DP/DP_CN/lis.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.i
-.PHONY : Basics/DP/DP_CN/lis.cpp.i
-
-Basics/DP/DP_CN/lis.s: Basics/DP/DP_CN/lis.cpp.s
-
-.PHONY : Basics/DP/DP_CN/lis.s
-
-# target to generate assembly for a file
-Basics/DP/DP_CN/lis.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.s
-.PHONY : Basics/DP/DP_CN/lis.cpp.s
 
 Basics/DP/DP_CN/loot_houses.obj: Basics/DP/DP_CN/loot_houses.cpp.obj
 
@@ -1276,6 +1276,87 @@ Basics/DP/DP_MCM/scrambled_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s
 .PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.s
 
+Basics/DP/TECH_DOSE/interleaved_strings.obj: Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
+
+Basics/DP/TECH_DOSE/interleaved_strings.i: Basics/DP/TECH_DOSE/interleaved_strings.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/interleaved_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.cpp.i
+
+Basics/DP/TECH_DOSE/interleaved_strings.s: Basics/DP/TECH_DOSE/interleaved_strings.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/interleaved_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/interleaved_strings.cpp.s
+
+Basics/DP/TECH_DOSE/lis.obj: Basics/DP/TECH_DOSE/lis.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/lis.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/lis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/lis.cpp.obj
+
+Basics/DP/TECH_DOSE/lis.i: Basics/DP/TECH_DOSE/lis.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/lis.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/lis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/lis.cpp.i
+
+Basics/DP/TECH_DOSE/lis.s: Basics/DP/TECH_DOSE/lis.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/lis.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/lis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/lis.cpp.s
+
+Basics/DP/TECH_DOSE/msis.obj: Basics/DP/TECH_DOSE/msis.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/msis.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/msis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/msis.cpp.obj
+
+Basics/DP/TECH_DOSE/msis.i: Basics/DP/TECH_DOSE/msis.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/msis.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/msis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/msis.cpp.i
+
+Basics/DP/TECH_DOSE/msis.s: Basics/DP/TECH_DOSE/msis.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/msis.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/msis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/msis.cpp.s
+
 Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
 .PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
@@ -1519,32 +1600,32 @@ Basics/DP/unbounded_knapsack/coin_change_two.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.s
 .PHONY : Basics/DP/unbounded_knapsack/coin_change_two.cpp.s
 
-Basics/DP/unbounded_knapsack/rod_cutting_problem.obj: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+Basics/DP/unbounded_knapsack/rod_cutting.obj: Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj
 
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.obj
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.obj
 
 # target to build an object file
-Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj
+Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj
 
-Basics/DP/unbounded_knapsack/rod_cutting_problem.i: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
+Basics/DP/unbounded_knapsack/rod_cutting.i: Basics/DP/unbounded_knapsack/rod_cutting.cpp.i
 
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.i
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.i
 
 # target to preprocess a source file
-Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.i
+Basics/DP/unbounded_knapsack/rod_cutting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.i
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.cpp.i
 
-Basics/DP/unbounded_knapsack/rod_cutting_problem.s: Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
+Basics/DP/unbounded_knapsack/rod_cutting.s: Basics/DP/unbounded_knapsack/rod_cutting.cpp.s
 
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.s
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.s
 
 # target to generate assembly for a file
-Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
-.PHONY : Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.s
+Basics/DP/unbounded_knapsack/rod_cutting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.s
+.PHONY : Basics/DP/unbounded_knapsack/rod_cutting.cpp.s
 
 Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj: Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
 
@@ -7168,6 +7249,9 @@ help:
 	@echo ... Basics/DP/DP_CN/count_all_possible_paths.obj
 	@echo ... Basics/DP/DP_CN/count_all_possible_paths.i
 	@echo ... Basics/DP/DP_CN/count_all_possible_paths.s
+	@echo ... Basics/DP/DP_CN/count_no_of_substrings.obj
+	@echo ... Basics/DP/DP_CN/count_no_of_substrings.i
+	@echo ... Basics/DP/DP_CN/count_no_of_substrings.s
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.obj
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.i
 	@echo ... Basics/DP/DP_CN/count_ways_to_reach_nth_stair.s
@@ -7183,9 +7267,6 @@ help:
 	@echo ... Basics/DP/DP_CN/gold_mine.obj
 	@echo ... Basics/DP/DP_CN/gold_mine.i
 	@echo ... Basics/DP/DP_CN/gold_mine.s
-	@echo ... Basics/DP/DP_CN/lis.obj
-	@echo ... Basics/DP/DP_CN/lis.i
-	@echo ... Basics/DP/DP_CN/lis.s
 	@echo ... Basics/DP/DP_CN/loot_houses.obj
 	@echo ... Basics/DP/DP_CN/loot_houses.i
 	@echo ... Basics/DP/DP_CN/loot_houses.s
@@ -7270,6 +7351,15 @@ help:
 	@echo ... Basics/DP/DP_MCM/scrambled_string.obj
 	@echo ... Basics/DP/DP_MCM/scrambled_string.i
 	@echo ... Basics/DP/DP_MCM/scrambled_string.s
+	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.obj
+	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.i
+	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.s
+	@echo ... Basics/DP/TECH_DOSE/lis.obj
+	@echo ... Basics/DP/TECH_DOSE/lis.i
+	@echo ... Basics/DP/TECH_DOSE/lis.s
+	@echo ... Basics/DP/TECH_DOSE/msis.obj
+	@echo ... Basics/DP/TECH_DOSE/msis.i
+	@echo ... Basics/DP/TECH_DOSE/msis.s
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
@@ -7297,9 +7387,9 @@ help:
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.obj
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.i
 	@echo ... Basics/DP/unbounded_knapsack/coin_change_two.s
-	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.obj
-	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.i
-	@echo ... Basics/DP/unbounded_knapsack/rod_cutting_problem.s
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting.obj
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting.i
+	@echo ... Basics/DP/unbounded_knapsack/rod_cutting.s
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
 	@echo ... Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s

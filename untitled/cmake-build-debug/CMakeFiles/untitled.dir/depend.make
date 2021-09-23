@@ -18,6 +18,8 @@ CMakeFiles/untitled.dir/Basics/Binary_Trees_CN/binary_tree_use.cpp.obj: ../Basic
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_all_possible_paths.cpp.obj: ../Basics/DP/DP_CN/count_all_possible_paths.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_no_of_substrings.cpp.obj: ../Basics/DP/DP_CN/count_no_of_substrings.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: ../Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/distinct_occurrences.cpp.obj: ../Basics/DP/DP_CN/distinct_occurrences.cpp
@@ -27,8 +29,6 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/fib.cpp.obj: ../Basics/DP/DP_CN/fib.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/get_min_squares.cpp.obj: ../Basics/DP/DP_CN/get_min_squares.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/gold_mine.cpp.obj: ../Basics/DP/DP_CN/gold_mine.cpp
-
-CMakeFiles/untitled.dir/Basics/DP/DP_CN/lis.cpp.obj: ../Basics/DP/DP_CN/lis.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/loot_houses.cpp.obj: ../Basics/DP/DP_CN/loot_houses.cpp
 
@@ -41,6 +41,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.ob
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_cost_path.cpp.obj: ../Basics/DP/DP_CN/min_cost_path.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_count.cpp.obj: ../Basics/DP/DP_CN/min_count.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_no_of_jumps.cpp.obj: ../Basics/DP/DP_CN/min_no_of_jumps.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_CN/min_steps.cpp.obj: ../Basics/DP/DP_CN/min_steps.cpp
 
@@ -84,6 +86,12 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Ba
 
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/DP_MCM/scrambled_string.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basics/DP/TECH_DOSE/interleaved_strings.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp
@@ -102,7 +110,7 @@ CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_one.cpp.obj: ..
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/coin_change_two.cpp.obj: ../Basics/DP/unbounded_knapsack/coin_change_two.cpp
 
-CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp.obj: ../Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
+CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../Basics/DP/unbounded_knapsack/rod_cutting.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
 

@@ -108,7 +108,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/knapsack_01_variations/knapsack_01.cpp Basics/DP/knapsack_01_variations/subset_sum.cpp Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
         Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp Basics/DP/knapsack_01_variations/min_sum_partition.cpp
         Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp Basics/DP/knapsack_01_variations/target_sum.cpp
-        Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp Basics/DP/unbounded_knapsack/rod_cutting_problem.cpp
+        Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp Basics/DP/unbounded_knapsack/rod_cutting.cpp
         Basics/DP/unbounded_knapsack/coin_change_one.cpp Basics/DP/unbounded_knapsack/coin_change_two.cpp
         Basics/DP/DP_LCS/lcs.cpp Basics/DP/DP_LCS/longest_common_substring.cpp
         Basics/DP/DP_LCS/scs.cpp Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
@@ -124,7 +124,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
         Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
         Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
-        Basics/DP/DP_CN/lis.cpp Basics/DP/DP_CN/loot_houses.cpp Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
+        Basics/DP/TECH_DOSE/lis.cpp Basics/DP/DP_CN/loot_houses.cpp Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
         Basics/DP/DP_CN/sus.cpp Basics/DP/DP_CN/lus.cpp Basics/STACK_PROBLEMS/ngr.cpp
         Basics/STACK_PROBLEMS/ngl.cpp Basics/STACK_PROBLEMS/nsl.cpp
         Basics/STACK_PROBLEMS/nsr.cpp Basics/STACK_PROBLEMS/stock_span.cpp
@@ -133,6 +133,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_CN/print_all_ss_of_a_string.cpp Basics/DP/DP_CN/string_ss.cpp Basics/DP/DP_CN/count_all_possible_paths.cpp
         Basics/DP/DP_CN/gold_mine.cpp Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
         Basics/DP/DP_CN/min_steps_to_dest.cpp Basics/DP/DP_CN/distinct_occurrences.cpp
-        Basics/DP/DP_CN/min_no_of_jumps.cpp)
+        Basics/DP/DP_CN/min_no_of_jumps.cpp Basics/DP/DP_CN/count_no_of_substrings.cpp
+        Basics/DP/TECH_DOSE/interleaved_strings.cpp Basics/DP/TECH_DOSE/msis.cpp)
 
 
