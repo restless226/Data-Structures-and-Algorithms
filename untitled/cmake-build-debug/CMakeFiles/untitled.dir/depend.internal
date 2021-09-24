@@ -70,6 +70,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/scs.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/sequence_pattern_matching.cpp
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/lps.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj
@@ -86,14 +88,20 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/palindromic_partitioning.cpp
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/scrambled_string.cpp
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/bell_numbers.cpp
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/box_stacking.cpp
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/friends_pairing.cpp
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/interleaved_strings.cpp
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/las.cpp
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_chain_length.cpp
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/msis.cpp
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj

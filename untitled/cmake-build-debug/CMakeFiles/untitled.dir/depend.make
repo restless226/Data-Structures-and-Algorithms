@@ -70,6 +70,8 @@ CMakeFiles/untitled.dir/Basics/DP/DP_LCS/scs.cpp.obj: ../Basics/DP/DP_LCS/scs.cp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.obj: ../Basics/DP/DP_LCS/sequence_pattern_matching.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj: ../Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/lps.cpp.obj: ../Basics/DP/DP_LPS/lps.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: ../Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
@@ -86,13 +88,19 @@ CMakeFiles/untitled.dir/Basics/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../Ba
 
 CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.obj: ../Basics/DP/DP_MCM/scrambled_string.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.obj: ../Basics/DP/TECH_DOSE/bell_numbers.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.obj: ../Basics/DP/TECH_DOSE/box_stacking.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj: ../Basics/DP/TECH_DOSE/friends_pairing.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basics/DP/TECH_DOSE/interleaved_strings.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj: ../Basics/DP/TECH_DOSE/las.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj: ../Basics/DP/TECH_DOSE/max_chain_length.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
 

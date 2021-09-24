@@ -188,6 +188,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LCS/sequence_pattern_matching.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_LPS/lps.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -212,7 +215,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/DP_MCM/scrambled_string.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/bell_numbers.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/box_stacking.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/friends_pairing.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/interleaved_strings.cpp">
@@ -222,6 +231,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_chain_length.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/msis.cpp">

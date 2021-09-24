@@ -1060,6 +1060,33 @@ Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s
 .PHONY : Basics/DP/DP_LCS/sequence_pattern_matching.cpp.s
 
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.obj: Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
+
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.obj
+
+# target to build an object file
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
+
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.i: Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.i
+
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.i
+
+# target to preprocess a source file
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.i
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.i
+
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.s: Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.s
+
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.s
+
+# target to generate assembly for a file
+Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.s
+.PHONY : Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.s
+
 Basics/DP/DP_LPS/lps.obj: Basics/DP/DP_LPS/lps.cpp.obj
 
 .PHONY : Basics/DP/DP_LPS/lps.obj
@@ -1276,6 +1303,33 @@ Basics/DP/DP_MCM/scrambled_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/DP_MCM/scrambled_string.cpp.s
 .PHONY : Basics/DP/DP_MCM/scrambled_string.cpp.s
 
+Basics/DP/TECH_DOSE/bell_numbers.obj: Basics/DP/TECH_DOSE/bell_numbers.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/bell_numbers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.cpp.obj
+
+Basics/DP/TECH_DOSE/bell_numbers.i: Basics/DP/TECH_DOSE/bell_numbers.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/bell_numbers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.cpp.i
+
+Basics/DP/TECH_DOSE/bell_numbers.s: Basics/DP/TECH_DOSE/bell_numbers.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/bell_numbers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/bell_numbers.cpp.s
+
 Basics/DP/TECH_DOSE/box_stacking.obj: Basics/DP/TECH_DOSE/box_stacking.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/box_stacking.obj
@@ -1302,6 +1356,33 @@ Basics/DP/TECH_DOSE/box_stacking.s: Basics/DP/TECH_DOSE/box_stacking.cpp.s
 Basics/DP/TECH_DOSE/box_stacking.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/box_stacking.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/box_stacking.cpp.s
+
+Basics/DP/TECH_DOSE/friends_pairing.obj: Basics/DP/TECH_DOSE/friends_pairing.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/friends_pairing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.cpp.obj
+
+Basics/DP/TECH_DOSE/friends_pairing.i: Basics/DP/TECH_DOSE/friends_pairing.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/friends_pairing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.cpp.i
+
+Basics/DP/TECH_DOSE/friends_pairing.s: Basics/DP/TECH_DOSE/friends_pairing.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/friends_pairing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/friends_pairing.cpp.s
 
 Basics/DP/TECH_DOSE/interleaved_strings.obj: Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj
 
@@ -1383,6 +1464,33 @@ Basics/DP/TECH_DOSE/lis.s: Basics/DP/TECH_DOSE/lis.cpp.s
 Basics/DP/TECH_DOSE/lis.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/lis.cpp.s
+
+Basics/DP/TECH_DOSE/max_chain_length.obj: Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/max_chain_length.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
+
+Basics/DP/TECH_DOSE/max_chain_length.i: Basics/DP/TECH_DOSE/max_chain_length.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/max_chain_length.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.cpp.i
+
+Basics/DP/TECH_DOSE/max_chain_length.s: Basics/DP/TECH_DOSE/max_chain_length.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/max_chain_length.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/max_chain_length.cpp.s
 
 Basics/DP/TECH_DOSE/msis.obj: Basics/DP/TECH_DOSE/msis.cpp.obj
 
@@ -7381,6 +7489,9 @@ help:
 	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.obj
 	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.i
 	@echo ... Basics/DP/DP_LCS/sequence_pattern_matching.s
+	@echo ... Basics/DP/DP_LPS/longest_palindrome_in_a_string.obj
+	@echo ... Basics/DP/DP_LPS/longest_palindrome_in_a_string.i
+	@echo ... Basics/DP/DP_LPS/longest_palindrome_in_a_string.s
 	@echo ... Basics/DP/DP_LPS/lps.obj
 	@echo ... Basics/DP/DP_LPS/lps.i
 	@echo ... Basics/DP/DP_LPS/lps.s
@@ -7405,9 +7516,15 @@ help:
 	@echo ... Basics/DP/DP_MCM/scrambled_string.obj
 	@echo ... Basics/DP/DP_MCM/scrambled_string.i
 	@echo ... Basics/DP/DP_MCM/scrambled_string.s
+	@echo ... Basics/DP/TECH_DOSE/bell_numbers.obj
+	@echo ... Basics/DP/TECH_DOSE/bell_numbers.i
+	@echo ... Basics/DP/TECH_DOSE/bell_numbers.s
 	@echo ... Basics/DP/TECH_DOSE/box_stacking.obj
 	@echo ... Basics/DP/TECH_DOSE/box_stacking.i
 	@echo ... Basics/DP/TECH_DOSE/box_stacking.s
+	@echo ... Basics/DP/TECH_DOSE/friends_pairing.obj
+	@echo ... Basics/DP/TECH_DOSE/friends_pairing.i
+	@echo ... Basics/DP/TECH_DOSE/friends_pairing.s
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.obj
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.i
 	@echo ... Basics/DP/TECH_DOSE/interleaved_strings.s
@@ -7417,6 +7534,9 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/lis.obj
 	@echo ... Basics/DP/TECH_DOSE/lis.i
 	@echo ... Basics/DP/TECH_DOSE/lis.s
+	@echo ... Basics/DP/TECH_DOSE/max_chain_length.obj
+	@echo ... Basics/DP/TECH_DOSE/max_chain_length.i
+	@echo ... Basics/DP/TECH_DOSE/max_chain_length.s
 	@echo ... Basics/DP/TECH_DOSE/msis.obj
 	@echo ... Basics/DP/TECH_DOSE/msis.i
 	@echo ... Basics/DP/TECH_DOSE/msis.s
