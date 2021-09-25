@@ -100,7 +100,11 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj: ../Basics/DP/TECH_DOSE/
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj: ../Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj: ../Basics/DP/TECH_DOSE/max_chain_length.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj: ../Basics/DP/TECH_DOSE/max_product_subarray.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
 

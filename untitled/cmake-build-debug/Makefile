@@ -1465,6 +1465,33 @@ Basics/DP/TECH_DOSE/lis.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/lis.cpp.s
 
+Basics/DP/TECH_DOSE/longest_subsequence_-1.obj: Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj
+
+Basics/DP/TECH_DOSE/longest_subsequence_-1.i: Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.i
+
+Basics/DP/TECH_DOSE/longest_subsequence_-1.s: Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s
+
 Basics/DP/TECH_DOSE/max_chain_length.obj: Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/max_chain_length.obj
@@ -1491,6 +1518,33 @@ Basics/DP/TECH_DOSE/max_chain_length.s: Basics/DP/TECH_DOSE/max_chain_length.cpp
 Basics/DP/TECH_DOSE/max_chain_length.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/max_chain_length.cpp.s
+
+Basics/DP/TECH_DOSE/max_product_subarray.obj: Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj
+
+Basics/DP/TECH_DOSE/max_product_subarray.i: Basics/DP/TECH_DOSE/max_product_subarray.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/max_product_subarray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.cpp.i
+
+Basics/DP/TECH_DOSE/max_product_subarray.s: Basics/DP/TECH_DOSE/max_product_subarray.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/max_product_subarray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/max_product_subarray.cpp.s
 
 Basics/DP/TECH_DOSE/msis.obj: Basics/DP/TECH_DOSE/msis.cpp.obj
 
@@ -7615,9 +7669,15 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/lis.obj
 	@echo ... Basics/DP/TECH_DOSE/lis.i
 	@echo ... Basics/DP/TECH_DOSE/lis.s
+	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.obj
+	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.i
+	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.s
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.obj
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.i
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.s
+	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.obj
+	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.i
+	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.s
 	@echo ... Basics/DP/TECH_DOSE/msis.obj
 	@echo ... Basics/DP/TECH_DOSE/msis.i
 	@echo ... Basics/DP/TECH_DOSE/msis.s
