@@ -3560,6 +3560,45 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\friends_pairing.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\friends_pairing.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\no_of_distinct_ss.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: ../Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\wildcard_pattern_matching.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj: ../Basics/DP/TECH_DOSE/word_break.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\word_break.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\word_break.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\word_break.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\word_break.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\word_break.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\word_break.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -3829,7 +3868,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4102,11 +4144,14 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.o
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/bell_numbers.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/friends_pairing.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

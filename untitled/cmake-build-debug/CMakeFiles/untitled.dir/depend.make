@@ -104,6 +104,12 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj: ../Basics/
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: ../Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj: ../Basics/DP/TECH_DOSE/word_break.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp

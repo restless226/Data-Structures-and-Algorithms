@@ -137,6 +137,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/TECH_DOSE/interleaved_strings.cpp Basics/DP/TECH_DOSE/msis.cpp
         Basics/DP/TECH_DOSE/box_stacking.cpp Basics/DP/TECH_DOSE/las.cpp Basics/DP/TECH_DOSE/max_chain_length.cpp
         Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp Basics/DP/TECH_DOSE/bell_numbers.cpp
-        Basics/DP/TECH_DOSE/friends_pairing.cpp)
+        Basics/DP/TECH_DOSE/friends_pairing.cpp Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp
+        Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp Basics/DP/TECH_DOSE/word_break.cpp)
 
 

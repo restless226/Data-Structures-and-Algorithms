@@ -1519,6 +1519,87 @@ Basics/DP/TECH_DOSE/msis.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/msis.cpp.s
 
+Basics/DP/TECH_DOSE/no_of_distinct_ss.obj: Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj
+
+Basics/DP/TECH_DOSE/no_of_distinct_ss.i: Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.i
+
+Basics/DP/TECH_DOSE/no_of_distinct_ss.s: Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
+
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.obj: Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
+
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.i: Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.i
+
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.s: Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp.s
+
+Basics/DP/TECH_DOSE/word_break.obj: Basics/DP/TECH_DOSE/word_break.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/word_break.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/word_break.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/word_break.cpp.obj
+
+Basics/DP/TECH_DOSE/word_break.i: Basics/DP/TECH_DOSE/word_break.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/word_break.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/word_break.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/word_break.cpp.i
+
+Basics/DP/TECH_DOSE/word_break.s: Basics/DP/TECH_DOSE/word_break.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/word_break.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/word_break.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/word_break.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/word_break.cpp.s
+
 Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
 
 .PHONY : Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
@@ -7540,6 +7621,15 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/msis.obj
 	@echo ... Basics/DP/TECH_DOSE/msis.i
 	@echo ... Basics/DP/TECH_DOSE/msis.s
+	@echo ... Basics/DP/TECH_DOSE/no_of_distinct_ss.obj
+	@echo ... Basics/DP/TECH_DOSE/no_of_distinct_ss.i
+	@echo ... Basics/DP/TECH_DOSE/no_of_distinct_ss.s
+	@echo ... Basics/DP/TECH_DOSE/wildcard_pattern_matching.obj
+	@echo ... Basics/DP/TECH_DOSE/wildcard_pattern_matching.i
+	@echo ... Basics/DP/TECH_DOSE/wildcard_pattern_matching.s
+	@echo ... Basics/DP/TECH_DOSE/word_break.obj
+	@echo ... Basics/DP/TECH_DOSE/word_break.i
+	@echo ... Basics/DP/TECH_DOSE/word_break.s
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
 	@echo ... Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
