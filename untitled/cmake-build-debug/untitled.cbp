@@ -89,6 +89,30 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/aggressive_cows.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/bs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/first_and_last_occurrence.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BST/BST_impl.cpp">
 			<Option target="untitled"/>
 		</Unit>

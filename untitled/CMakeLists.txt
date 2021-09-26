@@ -138,6 +138,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp Basics/DP/TECH_DOSE/bell_numbers.cpp
         Basics/DP/TECH_DOSE/friends_pairing.cpp Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp
         Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp Basics/DP/TECH_DOSE/word_break.cpp
-        Basics/DP/TECH_DOSE/max_product_subarray.cpp Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp)
+        Basics/DP/TECH_DOSE/max_product_subarray.cpp Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp
+        Basics/BINARY_SEARCH/bs.cpp Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
+        Basics/BINARY_SEARCH/first_and_last_occurrence.cpp Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
+        Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
+        Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp)
 
 
