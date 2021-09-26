@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 project(untitled)
 
-
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(untitled algorithmic_toolbox/test.cpp
@@ -29,7 +28,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/GFG/LL/LL_length_even_or_odd.cpp Basics/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
         Basics/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp Basics/GFG/LL/Identical_LL.cpp
         Basics/GFG/LL/delete_alternate_nodes.cpp Basics/GFG/LL/Add_1_to_LL.cpp Basics/LinkedList/Circular_LL/Circular_LL.cpp
-        Basics/GFG/LL/decimal_eq_of_binary_LL.cpp  Basics/GFG/LL/subtraction_in_LL.cpp Basics/queue/queue_code.cpp
+        Basics/GFG/LL/decimal_eq_of_binary_LL.cpp Basics/GFG/LL/subtraction_in_LL.cpp Basics/queue/queue_code.cpp
         Basics/queue/circular_queue.cpp Basics/GFG/Queue/queue_using_array.cpp Basics/GFG/LL/find_middle_of_LL.cpp
         Basics/GFG/LL/insert_in_middle.cpp Basics/GFG/LL/node_at_given_index.cpp Basics/GFG/Queue/queue_push_and_pop.cpp
         Basics/GFG/Queue/STL_queue.cpp Basics/GFG/Queue/queue_reversal.cpp Basics/GFG/Arrays/fighting_darkness.cpp
