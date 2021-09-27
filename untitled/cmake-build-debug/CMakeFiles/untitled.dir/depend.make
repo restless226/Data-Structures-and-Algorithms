@@ -7,6 +7,8 @@ CMakeFiles/untitled.dir/Basics/BACKTRACKING/rat_in_a_maze.cpp.obj: ../Basics/BAC
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/aggressive_cows.cpp.obj: ../Basics/BINARY_SEARCH/aggressive_cows.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj: ../Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs.cpp.obj: ../Basics/BINARY_SEARCH/bs.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
@@ -17,9 +19,15 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj: ../Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj: ../Basics/BINARY_SEARCH/find_nth_root.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.obj: ../Basics/BINARY_SEARCH/first_and_last_occurrence.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj: ../Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
 
@@ -29,7 +37,13 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj: 
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj: ../Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj: ../Basics/BINARY_SEARCH/peak_element.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: ../Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../Basics/BINARY_SEARCH/smallest_factorial_no.cpp
 
 CMakeFiles/untitled.dir/Basics/BST/BST_impl.cpp.obj: ../Basics/BST/BST_impl.cpp
 

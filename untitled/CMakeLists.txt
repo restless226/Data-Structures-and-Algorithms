@@ -144,8 +144,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
         Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
         Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp
-        Basics/BINARY_SEARCH/next_alphabetical_element.cpp
-        Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
-        )
+        Basics/BINARY_SEARCH/next_alphabetical_element.cpp Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
+        Basics/BINARY_SEARCH/peak_element.cpp Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
+        Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
+        Basics/BINARY_SEARCH/smallest_factorial_no.cpp
+        Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp Basics/BINARY_SEARCH/find_nth_root.cpp)
 
 

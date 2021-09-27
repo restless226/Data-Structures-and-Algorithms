@@ -3781,6 +3781,97 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\min_diff_element_in_sorted_array.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\min_diff_element_in_sorted_array.cpp.s
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj: ../Basics/BINARY_SEARCH/peak_element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\peak_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\peak_element.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\peak_element.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\peak_element.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\peak_element.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\peak_element.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj: ../Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: ../Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\search_in_sorted_matrix.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj: ../Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\allocate_min_no_of_pages.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../Basics/BINARY_SEARCH/smallest_factorial_no.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\smallest_factorial_no.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\smallest_factorial_no.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\smallest_factorial_no.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\smallest_factorial_no.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\smallest_factorial_no.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\smallest_factorial_no.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj: ../Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj: ../Basics/BINARY_SEARCH/find_nth_root.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_nth_root.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_nth_root.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_nth_root.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_nth_root.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_nth_root.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_nth_root.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4067,7 +4158,14 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4357,11 +4455,18 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_arr
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

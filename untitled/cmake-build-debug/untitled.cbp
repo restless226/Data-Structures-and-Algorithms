@@ -89,6 +89,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/aggressive_cows.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/bs.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -104,10 +107,19 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/find_nth_root.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/first_and_last_occurrence.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp">
@@ -122,7 +134,16 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/peak_element.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/smallest_factorial_no.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BST/BST_impl.cpp">

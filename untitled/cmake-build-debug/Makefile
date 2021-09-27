@@ -223,6 +223,33 @@ Basics/BINARY_SEARCH/aggressive_cows.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/aggressive_cows.cpp.s
 .PHONY : Basics/BINARY_SEARCH/aggressive_cows.cpp.s
 
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.obj: Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj
+
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.i: Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i
+
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.s: Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s
+.PHONY : Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s
+
 Basics/BINARY_SEARCH/bs.obj: Basics/BINARY_SEARCH/bs.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/bs.obj
@@ -358,6 +385,60 @@ Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.s
 
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.obj: Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj
+
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.i: Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i
+
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.s: Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s
+.PHONY : Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.s
+
+Basics/BINARY_SEARCH/find_nth_root.obj: Basics/BINARY_SEARCH/find_nth_root.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/find_nth_root.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.cpp.obj
+
+Basics/BINARY_SEARCH/find_nth_root.i: Basics/BINARY_SEARCH/find_nth_root.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/find_nth_root.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.i
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.cpp.i
+
+Basics/BINARY_SEARCH/find_nth_root.s: Basics/BINARY_SEARCH/find_nth_root.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/find_nth_root.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.s
+.PHONY : Basics/BINARY_SEARCH/find_nth_root.cpp.s
+
 Basics/BINARY_SEARCH/first_and_last_occurrence.obj: Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/first_and_last_occurrence.obj
@@ -411,6 +492,33 @@ Basics/BINARY_SEARCH/floor_in_a_sorted_array.s: Basics/BINARY_SEARCH/floor_in_a_
 Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
+
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj: Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
+
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.i: Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i
+
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.s: Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s
+.PHONY : Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s
 
 Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.obj: Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj
 
@@ -520,6 +628,60 @@ Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s
 .PHONY : Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s
 
+Basics/BINARY_SEARCH/peak_element.obj: Basics/BINARY_SEARCH/peak_element.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/peak_element.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/peak_element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/peak_element.cpp.obj
+
+Basics/BINARY_SEARCH/peak_element.i: Basics/BINARY_SEARCH/peak_element.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/peak_element.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/peak_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.i
+.PHONY : Basics/BINARY_SEARCH/peak_element.cpp.i
+
+Basics/BINARY_SEARCH/peak_element.s: Basics/BINARY_SEARCH/peak_element.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/peak_element.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/peak_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/peak_element.cpp.s
+.PHONY : Basics/BINARY_SEARCH/peak_element.cpp.s
+
+Basics/BINARY_SEARCH/search_in_sorted_matrix.obj: Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj
+
+Basics/BINARY_SEARCH/search_in_sorted_matrix.i: Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.i
+
+Basics/BINARY_SEARCH/search_in_sorted_matrix.s: Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s
+.PHONY : Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp.s
+
 Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.obj: Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.obj
@@ -546,6 +708,33 @@ Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.s: Basics/BINARY_SEARCH/se
 Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.s
+
+Basics/BINARY_SEARCH/smallest_factorial_no.obj: Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj
+
+Basics/BINARY_SEARCH/smallest_factorial_no.i: Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.cpp.i
+
+Basics/BINARY_SEARCH/smallest_factorial_no.s: Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s
+.PHONY : Basics/BINARY_SEARCH/smallest_factorial_no.cpp.s
 
 Basics/BST/BST_impl.obj: Basics/BST/BST_impl.cpp.obj
 
@@ -7855,6 +8044,9 @@ help:
 	@echo ... Basics/BINARY_SEARCH/aggressive_cows.obj
 	@echo ... Basics/BINARY_SEARCH/aggressive_cows.i
 	@echo ... Basics/BINARY_SEARCH/aggressive_cows.s
+	@echo ... Basics/BINARY_SEARCH/allocate_min_no_of_pages.obj
+	@echo ... Basics/BINARY_SEARCH/allocate_min_no_of_pages.i
+	@echo ... Basics/BINARY_SEARCH/allocate_min_no_of_pages.s
 	@echo ... Basics/BINARY_SEARCH/bs.obj
 	@echo ... Basics/BINARY_SEARCH/bs.i
 	@echo ... Basics/BINARY_SEARCH/bs.s
@@ -7870,12 +8062,21 @@ help:
 	@echo ... Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.obj
+	@echo ... Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.i
+	@echo ... Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.s
+	@echo ... Basics/BINARY_SEARCH/find_nth_root.obj
+	@echo ... Basics/BINARY_SEARCH/find_nth_root.i
+	@echo ... Basics/BINARY_SEARCH/find_nth_root.s
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.obj
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.i
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.s
 	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj
+	@echo ... Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.i
+	@echo ... Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.s
 	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.s
@@ -7888,9 +8089,18 @@ help:
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.obj
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.i
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.s
+	@echo ... Basics/BINARY_SEARCH/peak_element.obj
+	@echo ... Basics/BINARY_SEARCH/peak_element.i
+	@echo ... Basics/BINARY_SEARCH/peak_element.s
+	@echo ... Basics/BINARY_SEARCH/search_in_sorted_matrix.obj
+	@echo ... Basics/BINARY_SEARCH/search_in_sorted_matrix.i
+	@echo ... Basics/BINARY_SEARCH/search_in_sorted_matrix.s
 	@echo ... Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/smallest_factorial_no.obj
+	@echo ... Basics/BINARY_SEARCH/smallest_factorial_no.i
+	@echo ... Basics/BINARY_SEARCH/smallest_factorial_no.s
 	@echo ... Basics/BST/BST_impl.obj
 	@echo ... Basics/BST/BST_impl.i
 	@echo ... Basics/BST/BST_impl.s
