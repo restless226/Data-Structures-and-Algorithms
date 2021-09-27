@@ -277,6 +277,33 @@ Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s
 
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj: Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj
+
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.i: Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.i
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.i
+
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.s: Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.s
+.PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.s
+
 Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.obj: Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.obj
@@ -358,6 +385,60 @@ Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.s
 .PHONY : Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.s
 
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.obj: Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj
+
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.i: Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.i
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.i
+
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.s: Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
+.PHONY : Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
+
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.obj: Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj
+
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.i: Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.i
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.i
+
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.s: Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s
+.PHONY : Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s
+
 Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.obj: Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.obj
@@ -384,6 +465,33 @@ Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.s: Basics/BINARY_SEARCH
 Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.s
+
+Basics/BINARY_SEARCH/next_alphabetical_element.obj: Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj
+
+Basics/BINARY_SEARCH/next_alphabetical_element.i: Basics/BINARY_SEARCH/next_alphabetical_element.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/next_alphabetical_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.i
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.cpp.i
+
+Basics/BINARY_SEARCH/next_alphabetical_element.s: Basics/BINARY_SEARCH/next_alphabetical_element.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/next_alphabetical_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.s
+.PHONY : Basics/BINARY_SEARCH/next_alphabetical_element.cpp.s
 
 Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.obj: Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj
 
@@ -7753,6 +7861,9 @@ help:
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj
+	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.i
+	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.s
 	@echo ... Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.s
@@ -7762,9 +7873,18 @@ help:
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.obj
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.i
 	@echo ... Basics/BINARY_SEARCH/first_and_last_occurrence.s
+	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.obj
+	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.i
+	@echo ... Basics/BINARY_SEARCH/floor_in_a_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.obj
+	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.i
+	@echo ... Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.s
 	@echo ... Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/next_alphabetical_element.obj
+	@echo ... Basics/BINARY_SEARCH/next_alphabetical_element.i
+	@echo ... Basics/BINARY_SEARCH/next_alphabetical_element.s
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.obj
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.i
 	@echo ... Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.s

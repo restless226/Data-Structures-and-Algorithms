@@ -11,15 +11,25 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs.cpp.obj: ../Basics/BINARY_SEARCH
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/first_and_last_occurrence.cpp.obj: ../Basics/BINARY_SEARCH/first_and_last_occurrence.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/next_alphabetical_element.cpp.obj: ../Basics/BINARY_SEARCH/next_alphabetical_element.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj: ../Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
 
 CMakeFiles/untitled.dir/Basics/BST/BST_impl.cpp.obj: ../Basics/BST/BST_impl.cpp
 
