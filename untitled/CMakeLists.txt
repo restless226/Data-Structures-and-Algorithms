@@ -147,7 +147,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/BINARY_SEARCH/next_alphabetical_element.cpp Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
         Basics/BINARY_SEARCH/peak_element.cpp Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
         Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
-        Basics/BINARY_SEARCH/smallest_factorial_no.cpp
-        Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp Basics/BINARY_SEARCH/find_nth_root.cpp)
+        Basics/BINARY_SEARCH/smallest_factorial_no.cpp Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
+        Basics/BINARY_SEARCH/find_nth_root.cpp Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
+        Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp)
 
 

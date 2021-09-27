@@ -13,6 +13,8 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs.cpp.obj: ../Basics/BINARY_SEARCH
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
 
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj: ../Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
+
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp
 
 CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj: ../Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
@@ -136,13 +138,19 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../Basi
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj: ../Basics/DP/TECH_DOSE/las.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj: ../Basics/DP/TECH_DOSE/lbs.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj: ../Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj: ../Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_chain_length.cpp.obj: ../Basics/DP/TECH_DOSE/max_chain_length.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.obj: ../Basics/DP/TECH_DOSE/max_product_subarray.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj: ../Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/msis.cpp.obj: ../Basics/DP/TECH_DOSE/msis.cpp
 

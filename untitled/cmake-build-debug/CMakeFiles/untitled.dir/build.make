@@ -3872,6 +3872,58 @@ CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\find_nth_root.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\find_nth_root.cpp.s
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj: ../Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_sum_bitonic_subsequence.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj: ../Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\max_bitonic_subarray_sum.cpp.s
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj: ../Basics/DP/TECH_DOSE/lbs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lbs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lbs.cpp
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lbs.cpp > CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lbs.cpp.i
+
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lbs.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lbs.cpp.s
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj: ../Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp > CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp.i
+
+CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp -o CMakeFiles\untitled.dir\Basics\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4165,7 +4217,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4462,11 +4518,15 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/allocate_min_no_of_pa
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/smallest_factorial_no.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/find_nth_root.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

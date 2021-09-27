@@ -304,6 +304,33 @@ Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s
 .PHONY : Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s
 
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.obj: Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj
+
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.obj
+
+# target to build an object file
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj
+
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.i: Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i
+
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.i
+
+# target to preprocess a source file
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i
+
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.s: Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s
+
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.s
+
+# target to generate assembly for a file
+Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s
+.PHONY : Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.s
+
 Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj: Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj
 
 .PHONY : Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj
@@ -1951,6 +1978,33 @@ Basics/DP/TECH_DOSE/las.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/las.cpp.s
 
+Basics/DP/TECH_DOSE/lbs.obj: Basics/DP/TECH_DOSE/lbs.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/lbs.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/lbs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/lbs.cpp.obj
+
+Basics/DP/TECH_DOSE/lbs.i: Basics/DP/TECH_DOSE/lbs.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/lbs.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/lbs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/lbs.cpp.i
+
+Basics/DP/TECH_DOSE/lbs.s: Basics/DP/TECH_DOSE/lbs.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/lbs.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/lbs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/lbs.cpp.s
+
 Basics/DP/TECH_DOSE/lis.obj: Basics/DP/TECH_DOSE/lis.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/lis.obj
@@ -2005,6 +2059,33 @@ Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.s
 
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.obj: Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj
+
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.i: Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.i
+
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.s: Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.s
+
 Basics/DP/TECH_DOSE/max_chain_length.obj: Basics/DP/TECH_DOSE/max_chain_length.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/max_chain_length.obj
@@ -2058,6 +2139,33 @@ Basics/DP/TECH_DOSE/max_product_subarray.s: Basics/DP/TECH_DOSE/max_product_suba
 Basics/DP/TECH_DOSE/max_product_subarray.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_product_subarray.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/max_product_subarray.cpp.s
+
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.obj: Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj
+
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.i: Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.i
+
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.s: Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.s
 
 Basics/DP/TECH_DOSE/msis.obj: Basics/DP/TECH_DOSE/msis.cpp.obj
 
@@ -8053,6 +8161,9 @@ help:
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.s
+	@echo ... Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.obj
+	@echo ... Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.i
+	@echo ... Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.s
 	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.obj
 	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.i
 	@echo ... Basics/BINARY_SEARCH/cell_in_a_sorted_array.s
@@ -8236,18 +8347,27 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/las.obj
 	@echo ... Basics/DP/TECH_DOSE/las.i
 	@echo ... Basics/DP/TECH_DOSE/las.s
+	@echo ... Basics/DP/TECH_DOSE/lbs.obj
+	@echo ... Basics/DP/TECH_DOSE/lbs.i
+	@echo ... Basics/DP/TECH_DOSE/lbs.s
 	@echo ... Basics/DP/TECH_DOSE/lis.obj
 	@echo ... Basics/DP/TECH_DOSE/lis.i
 	@echo ... Basics/DP/TECH_DOSE/lis.s
 	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.obj
 	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.i
 	@echo ... Basics/DP/TECH_DOSE/longest_subsequence_-1.s
+	@echo ... Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.obj
+	@echo ... Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.i
+	@echo ... Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.s
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.obj
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.i
 	@echo ... Basics/DP/TECH_DOSE/max_chain_length.s
 	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.obj
 	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.i
 	@echo ... Basics/DP/TECH_DOSE/max_product_subarray.s
+	@echo ... Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.obj
+	@echo ... Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.i
+	@echo ... Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.s
 	@echo ... Basics/DP/TECH_DOSE/msis.obj
 	@echo ... Basics/DP/TECH_DOSE/msis.i
 	@echo ... Basics/DP/TECH_DOSE/msis.s

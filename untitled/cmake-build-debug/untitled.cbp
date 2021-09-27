@@ -98,6 +98,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -287,16 +290,25 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/las.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lbs.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_chain_length.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_product_subarray.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/msis.cpp">

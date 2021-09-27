@@ -15,34 +15,40 @@
 //#define int long long
 //using namespace std;
 //
+//int upperBound(vector<int> &row, int target) {
+//    int low = 0;
+//    int high = row.size();
+//    while (low < high) {
+//        int mid = (low + high) / 2;
+//        if (row[mid] <= target) {
+//            low = mid + 1;
+//        } else {
+//            high = mid; // because we have to bring low and high close to each other
+//        }
+//    }
+//    return low;
+//}
+//
 ////TODO
 //int solve(vector<vector<int>> &matrix, int r, int c) {
-//    int mat[r][c];
-//    for (int i = 0; i < r; ++i) {
-//        for (int j = 0; j < c; ++j) {
-//            mat[i][j] = matrix[i][j];
-//        }
-//    }
-//
-//    int mn = INT_MAX;
-//    int mx = INT_MIN;
+//    int mn = matrix[0][0];
+//    int mx = matrix[0][c - 1];
 //    for (int i = 0; i < c; i++) {
-//        mn = min(mn, mat[i][0]);     // min value of median
-//        mx = max(mx, mat[i][c - 1]); // max value of median
+//        mn = min(mn, matrix[i][0]);     // min value of median
+//        mx = max(mx, matrix[i][c - 1]); // max value of median
 //    }
 //
-//    int desired = (r * c + 1) / 2;
+//    int medianPos = (r * c + 1) / 2;
 //    while (mn < mx) {
-//        int mid = mn + (mx - mn) / 2;
+//        int mid = (mx + mn) / 2;
 //        int count = 0;
-//        // find count of elements smaller than mid
-//        for (int i = 0; i < r; i++) {
-//            count += upper_bound(mat[i], mat[i] + c, mid) - mat[i];
+//        for (int i = 0; i < r; i++) {    // find count of elements smaller or equal than mid in each row
+//            count += upperBound(matrix[i], mid);
 //        }
-//        if (count < desired) {
+//        if (count < medianPos) {
 //            mn = mid + 1;
 //        } else {
-//            mx = mid;
+//            mx = mid;   // because we have to bring mx and mn close to each other
 //        }
 //    }
 //    return mn;
@@ -70,12 +76,15 @@
 //
 ///*
 //INPUT:
-//1
+//2
 //3 3
 //1 3 5
 //2 6 9
 //3 6 9
-//
+//3 1
+//1
+//2
+//3
 //OUTPUT:
 //5
 //*/
