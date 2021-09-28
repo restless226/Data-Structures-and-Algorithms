@@ -2005,6 +2005,33 @@ Basics/DP/TECH_DOSE/lbs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.s
 .PHONY : Basics/DP/TECH_DOSE/lbs.cpp.s
 
+Basics/DP/TECH_DOSE/lcis.obj: Basics/DP/TECH_DOSE/lcis.cpp.obj
+
+.PHONY : Basics/DP/TECH_DOSE/lcis.obj
+
+# target to build an object file
+Basics/DP/TECH_DOSE/lcis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj
+.PHONY : Basics/DP/TECH_DOSE/lcis.cpp.obj
+
+Basics/DP/TECH_DOSE/lcis.i: Basics/DP/TECH_DOSE/lcis.cpp.i
+
+.PHONY : Basics/DP/TECH_DOSE/lcis.i
+
+# target to preprocess a source file
+Basics/DP/TECH_DOSE/lcis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.i
+.PHONY : Basics/DP/TECH_DOSE/lcis.cpp.i
+
+Basics/DP/TECH_DOSE/lcis.s: Basics/DP/TECH_DOSE/lcis.cpp.s
+
+.PHONY : Basics/DP/TECH_DOSE/lcis.s
+
+# target to generate assembly for a file
+Basics/DP/TECH_DOSE/lcis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.s
+.PHONY : Basics/DP/TECH_DOSE/lcis.cpp.s
+
 Basics/DP/TECH_DOSE/lis.obj: Basics/DP/TECH_DOSE/lis.cpp.obj
 
 .PHONY : Basics/DP/TECH_DOSE/lis.obj
@@ -4030,6 +4057,168 @@ Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
 .PHONY : Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
 
+Basics/GRAPHS/Djikstras.obj: Basics/GRAPHS/Djikstras.cpp.obj
+
+.PHONY : Basics/GRAPHS/Djikstras.obj
+
+# target to build an object file
+Basics/GRAPHS/Djikstras.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/Djikstras.cpp.obj
+.PHONY : Basics/GRAPHS/Djikstras.cpp.obj
+
+Basics/GRAPHS/Djikstras.i: Basics/GRAPHS/Djikstras.cpp.i
+
+.PHONY : Basics/GRAPHS/Djikstras.i
+
+# target to preprocess a source file
+Basics/GRAPHS/Djikstras.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/Djikstras.cpp.i
+.PHONY : Basics/GRAPHS/Djikstras.cpp.i
+
+Basics/GRAPHS/Djikstras.s: Basics/GRAPHS/Djikstras.cpp.s
+
+.PHONY : Basics/GRAPHS/Djikstras.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/Djikstras.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/Djikstras.cpp.s
+.PHONY : Basics/GRAPHS/Djikstras.cpp.s
+
+Basics/GRAPHS/MST_Prim.obj: Basics/GRAPHS/MST_Prim.cpp.obj
+
+.PHONY : Basics/GRAPHS/MST_Prim.obj
+
+# target to build an object file
+Basics/GRAPHS/MST_Prim.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim.cpp.obj
+.PHONY : Basics/GRAPHS/MST_Prim.cpp.obj
+
+Basics/GRAPHS/MST_Prim.i: Basics/GRAPHS/MST_Prim.cpp.i
+
+.PHONY : Basics/GRAPHS/MST_Prim.i
+
+# target to preprocess a source file
+Basics/GRAPHS/MST_Prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim.cpp.i
+.PHONY : Basics/GRAPHS/MST_Prim.cpp.i
+
+Basics/GRAPHS/MST_Prim.s: Basics/GRAPHS/MST_Prim.cpp.s
+
+.PHONY : Basics/GRAPHS/MST_Prim.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/MST_Prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim.cpp.s
+.PHONY : Basics/GRAPHS/MST_Prim.cpp.s
+
+Basics/GRAPHS/MST_Prim2.obj: Basics/GRAPHS/MST_Prim2.cpp.obj
+
+.PHONY : Basics/GRAPHS/MST_Prim2.obj
+
+# target to build an object file
+Basics/GRAPHS/MST_Prim2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim2.cpp.obj
+.PHONY : Basics/GRAPHS/MST_Prim2.cpp.obj
+
+Basics/GRAPHS/MST_Prim2.i: Basics/GRAPHS/MST_Prim2.cpp.i
+
+.PHONY : Basics/GRAPHS/MST_Prim2.i
+
+# target to preprocess a source file
+Basics/GRAPHS/MST_Prim2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim2.cpp.i
+.PHONY : Basics/GRAPHS/MST_Prim2.cpp.i
+
+Basics/GRAPHS/MST_Prim2.s: Basics/GRAPHS/MST_Prim2.cpp.s
+
+.PHONY : Basics/GRAPHS/MST_Prim2.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/MST_Prim2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_Prim2.cpp.s
+.PHONY : Basics/GRAPHS/MST_Prim2.cpp.s
+
+Basics/GRAPHS/MST_kruskal.obj: Basics/GRAPHS/MST_kruskal.cpp.obj
+
+.PHONY : Basics/GRAPHS/MST_kruskal.obj
+
+# target to build an object file
+Basics/GRAPHS/MST_kruskal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_kruskal.cpp.obj
+.PHONY : Basics/GRAPHS/MST_kruskal.cpp.obj
+
+Basics/GRAPHS/MST_kruskal.i: Basics/GRAPHS/MST_kruskal.cpp.i
+
+.PHONY : Basics/GRAPHS/MST_kruskal.i
+
+# target to preprocess a source file
+Basics/GRAPHS/MST_kruskal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_kruskal.cpp.i
+.PHONY : Basics/GRAPHS/MST_kruskal.cpp.i
+
+Basics/GRAPHS/MST_kruskal.s: Basics/GRAPHS/MST_kruskal.cpp.s
+
+.PHONY : Basics/GRAPHS/MST_kruskal.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/MST_kruskal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/MST_kruskal.cpp.s
+.PHONY : Basics/GRAPHS/MST_kruskal.cpp.s
+
+Basics/GRAPHS/graph.obj: Basics/GRAPHS/graph.cpp.obj
+
+.PHONY : Basics/GRAPHS/graph.obj
+
+# target to build an object file
+Basics/GRAPHS/graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph.cpp.obj
+.PHONY : Basics/GRAPHS/graph.cpp.obj
+
+Basics/GRAPHS/graph.i: Basics/GRAPHS/graph.cpp.i
+
+.PHONY : Basics/GRAPHS/graph.i
+
+# target to preprocess a source file
+Basics/GRAPHS/graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph.cpp.i
+.PHONY : Basics/GRAPHS/graph.cpp.i
+
+Basics/GRAPHS/graph.s: Basics/GRAPHS/graph.cpp.s
+
+.PHONY : Basics/GRAPHS/graph.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph.cpp.s
+.PHONY : Basics/GRAPHS/graph.cpp.s
+
+Basics/GRAPHS/graph2.obj: Basics/GRAPHS/graph2.cpp.obj
+
+.PHONY : Basics/GRAPHS/graph2.obj
+
+# target to build an object file
+Basics/GRAPHS/graph2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph2.cpp.obj
+.PHONY : Basics/GRAPHS/graph2.cpp.obj
+
+Basics/GRAPHS/graph2.i: Basics/GRAPHS/graph2.cpp.i
+
+.PHONY : Basics/GRAPHS/graph2.i
+
+# target to preprocess a source file
+Basics/GRAPHS/graph2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph2.cpp.i
+.PHONY : Basics/GRAPHS/graph2.cpp.i
+
+Basics/GRAPHS/graph2.s: Basics/GRAPHS/graph2.cpp.s
+
+.PHONY : Basics/GRAPHS/graph2.s
+
+# target to generate assembly for a file
+Basics/GRAPHS/graph2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/GRAPHS/graph2.cpp.s
+.PHONY : Basics/GRAPHS/graph2.cpp.s
+
 Basics/GRAPHS_CN/Dijikstras.obj: Basics/GRAPHS_CN/Dijikstras.cpp.obj
 
 .PHONY : Basics/GRAPHS_CN/Dijikstras.obj
@@ -4624,167 +4813,194 @@ Basics/MATRIX/matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.s
 .PHONY : Basics/MATRIX/matrix.cpp.s
 
-Basics/Recursion/all_indices.obj: Basics/Recursion/all_indices.cpp.obj
+Basics/RECURSION/all_indices.obj: Basics/RECURSION/all_indices.cpp.obj
 
-.PHONY : Basics/Recursion/all_indices.obj
-
-# target to build an object file
-Basics/Recursion/all_indices.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.obj
-.PHONY : Basics/Recursion/all_indices.cpp.obj
-
-Basics/Recursion/all_indices.i: Basics/Recursion/all_indices.cpp.i
-
-.PHONY : Basics/Recursion/all_indices.i
-
-# target to preprocess a source file
-Basics/Recursion/all_indices.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.i
-.PHONY : Basics/Recursion/all_indices.cpp.i
-
-Basics/Recursion/all_indices.s: Basics/Recursion/all_indices.cpp.s
-
-.PHONY : Basics/Recursion/all_indices.s
-
-# target to generate assembly for a file
-Basics/Recursion/all_indices.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.s
-.PHONY : Basics/Recursion/all_indices.cpp.s
-
-Basics/Recursion/array_sort.obj: Basics/Recursion/array_sort.cpp.obj
-
-.PHONY : Basics/Recursion/array_sort.obj
+.PHONY : Basics/RECURSION/all_indices.obj
 
 # target to build an object file
-Basics/Recursion/array_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/array_sort.cpp.obj
-.PHONY : Basics/Recursion/array_sort.cpp.obj
+Basics/RECURSION/all_indices.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/all_indices.cpp.obj
+.PHONY : Basics/RECURSION/all_indices.cpp.obj
 
-Basics/Recursion/array_sort.i: Basics/Recursion/array_sort.cpp.i
+Basics/RECURSION/all_indices.i: Basics/RECURSION/all_indices.cpp.i
 
-.PHONY : Basics/Recursion/array_sort.i
+.PHONY : Basics/RECURSION/all_indices.i
 
 # target to preprocess a source file
-Basics/Recursion/array_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/array_sort.cpp.i
-.PHONY : Basics/Recursion/array_sort.cpp.i
+Basics/RECURSION/all_indices.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/all_indices.cpp.i
+.PHONY : Basics/RECURSION/all_indices.cpp.i
 
-Basics/Recursion/array_sort.s: Basics/Recursion/array_sort.cpp.s
+Basics/RECURSION/all_indices.s: Basics/RECURSION/all_indices.cpp.s
 
-.PHONY : Basics/Recursion/array_sort.s
+.PHONY : Basics/RECURSION/all_indices.s
 
 # target to generate assembly for a file
-Basics/Recursion/array_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/array_sort.cpp.s
-.PHONY : Basics/Recursion/array_sort.cpp.s
+Basics/RECURSION/all_indices.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/all_indices.cpp.s
+.PHONY : Basics/RECURSION/all_indices.cpp.s
 
-Basics/Recursion/fib.obj: Basics/Recursion/fib.cpp.obj
+Basics/RECURSION/fib.obj: Basics/RECURSION/fib.cpp.obj
 
-.PHONY : Basics/Recursion/fib.obj
+.PHONY : Basics/RECURSION/fib.obj
 
 # target to build an object file
-Basics/Recursion/fib.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/fib.cpp.obj
-.PHONY : Basics/Recursion/fib.cpp.obj
+Basics/RECURSION/fib.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/fib.cpp.obj
+.PHONY : Basics/RECURSION/fib.cpp.obj
 
-Basics/Recursion/fib.i: Basics/Recursion/fib.cpp.i
+Basics/RECURSION/fib.i: Basics/RECURSION/fib.cpp.i
 
-.PHONY : Basics/Recursion/fib.i
+.PHONY : Basics/RECURSION/fib.i
 
 # target to preprocess a source file
-Basics/Recursion/fib.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/fib.cpp.i
-.PHONY : Basics/Recursion/fib.cpp.i
+Basics/RECURSION/fib.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/fib.cpp.i
+.PHONY : Basics/RECURSION/fib.cpp.i
 
-Basics/Recursion/fib.s: Basics/Recursion/fib.cpp.s
+Basics/RECURSION/fib.s: Basics/RECURSION/fib.cpp.s
 
-.PHONY : Basics/Recursion/fib.s
+.PHONY : Basics/RECURSION/fib.s
 
 # target to generate assembly for a file
-Basics/Recursion/fib.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/fib.cpp.s
-.PHONY : Basics/Recursion/fib.cpp.s
+Basics/RECURSION/fib.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/fib.cpp.s
+.PHONY : Basics/RECURSION/fib.cpp.s
 
-Basics/Recursion/find_char_arr_length.obj: Basics/Recursion/find_char_arr_length.cpp.obj
+Basics/RECURSION/find_char_arr_length.obj: Basics/RECURSION/find_char_arr_length.cpp.obj
 
-.PHONY : Basics/Recursion/find_char_arr_length.obj
+.PHONY : Basics/RECURSION/find_char_arr_length.obj
 
 # target to build an object file
-Basics/Recursion/find_char_arr_length.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/find_char_arr_length.cpp.obj
-.PHONY : Basics/Recursion/find_char_arr_length.cpp.obj
+Basics/RECURSION/find_char_arr_length.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/find_char_arr_length.cpp.obj
+.PHONY : Basics/RECURSION/find_char_arr_length.cpp.obj
 
-Basics/Recursion/find_char_arr_length.i: Basics/Recursion/find_char_arr_length.cpp.i
+Basics/RECURSION/find_char_arr_length.i: Basics/RECURSION/find_char_arr_length.cpp.i
 
-.PHONY : Basics/Recursion/find_char_arr_length.i
+.PHONY : Basics/RECURSION/find_char_arr_length.i
 
 # target to preprocess a source file
-Basics/Recursion/find_char_arr_length.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/find_char_arr_length.cpp.i
-.PHONY : Basics/Recursion/find_char_arr_length.cpp.i
+Basics/RECURSION/find_char_arr_length.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/find_char_arr_length.cpp.i
+.PHONY : Basics/RECURSION/find_char_arr_length.cpp.i
 
-Basics/Recursion/find_char_arr_length.s: Basics/Recursion/find_char_arr_length.cpp.s
+Basics/RECURSION/find_char_arr_length.s: Basics/RECURSION/find_char_arr_length.cpp.s
 
-.PHONY : Basics/Recursion/find_char_arr_length.s
+.PHONY : Basics/RECURSION/find_char_arr_length.s
 
 # target to generate assembly for a file
-Basics/Recursion/find_char_arr_length.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/find_char_arr_length.cpp.s
-.PHONY : Basics/Recursion/find_char_arr_length.cpp.s
+Basics/RECURSION/find_char_arr_length.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/find_char_arr_length.cpp.s
+.PHONY : Basics/RECURSION/find_char_arr_length.cpp.s
 
-Basics/Recursion/first_index.obj: Basics/Recursion/first_index.cpp.obj
+Basics/RECURSION/first_index.obj: Basics/RECURSION/first_index.cpp.obj
 
-.PHONY : Basics/Recursion/first_index.obj
+.PHONY : Basics/RECURSION/first_index.obj
 
 # target to build an object file
-Basics/Recursion/first_index.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.obj
-.PHONY : Basics/Recursion/first_index.cpp.obj
+Basics/RECURSION/first_index.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/first_index.cpp.obj
+.PHONY : Basics/RECURSION/first_index.cpp.obj
 
-Basics/Recursion/first_index.i: Basics/Recursion/first_index.cpp.i
+Basics/RECURSION/first_index.i: Basics/RECURSION/first_index.cpp.i
 
-.PHONY : Basics/Recursion/first_index.i
+.PHONY : Basics/RECURSION/first_index.i
 
 # target to preprocess a source file
-Basics/Recursion/first_index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.i
-.PHONY : Basics/Recursion/first_index.cpp.i
+Basics/RECURSION/first_index.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/first_index.cpp.i
+.PHONY : Basics/RECURSION/first_index.cpp.i
 
-Basics/Recursion/first_index.s: Basics/Recursion/first_index.cpp.s
+Basics/RECURSION/first_index.s: Basics/RECURSION/first_index.cpp.s
 
-.PHONY : Basics/Recursion/first_index.s
+.PHONY : Basics/RECURSION/first_index.s
 
 # target to generate assembly for a file
-Basics/Recursion/first_index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.s
-.PHONY : Basics/Recursion/first_index.cpp.s
+Basics/RECURSION/first_index.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/first_index.cpp.s
+.PHONY : Basics/RECURSION/first_index.cpp.s
 
-Basics/Recursion/last_index.obj: Basics/Recursion/last_index.cpp.obj
+Basics/RECURSION/is_array_sorted.obj: Basics/RECURSION/is_array_sorted.cpp.obj
 
-.PHONY : Basics/Recursion/last_index.obj
+.PHONY : Basics/RECURSION/is_array_sorted.obj
 
 # target to build an object file
-Basics/Recursion/last_index.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj
-.PHONY : Basics/Recursion/last_index.cpp.obj
+Basics/RECURSION/is_array_sorted.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/is_array_sorted.cpp.obj
+.PHONY : Basics/RECURSION/is_array_sorted.cpp.obj
 
-Basics/Recursion/last_index.i: Basics/Recursion/last_index.cpp.i
+Basics/RECURSION/is_array_sorted.i: Basics/RECURSION/is_array_sorted.cpp.i
 
-.PHONY : Basics/Recursion/last_index.i
+.PHONY : Basics/RECURSION/is_array_sorted.i
 
 # target to preprocess a source file
-Basics/Recursion/last_index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.i
-.PHONY : Basics/Recursion/last_index.cpp.i
+Basics/RECURSION/is_array_sorted.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/is_array_sorted.cpp.i
+.PHONY : Basics/RECURSION/is_array_sorted.cpp.i
 
-Basics/Recursion/last_index.s: Basics/Recursion/last_index.cpp.s
+Basics/RECURSION/is_array_sorted.s: Basics/RECURSION/is_array_sorted.cpp.s
 
-.PHONY : Basics/Recursion/last_index.s
+.PHONY : Basics/RECURSION/is_array_sorted.s
 
 # target to generate assembly for a file
-Basics/Recursion/last_index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.s
-.PHONY : Basics/Recursion/last_index.cpp.s
+Basics/RECURSION/is_array_sorted.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/is_array_sorted.cpp.s
+.PHONY : Basics/RECURSION/is_array_sorted.cpp.s
+
+Basics/RECURSION/last_index.obj: Basics/RECURSION/last_index.cpp.obj
+
+.PHONY : Basics/RECURSION/last_index.obj
+
+# target to build an object file
+Basics/RECURSION/last_index.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/last_index.cpp.obj
+.PHONY : Basics/RECURSION/last_index.cpp.obj
+
+Basics/RECURSION/last_index.i: Basics/RECURSION/last_index.cpp.i
+
+.PHONY : Basics/RECURSION/last_index.i
+
+# target to preprocess a source file
+Basics/RECURSION/last_index.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/last_index.cpp.i
+.PHONY : Basics/RECURSION/last_index.cpp.i
+
+Basics/RECURSION/last_index.s: Basics/RECURSION/last_index.cpp.s
+
+.PHONY : Basics/RECURSION/last_index.s
+
+# target to generate assembly for a file
+Basics/RECURSION/last_index.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/last_index.cpp.s
+.PHONY : Basics/RECURSION/last_index.cpp.s
+
+Basics/RECURSION/sort_array.obj: Basics/RECURSION/sort_array.cpp.obj
+
+.PHONY : Basics/RECURSION/sort_array.obj
+
+# target to build an object file
+Basics/RECURSION/sort_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.obj
+.PHONY : Basics/RECURSION/sort_array.cpp.obj
+
+Basics/RECURSION/sort_array.i: Basics/RECURSION/sort_array.cpp.i
+
+.PHONY : Basics/RECURSION/sort_array.i
+
+# target to preprocess a source file
+Basics/RECURSION/sort_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.i
+.PHONY : Basics/RECURSION/sort_array.cpp.i
+
+Basics/RECURSION/sort_array.s: Basics/RECURSION/sort_array.cpp.s
+
+.PHONY : Basics/RECURSION/sort_array.s
+
+# target to generate assembly for a file
+Basics/RECURSION/sort_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.s
+.PHONY : Basics/RECURSION/sort_array.cpp.s
 
 Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 
@@ -6081,168 +6297,6 @@ Basics/dequeue/dequeue.s: Basics/dequeue/dequeue.cpp.s
 Basics/dequeue/dequeue.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/dequeue/dequeue.cpp.s
 .PHONY : Basics/dequeue/dequeue.cpp.s
-
-Basics/graphs/Djikstras.obj: Basics/graphs/Djikstras.cpp.obj
-
-.PHONY : Basics/graphs/Djikstras.obj
-
-# target to build an object file
-Basics/graphs/Djikstras.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/Djikstras.cpp.obj
-.PHONY : Basics/graphs/Djikstras.cpp.obj
-
-Basics/graphs/Djikstras.i: Basics/graphs/Djikstras.cpp.i
-
-.PHONY : Basics/graphs/Djikstras.i
-
-# target to preprocess a source file
-Basics/graphs/Djikstras.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/Djikstras.cpp.i
-.PHONY : Basics/graphs/Djikstras.cpp.i
-
-Basics/graphs/Djikstras.s: Basics/graphs/Djikstras.cpp.s
-
-.PHONY : Basics/graphs/Djikstras.s
-
-# target to generate assembly for a file
-Basics/graphs/Djikstras.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/Djikstras.cpp.s
-.PHONY : Basics/graphs/Djikstras.cpp.s
-
-Basics/graphs/MST_Prim.obj: Basics/graphs/MST_Prim.cpp.obj
-
-.PHONY : Basics/graphs/MST_Prim.obj
-
-# target to build an object file
-Basics/graphs/MST_Prim.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim.cpp.obj
-.PHONY : Basics/graphs/MST_Prim.cpp.obj
-
-Basics/graphs/MST_Prim.i: Basics/graphs/MST_Prim.cpp.i
-
-.PHONY : Basics/graphs/MST_Prim.i
-
-# target to preprocess a source file
-Basics/graphs/MST_Prim.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim.cpp.i
-.PHONY : Basics/graphs/MST_Prim.cpp.i
-
-Basics/graphs/MST_Prim.s: Basics/graphs/MST_Prim.cpp.s
-
-.PHONY : Basics/graphs/MST_Prim.s
-
-# target to generate assembly for a file
-Basics/graphs/MST_Prim.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim.cpp.s
-.PHONY : Basics/graphs/MST_Prim.cpp.s
-
-Basics/graphs/MST_Prim2.obj: Basics/graphs/MST_Prim2.cpp.obj
-
-.PHONY : Basics/graphs/MST_Prim2.obj
-
-# target to build an object file
-Basics/graphs/MST_Prim2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim2.cpp.obj
-.PHONY : Basics/graphs/MST_Prim2.cpp.obj
-
-Basics/graphs/MST_Prim2.i: Basics/graphs/MST_Prim2.cpp.i
-
-.PHONY : Basics/graphs/MST_Prim2.i
-
-# target to preprocess a source file
-Basics/graphs/MST_Prim2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim2.cpp.i
-.PHONY : Basics/graphs/MST_Prim2.cpp.i
-
-Basics/graphs/MST_Prim2.s: Basics/graphs/MST_Prim2.cpp.s
-
-.PHONY : Basics/graphs/MST_Prim2.s
-
-# target to generate assembly for a file
-Basics/graphs/MST_Prim2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_Prim2.cpp.s
-.PHONY : Basics/graphs/MST_Prim2.cpp.s
-
-Basics/graphs/MST_kruskal.obj: Basics/graphs/MST_kruskal.cpp.obj
-
-.PHONY : Basics/graphs/MST_kruskal.obj
-
-# target to build an object file
-Basics/graphs/MST_kruskal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_kruskal.cpp.obj
-.PHONY : Basics/graphs/MST_kruskal.cpp.obj
-
-Basics/graphs/MST_kruskal.i: Basics/graphs/MST_kruskal.cpp.i
-
-.PHONY : Basics/graphs/MST_kruskal.i
-
-# target to preprocess a source file
-Basics/graphs/MST_kruskal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_kruskal.cpp.i
-.PHONY : Basics/graphs/MST_kruskal.cpp.i
-
-Basics/graphs/MST_kruskal.s: Basics/graphs/MST_kruskal.cpp.s
-
-.PHONY : Basics/graphs/MST_kruskal.s
-
-# target to generate assembly for a file
-Basics/graphs/MST_kruskal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/MST_kruskal.cpp.s
-.PHONY : Basics/graphs/MST_kruskal.cpp.s
-
-Basics/graphs/graph.obj: Basics/graphs/graph.cpp.obj
-
-.PHONY : Basics/graphs/graph.obj
-
-# target to build an object file
-Basics/graphs/graph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph.cpp.obj
-.PHONY : Basics/graphs/graph.cpp.obj
-
-Basics/graphs/graph.i: Basics/graphs/graph.cpp.i
-
-.PHONY : Basics/graphs/graph.i
-
-# target to preprocess a source file
-Basics/graphs/graph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph.cpp.i
-.PHONY : Basics/graphs/graph.cpp.i
-
-Basics/graphs/graph.s: Basics/graphs/graph.cpp.s
-
-.PHONY : Basics/graphs/graph.s
-
-# target to generate assembly for a file
-Basics/graphs/graph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph.cpp.s
-.PHONY : Basics/graphs/graph.cpp.s
-
-Basics/graphs/graph2.obj: Basics/graphs/graph2.cpp.obj
-
-.PHONY : Basics/graphs/graph2.obj
-
-# target to build an object file
-Basics/graphs/graph2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.obj
-.PHONY : Basics/graphs/graph2.cpp.obj
-
-Basics/graphs/graph2.i: Basics/graphs/graph2.cpp.i
-
-.PHONY : Basics/graphs/graph2.i
-
-# target to preprocess a source file
-Basics/graphs/graph2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.i
-.PHONY : Basics/graphs/graph2.cpp.i
-
-Basics/graphs/graph2.s: Basics/graphs/graph2.cpp.s
-
-.PHONY : Basics/graphs/graph2.s
-
-# target to generate assembly for a file
-Basics/graphs/graph2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/graphs/graph2.cpp.s
-.PHONY : Basics/graphs/graph2.cpp.s
 
 Basics/queue/circular_queue.obj: Basics/queue/circular_queue.cpp.obj
 
@@ -8350,6 +8404,9 @@ help:
 	@echo ... Basics/DP/TECH_DOSE/lbs.obj
 	@echo ... Basics/DP/TECH_DOSE/lbs.i
 	@echo ... Basics/DP/TECH_DOSE/lbs.s
+	@echo ... Basics/DP/TECH_DOSE/lcis.obj
+	@echo ... Basics/DP/TECH_DOSE/lcis.i
+	@echo ... Basics/DP/TECH_DOSE/lcis.s
 	@echo ... Basics/DP/TECH_DOSE/lis.obj
 	@echo ... Basics/DP/TECH_DOSE/lis.i
 	@echo ... Basics/DP/TECH_DOSE/lis.s
@@ -8575,6 +8632,24 @@ help:
 	@echo ... Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
 	@echo ... Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.i
 	@echo ... Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.s
+	@echo ... Basics/GRAPHS/Djikstras.obj
+	@echo ... Basics/GRAPHS/Djikstras.i
+	@echo ... Basics/GRAPHS/Djikstras.s
+	@echo ... Basics/GRAPHS/MST_Prim.obj
+	@echo ... Basics/GRAPHS/MST_Prim.i
+	@echo ... Basics/GRAPHS/MST_Prim.s
+	@echo ... Basics/GRAPHS/MST_Prim2.obj
+	@echo ... Basics/GRAPHS/MST_Prim2.i
+	@echo ... Basics/GRAPHS/MST_Prim2.s
+	@echo ... Basics/GRAPHS/MST_kruskal.obj
+	@echo ... Basics/GRAPHS/MST_kruskal.i
+	@echo ... Basics/GRAPHS/MST_kruskal.s
+	@echo ... Basics/GRAPHS/graph.obj
+	@echo ... Basics/GRAPHS/graph.i
+	@echo ... Basics/GRAPHS/graph.s
+	@echo ... Basics/GRAPHS/graph2.obj
+	@echo ... Basics/GRAPHS/graph2.i
+	@echo ... Basics/GRAPHS/graph2.s
 	@echo ... Basics/GRAPHS_CN/Dijikstras.obj
 	@echo ... Basics/GRAPHS_CN/Dijikstras.i
 	@echo ... Basics/GRAPHS_CN/Dijikstras.s
@@ -8641,24 +8716,27 @@ help:
 	@echo ... Basics/MATRIX/matrix.obj
 	@echo ... Basics/MATRIX/matrix.i
 	@echo ... Basics/MATRIX/matrix.s
-	@echo ... Basics/Recursion/all_indices.obj
-	@echo ... Basics/Recursion/all_indices.i
-	@echo ... Basics/Recursion/all_indices.s
-	@echo ... Basics/Recursion/array_sort.obj
-	@echo ... Basics/Recursion/array_sort.i
-	@echo ... Basics/Recursion/array_sort.s
-	@echo ... Basics/Recursion/fib.obj
-	@echo ... Basics/Recursion/fib.i
-	@echo ... Basics/Recursion/fib.s
-	@echo ... Basics/Recursion/find_char_arr_length.obj
-	@echo ... Basics/Recursion/find_char_arr_length.i
-	@echo ... Basics/Recursion/find_char_arr_length.s
-	@echo ... Basics/Recursion/first_index.obj
-	@echo ... Basics/Recursion/first_index.i
-	@echo ... Basics/Recursion/first_index.s
-	@echo ... Basics/Recursion/last_index.obj
-	@echo ... Basics/Recursion/last_index.i
-	@echo ... Basics/Recursion/last_index.s
+	@echo ... Basics/RECURSION/all_indices.obj
+	@echo ... Basics/RECURSION/all_indices.i
+	@echo ... Basics/RECURSION/all_indices.s
+	@echo ... Basics/RECURSION/fib.obj
+	@echo ... Basics/RECURSION/fib.i
+	@echo ... Basics/RECURSION/fib.s
+	@echo ... Basics/RECURSION/find_char_arr_length.obj
+	@echo ... Basics/RECURSION/find_char_arr_length.i
+	@echo ... Basics/RECURSION/find_char_arr_length.s
+	@echo ... Basics/RECURSION/first_index.obj
+	@echo ... Basics/RECURSION/first_index.i
+	@echo ... Basics/RECURSION/first_index.s
+	@echo ... Basics/RECURSION/is_array_sorted.obj
+	@echo ... Basics/RECURSION/is_array_sorted.i
+	@echo ... Basics/RECURSION/is_array_sorted.s
+	@echo ... Basics/RECURSION/last_index.obj
+	@echo ... Basics/RECURSION/last_index.i
+	@echo ... Basics/RECURSION/last_index.s
+	@echo ... Basics/RECURSION/sort_array.obj
+	@echo ... Basics/RECURSION/sort_array.i
+	@echo ... Basics/RECURSION/sort_array.s
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s
@@ -8803,24 +8881,6 @@ help:
 	@echo ... Basics/dequeue/dequeue.obj
 	@echo ... Basics/dequeue/dequeue.i
 	@echo ... Basics/dequeue/dequeue.s
-	@echo ... Basics/graphs/Djikstras.obj
-	@echo ... Basics/graphs/Djikstras.i
-	@echo ... Basics/graphs/Djikstras.s
-	@echo ... Basics/graphs/MST_Prim.obj
-	@echo ... Basics/graphs/MST_Prim.i
-	@echo ... Basics/graphs/MST_Prim.s
-	@echo ... Basics/graphs/MST_Prim2.obj
-	@echo ... Basics/graphs/MST_Prim2.i
-	@echo ... Basics/graphs/MST_Prim2.s
-	@echo ... Basics/graphs/MST_kruskal.obj
-	@echo ... Basics/graphs/MST_kruskal.i
-	@echo ... Basics/graphs/MST_kruskal.s
-	@echo ... Basics/graphs/graph.obj
-	@echo ... Basics/graphs/graph.i
-	@echo ... Basics/graphs/graph.s
-	@echo ... Basics/graphs/graph2.obj
-	@echo ... Basics/graphs/graph2.i
-	@echo ... Basics/graphs/graph2.s
 	@echo ... Basics/queue/circular_queue.obj
 	@echo ... Basics/queue/circular_queue.i
 	@echo ... Basics/queue/circular_queue.s

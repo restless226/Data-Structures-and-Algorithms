@@ -69,7 +69,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-        ROUGH_FILES/rough3.cpp Basics/graphs/MST_kruskal.cpp Basics/graphs/MST_Prim.cpp
+        ROUGH_FILES/rough3.cpp Basics/GRAPHS/MST_kruskal.cpp Basics/GRAPHS/MST_Prim.cpp
         DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
         DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
         DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
@@ -80,13 +80,13 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         Basics/Templates/unordered_maps.cpp
-        Basics/graphs/graph.cpp Basics/graphs/graph2.cpp Basics/graphs/MST_Prim2.cpp
-        Basics/graphs/Djikstras.cpp Basics/dequeue/dequeue.cpp Basics/dequeue/deque2.cpp
+        Basics/GRAPHS/graph.cpp Basics/GRAPHS/graph2.cpp Basics/GRAPHS/MST_Prim2.cpp
+        Basics/GRAPHS/Djikstras.cpp Basics/dequeue/dequeue.cpp Basics/dequeue/deque2.cpp
         Basics/dequeue/deque3.cpp Basics/EXPONENTATION/mod_exp.cpp Basics/EXPONENTATION/matrix_exp.cpp Basics/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp ROUGH_FILES/main.cpp
-        Basics/Recursion/fib.cpp Basics/Recursion/array_sort.cpp
-        Basics/Recursion/first_index.cpp Basics/Recursion/last_index.cpp
-        Basics/Recursion/all_indices.cpp Basics/Recursion/find_char_arr_length.cpp
+        Basics/RECURSION/fib.cpp Basics/RECURSION/is_array_sorted.cpp
+        Basics/RECURSION/first_index.cpp Basics/RECURSION/last_index.cpp
+        Basics/RECURSION/all_indices.cpp Basics/RECURSION/find_char_arr_length.cpp
         Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
         Basics/Trees_CN/tree_node.h Basics/Trees_CN/tree_use.cpp Basics/Binary_Trees_CN/binary_tree_node.h
         Basics/Binary_Trees_CN/binary_tree_use.cpp
@@ -149,6 +149,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
         Basics/BINARY_SEARCH/smallest_factorial_no.cpp Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
         Basics/BINARY_SEARCH/find_nth_root.cpp Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
-        Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp)
+        Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
+        Basics/RECURSION/sort_array.cpp Basics/DP/TECH_DOSE/lcis.cpp)
 
 

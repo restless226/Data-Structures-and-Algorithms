@@ -293,6 +293,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lbs.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lcis.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/DP/TECH_DOSE/lis.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -521,6 +524,24 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/Djikstras.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/MST_Prim.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/MST_Prim2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/MST_kruskal.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS/graph2.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/GRAPHS_CN/Dijikstras.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -596,22 +617,25 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/MATRIX/matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/all_indices.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/all_indices.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/array_sort.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/fib.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/fib.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/find_char_arr_length.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/find_char_arr_length.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/first_index.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/first_index.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/is_array_sorted.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/last_index.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/last_index.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp">
@@ -762,24 +786,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/dequeue/dequeue.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/Djikstras.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/MST_Prim.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/MST_Prim2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/MST_kruskal.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/graph.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/graphs/graph2.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/queue/circular_queue.cpp">

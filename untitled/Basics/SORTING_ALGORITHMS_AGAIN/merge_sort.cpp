@@ -1,49 +1,48 @@
 //#include <iostream>
+//
 //using namespace std;
 //
 //
-//void merge(int a[], int l, int m, int r)
-//{
+//void merge(int a[], int l, int m, int r) {
 //    // Your code here
-//    int i=l;
-//    int j=m+1;
-//    int k=l;
+//    int i = l;
+//    int j = m + 1;
+//    int k = l;
 //
 //    // Auxiliary Array
-//    int B[r+1];
+//    int B[r + 1];
 //
-//    while (i<=m && j<=r){
-//        if(a[i]<a[j]){
-//            B[k++]=a[i++];
-//        }else{
-//            B[k++]=a[j++];
+//    while (i <= m && j <= r) {
+//        if (a[i] < a[j]) {
+//            B[k++] = a[i++];
+//        } else {
+//            B[k++] = a[j++];
 //        }
 //    }
 //
-//    while(i<=m){
-//        B[k++]=a[i++];
+//    while (i <= m) {
+//        B[k++] = a[i++];
 //    }
 //
-//    while(j<=r){
-//        B[k++]=a[j++];
+//    while (j <= r) {
+//        B[k++] = a[j++];
 //    }
 //
 //
 //    for (int x = l; x <= r; x++) {
-//        a[x]=B[x];
+//        a[x] = B[x];
 //    }
 //}
 //
 //
-//void mergeSort(int a[], int l, int r)
-//{
+//void mergeSort(int a[], int l, int r) {
 //    //code here
 //
 //    // Recursive Merge Sort
-//    if (l < r){
-//        int mid = l+(r-l)/2;
+//    if (l < r) {
+//        int mid = l + (r - l) / 2;
 //        mergeSort(a, l, mid);
-//        mergeSort(a, mid+1, r);
+//        mergeSort(a, mid + 1, r);
 //        merge(a, l, mid, r);
 //    }
 //
@@ -84,7 +83,7 @@
 //
 //    int a[size];
 //
-//    cout<<"ENTER ELEMENTS IN ARRAY:"<<endl;
+//    cout << "ENTER ELEMENTS IN ARRAY:" << endl;
 //    for (int j = 0; j < size; ++j) {
 //        cin >> a[j];
 //    }
@@ -95,7 +94,7 @@
 //
 //    cout << "PRINTING SORTED ARRAY:" << endl;
 //    for (int j = 0; j < size; ++j) {
-//        cout<<a[j]<<" ";
+//        cout << a[j] << " ";
 //    }
 //
 //    return 0;

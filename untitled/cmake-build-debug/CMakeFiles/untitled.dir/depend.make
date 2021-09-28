@@ -140,6 +140,8 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/las.cpp.obj: ../Basics/DP/TECH_DOSE/
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj: ../Basics/DP/TECH_DOSE/lbs.cpp
 
+CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj: ../Basics/DP/TECH_DOSE/lcis.cpp
+
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lis.cpp.obj: ../Basics/DP/TECH_DOSE/lis.cpp
 
 CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj: ../Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp
@@ -336,15 +338,17 @@ CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.obj: ../Basics/MATRIX/matrix.cp
 
 CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.obj: ../Basics/Recursion/all_indices.cpp
 
-CMakeFiles/untitled.dir/Basics/Recursion/array_sort.cpp.obj: ../Basics/Recursion/array_sort.cpp
-
 CMakeFiles/untitled.dir/Basics/Recursion/fib.cpp.obj: ../Basics/Recursion/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/find_char_arr_length.cpp.obj: ../Basics/Recursion/find_char_arr_length.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.obj: ../Basics/Recursion/first_index.cpp
 
+CMakeFiles/untitled.dir/Basics/Recursion/is_array_sorted.cpp.obj: ../Basics/RECURSION/is_array_sorted.cpp
+
 CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj: ../Basics/Recursion/last_index.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/sort_array.cpp.obj: ../Basics/RECURSION/sort_array.cpp
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 
