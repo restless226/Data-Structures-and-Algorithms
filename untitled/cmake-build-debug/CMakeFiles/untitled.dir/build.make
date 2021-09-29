@@ -3989,18 +3989,83 @@ CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\reverse_stack.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\reverse_stack.cpp.s
 
-CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammar.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammar.cpp
 
-CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.i
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammar.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammar.cpp.i
 
-CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.s
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammar.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammar.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj: ../Basics/RECURSION/power_set.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\power_set.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\power_set.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\power_set.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\power_set.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\power_set.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\power_set.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj: ../Basics/RECURSION/unique_subsets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\unique_subsets.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\unique_subsets.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\unique_subsets.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\unique_subsets.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\unique_subsets.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\unique_subsets.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj: ../Basics/RECURSION/permutation_with_spaces.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_spaces.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_spaces.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_spaces.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_spaces.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_spaces.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_spaces.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj: ../Basics/RECURSION/permutation_with_case_change.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_case_change.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_case_change.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_case_change.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_case_change.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\permutation_with_case_change.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\permutation_with_case_change.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj: ../Basics/RECURSION/letter_case_permutation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\letter_case_permutation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\letter_case_permutation.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\letter_case_permutation.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\letter_case_permutation.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\letter_case_permutation.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\letter_case_permutation.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -4305,7 +4370,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4611,12 +4681,17 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -348,15 +348,25 @@ CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.obj: ../Basics/Recursio
 
 CMakeFiles/untitled.dir/Basics/Recursion/is_array_sorted.cpp.obj: ../Basics/RECURSION/is_array_sorted.cpp
 
-CMakeFiles/untitled.dir/Basics/Recursion/kth_symbol_in_grammer.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammer.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/kth_symbol_in_grammar.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammar.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj: ../Basics/Recursion/last_index.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/letter_case_permutation.cpp.obj: ../Basics/RECURSION/letter_case_permutation.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/permutation_with_case_change.cpp.obj: ../Basics/RECURSION/permutation_with_case_change.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/permutation_with_spaces.cpp.obj: ../Basics/RECURSION/permutation_with_spaces.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/power_set.cpp.obj: ../Basics/RECURSION/power_set.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/reverse_stack.cpp.obj: ../Basics/RECURSION/reverse_stack.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/sort_array.cpp.obj: ../Basics/RECURSION/sort_array.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/sort_stack.cpp.obj: ../Basics/RECURSION/sort_stack.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/unique_subsets.cpp.obj: ../Basics/RECURSION/unique_subsets.cpp
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 

@@ -152,6 +152,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
         Basics/RECURSION/sort_array.cpp Basics/DP/TECH_DOSE/lcis.cpp Basics/RECURSION/sort_stack.cpp
         Basics/RECURSION/delete_middle_element_of_stack.cpp Basics/RECURSION/reverse_stack.cpp
-        Basics/RECURSION/kth_symbol_in_grammer.cpp)
+        Basics/RECURSION/kth_symbol_in_grammar.cpp Basics/RECURSION/power_set.cpp Basics/RECURSION/unique_subsets.cpp
+        Basics/RECURSION/permutation_with_spaces.cpp Basics/RECURSION/permutation_with_case_change.cpp
+        Basics/RECURSION/letter_case_permutation.cpp)
 
 

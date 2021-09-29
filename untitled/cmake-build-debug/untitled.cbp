@@ -635,10 +635,22 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/is_array_sorted.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/kth_symbol_in_grammer.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/kth_symbol_in_grammar.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/last_index.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/letter_case_permutation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/permutation_with_case_change.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/permutation_with_spaces.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/power_set.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/reverse_stack.cpp">
@@ -648,6 +660,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/unique_subsets.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp">

@@ -4975,32 +4975,32 @@ Basics/RECURSION/is_array_sorted.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/is_array_sorted.cpp.s
 .PHONY : Basics/RECURSION/is_array_sorted.cpp.s
 
-Basics/RECURSION/kth_symbol_in_grammer.obj: Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+Basics/RECURSION/kth_symbol_in_grammar.obj: Basics/RECURSION/kth_symbol_in_grammar.cpp.obj
 
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.obj
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.obj
 
 # target to build an object file
-Basics/RECURSION/kth_symbol_in_grammer.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+Basics/RECURSION/kth_symbol_in_grammar.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.obj
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.cpp.obj
 
-Basics/RECURSION/kth_symbol_in_grammer.i: Basics/RECURSION/kth_symbol_in_grammer.cpp.i
+Basics/RECURSION/kth_symbol_in_grammar.i: Basics/RECURSION/kth_symbol_in_grammar.cpp.i
 
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.i
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.i
 
 # target to preprocess a source file
-Basics/RECURSION/kth_symbol_in_grammer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.i
+Basics/RECURSION/kth_symbol_in_grammar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.i
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.cpp.i
 
-Basics/RECURSION/kth_symbol_in_grammer.s: Basics/RECURSION/kth_symbol_in_grammer.cpp.s
+Basics/RECURSION/kth_symbol_in_grammar.s: Basics/RECURSION/kth_symbol_in_grammar.cpp.s
 
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.s
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.s
 
 # target to generate assembly for a file
-Basics/RECURSION/kth_symbol_in_grammer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s
-.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.s
+Basics/RECURSION/kth_symbol_in_grammar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammar.cpp.s
+.PHONY : Basics/RECURSION/kth_symbol_in_grammar.cpp.s
 
 Basics/RECURSION/last_index.obj: Basics/RECURSION/last_index.cpp.obj
 
@@ -5028,6 +5028,114 @@ Basics/RECURSION/last_index.s: Basics/RECURSION/last_index.cpp.s
 Basics/RECURSION/last_index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/last_index.cpp.s
 .PHONY : Basics/RECURSION/last_index.cpp.s
+
+Basics/RECURSION/letter_case_permutation.obj: Basics/RECURSION/letter_case_permutation.cpp.obj
+
+.PHONY : Basics/RECURSION/letter_case_permutation.obj
+
+# target to build an object file
+Basics/RECURSION/letter_case_permutation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.obj
+.PHONY : Basics/RECURSION/letter_case_permutation.cpp.obj
+
+Basics/RECURSION/letter_case_permutation.i: Basics/RECURSION/letter_case_permutation.cpp.i
+
+.PHONY : Basics/RECURSION/letter_case_permutation.i
+
+# target to preprocess a source file
+Basics/RECURSION/letter_case_permutation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.i
+.PHONY : Basics/RECURSION/letter_case_permutation.cpp.i
+
+Basics/RECURSION/letter_case_permutation.s: Basics/RECURSION/letter_case_permutation.cpp.s
+
+.PHONY : Basics/RECURSION/letter_case_permutation.s
+
+# target to generate assembly for a file
+Basics/RECURSION/letter_case_permutation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/letter_case_permutation.cpp.s
+.PHONY : Basics/RECURSION/letter_case_permutation.cpp.s
+
+Basics/RECURSION/permutation_with_case_change.obj: Basics/RECURSION/permutation_with_case_change.cpp.obj
+
+.PHONY : Basics/RECURSION/permutation_with_case_change.obj
+
+# target to build an object file
+Basics/RECURSION/permutation_with_case_change.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.obj
+.PHONY : Basics/RECURSION/permutation_with_case_change.cpp.obj
+
+Basics/RECURSION/permutation_with_case_change.i: Basics/RECURSION/permutation_with_case_change.cpp.i
+
+.PHONY : Basics/RECURSION/permutation_with_case_change.i
+
+# target to preprocess a source file
+Basics/RECURSION/permutation_with_case_change.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.i
+.PHONY : Basics/RECURSION/permutation_with_case_change.cpp.i
+
+Basics/RECURSION/permutation_with_case_change.s: Basics/RECURSION/permutation_with_case_change.cpp.s
+
+.PHONY : Basics/RECURSION/permutation_with_case_change.s
+
+# target to generate assembly for a file
+Basics/RECURSION/permutation_with_case_change.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_case_change.cpp.s
+.PHONY : Basics/RECURSION/permutation_with_case_change.cpp.s
+
+Basics/RECURSION/permutation_with_spaces.obj: Basics/RECURSION/permutation_with_spaces.cpp.obj
+
+.PHONY : Basics/RECURSION/permutation_with_spaces.obj
+
+# target to build an object file
+Basics/RECURSION/permutation_with_spaces.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.obj
+.PHONY : Basics/RECURSION/permutation_with_spaces.cpp.obj
+
+Basics/RECURSION/permutation_with_spaces.i: Basics/RECURSION/permutation_with_spaces.cpp.i
+
+.PHONY : Basics/RECURSION/permutation_with_spaces.i
+
+# target to preprocess a source file
+Basics/RECURSION/permutation_with_spaces.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.i
+.PHONY : Basics/RECURSION/permutation_with_spaces.cpp.i
+
+Basics/RECURSION/permutation_with_spaces.s: Basics/RECURSION/permutation_with_spaces.cpp.s
+
+.PHONY : Basics/RECURSION/permutation_with_spaces.s
+
+# target to generate assembly for a file
+Basics/RECURSION/permutation_with_spaces.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/permutation_with_spaces.cpp.s
+.PHONY : Basics/RECURSION/permutation_with_spaces.cpp.s
+
+Basics/RECURSION/power_set.obj: Basics/RECURSION/power_set.cpp.obj
+
+.PHONY : Basics/RECURSION/power_set.obj
+
+# target to build an object file
+Basics/RECURSION/power_set.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.obj
+.PHONY : Basics/RECURSION/power_set.cpp.obj
+
+Basics/RECURSION/power_set.i: Basics/RECURSION/power_set.cpp.i
+
+.PHONY : Basics/RECURSION/power_set.i
+
+# target to preprocess a source file
+Basics/RECURSION/power_set.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.i
+.PHONY : Basics/RECURSION/power_set.cpp.i
+
+Basics/RECURSION/power_set.s: Basics/RECURSION/power_set.cpp.s
+
+.PHONY : Basics/RECURSION/power_set.s
+
+# target to generate assembly for a file
+Basics/RECURSION/power_set.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/power_set.cpp.s
+.PHONY : Basics/RECURSION/power_set.cpp.s
 
 Basics/RECURSION/reverse_stack.obj: Basics/RECURSION/reverse_stack.cpp.obj
 
@@ -5109,6 +5217,33 @@ Basics/RECURSION/sort_stack.s: Basics/RECURSION/sort_stack.cpp.s
 Basics/RECURSION/sort_stack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.s
 .PHONY : Basics/RECURSION/sort_stack.cpp.s
+
+Basics/RECURSION/unique_subsets.obj: Basics/RECURSION/unique_subsets.cpp.obj
+
+.PHONY : Basics/RECURSION/unique_subsets.obj
+
+# target to build an object file
+Basics/RECURSION/unique_subsets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.obj
+.PHONY : Basics/RECURSION/unique_subsets.cpp.obj
+
+Basics/RECURSION/unique_subsets.i: Basics/RECURSION/unique_subsets.cpp.i
+
+.PHONY : Basics/RECURSION/unique_subsets.i
+
+# target to preprocess a source file
+Basics/RECURSION/unique_subsets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.i
+.PHONY : Basics/RECURSION/unique_subsets.cpp.i
+
+Basics/RECURSION/unique_subsets.s: Basics/RECURSION/unique_subsets.cpp.s
+
+.PHONY : Basics/RECURSION/unique_subsets.s
+
+# target to generate assembly for a file
+Basics/RECURSION/unique_subsets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/unique_subsets.cpp.s
+.PHONY : Basics/RECURSION/unique_subsets.cpp.s
 
 Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 
@@ -8842,12 +8977,24 @@ help:
 	@echo ... Basics/RECURSION/is_array_sorted.obj
 	@echo ... Basics/RECURSION/is_array_sorted.i
 	@echo ... Basics/RECURSION/is_array_sorted.s
-	@echo ... Basics/RECURSION/kth_symbol_in_grammer.obj
-	@echo ... Basics/RECURSION/kth_symbol_in_grammer.i
-	@echo ... Basics/RECURSION/kth_symbol_in_grammer.s
+	@echo ... Basics/RECURSION/kth_symbol_in_grammar.obj
+	@echo ... Basics/RECURSION/kth_symbol_in_grammar.i
+	@echo ... Basics/RECURSION/kth_symbol_in_grammar.s
 	@echo ... Basics/RECURSION/last_index.obj
 	@echo ... Basics/RECURSION/last_index.i
 	@echo ... Basics/RECURSION/last_index.s
+	@echo ... Basics/RECURSION/letter_case_permutation.obj
+	@echo ... Basics/RECURSION/letter_case_permutation.i
+	@echo ... Basics/RECURSION/letter_case_permutation.s
+	@echo ... Basics/RECURSION/permutation_with_case_change.obj
+	@echo ... Basics/RECURSION/permutation_with_case_change.i
+	@echo ... Basics/RECURSION/permutation_with_case_change.s
+	@echo ... Basics/RECURSION/permutation_with_spaces.obj
+	@echo ... Basics/RECURSION/permutation_with_spaces.i
+	@echo ... Basics/RECURSION/permutation_with_spaces.s
+	@echo ... Basics/RECURSION/power_set.obj
+	@echo ... Basics/RECURSION/power_set.i
+	@echo ... Basics/RECURSION/power_set.s
 	@echo ... Basics/RECURSION/reverse_stack.obj
 	@echo ... Basics/RECURSION/reverse_stack.i
 	@echo ... Basics/RECURSION/reverse_stack.s
@@ -8857,6 +9004,9 @@ help:
 	@echo ... Basics/RECURSION/sort_stack.obj
 	@echo ... Basics/RECURSION/sort_stack.i
 	@echo ... Basics/RECURSION/sort_stack.s
+	@echo ... Basics/RECURSION/unique_subsets.obj
+	@echo ... Basics/RECURSION/unique_subsets.i
+	@echo ... Basics/RECURSION/unique_subsets.s
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s

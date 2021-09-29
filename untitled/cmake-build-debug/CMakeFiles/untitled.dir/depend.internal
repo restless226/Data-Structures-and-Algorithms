@@ -348,16 +348,26 @@ CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/first_index.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/is_array_sorted.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/is_array_sorted.cpp
-CMakeFiles/untitled.dir/Basics/Recursion/kth_symbol_in_grammer.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/kth_symbol_in_grammer.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/kth_symbol_in_grammar.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/kth_symbol_in_grammar.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/Recursion/last_index.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/letter_case_permutation.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/letter_case_permutation.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/permutation_with_case_change.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/permutation_with_case_change.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/permutation_with_spaces.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/permutation_with_spaces.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/power_set.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/power_set.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/reverse_stack.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/reverse_stack.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/sort_array.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_array.cpp
 CMakeFiles/untitled.dir/Basics/Recursion/sort_stack.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_stack.cpp
+CMakeFiles/untitled.dir/Basics/Recursion/unique_subsets.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/unique_subsets.cpp
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
