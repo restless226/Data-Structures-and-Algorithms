@@ -4840,6 +4840,33 @@ Basics/RECURSION/all_indices.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/all_indices.cpp.s
 .PHONY : Basics/RECURSION/all_indices.cpp.s
 
+Basics/RECURSION/delete_middle_element_of_stack.obj: Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
+
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.obj
+
+# target to build an object file
+Basics/RECURSION/delete_middle_element_of_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
+
+Basics/RECURSION/delete_middle_element_of_stack.i: Basics/RECURSION/delete_middle_element_of_stack.cpp.i
+
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.i
+
+# target to preprocess a source file
+Basics/RECURSION/delete_middle_element_of_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.i
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.cpp.i
+
+Basics/RECURSION/delete_middle_element_of_stack.s: Basics/RECURSION/delete_middle_element_of_stack.cpp.s
+
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.s
+
+# target to generate assembly for a file
+Basics/RECURSION/delete_middle_element_of_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.s
+.PHONY : Basics/RECURSION/delete_middle_element_of_stack.cpp.s
+
 Basics/RECURSION/fib.obj: Basics/RECURSION/fib.cpp.obj
 
 .PHONY : Basics/RECURSION/fib.obj
@@ -4948,6 +4975,33 @@ Basics/RECURSION/is_array_sorted.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/is_array_sorted.cpp.s
 .PHONY : Basics/RECURSION/is_array_sorted.cpp.s
 
+Basics/RECURSION/kth_symbol_in_grammer.obj: Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.obj
+
+# target to build an object file
+Basics/RECURSION/kth_symbol_in_grammer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
+
+Basics/RECURSION/kth_symbol_in_grammer.i: Basics/RECURSION/kth_symbol_in_grammer.cpp.i
+
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.i
+
+# target to preprocess a source file
+Basics/RECURSION/kth_symbol_in_grammer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.i
+
+Basics/RECURSION/kth_symbol_in_grammer.s: Basics/RECURSION/kth_symbol_in_grammer.cpp.s
+
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.s
+
+# target to generate assembly for a file
+Basics/RECURSION/kth_symbol_in_grammer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s
+.PHONY : Basics/RECURSION/kth_symbol_in_grammer.cpp.s
+
 Basics/RECURSION/last_index.obj: Basics/RECURSION/last_index.cpp.obj
 
 .PHONY : Basics/RECURSION/last_index.obj
@@ -4975,6 +5029,33 @@ Basics/RECURSION/last_index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/last_index.cpp.s
 .PHONY : Basics/RECURSION/last_index.cpp.s
 
+Basics/RECURSION/reverse_stack.obj: Basics/RECURSION/reverse_stack.cpp.obj
+
+.PHONY : Basics/RECURSION/reverse_stack.obj
+
+# target to build an object file
+Basics/RECURSION/reverse_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj
+.PHONY : Basics/RECURSION/reverse_stack.cpp.obj
+
+Basics/RECURSION/reverse_stack.i: Basics/RECURSION/reverse_stack.cpp.i
+
+.PHONY : Basics/RECURSION/reverse_stack.i
+
+# target to preprocess a source file
+Basics/RECURSION/reverse_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.i
+.PHONY : Basics/RECURSION/reverse_stack.cpp.i
+
+Basics/RECURSION/reverse_stack.s: Basics/RECURSION/reverse_stack.cpp.s
+
+.PHONY : Basics/RECURSION/reverse_stack.s
+
+# target to generate assembly for a file
+Basics/RECURSION/reverse_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.s
+.PHONY : Basics/RECURSION/reverse_stack.cpp.s
+
 Basics/RECURSION/sort_array.obj: Basics/RECURSION/sort_array.cpp.obj
 
 .PHONY : Basics/RECURSION/sort_array.obj
@@ -5001,6 +5082,33 @@ Basics/RECURSION/sort_array.s: Basics/RECURSION/sort_array.cpp.s
 Basics/RECURSION/sort_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.s
 .PHONY : Basics/RECURSION/sort_array.cpp.s
+
+Basics/RECURSION/sort_stack.obj: Basics/RECURSION/sort_stack.cpp.obj
+
+.PHONY : Basics/RECURSION/sort_stack.obj
+
+# target to build an object file
+Basics/RECURSION/sort_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj
+.PHONY : Basics/RECURSION/sort_stack.cpp.obj
+
+Basics/RECURSION/sort_stack.i: Basics/RECURSION/sort_stack.cpp.i
+
+.PHONY : Basics/RECURSION/sort_stack.i
+
+# target to preprocess a source file
+Basics/RECURSION/sort_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.i
+.PHONY : Basics/RECURSION/sort_stack.cpp.i
+
+Basics/RECURSION/sort_stack.s: Basics/RECURSION/sort_stack.cpp.s
+
+.PHONY : Basics/RECURSION/sort_stack.s
+
+# target to generate assembly for a file
+Basics/RECURSION/sort_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.s
+.PHONY : Basics/RECURSION/sort_stack.cpp.s
 
 Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj: Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj
 
@@ -8719,6 +8827,9 @@ help:
 	@echo ... Basics/RECURSION/all_indices.obj
 	@echo ... Basics/RECURSION/all_indices.i
 	@echo ... Basics/RECURSION/all_indices.s
+	@echo ... Basics/RECURSION/delete_middle_element_of_stack.obj
+	@echo ... Basics/RECURSION/delete_middle_element_of_stack.i
+	@echo ... Basics/RECURSION/delete_middle_element_of_stack.s
 	@echo ... Basics/RECURSION/fib.obj
 	@echo ... Basics/RECURSION/fib.i
 	@echo ... Basics/RECURSION/fib.s
@@ -8731,12 +8842,21 @@ help:
 	@echo ... Basics/RECURSION/is_array_sorted.obj
 	@echo ... Basics/RECURSION/is_array_sorted.i
 	@echo ... Basics/RECURSION/is_array_sorted.s
+	@echo ... Basics/RECURSION/kth_symbol_in_grammer.obj
+	@echo ... Basics/RECURSION/kth_symbol_in_grammer.i
+	@echo ... Basics/RECURSION/kth_symbol_in_grammer.s
 	@echo ... Basics/RECURSION/last_index.obj
 	@echo ... Basics/RECURSION/last_index.i
 	@echo ... Basics/RECURSION/last_index.s
+	@echo ... Basics/RECURSION/reverse_stack.obj
+	@echo ... Basics/RECURSION/reverse_stack.i
+	@echo ... Basics/RECURSION/reverse_stack.s
 	@echo ... Basics/RECURSION/sort_array.obj
 	@echo ... Basics/RECURSION/sort_array.i
 	@echo ... Basics/RECURSION/sort_array.s
+	@echo ... Basics/RECURSION/sort_stack.obj
+	@echo ... Basics/RECURSION/sort_stack.i
+	@echo ... Basics/RECURSION/sort_stack.s
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.obj
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.i
 	@echo ... Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.s

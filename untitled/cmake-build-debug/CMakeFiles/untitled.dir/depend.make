@@ -338,6 +338,8 @@ CMakeFiles/untitled.dir/Basics/MATRIX/matrix.cpp.obj: ../Basics/MATRIX/matrix.cp
 
 CMakeFiles/untitled.dir/Basics/Recursion/all_indices.cpp.obj: ../Basics/Recursion/all_indices.cpp
 
+CMakeFiles/untitled.dir/Basics/Recursion/delete_middle_element_of_stack.cpp.obj: ../Basics/RECURSION/delete_middle_element_of_stack.cpp
+
 CMakeFiles/untitled.dir/Basics/Recursion/fib.cpp.obj: ../Basics/Recursion/fib.cpp
 
 CMakeFiles/untitled.dir/Basics/Recursion/find_char_arr_length.cpp.obj: ../Basics/Recursion/find_char_arr_length.cpp
@@ -346,9 +348,15 @@ CMakeFiles/untitled.dir/Basics/Recursion/first_index.cpp.obj: ../Basics/Recursio
 
 CMakeFiles/untitled.dir/Basics/Recursion/is_array_sorted.cpp.obj: ../Basics/RECURSION/is_array_sorted.cpp
 
+CMakeFiles/untitled.dir/Basics/Recursion/kth_symbol_in_grammer.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammer.cpp
+
 CMakeFiles/untitled.dir/Basics/Recursion/last_index.cpp.obj: ../Basics/Recursion/last_index.cpp
 
+CMakeFiles/untitled.dir/Basics/Recursion/reverse_stack.cpp.obj: ../Basics/RECURSION/reverse_stack.cpp
+
 CMakeFiles/untitled.dir/Basics/Recursion/sort_array.cpp.obj: ../Basics/RECURSION/sort_array.cpp
+
+CMakeFiles/untitled.dir/Basics/Recursion/sort_stack.cpp.obj: ../Basics/RECURSION/sort_stack.cpp
 
 CMakeFiles/untitled.dir/Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
 

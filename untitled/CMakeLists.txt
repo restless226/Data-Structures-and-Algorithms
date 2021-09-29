@@ -150,6 +150,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         Basics/BINARY_SEARCH/smallest_factorial_no.cpp Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
         Basics/BINARY_SEARCH/find_nth_root.cpp Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
         Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
-        Basics/RECURSION/sort_array.cpp Basics/DP/TECH_DOSE/lcis.cpp)
+        Basics/RECURSION/sort_array.cpp Basics/DP/TECH_DOSE/lcis.cpp Basics/RECURSION/sort_stack.cpp
+        Basics/RECURSION/delete_middle_element_of_stack.cpp Basics/RECURSION/reverse_stack.cpp
+        Basics/RECURSION/kth_symbol_in_grammer.cpp)
 
 

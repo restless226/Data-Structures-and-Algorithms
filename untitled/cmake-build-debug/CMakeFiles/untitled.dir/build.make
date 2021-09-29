@@ -3950,6 +3950,58 @@ CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\DP\TECH_DOSE\lcis.cpp -o CMakeFiles\untitled.dir\Basics\DP\TECH_DOSE\lcis.cpp.s
 
+CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj: ../Basics/RECURSION/sort_stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\sort_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\sort_stack.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\sort_stack.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\sort_stack.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\sort_stack.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\sort_stack.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj: ../Basics/RECURSION/delete_middle_element_of_stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\delete_middle_element_of_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\delete_middle_element_of_stack.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\delete_middle_element_of_stack.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\delete_middle_element_of_stack.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\delete_middle_element_of_stack.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\delete_middle_element_of_stack.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj: ../Basics/RECURSION/reverse_stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\reverse_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\reverse_stack.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\reverse_stack.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\reverse_stack.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\reverse_stack.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\reverse_stack.cpp.s
+
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj: ../Basics/RECURSION/kth_symbol_in_grammer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp
+
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp > CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.i
+
+CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\Basics\RECURSION\kth_symbol_in_grammer.cpp -o CMakeFiles\untitled.dir\Basics\RECURSION\kth_symbol_in_grammer.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4249,7 +4301,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj" \
 "CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.obj" \
-"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj"
+"CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj" \
+"CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4552,11 +4608,15 @@ untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lbs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/sort_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/Basics/DP/TECH_DOSE/lcis.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/sort_stack.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/reverse_stack.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/Basics/RECURSION/kth_symbol_in_grammer.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

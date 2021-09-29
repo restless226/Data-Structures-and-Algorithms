@@ -620,6 +620,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/all_indices.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/delete_middle_element_of_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/fib.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -632,10 +635,19 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/is_array_sorted.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/kth_symbol_in_grammer.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/last_index.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/reverse_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/sort_stack.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp">
