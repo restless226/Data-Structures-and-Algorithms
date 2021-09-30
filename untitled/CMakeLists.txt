@@ -155,6 +155,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/RECURSION/kth_symbol_in_grammar.cpp DSA/RECURSION/power_set.cpp DSA/RECURSION/unique_subsets.cpp
         DSA/RECURSION/permutation_with_spaces.cpp DSA/RECURSION/permutation_with_case_change.cpp
         DSA/RECURSION/letter_case_permutation.cpp DSA/RECURSION/generate_all_balanced_paranthesis.cpp
-        DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp)
+        DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
+        DSA/RECURSION/josephus_problem.cpp DSA/RECURSION/string_permutations.cpp
+        DSA/RECURSION/pascal_triangle.cpp)
 
 

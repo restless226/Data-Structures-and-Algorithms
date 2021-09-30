@@ -10,8 +10,8 @@
 //using namespace std;
 //
 //void solve(string input, string output, vector<string> &ans) {
-//    if (input.size()==1) {
-//        ans.push_back(output+input);
+//    if (input.size() == 1) {
+//        ans.push_back(output + input);
 //        return;
 //    }
 //    string output1 = output;
@@ -36,7 +36,8 @@
 //        string output;
 //        vector<string> ans;
 //        solve(input, output, ans);
-//        reverse(ans.begin(),ans.end());
+//        sort(ans.begin(), ans.end());
+//        reverse(ans.begin(), ans.end());
 //        for (auto &itr : ans) {
 //            cout << "(" << itr << ")";
 //        }
@@ -47,11 +48,13 @@
 //
 ///*
 //INPUT:
-//2
+//3
 //ABC
 //AB
+//abc
 //
 //OUTPUT:
-//(A B C)(A BC)(AB C)(ABC)
-//(A B)(AB)
+//(ABC)(AB C)(A BC)(A B C)
+//(AB)(A B)
+//(abc)(ab c)(a bc)(a b c)
 //*/

@@ -5245,6 +5245,33 @@ DSA/RECURSION/is_array_sorted.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.s
 .PHONY : DSA/RECURSION/is_array_sorted.cpp.s
 
+DSA/RECURSION/josephus_problem.obj: DSA/RECURSION/josephus_problem.cpp.obj
+
+.PHONY : DSA/RECURSION/josephus_problem.obj
+
+# target to build an object file
+DSA/RECURSION/josephus_problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj
+.PHONY : DSA/RECURSION/josephus_problem.cpp.obj
+
+DSA/RECURSION/josephus_problem.i: DSA/RECURSION/josephus_problem.cpp.i
+
+.PHONY : DSA/RECURSION/josephus_problem.i
+
+# target to preprocess a source file
+DSA/RECURSION/josephus_problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.i
+.PHONY : DSA/RECURSION/josephus_problem.cpp.i
+
+DSA/RECURSION/josephus_problem.s: DSA/RECURSION/josephus_problem.cpp.s
+
+.PHONY : DSA/RECURSION/josephus_problem.s
+
+# target to generate assembly for a file
+DSA/RECURSION/josephus_problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.s
+.PHONY : DSA/RECURSION/josephus_problem.cpp.s
+
 DSA/RECURSION/kth_symbol_in_grammar.obj: DSA/RECURSION/kth_symbol_in_grammar.cpp.obj
 
 .PHONY : DSA/RECURSION/kth_symbol_in_grammar.obj
@@ -5325,6 +5352,33 @@ DSA/RECURSION/letter_case_permutation.s: DSA/RECURSION/letter_case_permutation.c
 DSA/RECURSION/letter_case_permutation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.s
 .PHONY : DSA/RECURSION/letter_case_permutation.cpp.s
+
+DSA/RECURSION/pascal_triangle.obj: DSA/RECURSION/pascal_triangle.cpp.obj
+
+.PHONY : DSA/RECURSION/pascal_triangle.obj
+
+# target to build an object file
+DSA/RECURSION/pascal_triangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj
+.PHONY : DSA/RECURSION/pascal_triangle.cpp.obj
+
+DSA/RECURSION/pascal_triangle.i: DSA/RECURSION/pascal_triangle.cpp.i
+
+.PHONY : DSA/RECURSION/pascal_triangle.i
+
+# target to preprocess a source file
+DSA/RECURSION/pascal_triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.i
+.PHONY : DSA/RECURSION/pascal_triangle.cpp.i
+
+DSA/RECURSION/pascal_triangle.s: DSA/RECURSION/pascal_triangle.cpp.s
+
+.PHONY : DSA/RECURSION/pascal_triangle.s
+
+# target to generate assembly for a file
+DSA/RECURSION/pascal_triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.s
+.PHONY : DSA/RECURSION/pascal_triangle.cpp.s
 
 DSA/RECURSION/permutation_with_case_change.obj: DSA/RECURSION/permutation_with_case_change.cpp.obj
 
@@ -5487,6 +5541,33 @@ DSA/RECURSION/sort_stack.s: DSA/RECURSION/sort_stack.cpp.s
 DSA/RECURSION/sort_stack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.s
 .PHONY : DSA/RECURSION/sort_stack.cpp.s
+
+DSA/RECURSION/string_permutations.obj: DSA/RECURSION/string_permutations.cpp.obj
+
+.PHONY : DSA/RECURSION/string_permutations.obj
+
+# target to build an object file
+DSA/RECURSION/string_permutations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj
+.PHONY : DSA/RECURSION/string_permutations.cpp.obj
+
+DSA/RECURSION/string_permutations.i: DSA/RECURSION/string_permutations.cpp.i
+
+.PHONY : DSA/RECURSION/string_permutations.i
+
+# target to preprocess a source file
+DSA/RECURSION/string_permutations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.i
+.PHONY : DSA/RECURSION/string_permutations.cpp.i
+
+DSA/RECURSION/string_permutations.s: DSA/RECURSION/string_permutations.cpp.s
+
+.PHONY : DSA/RECURSION/string_permutations.s
+
+# target to generate assembly for a file
+DSA/RECURSION/string_permutations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.s
+.PHONY : DSA/RECURSION/string_permutations.cpp.s
 
 DSA/RECURSION/unique_subsets.obj: DSA/RECURSION/unique_subsets.cpp.obj
 
@@ -9061,6 +9142,9 @@ help:
 	@echo ... DSA/RECURSION/is_array_sorted.obj
 	@echo ... DSA/RECURSION/is_array_sorted.i
 	@echo ... DSA/RECURSION/is_array_sorted.s
+	@echo ... DSA/RECURSION/josephus_problem.obj
+	@echo ... DSA/RECURSION/josephus_problem.i
+	@echo ... DSA/RECURSION/josephus_problem.s
 	@echo ... DSA/RECURSION/kth_symbol_in_grammar.obj
 	@echo ... DSA/RECURSION/kth_symbol_in_grammar.i
 	@echo ... DSA/RECURSION/kth_symbol_in_grammar.s
@@ -9070,6 +9154,9 @@ help:
 	@echo ... DSA/RECURSION/letter_case_permutation.obj
 	@echo ... DSA/RECURSION/letter_case_permutation.i
 	@echo ... DSA/RECURSION/letter_case_permutation.s
+	@echo ... DSA/RECURSION/pascal_triangle.obj
+	@echo ... DSA/RECURSION/pascal_triangle.i
+	@echo ... DSA/RECURSION/pascal_triangle.s
 	@echo ... DSA/RECURSION/permutation_with_case_change.obj
 	@echo ... DSA/RECURSION/permutation_with_case_change.i
 	@echo ... DSA/RECURSION/permutation_with_case_change.s
@@ -9088,6 +9175,9 @@ help:
 	@echo ... DSA/RECURSION/sort_stack.obj
 	@echo ... DSA/RECURSION/sort_stack.i
 	@echo ... DSA/RECURSION/sort_stack.s
+	@echo ... DSA/RECURSION/string_permutations.obj
+	@echo ... DSA/RECURSION/string_permutations.i
+	@echo ... DSA/RECURSION/string_permutations.s
 	@echo ... DSA/RECURSION/unique_subsets.obj
 	@echo ... DSA/RECURSION/unique_subsets.i
 	@echo ... DSA/RECURSION/unique_subsets.s
