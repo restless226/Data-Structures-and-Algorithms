@@ -6,52 +6,52 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(untitled algorithmic_toolbox/test.cpp
         calculator/calculator_II.cpp DSA_ASSIGNMENTS/arrays_practice/array_sorting.cpp DSA_ASSIGNMENTS/arrays_practice/array1.cpp
         DSA_ASSIGNMENTS/arrays_practice/arrays3.cpp DSA_ASSIGNMENTS/arrays_practice/array4.cpp DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp
-        DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp Basics/MATRIX/matrix.cpp
+        DSA_ASSIGNMENTS/arrays_practice/array3_1.cpp DSA_ASSIGNMENTS/arrays_practice/array4_1.cpp DSA/MATRIX/matrix.cpp
         DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp
         DSA_ASSIGNMENTS/assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp DSA_ASSIGNMENTS/arrays_practice/ass1.cpp
         DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp
         algorithmic_toolbox DM/linear_searrch.cpp
         DM/occurances.cpp DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
-        DM/DM_lists.cpp Basics/STL/vectors_tut.cpp Basics/Templates/templates.cpp
-        stack_assignment stack_assignment/linkedlistwithstack.h Basics/algorithms/SORTING/selectionSort.cpp
-        Basics/algorithms/SORTING/BubbleSort.cpp Basics/algorithms/SORTING/InsertionSort.cpp
-        Basics/algorithms/SORTING/MergeSort.cpp Basics/algorithms/SORTING/QuickSort.cpp
-        queue_again/queue_final.h queue_again/queue_impl.cpp queue_again/queue_main.cpp Basics/LinkedList/Single_LL/List.h
-        Basics/LinkedList/Single_LL/List_impl.cpp Basics/LinkedList/Single_LL/list_main.cpp stack_2/stack_again.cpp
-        Basics/LinkedList/Single_LL/LinkedList_again/LL._again.cpp Basics/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp
-        Basics/HackerRank/display_LL.cpp
-        Basics/HackerRank/insert_at_tail.cpp Basics/HackerRank/insert_at_head.cpp
-        Basics/HackerRank/insert_at_middle.cpp Basics/HackerRank/delete_a_node.cpp
-        Basics/HackerRank/get_node_value.cpp Basics/HackerRank/reverse_LL.cpp
-        Basics/GFG/LL/count_nodes.cpp Basics/GFG/LL/delete_without_head_pointer.cpp
-        Basics/GFG/LL/occurance_in_LL.cpp Basics/LinkedList/Double_LL/double_LL.cpp
-        Basics/GFG/LL/LL_length_even_or_odd.cpp Basics/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
-        Basics/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp Basics/GFG/LL/Identical_LL.cpp
-        Basics/GFG/LL/delete_alternate_nodes.cpp Basics/GFG/LL/Add_1_to_LL.cpp Basics/LinkedList/Circular_LL/Circular_LL.cpp
-        Basics/GFG/LL/decimal_eq_of_binary_LL.cpp Basics/GFG/LL/subtraction_in_LL.cpp Basics/queue/queue_code.cpp
-        Basics/queue/circular_queue.cpp Basics/GFG/Queue/queue_using_array.cpp Basics/GFG/LL/find_middle_of_LL.cpp
-        Basics/GFG/LL/insert_in_middle.cpp Basics/GFG/LL/node_at_given_index.cpp Basics/GFG/Queue/queue_push_and_pop.cpp
-        Basics/GFG/Queue/STL_queue.cpp Basics/GFG/Queue/queue_reversal.cpp Basics/GFG/Arrays/fighting_darkness.cpp
-        Basics/GFG/Arrays/check_array_equality.cpp Basics/GFG/Arrays/rotate_array.cpp
-        Basics/GFG/Queue/queue_using_LL.cpp Basics/GFG/LL/sum_of_last_n_nodes.cpp
-        Basics/GFG/LL/LL_insertion.cpp Basics/Stack/stack_code.cpp Basics/queue/queue_using_LL.cpp
-        Basics/GFG/Queue/queue_using_two_stacks.cpp Basics/GFG/LL/Stack.cpp
-        Basics/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp Basics/GFG/LL/compare_two_LL.cpp
-        Basics/GFG/LL/sort_LL.cpp Basics/Stack/stack_using_LL.cpp Basics/Stack/Expression_conversions/infix_to_postfix.cpp
-        Basics/Stack/Expression_conversions/infix_to_prefix.cpp Basics/Stack/Expression_conversions/postfix_to_infix.cpp Basics/Stack/Expression_conversions/prefix_to_infix.cpp
-        DSA_mock_test.cpp ROUGH_FILES/rough2.cpp DSAL_mock/header.h DSAL_mock/impl.cpp DSAL_mock/main.cpp
-        Basics/GFG/Stack/stack_designer.cpp Basics/GFG/Stack/stack_using_array.cpp
-        Basics/GFG/Stack/pairwise_consecutive_elements.cpp Basics/GFG/Stack/immediate_smaller_element.cpp
-        Basics/GFG/Stack/remove_repeated_digits.cpp Basics/GFG/Stack/delete_middle_element_of_stack.cpp
-        Basics/GFG/Stack/stack_using_LL.cpp Basics/GFG/Stack/valid_substring.cpp
-        Basics/GFG/Stack/special_stack.cpp Basics/GFG/Stack/print_bracket_no.cpp
-        Basics/GFG/Stack/sorting_stack.cpp Basics/GFG/Stack/get_min_at_pop.cpp
-        Basics/GFG/Stack/impl_two_stacks_in_array.cpp Basics/GFG/Queue/generate_binary_no.cpp
-        Basics/GFG/Stack/reverse_a_string.cpp Basics/GFG/Stack/stack_using_two_queues.cpp
-        Basics/BST/BST_impl.cpp Basics/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
-        Basics/Templates/templates2.cpp Basics/Templates/function_templates.cpp
-        Basics/Templates/overloading_templates.cpp Basics/STL/Lists.cpp Basics/STL/maps.cpp
-        Basics/STL/function_objects.cpp
+        DM/DM_lists.cpp DSA/STL/vectors_tut.cpp DSA/Templates/templates.cpp
+        stack_assignment stack_assignment/linkedlistwithstack.h DSA/algorithms/SORTING/selectionSort.cpp
+        DSA/algorithms/SORTING/BubbleSort.cpp DSA/algorithms/SORTING/InsertionSort.cpp
+        DSA/algorithms/SORTING/MergeSort.cpp DSA/algorithms/SORTING/QuickSort.cpp
+        queue_again/queue_final.h queue_again/queue_impl.cpp queue_again/queue_main.cpp DSA/LinkedList/Single_LL/List.h
+        DSA/LinkedList/Single_LL/List_impl.cpp DSA/LinkedList/Single_LL/list_main.cpp stack_2/stack_again.cpp
+        DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp
+        DSA/HackerRank/display_LL.cpp
+        DSA/HackerRank/insert_at_tail.cpp DSA/HackerRank/insert_at_head.cpp
+        DSA/HackerRank/insert_at_middle.cpp DSA/HackerRank/delete_a_node.cpp
+        DSA/HackerRank/get_node_value.cpp DSA/HackerRank/reverse_LL.cpp
+        DSA/GFG/LL/count_nodes.cpp DSA/GFG/LL/delete_without_head_pointer.cpp
+        DSA/GFG/LL/occurance_in_LL.cpp DSA/LinkedList/Double_LL/double_LL.cpp
+        DSA/GFG/LL/LL_length_even_or_odd.cpp DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
+        DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp DSA/GFG/LL/Identical_LL.cpp
+        DSA/GFG/LL/delete_alternate_nodes.cpp DSA/GFG/LL/Add_1_to_LL.cpp DSA/LinkedList/Circular_LL/Circular_LL.cpp
+        DSA/GFG/LL/decimal_eq_of_binary_LL.cpp DSA/GFG/LL/subtraction_in_LL.cpp DSA/queue/queue_code.cpp
+        DSA/queue/circular_queue.cpp DSA/GFG/Queue/queue_using_array.cpp DSA/GFG/LL/find_middle_of_LL.cpp
+        DSA/GFG/LL/insert_in_middle.cpp DSA/GFG/LL/node_at_given_index.cpp DSA/GFG/Queue/queue_push_and_pop.cpp
+        DSA/GFG/Queue/STL_queue.cpp DSA/GFG/Queue/queue_reversal.cpp DSA/GFG/Arrays/fighting_darkness.cpp
+        DSA/GFG/Arrays/check_array_equality.cpp DSA/GFG/Arrays/rotate_array.cpp
+        DSA/GFG/Queue/queue_using_LL.cpp DSA/GFG/LL/sum_of_last_n_nodes.cpp
+        DSA/GFG/LL/LL_insertion.cpp DSA/Stack/stack_code.cpp DSA/queue/queue_using_LL.cpp
+        DSA/GFG/Queue/queue_using_two_stacks.cpp DSA/GFG/LL/Stack.cpp
+        DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp DSA/GFG/LL/compare_two_LL.cpp
+        DSA/GFG/LL/sort_LL.cpp DSA/Stack/stack_using_LL.cpp DSA/Stack/Expression_conversions/infix_to_postfix.cpp
+        DSA/Stack/Expression_conversions/infix_to_prefix.cpp DSA/Stack/Expression_conversions/postfix_to_infix.cpp DSA/Stack/Expression_conversions/prefix_to_infix.cpp
+        DSAL_mock/DSA_mock_test.cpp ROUGH_FILES/rough2.cpp DSAL_mock/header.h DSAL_mock/impl.cpp DSAL_mock/main.cpp
+        DSA/GFG/Stack/stack_designer.cpp DSA/GFG/Stack/stack_using_array.cpp
+        DSA/GFG/Stack/pairwise_consecutive_elements.cpp DSA/GFG/Stack/immediate_smaller_element.cpp
+        DSA/GFG/Stack/remove_repeated_digits.cpp DSA/GFG/Stack/delete_middle_element_of_stack.cpp
+        DSA/GFG/Stack/stack_using_LL.cpp DSA/GFG/Stack/valid_substring.cpp
+        DSA/GFG/Stack/special_stack.cpp DSA/GFG/Stack/print_bracket_no.cpp
+        DSA/GFG/Stack/sorting_stack.cpp DSA/GFG/Stack/get_min_at_pop.cpp
+        DSA/GFG/Stack/impl_two_stacks_in_array.cpp DSA/GFG/Queue/generate_binary_no.cpp
+        DSA/GFG/Stack/reverse_a_string.cpp DSA/GFG/Stack/stack_using_two_queues.cpp
+        DSA/BST/BST_impl.cpp DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
+        DSA/Templates/templates2.cpp DSA/Templates/function_templates.cpp
+        DSA/Templates/overloading_templates.cpp DSA/STL/Lists.cpp DSA/STL/maps.cpp
+        DSA/STL/function_objects.cpp
         DSA_ASSIGNMENTS/assignment_3_queue/queue.h DSA_ASSIGNMENTS/assignment_3_queue/main.cpp DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp
         DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp DSA_ASSIGNMENTS/assignment_1/main_interface.cpp
         DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp
@@ -69,92 +69,92 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-        ROUGH_FILES/rough3.cpp Basics/GRAPHS/MST_kruskal.cpp Basics/GRAPHS/MST_Prim.cpp
+        ROUGH_FILES/rough3.cpp DSA/GRAPHS/MST_kruskal.cpp DSA/GRAPHS/MST_Prim.cpp
         DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
         DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
         DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
         DSA_ASSIGNMENTS/assignment_10/header.h DSA_ASSIGNMENTS/assignment_10/impl.cpp DSA_ASSIGNMENTS/assignment_10/main.cpp
-        Basics/STL/hashing.cpp Basics/STL/sets.cpp
+        DSA/STL/hashing.cpp DSA/STL/sets.cpp
         DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp ROUGH_FILES/rough4.cpp ROUGH_FILES/rough5.cpp
         algorithmic_toolbox/week3/money_change.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
-        Basics/Templates/unordered_maps.cpp
-        Basics/GRAPHS/graph.cpp Basics/GRAPHS/graph2.cpp Basics/GRAPHS/MST_Prim2.cpp
-        Basics/GRAPHS/Djikstras.cpp Basics/dequeue/dequeue.cpp Basics/dequeue/deque2.cpp
-        Basics/dequeue/deque3.cpp Basics/EXPONENTATION/mod_exp.cpp Basics/EXPONENTATION/matrix_exp.cpp Basics/STL/priority_queue.cpp
+        DSA/Templates/unordered_maps.cpp
+        DSA/GRAPHS/graph.cpp DSA/GRAPHS/graph2.cpp DSA/GRAPHS/MST_Prim2.cpp
+        DSA/GRAPHS/Djikstras.cpp DSA/dequeue/dequeue.cpp DSA/dequeue/deque2.cpp
+        DSA/dequeue/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp ROUGH_FILES/main.cpp
-        Basics/RECURSION/fib.cpp Basics/RECURSION/is_array_sorted.cpp
-        Basics/RECURSION/first_index.cpp Basics/RECURSION/last_index.cpp
-        Basics/RECURSION/all_indices.cpp Basics/RECURSION/find_char_arr_length.cpp
-        Basics/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
-        Basics/Trees_CN/tree_node.h Basics/Trees_CN/tree_use.cpp Basics/Binary_Trees_CN/binary_tree_node.h
-        Basics/Binary_Trees_CN/binary_tree_use.cpp
-        Basics/Binary_Trees_CN/binary_tree_main.cpp Basics/BST_CN/BST.h
-        Basics/BST_CN/BST_use.cpp Basics/LinkedList_CN/LL_node.cpp Basics/LinkedList_CN/LL_node.h
-        Basics/LinkedList_CN/LL_main.cpp Basics/TBT/TBT.h Basics/HEAP/heap.h
-        Basics/HEAP/heap_use.cpp Basics/HEAP/heap_main.cpp
-        Basics/GRAPHS_CN/grpahs_use.cpp Basics/GRAPHS_CN/kruskal.cpp Basics/GRAPHS_CN/Prim.cpp
-        Basics/GRAPHS_CN/Dijikstras.cpp Basics/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
-        Basics/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp Basics/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
-        Basics/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp Basics/EXP_TREE/exp_tree_impl.cpp Basics/EXP_TREE/exp_tree.h
-        Basics/EXP_TREE/exp_tree.h Basics/FILE_HANDLING/file_handling.cpp
-        Basics/FILE_HANDLING/file_handling_2.cpp Basics/FILE_HANDLING/file_handling_FINAL.cpp
-        Basics/DP/DP_CN/fib.cpp Basics/DP/DP_CN/min_steps.cpp Basics/DP/DP_CN/min_count.cpp
+        DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
+        DSA/RECURSION/first_index.cpp DSA/RECURSION/last_index.cpp
+        DSA/RECURSION/all_indices.cpp DSA/RECURSION/find_char_arr_length.cpp
+        DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
+        DSA/Trees_CN/tree_node.h DSA/Trees_CN/tree_use.cpp DSA/Binary_Trees_CN/binary_tree_node.h
+        DSA/Binary_Trees_CN/binary_tree_use.cpp
+        DSA/Binary_Trees_CN/binary_tree_main.cpp DSA/BST_CN/BST.h
+        DSA/BST_CN/BST_use.cpp DSA/LinkedList_CN/LL_node.cpp DSA/LinkedList_CN/LL_node.h
+        DSA/LinkedList_CN/LL_main.cpp DSA/TBT/TBT.h DSA/HEAP/heap.h
+        DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
+        DSA/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS_CN/kruskal.cpp DSA/GRAPHS_CN/Prim.cpp
+        DSA/GRAPHS_CN/Dijikstras.cpp DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
+        DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
+        DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp DSA/EXP_TREE/exp_tree_impl.cpp DSA/EXP_TREE/exp_tree.h
+        DSA/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
+        DSA/FILE_HANDLING/file_handling_2.cpp DSA/FILE_HANDLING/file_handling_FINAL.cpp
+        DSA/DP/DP_CN/fib.cpp DSA/DP/DP_CN/min_steps.cpp DSA/DP/DP_CN/min_count.cpp
         DAA/file_handling.cpp DAA/merge_sort.cpp DAA/n_queens.cpp DAA/fractional_knapsack_using_greedy.cpp
-        Basics/BACKTRACKING/n_queens.cpp Basics/BACKTRACKING/rat_in_a_maze.cpp
-        Basics/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01.cpp
-        Basics/DP/knapsack_01_variations/knapsack_01.cpp Basics/DP/knapsack_01_variations/subset_sum.cpp Basics/DP/knapsack_01_variations/equal_sum_partition.cpp
-        Basics/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp Basics/DP/knapsack_01_variations/min_sum_partition.cpp
-        Basics/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp Basics/DP/knapsack_01_variations/target_sum.cpp
-        Basics/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp Basics/DP/unbounded_knapsack/rod_cutting.cpp
-        Basics/DP/unbounded_knapsack/coin_change_one.cpp Basics/DP/unbounded_knapsack/coin_change_two.cpp
-        Basics/DP/DP_LCS/lcs.cpp Basics/DP/DP_LCS/longest_common_substring.cpp
-        Basics/DP/DP_LCS/scs.cpp Basics/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
-        Basics/DP/DP_LPS/lps.cpp Basics/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
-        Basics/DP/DP_LCS/lrs.cpp Basics/DP/DP_LCS/sequence_pattern_matching.cpp
-        Basics/DP/DP_LPS/min_insertions_to_form_palindrome.cpp Basics/DP/DP_MCM/mcm.cpp
-        Basics/DP/DP_LCS/edit_distance.cpp Basics/DP/DP_MCM/palindromic_partitioning.cpp
-        Basics/DP/DP_MCM/boolean_parenthesization.cpp Basics/DP/DP_MCM/egg_dropping.cpp
-        Basics/DP/DP_MCM/scrambled_string.cpp Basics/DP/DP_CN/get_min_squares.cpp Basics/DP/DP_CN/min_cost_path.cpp
-        Basics/DP/DP_CN/max_cost_path.cpp Basics/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
-        Basics/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp Basics/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
-        Basics/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp Basics/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
-        Basics/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
-        Basics/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
-        Basics/SLIDING_WINDOW/VSSW/pick_toys.cpp Basics/SLIDING_WINDOW/VSSW/min_window_substring.cpp
-        Basics/DP/TECH_DOSE/lis.cpp Basics/DP/DP_CN/loot_houses.cpp Basics/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
-        Basics/DP/DP_CN/sus.cpp Basics/DP/DP_CN/lus.cpp Basics/STACK_PROBLEMS/ngr.cpp
-        Basics/STACK_PROBLEMS/ngl.cpp Basics/STACK_PROBLEMS/nsl.cpp
-        Basics/STACK_PROBLEMS/nsr.cpp Basics/STACK_PROBLEMS/stock_span.cpp
-        Basics/STACK_PROBLEMS/mah.cpp Basics/STACK_PROBLEMS/mar.cpp Basics/STACK_PROBLEMS/rwt.cpp
-        Basics/STACK_PROBLEMS/celebrity.cpp Basics/DP/DP_LCS/lcs_of_3_strings.cpp
-        Basics/DP/DP_CN/print_all_ss_of_a_string.cpp Basics/DP/DP_CN/string_ss.cpp Basics/DP/DP_CN/count_all_possible_paths.cpp
-        Basics/DP/DP_CN/gold_mine.cpp Basics/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
-        Basics/DP/DP_CN/min_steps_to_dest.cpp Basics/DP/DP_CN/distinct_occurrences.cpp
-        Basics/DP/DP_CN/min_no_of_jumps.cpp Basics/DP/DP_CN/count_no_of_substrings.cpp
-        Basics/DP/TECH_DOSE/interleaved_strings.cpp Basics/DP/TECH_DOSE/msis.cpp
-        Basics/DP/TECH_DOSE/box_stacking.cpp Basics/DP/TECH_DOSE/las.cpp Basics/DP/TECH_DOSE/max_chain_length.cpp
-        Basics/DP/DP_LPS/longest_palindrome_in_a_string.cpp Basics/DP/TECH_DOSE/bell_numbers.cpp
-        Basics/DP/TECH_DOSE/friends_pairing.cpp Basics/DP/TECH_DOSE/no_of_distinct_ss.cpp
-        Basics/DP/TECH_DOSE/wildcard_pattern_matching.cpp Basics/DP/TECH_DOSE/word_break.cpp
-        Basics/DP/TECH_DOSE/max_product_subarray.cpp Basics/DP/TECH_DOSE/longest_subsequence_-1.cpp
-        Basics/BINARY_SEARCH/bs.cpp Basics/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
-        Basics/BINARY_SEARCH/first_and_last_occurrence.cpp Basics/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
-        Basics/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp Basics/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
-        Basics/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp Basics/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
-        Basics/BINARY_SEARCH/floor_in_a_sorted_array.cpp Basics/BINARY_SEARCH/cell_in_a_sorted_array.cpp
-        Basics/BINARY_SEARCH/next_alphabetical_element.cpp Basics/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
-        Basics/BINARY_SEARCH/peak_element.cpp Basics/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
-        Basics/BINARY_SEARCH/search_in_sorted_matrix.cpp Basics/BINARY_SEARCH/allocate_min_no_of_pages.cpp
-        Basics/BINARY_SEARCH/smallest_factorial_no.cpp Basics/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
-        Basics/BINARY_SEARCH/find_nth_root.cpp Basics/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp Basics/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
-        Basics/DP/TECH_DOSE/lbs.cpp Basics/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
-        Basics/RECURSION/sort_array.cpp Basics/DP/TECH_DOSE/lcis.cpp Basics/RECURSION/sort_stack.cpp
-        Basics/RECURSION/delete_middle_element_of_stack.cpp Basics/RECURSION/reverse_stack.cpp
-        Basics/RECURSION/kth_symbol_in_grammar.cpp Basics/RECURSION/power_set.cpp Basics/RECURSION/unique_subsets.cpp
-        Basics/RECURSION/permutation_with_spaces.cpp Basics/RECURSION/permutation_with_case_change.cpp
-        Basics/RECURSION/letter_case_permutation.cpp Basics/RECURSION/generate_all_balanced_paranthesis.cpp
-        Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp)
+        DSA/BACKTRACKING/n_queens.cpp DSA/BACKTRACKING/rat_in_a_maze.cpp
+        DSA/BINARY_SEARCH/aggressive_cows.cpp DAA/knapsack_01.cpp
+        DSA/DP/knapsack_01_variations/knapsack_01.cpp DSA/DP/knapsack_01_variations/subset_sum.cpp DSA/DP/knapsack_01_variations/equal_sum_partition.cpp
+        DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp DSA/DP/knapsack_01_variations/min_sum_partition.cpp
+        DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp DSA/DP/knapsack_01_variations/target_sum.cpp
+        DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp DSA/DP/unbounded_knapsack/rod_cutting.cpp
+        DSA/DP/unbounded_knapsack/coin_change_one.cpp DSA/DP/unbounded_knapsack/coin_change_two.cpp
+        DSA/DP/DP_LCS/lcs.cpp DSA/DP/DP_LCS/longest_common_substring.cpp
+        DSA/DP/DP_LCS/scs.cpp DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
+        DSA/DP/DP_LPS/lps.cpp DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
+        DSA/DP/DP_LCS/lrs.cpp DSA/DP/DP_LCS/sequence_pattern_matching.cpp
+        DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp DSA/DP/DP_MCM/mcm.cpp
+        DSA/DP/DP_LCS/edit_distance.cpp DSA/DP/DP_MCM/palindromic_partitioning.cpp
+        DSA/DP/DP_MCM/boolean_parenthesization.cpp DSA/DP/DP_MCM/egg_dropping.cpp
+        DSA/DP/DP_MCM/scrambled_string.cpp DSA/DP/DP_CN/get_min_squares.cpp DSA/DP/DP_CN/min_cost_path.cpp
+        DSA/DP/DP_CN/max_cost_path.cpp DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
+        DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
+        DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
+        DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
+        DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
+        DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp
+        DSA/DP/TECH_DOSE/lis.cpp DSA/DP/DP_CN/loot_houses.cpp DSA/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
+        DSA/DP/DP_CN/sus.cpp DSA/DP/DP_CN/lus.cpp DSA/STACK_PROBLEMS/ngr.cpp
+        DSA/STACK_PROBLEMS/ngl.cpp DSA/STACK_PROBLEMS/nsl.cpp
+        DSA/STACK_PROBLEMS/nsr.cpp DSA/STACK_PROBLEMS/stock_span.cpp
+        DSA/STACK_PROBLEMS/mah.cpp DSA/STACK_PROBLEMS/mar.cpp DSA/STACK_PROBLEMS/rwt.cpp
+        DSA/STACK_PROBLEMS/celebrity.cpp DSA/DP/DP_LCS/lcs_of_3_strings.cpp
+        DSA/DP/DP_CN/print_all_ss_of_a_string.cpp DSA/DP/DP_CN/string_ss.cpp DSA/DP/DP_CN/count_all_possible_paths.cpp
+        DSA/DP/DP_CN/gold_mine.cpp DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
+        DSA/DP/DP_CN/min_steps_to_dest.cpp DSA/DP/DP_CN/distinct_occurrences.cpp
+        DSA/DP/DP_CN/min_no_of_jumps.cpp DSA/DP/DP_CN/count_no_of_substrings.cpp
+        DSA/DP/TECH_DOSE/interleaved_strings.cpp DSA/DP/TECH_DOSE/msis.cpp
+        DSA/DP/TECH_DOSE/box_stacking.cpp DSA/DP/TECH_DOSE/las.cpp DSA/DP/TECH_DOSE/max_chain_length.cpp
+        DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp DSA/DP/TECH_DOSE/bell_numbers.cpp
+        DSA/DP/TECH_DOSE/friends_pairing.cpp DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
+        DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp DSA/DP/TECH_DOSE/word_break.cpp
+        DSA/DP/TECH_DOSE/max_product_subarray.cpp DSA/DP/TECH_DOSE/longest_subsequence_-1.cpp
+        DSA/BINARY_SEARCH/bs.cpp DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
+        DSA/BINARY_SEARCH/first_and_last_occurrence.cpp DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
+        DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
+        DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
+        DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp
+        DSA/BINARY_SEARCH/next_alphabetical_element.cpp DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
+        DSA/BINARY_SEARCH/peak_element.cpp DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
+        DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp
+        DSA/BINARY_SEARCH/smallest_factorial_no.cpp DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
+        DSA/BINARY_SEARCH/find_nth_root.cpp DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp DSA/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
+        DSA/DP/TECH_DOSE/lbs.cpp DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
+        DSA/RECURSION/sort_array.cpp DSA/DP/TECH_DOSE/lcis.cpp DSA/RECURSION/sort_stack.cpp
+        DSA/RECURSION/delete_middle_element_of_stack.cpp DSA/RECURSION/reverse_stack.cpp
+        DSA/RECURSION/kth_symbol_in_grammar.cpp DSA/RECURSION/power_set.cpp DSA/RECURSION/unique_subsets.cpp
+        DSA/RECURSION/permutation_with_spaces.cpp DSA/RECURSION/permutation_with_case_change.cpp
+        DSA/RECURSION/letter_case_permutation.cpp DSA/RECURSION/generate_all_balanced_paranthesis.cpp
+        DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp)
 
 
