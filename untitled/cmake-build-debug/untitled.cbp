@@ -620,6 +620,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/all_indices.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/delete_middle_element_of_stack.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -630,6 +633,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/first_index.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/generate_all_balanced_paranthesis.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/Basics/RECURSION/is_array_sorted.cpp">

@@ -4840,6 +4840,33 @@ Basics/RECURSION/all_indices.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/all_indices.cpp.s
 .PHONY : Basics/RECURSION/all_indices.cpp.s
 
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj: Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj
+
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj
+
+# target to build an object file
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj
+
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.i: Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.i
+
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.i
+
+# target to preprocess a source file
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.i
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.i
+
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s: Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s
+
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s
+
+# target to generate assembly for a file
+Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s
+.PHONY : Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s
+
 Basics/RECURSION/delete_middle_element_of_stack.obj: Basics/RECURSION/delete_middle_element_of_stack.cpp.obj
 
 .PHONY : Basics/RECURSION/delete_middle_element_of_stack.obj
@@ -4947,6 +4974,33 @@ Basics/RECURSION/first_index.s: Basics/RECURSION/first_index.cpp.s
 Basics/RECURSION/first_index.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/first_index.cpp.s
 .PHONY : Basics/RECURSION/first_index.cpp.s
+
+Basics/RECURSION/generate_all_balanced_paranthesis.obj: Basics/RECURSION/generate_all_balanced_paranthesis.cpp.obj
+
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.obj
+
+# target to build an object file
+Basics/RECURSION/generate_all_balanced_paranthesis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/generate_all_balanced_paranthesis.cpp.obj
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.cpp.obj
+
+Basics/RECURSION/generate_all_balanced_paranthesis.i: Basics/RECURSION/generate_all_balanced_paranthesis.cpp.i
+
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.i
+
+# target to preprocess a source file
+Basics/RECURSION/generate_all_balanced_paranthesis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/generate_all_balanced_paranthesis.cpp.i
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.cpp.i
+
+Basics/RECURSION/generate_all_balanced_paranthesis.s: Basics/RECURSION/generate_all_balanced_paranthesis.cpp.s
+
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.s
+
+# target to generate assembly for a file
+Basics/RECURSION/generate_all_balanced_paranthesis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Basics/RECURSION/generate_all_balanced_paranthesis.cpp.s
+.PHONY : Basics/RECURSION/generate_all_balanced_paranthesis.cpp.s
 
 Basics/RECURSION/is_array_sorted.obj: Basics/RECURSION/is_array_sorted.cpp.obj
 
@@ -8962,6 +9016,9 @@ help:
 	@echo ... Basics/RECURSION/all_indices.obj
 	@echo ... Basics/RECURSION/all_indices.i
 	@echo ... Basics/RECURSION/all_indices.s
+	@echo ... Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj
+	@echo ... Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.i
+	@echo ... Basics/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s
 	@echo ... Basics/RECURSION/delete_middle_element_of_stack.obj
 	@echo ... Basics/RECURSION/delete_middle_element_of_stack.i
 	@echo ... Basics/RECURSION/delete_middle_element_of_stack.s
@@ -8974,6 +9031,9 @@ help:
 	@echo ... Basics/RECURSION/first_index.obj
 	@echo ... Basics/RECURSION/first_index.i
 	@echo ... Basics/RECURSION/first_index.s
+	@echo ... Basics/RECURSION/generate_all_balanced_paranthesis.obj
+	@echo ... Basics/RECURSION/generate_all_balanced_paranthesis.i
+	@echo ... Basics/RECURSION/generate_all_balanced_paranthesis.s
 	@echo ... Basics/RECURSION/is_array_sorted.obj
 	@echo ... Basics/RECURSION/is_array_sorted.i
 	@echo ... Basics/RECURSION/is_array_sorted.s
