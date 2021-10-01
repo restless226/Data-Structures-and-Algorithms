@@ -4132,6 +4132,45 @@ CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\pascal_triangle.cpp -o CMakeFiles\untitled.dir\DSA\RECURSION\pascal_triangle.cpp.s
 
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj: ../DSA/DP/TECH_DOSE/pascal_triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\pascal_triangle.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\pascal_triangle.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\pascal_triangle.cpp > CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\pascal_triangle.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\pascal_triangle.cpp -o CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\pascal_triangle.cpp.s
+
+CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj: ../DSA/RECURSION/lucky_numbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\lucky_numbers.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\lucky_numbers.cpp
+
+CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\lucky_numbers.cpp > CMakeFiles\untitled.dir\DSA\RECURSION\lucky_numbers.cpp.i
+
+CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\lucky_numbers.cpp -o CMakeFiles\untitled.dir\DSA\RECURSION\lucky_numbers.cpp.s
+
+CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj: ../DSA/RECURSION/all_unique_permutations_of_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\all_unique_permutations_of_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\all_unique_permutations_of_array.cpp
+
+CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\all_unique_permutations_of_array.cpp > CMakeFiles\untitled.dir\DSA\RECURSION\all_unique_permutations_of_array.cpp.i
+
+CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\all_unique_permutations_of_array.cpp -o CMakeFiles\untitled.dir\DSA\RECURSION\all_unique_permutations_of_array.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4445,7 +4484,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4762,11 +4804,14 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -157,6 +157,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/RECURSION/letter_case_permutation.cpp DSA/RECURSION/generate_all_balanced_paranthesis.cpp
         DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
         DSA/RECURSION/josephus_problem.cpp DSA/RECURSION/string_permutations.cpp
-        DSA/RECURSION/pascal_triangle.cpp)
+        DSA/RECURSION/pascal_triangle.cpp DSA/DP/TECH_DOSE/pascal_triangle.cpp
+        DSA/RECURSION/lucky_numbers.cpp DSA/RECURSION/all_unique_permutations_of_array.cpp)
 
 

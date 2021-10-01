@@ -2464,6 +2464,33 @@ DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
 
+DSA/DP/TECH_DOSE/pascal_triangle.obj: DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
+
+DSA/DP/TECH_DOSE/pascal_triangle.i: DSA/DP/TECH_DOSE/pascal_triangle.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/pascal_triangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.cpp.i
+
+DSA/DP/TECH_DOSE/pascal_triangle.s: DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/pascal_triangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
+
 DSA/DP/TECH_DOSE/wildcard_pattern_matching.obj: DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
 
 .PHONY : DSA/DP/TECH_DOSE/wildcard_pattern_matching.obj
@@ -5056,6 +5083,33 @@ DSA/RECURSION/all_indices.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.s
 .PHONY : DSA/RECURSION/all_indices.cpp.s
 
+DSA/RECURSION/all_unique_permutations_of_array.obj: DSA/RECURSION/all_unique_permutations_of_array.cpp.obj
+
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.obj
+
+# target to build an object file
+DSA/RECURSION/all_unique_permutations_of_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.cpp.obj
+
+DSA/RECURSION/all_unique_permutations_of_array.i: DSA/RECURSION/all_unique_permutations_of_array.cpp.i
+
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.i
+
+# target to preprocess a source file
+DSA/RECURSION/all_unique_permutations_of_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.i
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.cpp.i
+
+DSA/RECURSION/all_unique_permutations_of_array.s: DSA/RECURSION/all_unique_permutations_of_array.cpp.s
+
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.s
+
+# target to generate assembly for a file
+DSA/RECURSION/all_unique_permutations_of_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.s
+.PHONY : DSA/RECURSION/all_unique_permutations_of_array.cpp.s
+
 DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj: DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj
 
 .PHONY : DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj
@@ -5352,6 +5406,33 @@ DSA/RECURSION/letter_case_permutation.s: DSA/RECURSION/letter_case_permutation.c
 DSA/RECURSION/letter_case_permutation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.s
 .PHONY : DSA/RECURSION/letter_case_permutation.cpp.s
+
+DSA/RECURSION/lucky_numbers.obj: DSA/RECURSION/lucky_numbers.cpp.obj
+
+.PHONY : DSA/RECURSION/lucky_numbers.obj
+
+# target to build an object file
+DSA/RECURSION/lucky_numbers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj
+.PHONY : DSA/RECURSION/lucky_numbers.cpp.obj
+
+DSA/RECURSION/lucky_numbers.i: DSA/RECURSION/lucky_numbers.cpp.i
+
+.PHONY : DSA/RECURSION/lucky_numbers.i
+
+# target to preprocess a source file
+DSA/RECURSION/lucky_numbers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.i
+.PHONY : DSA/RECURSION/lucky_numbers.cpp.i
+
+DSA/RECURSION/lucky_numbers.s: DSA/RECURSION/lucky_numbers.cpp.s
+
+.PHONY : DSA/RECURSION/lucky_numbers.s
+
+# target to generate assembly for a file
+DSA/RECURSION/lucky_numbers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.s
+.PHONY : DSA/RECURSION/lucky_numbers.cpp.s
 
 DSA/RECURSION/pascal_triangle.obj: DSA/RECURSION/pascal_triangle.cpp.obj
 
@@ -8833,6 +8914,9 @@ help:
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.obj
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.i
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.s
+	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.obj
+	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.i
+	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.s
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.obj
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.i
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.s
@@ -9121,6 +9205,9 @@ help:
 	@echo ... DSA/RECURSION/all_indices.obj
 	@echo ... DSA/RECURSION/all_indices.i
 	@echo ... DSA/RECURSION/all_indices.s
+	@echo ... DSA/RECURSION/all_unique_permutations_of_array.obj
+	@echo ... DSA/RECURSION/all_unique_permutations_of_array.i
+	@echo ... DSA/RECURSION/all_unique_permutations_of_array.s
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.i
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s
@@ -9154,6 +9241,9 @@ help:
 	@echo ... DSA/RECURSION/letter_case_permutation.obj
 	@echo ... DSA/RECURSION/letter_case_permutation.i
 	@echo ... DSA/RECURSION/letter_case_permutation.s
+	@echo ... DSA/RECURSION/lucky_numbers.obj
+	@echo ... DSA/RECURSION/lucky_numbers.i
+	@echo ... DSA/RECURSION/lucky_numbers.s
 	@echo ... DSA/RECURSION/pascal_triangle.obj
 	@echo ... DSA/RECURSION/pascal_triangle.i
 	@echo ... DSA/RECURSION/pascal_triangle.s

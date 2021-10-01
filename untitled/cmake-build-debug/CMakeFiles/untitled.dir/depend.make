@@ -174,6 +174,8 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/msis.cpp.obj: ../DSA/DP/TECH_DOSE/msis.
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj: ../DSA/DP/TECH_DOSE/pascal_triangle.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: ../DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/word_break.cpp.obj: ../DSA/DP/TECH_DOSE/word_break.cpp
@@ -366,6 +368,8 @@ CMakeFiles/untitled.dir/DSA/MATRIX/matrix.cpp.obj: ../DSA/MATRIX/matrix.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.obj: ../DSA/RECURSION/all_indices.cpp
 
+CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj: ../DSA/RECURSION/all_unique_permutations_of_array.cpp
+
 CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj: ../DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.obj: ../DSA/RECURSION/delete_middle_element_of_stack.cpp
@@ -387,6 +391,10 @@ CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.obj: ../DSA/RECU
 CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.obj: ../DSA/RECURSION/last_index.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.obj: ../DSA/RECURSION/letter_case_permutation.cpp
+
+CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj: ../DSA/RECURSION/lucky_numbers.cpp
+
+CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj: ../DSA/RECURSION/pascal_triangle.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.obj: ../DSA/RECURSION/permutation_with_case_change.cpp
 
