@@ -3274,195 +3274,6 @@ DSA/HEAP/heap_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.s
 .PHONY : DSA/HEAP/heap_use.cpp.s
 
-DSA/HackerRank/delete_a_node.obj: DSA/HackerRank/delete_a_node.cpp.obj
-
-.PHONY : DSA/HackerRank/delete_a_node.obj
-
-# target to build an object file
-DSA/HackerRank/delete_a_node.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/delete_a_node.cpp.obj
-.PHONY : DSA/HackerRank/delete_a_node.cpp.obj
-
-DSA/HackerRank/delete_a_node.i: DSA/HackerRank/delete_a_node.cpp.i
-
-.PHONY : DSA/HackerRank/delete_a_node.i
-
-# target to preprocess a source file
-DSA/HackerRank/delete_a_node.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/delete_a_node.cpp.i
-.PHONY : DSA/HackerRank/delete_a_node.cpp.i
-
-DSA/HackerRank/delete_a_node.s: DSA/HackerRank/delete_a_node.cpp.s
-
-.PHONY : DSA/HackerRank/delete_a_node.s
-
-# target to generate assembly for a file
-DSA/HackerRank/delete_a_node.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/delete_a_node.cpp.s
-.PHONY : DSA/HackerRank/delete_a_node.cpp.s
-
-DSA/HackerRank/display_LL.obj: DSA/HackerRank/display_LL.cpp.obj
-
-.PHONY : DSA/HackerRank/display_LL.obj
-
-# target to build an object file
-DSA/HackerRank/display_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/display_LL.cpp.obj
-.PHONY : DSA/HackerRank/display_LL.cpp.obj
-
-DSA/HackerRank/display_LL.i: DSA/HackerRank/display_LL.cpp.i
-
-.PHONY : DSA/HackerRank/display_LL.i
-
-# target to preprocess a source file
-DSA/HackerRank/display_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/display_LL.cpp.i
-.PHONY : DSA/HackerRank/display_LL.cpp.i
-
-DSA/HackerRank/display_LL.s: DSA/HackerRank/display_LL.cpp.s
-
-.PHONY : DSA/HackerRank/display_LL.s
-
-# target to generate assembly for a file
-DSA/HackerRank/display_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/display_LL.cpp.s
-.PHONY : DSA/HackerRank/display_LL.cpp.s
-
-DSA/HackerRank/get_node_value.obj: DSA/HackerRank/get_node_value.cpp.obj
-
-.PHONY : DSA/HackerRank/get_node_value.obj
-
-# target to build an object file
-DSA/HackerRank/get_node_value.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/get_node_value.cpp.obj
-.PHONY : DSA/HackerRank/get_node_value.cpp.obj
-
-DSA/HackerRank/get_node_value.i: DSA/HackerRank/get_node_value.cpp.i
-
-.PHONY : DSA/HackerRank/get_node_value.i
-
-# target to preprocess a source file
-DSA/HackerRank/get_node_value.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/get_node_value.cpp.i
-.PHONY : DSA/HackerRank/get_node_value.cpp.i
-
-DSA/HackerRank/get_node_value.s: DSA/HackerRank/get_node_value.cpp.s
-
-.PHONY : DSA/HackerRank/get_node_value.s
-
-# target to generate assembly for a file
-DSA/HackerRank/get_node_value.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/get_node_value.cpp.s
-.PHONY : DSA/HackerRank/get_node_value.cpp.s
-
-DSA/HackerRank/insert_at_head.obj: DSA/HackerRank/insert_at_head.cpp.obj
-
-.PHONY : DSA/HackerRank/insert_at_head.obj
-
-# target to build an object file
-DSA/HackerRank/insert_at_head.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_head.cpp.obj
-.PHONY : DSA/HackerRank/insert_at_head.cpp.obj
-
-DSA/HackerRank/insert_at_head.i: DSA/HackerRank/insert_at_head.cpp.i
-
-.PHONY : DSA/HackerRank/insert_at_head.i
-
-# target to preprocess a source file
-DSA/HackerRank/insert_at_head.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_head.cpp.i
-.PHONY : DSA/HackerRank/insert_at_head.cpp.i
-
-DSA/HackerRank/insert_at_head.s: DSA/HackerRank/insert_at_head.cpp.s
-
-.PHONY : DSA/HackerRank/insert_at_head.s
-
-# target to generate assembly for a file
-DSA/HackerRank/insert_at_head.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_head.cpp.s
-.PHONY : DSA/HackerRank/insert_at_head.cpp.s
-
-DSA/HackerRank/insert_at_middle.obj: DSA/HackerRank/insert_at_middle.cpp.obj
-
-.PHONY : DSA/HackerRank/insert_at_middle.obj
-
-# target to build an object file
-DSA/HackerRank/insert_at_middle.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_middle.cpp.obj
-.PHONY : DSA/HackerRank/insert_at_middle.cpp.obj
-
-DSA/HackerRank/insert_at_middle.i: DSA/HackerRank/insert_at_middle.cpp.i
-
-.PHONY : DSA/HackerRank/insert_at_middle.i
-
-# target to preprocess a source file
-DSA/HackerRank/insert_at_middle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_middle.cpp.i
-.PHONY : DSA/HackerRank/insert_at_middle.cpp.i
-
-DSA/HackerRank/insert_at_middle.s: DSA/HackerRank/insert_at_middle.cpp.s
-
-.PHONY : DSA/HackerRank/insert_at_middle.s
-
-# target to generate assembly for a file
-DSA/HackerRank/insert_at_middle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_middle.cpp.s
-.PHONY : DSA/HackerRank/insert_at_middle.cpp.s
-
-DSA/HackerRank/insert_at_tail.obj: DSA/HackerRank/insert_at_tail.cpp.obj
-
-.PHONY : DSA/HackerRank/insert_at_tail.obj
-
-# target to build an object file
-DSA/HackerRank/insert_at_tail.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.obj
-.PHONY : DSA/HackerRank/insert_at_tail.cpp.obj
-
-DSA/HackerRank/insert_at_tail.i: DSA/HackerRank/insert_at_tail.cpp.i
-
-.PHONY : DSA/HackerRank/insert_at_tail.i
-
-# target to preprocess a source file
-DSA/HackerRank/insert_at_tail.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.i
-.PHONY : DSA/HackerRank/insert_at_tail.cpp.i
-
-DSA/HackerRank/insert_at_tail.s: DSA/HackerRank/insert_at_tail.cpp.s
-
-.PHONY : DSA/HackerRank/insert_at_tail.s
-
-# target to generate assembly for a file
-DSA/HackerRank/insert_at_tail.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.s
-.PHONY : DSA/HackerRank/insert_at_tail.cpp.s
-
-DSA/HackerRank/reverse_LL.obj: DSA/HackerRank/reverse_LL.cpp.obj
-
-.PHONY : DSA/HackerRank/reverse_LL.obj
-
-# target to build an object file
-DSA/HackerRank/reverse_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.obj
-.PHONY : DSA/HackerRank/reverse_LL.cpp.obj
-
-DSA/HackerRank/reverse_LL.i: DSA/HackerRank/reverse_LL.cpp.i
-
-.PHONY : DSA/HackerRank/reverse_LL.i
-
-# target to preprocess a source file
-DSA/HackerRank/reverse_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.i
-.PHONY : DSA/HackerRank/reverse_LL.cpp.i
-
-DSA/HackerRank/reverse_LL.s: DSA/HackerRank/reverse_LL.cpp.s
-
-.PHONY : DSA/HackerRank/reverse_LL.s
-
-# target to generate assembly for a file
-DSA/HackerRank/reverse_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.s
-.PHONY : DSA/HackerRank/reverse_LL.cpp.s
-
 DSA/LINKED_LIST/Circular_LL/Circular_LL.obj: DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
 
 .PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.obj
@@ -4759,59 +4570,59 @@ DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
 .PHONY : DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
 
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.obj: DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
+DSA/SORTING_ALGORITHMS/merge_sort.obj: DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
 
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
-
-# target to build an object file
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
-
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.i: DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.i
-
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.i
-
-# target to preprocess a source file
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.i
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.i
-
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.s: DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.s
-
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.s
-
-# target to generate assembly for a file
-DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.s
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.s
-
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.obj: DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
-
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.obj
 
 # target to build an object file
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
+DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
 
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.i: DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.i
+DSA/SORTING_ALGORITHMS/merge_sort.i: DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
 
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.i
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.i
 
 # target to preprocess a source file
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.i
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.i
+DSA/SORTING_ALGORITHMS/merge_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
 
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.s: DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
+DSA/SORTING_ALGORITHMS/merge_sort.s: DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
 
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.s
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.s
 
 # target to generate assembly for a file
-DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
-.PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
+DSA/SORTING_ALGORITHMS/merge_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
+
+DSA/SORTING_ALGORITHMS/quick_sort.obj: DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/quick_sort.i: DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/quick_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
+
+DSA/SORTING_ALGORITHMS/quick_sort.s: DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/quick_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
 
 DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
@@ -5515,6 +5326,141 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
+DSA/TEMPLATES/function_templates.obj: DSA/TEMPLATES/function_templates.cpp.obj
+
+.PHONY : DSA/TEMPLATES/function_templates.obj
+
+# target to build an object file
+DSA/TEMPLATES/function_templates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj
+.PHONY : DSA/TEMPLATES/function_templates.cpp.obj
+
+DSA/TEMPLATES/function_templates.i: DSA/TEMPLATES/function_templates.cpp.i
+
+.PHONY : DSA/TEMPLATES/function_templates.i
+
+# target to preprocess a source file
+DSA/TEMPLATES/function_templates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.i
+.PHONY : DSA/TEMPLATES/function_templates.cpp.i
+
+DSA/TEMPLATES/function_templates.s: DSA/TEMPLATES/function_templates.cpp.s
+
+.PHONY : DSA/TEMPLATES/function_templates.s
+
+# target to generate assembly for a file
+DSA/TEMPLATES/function_templates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.s
+.PHONY : DSA/TEMPLATES/function_templates.cpp.s
+
+DSA/TEMPLATES/overloading_templates.obj: DSA/TEMPLATES/overloading_templates.cpp.obj
+
+.PHONY : DSA/TEMPLATES/overloading_templates.obj
+
+# target to build an object file
+DSA/TEMPLATES/overloading_templates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj
+.PHONY : DSA/TEMPLATES/overloading_templates.cpp.obj
+
+DSA/TEMPLATES/overloading_templates.i: DSA/TEMPLATES/overloading_templates.cpp.i
+
+.PHONY : DSA/TEMPLATES/overloading_templates.i
+
+# target to preprocess a source file
+DSA/TEMPLATES/overloading_templates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.i
+.PHONY : DSA/TEMPLATES/overloading_templates.cpp.i
+
+DSA/TEMPLATES/overloading_templates.s: DSA/TEMPLATES/overloading_templates.cpp.s
+
+.PHONY : DSA/TEMPLATES/overloading_templates.s
+
+# target to generate assembly for a file
+DSA/TEMPLATES/overloading_templates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.s
+.PHONY : DSA/TEMPLATES/overloading_templates.cpp.s
+
+DSA/TEMPLATES/templates.obj: DSA/TEMPLATES/templates.cpp.obj
+
+.PHONY : DSA/TEMPLATES/templates.obj
+
+# target to build an object file
+DSA/TEMPLATES/templates.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj
+.PHONY : DSA/TEMPLATES/templates.cpp.obj
+
+DSA/TEMPLATES/templates.i: DSA/TEMPLATES/templates.cpp.i
+
+.PHONY : DSA/TEMPLATES/templates.i
+
+# target to preprocess a source file
+DSA/TEMPLATES/templates.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.i
+.PHONY : DSA/TEMPLATES/templates.cpp.i
+
+DSA/TEMPLATES/templates.s: DSA/TEMPLATES/templates.cpp.s
+
+.PHONY : DSA/TEMPLATES/templates.s
+
+# target to generate assembly for a file
+DSA/TEMPLATES/templates.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.s
+.PHONY : DSA/TEMPLATES/templates.cpp.s
+
+DSA/TEMPLATES/templates2.obj: DSA/TEMPLATES/templates2.cpp.obj
+
+.PHONY : DSA/TEMPLATES/templates2.obj
+
+# target to build an object file
+DSA/TEMPLATES/templates2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.obj
+.PHONY : DSA/TEMPLATES/templates2.cpp.obj
+
+DSA/TEMPLATES/templates2.i: DSA/TEMPLATES/templates2.cpp.i
+
+.PHONY : DSA/TEMPLATES/templates2.i
+
+# target to preprocess a source file
+DSA/TEMPLATES/templates2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.i
+.PHONY : DSA/TEMPLATES/templates2.cpp.i
+
+DSA/TEMPLATES/templates2.s: DSA/TEMPLATES/templates2.cpp.s
+
+.PHONY : DSA/TEMPLATES/templates2.s
+
+# target to generate assembly for a file
+DSA/TEMPLATES/templates2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.s
+.PHONY : DSA/TEMPLATES/templates2.cpp.s
+
+DSA/TEMPLATES/unordered_maps.obj: DSA/TEMPLATES/unordered_maps.cpp.obj
+
+.PHONY : DSA/TEMPLATES/unordered_maps.obj
+
+# target to build an object file
+DSA/TEMPLATES/unordered_maps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj
+.PHONY : DSA/TEMPLATES/unordered_maps.cpp.obj
+
+DSA/TEMPLATES/unordered_maps.i: DSA/TEMPLATES/unordered_maps.cpp.i
+
+.PHONY : DSA/TEMPLATES/unordered_maps.i
+
+# target to preprocess a source file
+DSA/TEMPLATES/unordered_maps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.i
+.PHONY : DSA/TEMPLATES/unordered_maps.cpp.i
+
+DSA/TEMPLATES/unordered_maps.s: DSA/TEMPLATES/unordered_maps.cpp.s
+
+.PHONY : DSA/TEMPLATES/unordered_maps.s
+
+# target to generate assembly for a file
+DSA/TEMPLATES/unordered_maps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.s
+.PHONY : DSA/TEMPLATES/unordered_maps.cpp.s
+
 DSA/TREES/BST/BST_impl.obj: DSA/TREES/BST/BST_impl.cpp.obj
 
 .PHONY : DSA/TREES/BST/BST_impl.obj
@@ -5784,141 +5730,6 @@ DSA/TREES/sorting_algorithms/selectionSort.s: DSA/TREES/sorting_algorithms/selec
 DSA/TREES/sorting_algorithms/selectionSort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.s
 .PHONY : DSA/TREES/sorting_algorithms/selectionSort.cpp.s
-
-DSA/Templates/function_templates.obj: DSA/Templates/function_templates.cpp.obj
-
-.PHONY : DSA/Templates/function_templates.obj
-
-# target to build an object file
-DSA/Templates/function_templates.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/function_templates.cpp.obj
-.PHONY : DSA/Templates/function_templates.cpp.obj
-
-DSA/Templates/function_templates.i: DSA/Templates/function_templates.cpp.i
-
-.PHONY : DSA/Templates/function_templates.i
-
-# target to preprocess a source file
-DSA/Templates/function_templates.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/function_templates.cpp.i
-.PHONY : DSA/Templates/function_templates.cpp.i
-
-DSA/Templates/function_templates.s: DSA/Templates/function_templates.cpp.s
-
-.PHONY : DSA/Templates/function_templates.s
-
-# target to generate assembly for a file
-DSA/Templates/function_templates.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/function_templates.cpp.s
-.PHONY : DSA/Templates/function_templates.cpp.s
-
-DSA/Templates/overloading_templates.obj: DSA/Templates/overloading_templates.cpp.obj
-
-.PHONY : DSA/Templates/overloading_templates.obj
-
-# target to build an object file
-DSA/Templates/overloading_templates.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/overloading_templates.cpp.obj
-.PHONY : DSA/Templates/overloading_templates.cpp.obj
-
-DSA/Templates/overloading_templates.i: DSA/Templates/overloading_templates.cpp.i
-
-.PHONY : DSA/Templates/overloading_templates.i
-
-# target to preprocess a source file
-DSA/Templates/overloading_templates.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/overloading_templates.cpp.i
-.PHONY : DSA/Templates/overloading_templates.cpp.i
-
-DSA/Templates/overloading_templates.s: DSA/Templates/overloading_templates.cpp.s
-
-.PHONY : DSA/Templates/overloading_templates.s
-
-# target to generate assembly for a file
-DSA/Templates/overloading_templates.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/overloading_templates.cpp.s
-.PHONY : DSA/Templates/overloading_templates.cpp.s
-
-DSA/Templates/templates.obj: DSA/Templates/templates.cpp.obj
-
-.PHONY : DSA/Templates/templates.obj
-
-# target to build an object file
-DSA/Templates/templates.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates.cpp.obj
-.PHONY : DSA/Templates/templates.cpp.obj
-
-DSA/Templates/templates.i: DSA/Templates/templates.cpp.i
-
-.PHONY : DSA/Templates/templates.i
-
-# target to preprocess a source file
-DSA/Templates/templates.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates.cpp.i
-.PHONY : DSA/Templates/templates.cpp.i
-
-DSA/Templates/templates.s: DSA/Templates/templates.cpp.s
-
-.PHONY : DSA/Templates/templates.s
-
-# target to generate assembly for a file
-DSA/Templates/templates.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates.cpp.s
-.PHONY : DSA/Templates/templates.cpp.s
-
-DSA/Templates/templates2.obj: DSA/Templates/templates2.cpp.obj
-
-.PHONY : DSA/Templates/templates2.obj
-
-# target to build an object file
-DSA/Templates/templates2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates2.cpp.obj
-.PHONY : DSA/Templates/templates2.cpp.obj
-
-DSA/Templates/templates2.i: DSA/Templates/templates2.cpp.i
-
-.PHONY : DSA/Templates/templates2.i
-
-# target to preprocess a source file
-DSA/Templates/templates2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates2.cpp.i
-.PHONY : DSA/Templates/templates2.cpp.i
-
-DSA/Templates/templates2.s: DSA/Templates/templates2.cpp.s
-
-.PHONY : DSA/Templates/templates2.s
-
-# target to generate assembly for a file
-DSA/Templates/templates2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/templates2.cpp.s
-.PHONY : DSA/Templates/templates2.cpp.s
-
-DSA/Templates/unordered_maps.obj: DSA/Templates/unordered_maps.cpp.obj
-
-.PHONY : DSA/Templates/unordered_maps.obj
-
-# target to build an object file
-DSA/Templates/unordered_maps.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/unordered_maps.cpp.obj
-.PHONY : DSA/Templates/unordered_maps.cpp.obj
-
-DSA/Templates/unordered_maps.i: DSA/Templates/unordered_maps.cpp.i
-
-.PHONY : DSA/Templates/unordered_maps.i
-
-# target to preprocess a source file
-DSA/Templates/unordered_maps.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/unordered_maps.cpp.i
-.PHONY : DSA/Templates/unordered_maps.cpp.i
-
-DSA/Templates/unordered_maps.s: DSA/Templates/unordered_maps.cpp.s
-
-.PHONY : DSA/Templates/unordered_maps.s
-
-# target to generate assembly for a file
-DSA/Templates/unordered_maps.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/unordered_maps.cpp.s
-.PHONY : DSA/Templates/unordered_maps.cpp.s
 
 DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj: DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
 
@@ -8350,6 +8161,195 @@ OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
 .PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
 
+OLD/HackerRank/delete_a_node.obj: OLD/HackerRank/delete_a_node.cpp.obj
+
+.PHONY : OLD/HackerRank/delete_a_node.obj
+
+# target to build an object file
+OLD/HackerRank/delete_a_node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj
+.PHONY : OLD/HackerRank/delete_a_node.cpp.obj
+
+OLD/HackerRank/delete_a_node.i: OLD/HackerRank/delete_a_node.cpp.i
+
+.PHONY : OLD/HackerRank/delete_a_node.i
+
+# target to preprocess a source file
+OLD/HackerRank/delete_a_node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.i
+.PHONY : OLD/HackerRank/delete_a_node.cpp.i
+
+OLD/HackerRank/delete_a_node.s: OLD/HackerRank/delete_a_node.cpp.s
+
+.PHONY : OLD/HackerRank/delete_a_node.s
+
+# target to generate assembly for a file
+OLD/HackerRank/delete_a_node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.s
+.PHONY : OLD/HackerRank/delete_a_node.cpp.s
+
+OLD/HackerRank/display_LL.obj: OLD/HackerRank/display_LL.cpp.obj
+
+.PHONY : OLD/HackerRank/display_LL.obj
+
+# target to build an object file
+OLD/HackerRank/display_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj
+.PHONY : OLD/HackerRank/display_LL.cpp.obj
+
+OLD/HackerRank/display_LL.i: OLD/HackerRank/display_LL.cpp.i
+
+.PHONY : OLD/HackerRank/display_LL.i
+
+# target to preprocess a source file
+OLD/HackerRank/display_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.i
+.PHONY : OLD/HackerRank/display_LL.cpp.i
+
+OLD/HackerRank/display_LL.s: OLD/HackerRank/display_LL.cpp.s
+
+.PHONY : OLD/HackerRank/display_LL.s
+
+# target to generate assembly for a file
+OLD/HackerRank/display_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.s
+.PHONY : OLD/HackerRank/display_LL.cpp.s
+
+OLD/HackerRank/get_node_value.obj: OLD/HackerRank/get_node_value.cpp.obj
+
+.PHONY : OLD/HackerRank/get_node_value.obj
+
+# target to build an object file
+OLD/HackerRank/get_node_value.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj
+.PHONY : OLD/HackerRank/get_node_value.cpp.obj
+
+OLD/HackerRank/get_node_value.i: OLD/HackerRank/get_node_value.cpp.i
+
+.PHONY : OLD/HackerRank/get_node_value.i
+
+# target to preprocess a source file
+OLD/HackerRank/get_node_value.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.i
+.PHONY : OLD/HackerRank/get_node_value.cpp.i
+
+OLD/HackerRank/get_node_value.s: OLD/HackerRank/get_node_value.cpp.s
+
+.PHONY : OLD/HackerRank/get_node_value.s
+
+# target to generate assembly for a file
+OLD/HackerRank/get_node_value.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.s
+.PHONY : OLD/HackerRank/get_node_value.cpp.s
+
+OLD/HackerRank/insert_at_head.obj: OLD/HackerRank/insert_at_head.cpp.obj
+
+.PHONY : OLD/HackerRank/insert_at_head.obj
+
+# target to build an object file
+OLD/HackerRank/insert_at_head.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj
+.PHONY : OLD/HackerRank/insert_at_head.cpp.obj
+
+OLD/HackerRank/insert_at_head.i: OLD/HackerRank/insert_at_head.cpp.i
+
+.PHONY : OLD/HackerRank/insert_at_head.i
+
+# target to preprocess a source file
+OLD/HackerRank/insert_at_head.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.i
+.PHONY : OLD/HackerRank/insert_at_head.cpp.i
+
+OLD/HackerRank/insert_at_head.s: OLD/HackerRank/insert_at_head.cpp.s
+
+.PHONY : OLD/HackerRank/insert_at_head.s
+
+# target to generate assembly for a file
+OLD/HackerRank/insert_at_head.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.s
+.PHONY : OLD/HackerRank/insert_at_head.cpp.s
+
+OLD/HackerRank/insert_at_middle.obj: OLD/HackerRank/insert_at_middle.cpp.obj
+
+.PHONY : OLD/HackerRank/insert_at_middle.obj
+
+# target to build an object file
+OLD/HackerRank/insert_at_middle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj
+.PHONY : OLD/HackerRank/insert_at_middle.cpp.obj
+
+OLD/HackerRank/insert_at_middle.i: OLD/HackerRank/insert_at_middle.cpp.i
+
+.PHONY : OLD/HackerRank/insert_at_middle.i
+
+# target to preprocess a source file
+OLD/HackerRank/insert_at_middle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.i
+.PHONY : OLD/HackerRank/insert_at_middle.cpp.i
+
+OLD/HackerRank/insert_at_middle.s: OLD/HackerRank/insert_at_middle.cpp.s
+
+.PHONY : OLD/HackerRank/insert_at_middle.s
+
+# target to generate assembly for a file
+OLD/HackerRank/insert_at_middle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.s
+.PHONY : OLD/HackerRank/insert_at_middle.cpp.s
+
+OLD/HackerRank/insert_at_tail.obj: OLD/HackerRank/insert_at_tail.cpp.obj
+
+.PHONY : OLD/HackerRank/insert_at_tail.obj
+
+# target to build an object file
+OLD/HackerRank/insert_at_tail.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj
+.PHONY : OLD/HackerRank/insert_at_tail.cpp.obj
+
+OLD/HackerRank/insert_at_tail.i: OLD/HackerRank/insert_at_tail.cpp.i
+
+.PHONY : OLD/HackerRank/insert_at_tail.i
+
+# target to preprocess a source file
+OLD/HackerRank/insert_at_tail.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.i
+.PHONY : OLD/HackerRank/insert_at_tail.cpp.i
+
+OLD/HackerRank/insert_at_tail.s: OLD/HackerRank/insert_at_tail.cpp.s
+
+.PHONY : OLD/HackerRank/insert_at_tail.s
+
+# target to generate assembly for a file
+OLD/HackerRank/insert_at_tail.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.s
+.PHONY : OLD/HackerRank/insert_at_tail.cpp.s
+
+OLD/HackerRank/reverse_LL.obj: OLD/HackerRank/reverse_LL.cpp.obj
+
+.PHONY : OLD/HackerRank/reverse_LL.obj
+
+# target to build an object file
+OLD/HackerRank/reverse_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj
+.PHONY : OLD/HackerRank/reverse_LL.cpp.obj
+
+OLD/HackerRank/reverse_LL.i: OLD/HackerRank/reverse_LL.cpp.i
+
+.PHONY : OLD/HackerRank/reverse_LL.i
+
+# target to preprocess a source file
+OLD/HackerRank/reverse_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.i
+.PHONY : OLD/HackerRank/reverse_LL.cpp.i
+
+OLD/HackerRank/reverse_LL.s: OLD/HackerRank/reverse_LL.cpp.s
+
+.PHONY : OLD/HackerRank/reverse_LL.s
+
+# target to generate assembly for a file
+OLD/HackerRank/reverse_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.s
+.PHONY : OLD/HackerRank/reverse_LL.cpp.s
+
 ROUGH_FILES/main.obj: ROUGH_FILES/main.cpp.obj
 
 .PHONY : ROUGH_FILES/main.obj
@@ -9031,27 +9031,6 @@ help:
 	@echo ... DSA/HEAP/heap_use.obj
 	@echo ... DSA/HEAP/heap_use.i
 	@echo ... DSA/HEAP/heap_use.s
-	@echo ... DSA/HackerRank/delete_a_node.obj
-	@echo ... DSA/HackerRank/delete_a_node.i
-	@echo ... DSA/HackerRank/delete_a_node.s
-	@echo ... DSA/HackerRank/display_LL.obj
-	@echo ... DSA/HackerRank/display_LL.i
-	@echo ... DSA/HackerRank/display_LL.s
-	@echo ... DSA/HackerRank/get_node_value.obj
-	@echo ... DSA/HackerRank/get_node_value.i
-	@echo ... DSA/HackerRank/get_node_value.s
-	@echo ... DSA/HackerRank/insert_at_head.obj
-	@echo ... DSA/HackerRank/insert_at_head.i
-	@echo ... DSA/HackerRank/insert_at_head.s
-	@echo ... DSA/HackerRank/insert_at_middle.obj
-	@echo ... DSA/HackerRank/insert_at_middle.i
-	@echo ... DSA/HackerRank/insert_at_middle.s
-	@echo ... DSA/HackerRank/insert_at_tail.obj
-	@echo ... DSA/HackerRank/insert_at_tail.i
-	@echo ... DSA/HackerRank/insert_at_tail.s
-	@echo ... DSA/HackerRank/reverse_LL.obj
-	@echo ... DSA/HackerRank/reverse_LL.i
-	@echo ... DSA/HackerRank/reverse_LL.s
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.obj
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.i
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.s
@@ -9196,12 +9175,12 @@ help:
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.obj
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.i
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.s
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.i
-	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.s
+	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.i
+	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.s
+	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.i
+	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.s
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
@@ -9280,6 +9259,21 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
+	@echo ... DSA/TEMPLATES/function_templates.obj
+	@echo ... DSA/TEMPLATES/function_templates.i
+	@echo ... DSA/TEMPLATES/function_templates.s
+	@echo ... DSA/TEMPLATES/overloading_templates.obj
+	@echo ... DSA/TEMPLATES/overloading_templates.i
+	@echo ... DSA/TEMPLATES/overloading_templates.s
+	@echo ... DSA/TEMPLATES/templates.obj
+	@echo ... DSA/TEMPLATES/templates.i
+	@echo ... DSA/TEMPLATES/templates.s
+	@echo ... DSA/TEMPLATES/templates2.obj
+	@echo ... DSA/TEMPLATES/templates2.i
+	@echo ... DSA/TEMPLATES/templates2.s
+	@echo ... DSA/TEMPLATES/unordered_maps.obj
+	@echo ... DSA/TEMPLATES/unordered_maps.i
+	@echo ... DSA/TEMPLATES/unordered_maps.s
 	@echo ... DSA/TREES/BST/BST_impl.obj
 	@echo ... DSA/TREES/BST/BST_impl.i
 	@echo ... DSA/TREES/BST/BST_impl.s
@@ -9310,21 +9304,6 @@ help:
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.obj
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.i
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.s
-	@echo ... DSA/Templates/function_templates.obj
-	@echo ... DSA/Templates/function_templates.i
-	@echo ... DSA/Templates/function_templates.s
-	@echo ... DSA/Templates/overloading_templates.obj
-	@echo ... DSA/Templates/overloading_templates.i
-	@echo ... DSA/Templates/overloading_templates.s
-	@echo ... DSA/Templates/templates.obj
-	@echo ... DSA/Templates/templates.i
-	@echo ... DSA/Templates/templates.s
-	@echo ... DSA/Templates/templates2.obj
-	@echo ... DSA/Templates/templates2.i
-	@echo ... DSA/Templates/templates2.s
-	@echo ... DSA/Templates/unordered_maps.obj
-	@echo ... DSA/Templates/unordered_maps.i
-	@echo ... DSA/Templates/unordered_maps.s
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.i
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.s
@@ -9595,6 +9574,27 @@ help:
 	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
 	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.i
 	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.s
+	@echo ... OLD/HackerRank/delete_a_node.obj
+	@echo ... OLD/HackerRank/delete_a_node.i
+	@echo ... OLD/HackerRank/delete_a_node.s
+	@echo ... OLD/HackerRank/display_LL.obj
+	@echo ... OLD/HackerRank/display_LL.i
+	@echo ... OLD/HackerRank/display_LL.s
+	@echo ... OLD/HackerRank/get_node_value.obj
+	@echo ... OLD/HackerRank/get_node_value.i
+	@echo ... OLD/HackerRank/get_node_value.s
+	@echo ... OLD/HackerRank/insert_at_head.obj
+	@echo ... OLD/HackerRank/insert_at_head.i
+	@echo ... OLD/HackerRank/insert_at_head.s
+	@echo ... OLD/HackerRank/insert_at_middle.obj
+	@echo ... OLD/HackerRank/insert_at_middle.i
+	@echo ... OLD/HackerRank/insert_at_middle.s
+	@echo ... OLD/HackerRank/insert_at_tail.obj
+	@echo ... OLD/HackerRank/insert_at_tail.i
+	@echo ... OLD/HackerRank/insert_at_tail.s
+	@echo ... OLD/HackerRank/reverse_LL.obj
+	@echo ... OLD/HackerRank/reverse_LL.i
+	@echo ... OLD/HackerRank/reverse_LL.s
 	@echo ... ROUGH_FILES/main.obj
 	@echo ... ROUGH_FILES/main.i
 	@echo ... ROUGH_FILES/main.s

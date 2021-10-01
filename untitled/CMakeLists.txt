@@ -12,17 +12,17 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp
         algorithmic_toolbox DM/linear_searrch.cpp
         DM/occurances.cpp DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
-        DM/DM_lists.cpp DSA/STL/vectors_tut.cpp DSA/Templates/templates.cpp
+        DM/DM_lists.cpp DSA/STL/vectors_tut.cpp DSA/TEMPLATES/templates.cpp
         DSA/STACK/stack_assignment DSA/STACK/stack_assignment/linkedlistwithstack.h DSA/TREES/sorting_algorithms/selectionSort.cpp
         DSA/TREES/sorting_algorithms/BubbleSort.cpp DSA/TREES/sorting_algorithms/InsertionSort.cpp
         DSA/TREES/sorting_algorithms/MergeSort.cpp DSA/TREES/sorting_algorithms/QuickSort.cpp
         DSA/QUEUE/queue_again/queue_final.h DSA/QUEUE/queue_again/queue_impl.cpp DSA/QUEUE/queue_again/queue_main.cpp DSA/LINKED_LIST/Single_LL/List.h
         DSA/LINKED_LIST/Single_LL/List_impl.cpp DSA/LINKED_LIST/Single_LL/list_main.cpp DSA/STACK/stack_2/stack_again.cpp
         DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp
-        DSA/HackerRank/display_LL.cpp
-        DSA/HackerRank/insert_at_tail.cpp DSA/HackerRank/insert_at_head.cpp
-        DSA/HackerRank/insert_at_middle.cpp DSA/HackerRank/delete_a_node.cpp
-        DSA/HackerRank/get_node_value.cpp DSA/HackerRank/reverse_LL.cpp
+        OLD/HackerRank/display_LL.cpp
+        OLD/HackerRank/insert_at_tail.cpp OLD/HackerRank/insert_at_head.cpp
+        OLD/HackerRank/insert_at_middle.cpp OLD/HackerRank/delete_a_node.cpp
+        OLD/HackerRank/get_node_value.cpp OLD/HackerRank/reverse_LL.cpp
         OLD/GFG/LL/count_nodes.cpp OLD/GFG/LL/delete_without_head_pointer.cpp
         OLD/GFG/LL/occurance_in_LL.cpp DSA/LINKED_LIST/Double_LL/double_LL.cpp
         OLD/GFG/LL/LL_length_even_or_odd.cpp OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
@@ -49,8 +49,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         OLD/GFG/Stack/impl_two_stacks_in_array.cpp OLD/GFG/Queue/generate_binary_no.cpp
         OLD/GFG/Stack/reverse_a_string.cpp OLD/GFG/Stack/stack_using_two_queues.cpp
         DSA/TREES/BST/BST_impl.cpp OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
-        DSA/Templates/templates2.cpp DSA/Templates/function_templates.cpp
-        DSA/Templates/overloading_templates.cpp DSA/STL/Lists.cpp DSA/STL/maps.cpp
+        DSA/TEMPLATES/templates2.cpp DSA/TEMPLATES/function_templates.cpp
+        DSA/TEMPLATES/overloading_templates.cpp DSA/STL/Lists.cpp DSA/STL/maps.cpp
         DSA/STL/function_objects.cpp
         DSA_ASSIGNMENTS/assignment_3_queue/queue.h DSA_ASSIGNMENTS/assignment_3_queue/main.cpp DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp
         DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp DSA_ASSIGNMENTS/assignment_1/main_interface.cpp
@@ -79,7 +79,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/money_change.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
-        DSA/Templates/unordered_maps.cpp
+        DSA/TEMPLATES/unordered_maps.cpp
         DSA/GRAPHS/graph.cpp DSA/GRAPHS/graph2.cpp DSA/GRAPHS/MST_Prim2.cpp
         DSA/GRAPHS/Djikstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
@@ -96,8 +96,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
         DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS/GRAPHS_CN/kruskal.cpp DSA/GRAPHS/GRAPHS_CN/Prim.cpp
         DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
-        DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
-        DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
+        DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/merge_sort.cpp
+        DSA/SORTING_ALGORITHMS/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
         DSA/STACK/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
         DSA/FILE_HANDLING/file_handling_2.cpp DSA/FILE_HANDLING/file_handling_FINAL.cpp
         DSA/DP/DP_CN/fib.cpp DSA/DP/DP_CN/min_steps.cpp DSA/DP/DP_CN/min_count.cpp

@@ -431,27 +431,6 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_use.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/delete_a_node.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/display_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/get_node_value.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_head.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_middle.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_tail.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/reverse_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -605,10 +584,10 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/merge_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/quick_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp">
@@ -698,6 +677,21 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/function_templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/overloading_templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/templates2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/unordered_maps.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/BST/BST_impl.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -738,21 +732,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/selectionSort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/Templates/function_templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/Templates/overloading_templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/Templates/templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/Templates/templates2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/Templates/unordered_maps.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp">
@@ -1062,6 +1041,27 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/delete_a_node.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/display_LL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/get_node_value.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_head.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_middle.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_tail.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/reverse_LL.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/main.cpp">

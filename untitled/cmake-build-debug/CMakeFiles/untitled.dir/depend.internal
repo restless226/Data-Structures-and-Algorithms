@@ -197,106 +197,12 @@ CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/EXPONENTATION/matrix_exp.cpp
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/EXPONENTATION/mod_exp.cpp
-CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/EXP_TREE/exp_tree_impl.cpp
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling.cpp
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_2.cpp
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_FINAL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/check_array_equality.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Arrays/check_array_equality.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/fighting_darkness.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Arrays/fighting_darkness.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/rotate_array.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Arrays/rotate_array.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/Add_1_to_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/Add_1_to_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/Identical_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/Identical_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/LL_insertion.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/LL_insertion.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/LL_length_even_or_odd.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/LL_length_even_or_odd.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/Stack.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/Stack.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/compare_two_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/compare_two_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/count_nodes.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/count_nodes.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/delete_alternate_nodes.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/delete_alternate_nodes.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/delete_without_head_pointer.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/delete_without_head_pointer.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/find_middle_of_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/find_middle_of_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/insert_in_middle.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/insert_in_middle.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/node_at_given_index.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/node_at_given_index.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/occurance_in_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/occurance_in_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/sort_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/sort_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/subtraction_in_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/subtraction_in_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/LL/sum_of_last_n_nodes.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/STL_queue.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/STL_queue.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/generate_binary_no.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/generate_binary_no.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_push_and_pop.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/queue_push_and_pop.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_reversal.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/queue_reversal.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/queue_using_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_array.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/queue_using_array.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_two_stacks.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Queue/queue_using_two_stacks.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/delete_middle_element_of_stack.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/get_min_at_pop.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/get_min_at_pop.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/immediate_smaller_element.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/immediate_smaller_element.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/impl_two_stacks_in_array.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/pairwise_consecutive_elements.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/print_bracket_no.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/print_bracket_no.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/remove_repeated_digits.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/remove_repeated_digits.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/reverse_a_string.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/reverse_a_string.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/sorting_stack.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/sorting_stack.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/special_stack.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/special_stack.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_designer.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/stack_designer.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/stack_using_LL.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_array.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/stack_using_array.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_two_queues.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/stack_using_two_queues.cpp
-CMakeFiles/untitled.dir/DSA/GFG/Stack/valid_substring.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/Stack/valid_substring.cpp
-CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/Djikstras.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
@@ -321,20 +227,6 @@ CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_main.cpp
 CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_use.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/delete_a_node.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/delete_a_node.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/display_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/display_LL.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/get_node_value.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/get_node_value.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_head.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_head.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_middle.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_middle.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/insert_at_tail.cpp
-CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HackerRank/reverse_LL.cpp
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj
@@ -421,10 +313,6 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/Lists.cpp
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj
@@ -443,6 +331,8 @@ CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
+CMakeFiles/untitled.dir/DSA/Stack/EXP_TREE/exp_tree_impl.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_TREE/exp_tree_impl.cpp
 CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/infix_to_postfix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp
 CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/infix_to_prefix.cpp.obj
@@ -522,6 +412,10 @@ CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_code.cpp
 CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_using_LL.cpp
+CMakeFiles/untitled.dir/DSA/sorting_algorithms/merge_sort.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/merge_sort.cpp
+CMakeFiles/untitled.dir/DSA/sorting_algorithms/quick_sort.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/quick_sort.cpp
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj
@@ -610,6 +504,112 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Arrays/check_array_equality.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Arrays/fighting_darkness.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Arrays/rotate_array.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/Add_1_to_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/Identical_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/LL_insertion.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/LL_length_even_or_odd.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/Stack.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/compare_two_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/count_nodes.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/delete_alternate_nodes.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/delete_without_head_pointer.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/find_middle_of_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/insert_in_middle.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/node_at_given_index.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/occurance_in_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/sort_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/subtraction_in_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/LL/sum_of_last_n_nodes.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/STL_queue.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/generate_binary_no.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/queue_push_and_pop.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/queue_reversal.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/queue_using_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/queue_using_array.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Queue/queue_using_two_stacks.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/delete_middle_element_of_stack.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/get_min_at_pop.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/immediate_smaller_element.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/impl_two_stacks_in_array.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/pairwise_consecutive_elements.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/print_bracket_no.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/remove_repeated_digits.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/reverse_a_string.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/sorting_stack.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/special_stack.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/stack_designer.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/stack_using_LL.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/stack_using_array.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/stack_using_two_queues.cpp
+CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Stack/valid_substring.cpp
+CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/delete_a_node.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/display_LL.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/get_node_value.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_head.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_middle.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/insert_at_tail.cpp
+CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/reverse_LL.cpp
 CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/main.cpp
 CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj

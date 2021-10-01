@@ -197,105 +197,11 @@ CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj: ../DSA/EXPONENTATI
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj: ../DSA/EXPONENTATION/mod_exp.cpp
 
-CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.obj: ../DSA/EXP_TREE/exp_tree_impl.cpp
-
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj: ../DSA/FILE_HANDLING/file_handling.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: ../DSA/FILE_HANDLING/file_handling_2.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: ../DSA/FILE_HANDLING/file_handling_FINAL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/check_array_equality.cpp.obj: ../DSA/GFG/Arrays/check_array_equality.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/fighting_darkness.cpp.obj: ../DSA/GFG/Arrays/fighting_darkness.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Arrays/rotate_array.cpp.obj: ../DSA/GFG/Arrays/rotate_array.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/Add_1_to_LL.cpp.obj: ../DSA/GFG/LL/Add_1_to_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj: ../DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj: ../DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/Identical_LL.cpp.obj: ../DSA/GFG/LL/Identical_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/LL_insertion.cpp.obj: ../DSA/GFG/LL/LL_insertion.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/LL_length_even_or_odd.cpp.obj: ../DSA/GFG/LL/LL_length_even_or_odd.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/Stack.cpp.obj: ../DSA/GFG/LL/Stack.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/compare_two_LL.cpp.obj: ../DSA/GFG/LL/compare_two_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/count_nodes.cpp.obj: ../DSA/GFG/LL/count_nodes.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj: ../DSA/GFG/LL/decimal_eq_of_binary_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/delete_alternate_nodes.cpp.obj: ../DSA/GFG/LL/delete_alternate_nodes.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/delete_without_head_pointer.cpp.obj: ../DSA/GFG/LL/delete_without_head_pointer.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/find_middle_of_LL.cpp.obj: ../DSA/GFG/LL/find_middle_of_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/insert_in_middle.cpp.obj: ../DSA/GFG/LL/insert_in_middle.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj: ../DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/node_at_given_index.cpp.obj: ../DSA/GFG/LL/node_at_given_index.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/occurance_in_LL.cpp.obj: ../DSA/GFG/LL/occurance_in_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/sort_LL.cpp.obj: ../DSA/GFG/LL/sort_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/subtraction_in_LL.cpp.obj: ../DSA/GFG/LL/subtraction_in_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj: ../DSA/GFG/LL/sum_of_last_n_nodes.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/STL_queue.cpp.obj: ../DSA/GFG/Queue/STL_queue.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/generate_binary_no.cpp.obj: ../DSA/GFG/Queue/generate_binary_no.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_push_and_pop.cpp.obj: ../DSA/GFG/Queue/queue_push_and_pop.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_reversal.cpp.obj: ../DSA/GFG/Queue/queue_reversal.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_LL.cpp.obj: ../DSA/GFG/Queue/queue_using_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_array.cpp.obj: ../DSA/GFG/Queue/queue_using_array.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_two_stacks.cpp.obj: ../DSA/GFG/Queue/queue_using_two_stacks.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj: ../DSA/GFG/Stack/delete_middle_element_of_stack.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/get_min_at_pop.cpp.obj: ../DSA/GFG/Stack/get_min_at_pop.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/immediate_smaller_element.cpp.obj: ../DSA/GFG/Stack/immediate_smaller_element.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj: ../DSA/GFG/Stack/impl_two_stacks_in_array.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj: ../DSA/GFG/Stack/pairwise_consecutive_elements.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/print_bracket_no.cpp.obj: ../DSA/GFG/Stack/print_bracket_no.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/remove_repeated_digits.cpp.obj: ../DSA/GFG/Stack/remove_repeated_digits.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/reverse_a_string.cpp.obj: ../DSA/GFG/Stack/reverse_a_string.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/sorting_stack.cpp.obj: ../DSA/GFG/Stack/sorting_stack.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/special_stack.cpp.obj: ../DSA/GFG/Stack/special_stack.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_designer.cpp.obj: ../DSA/GFG/Stack/stack_designer.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_LL.cpp.obj: ../DSA/GFG/Stack/stack_using_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_array.cpp.obj: ../DSA/GFG/Stack/stack_using_array.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_two_queues.cpp.obj: ../DSA/GFG/Stack/stack_using_two_queues.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/Stack/valid_substring.cpp.obj: ../DSA/GFG/Stack/valid_substring.cpp
-
-CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj: ../DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj: ../DSA/GRAPHS/Djikstras.cpp
 
@@ -320,20 +226,6 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
 CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj: ../DSA/HEAP/heap_use.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/delete_a_node.cpp.obj: ../DSA/HackerRank/delete_a_node.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/display_LL.cpp.obj: ../DSA/HackerRank/display_LL.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/get_node_value.cpp.obj: ../DSA/HackerRank/get_node_value.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_head.cpp.obj: ../DSA/HackerRank/insert_at_head.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_middle.cpp.obj: ../DSA/HackerRank/insert_at_middle.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.obj: ../DSA/HackerRank/insert_at_tail.cpp
-
-CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.obj: ../DSA/HackerRank/reverse_LL.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj: ../DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
 
@@ -421,10 +313,6 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj: ../DSA/SLIDIN
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp
-
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
-
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj: ../DSA/STL/Lists.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj: ../DSA/STL/function_objects.cpp
@@ -442,6 +330,8 @@ CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/EXP_TREE/exp_tree_impl.cpp.obj: ../DSA/STACK/EXP_TREE/exp_tree_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/infix_to_postfix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp
 
@@ -521,6 +411,10 @@ CMakeFiles/untitled.dir/DSA/queue/queue_again/queue_main.cpp.obj: ../DSA/QUEUE/q
 CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.obj: ../DSA/QUEUE/queue_code.cpp
 
 CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.obj: ../DSA/QUEUE/queue_using_LL.cpp
+
+CMakeFiles/untitled.dir/DSA/sorting_algorithms/merge_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/merge_sort.cpp
+
+CMakeFiles/untitled.dir/DSA/sorting_algorithms/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/quick_sort.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp
 
@@ -609,6 +503,112 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj: ../
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj: ../OLD/GFG/Arrays/check_array_equality.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj: ../OLD/GFG/Arrays/fighting_darkness.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj: ../OLD/GFG/Arrays/rotate_array.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj: ../OLD/GFG/LL/Add_1_to_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj: ../OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj: ../OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj: ../OLD/GFG/LL/Identical_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj: ../OLD/GFG/LL/LL_insertion.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj: ../OLD/GFG/LL/LL_length_even_or_odd.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj: ../OLD/GFG/LL/Stack.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj: ../OLD/GFG/LL/compare_two_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj: ../OLD/GFG/LL/count_nodes.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj: ../OLD/GFG/LL/decimal_eq_of_binary_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj: ../OLD/GFG/LL/delete_alternate_nodes.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj: ../OLD/GFG/LL/delete_without_head_pointer.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj: ../OLD/GFG/LL/find_middle_of_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj: ../OLD/GFG/LL/insert_in_middle.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj: ../OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj: ../OLD/GFG/LL/node_at_given_index.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj: ../OLD/GFG/LL/occurance_in_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj: ../OLD/GFG/LL/sort_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj: ../OLD/GFG/LL/subtraction_in_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj: ../OLD/GFG/LL/sum_of_last_n_nodes.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj: ../OLD/GFG/Queue/STL_queue.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj: ../OLD/GFG/Queue/generate_binary_no.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj: ../OLD/GFG/Queue/queue_push_and_pop.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj: ../OLD/GFG/Queue/queue_reversal.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj: ../OLD/GFG/Queue/queue_using_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj: ../OLD/GFG/Queue/queue_using_array.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj: ../OLD/GFG/Queue/queue_using_two_stacks.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj: ../OLD/GFG/Stack/delete_middle_element_of_stack.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj: ../OLD/GFG/Stack/get_min_at_pop.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj: ../OLD/GFG/Stack/immediate_smaller_element.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj: ../OLD/GFG/Stack/impl_two_stacks_in_array.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj: ../OLD/GFG/Stack/pairwise_consecutive_elements.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj: ../OLD/GFG/Stack/print_bracket_no.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj: ../OLD/GFG/Stack/remove_repeated_digits.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj: ../OLD/GFG/Stack/reverse_a_string.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj: ../OLD/GFG/Stack/sorting_stack.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj: ../OLD/GFG/Stack/special_stack.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj: ../OLD/GFG/Stack/stack_designer.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj: ../OLD/GFG/Stack/stack_using_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj: ../OLD/GFG/Stack/stack_using_array.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj: ../OLD/GFG/Stack/stack_using_two_queues.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj: ../OLD/GFG/Stack/valid_substring.cpp
+
+CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj: ../OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj: ../OLD/HackerRank/delete_a_node.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj: ../OLD/HackerRank/display_LL.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj: ../OLD/HackerRank/get_node_value.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj: ../OLD/HackerRank/insert_at_head.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj: ../OLD/HackerRank/insert_at_middle.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj: ../OLD/HackerRank/insert_at_tail.cpp
+
+CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj: ../OLD/HackerRank/reverse_LL.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.obj: ../ROUGH_FILES/main.cpp
 
