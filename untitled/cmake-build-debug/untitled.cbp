@@ -80,19 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/file_handling.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/file_handling.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/fractional_knapsack_using_greedy.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/knapsack_01.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/knapsack_01.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/merge_sort.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/merge_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA/n_queens.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/n_queens.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/DM_lists.cpp">
@@ -102,636 +102,6 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/occurances.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BACKTRACKING/n_queens.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BACKTRACKING/rat_in_a_maze.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/aggressive_cows.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/bs.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/find_nth_root.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/next_alphabetical_element.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/peak_element.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/smallest_factorial_no.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/deque2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/deque3.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/dequeue.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_all_possible_paths.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_no_of_substrings.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/distinct_occurrences.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/fib.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/get_min_squares.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/gold_mine.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/loot_houses.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/lus.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/max_cost_path.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/min_cost_path.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/min_count.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/min_no_of_jumps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/min_steps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/min_steps_to_dest.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/print_all_ss_of_a_string.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/string_ss.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/sus.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/edit_distance.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/lcs.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/lcs_of_3_strings.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/longest_common_substring.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/lrs.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/scs.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LCS/sequence_pattern_matching.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LPS/lps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/boolean_parenthesization.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/egg_dropping.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/mcm.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/palindromic_partitioning.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/scrambled_string.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/bell_numbers.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/box_stacking.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/friends_pairing.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/interleaved_strings.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/las.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/lbs.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/lcis.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/lis.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/longest_subsequence_-1.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_chain_length.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_product_subarray.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/msis.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/pascal_triangle.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/word_break.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/knapsack_01.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/min_sum_partition.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/subset_sum.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/knapsack_01_variations/target_sum.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/coin_change_one.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/coin_change_two.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/rod_cutting.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/EXPONENTATION/matrix_exp.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/EXPONENTATION/mod_exp.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_FINAL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/Djikstras.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/Prim.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/MST_Prim.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/MST_Prim2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/MST_kruskal.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/graph.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/graph2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_use.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Double_LL/double_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/LinkedList_CN/LL_node.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Single_LL/List.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Single_LL/List_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Single_LL/list_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/MATRIX/matrix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/circular_queue.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_again/queue_final.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_again/queue_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_again/queue_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_code.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/QUEUE/queue_using_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/all_indices.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/all_unique_permutations_of_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/delete_middle_element_of_stack.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/fib.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/find_char_arr_length.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/first_index.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/generate_all_balanced_paranthesis.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/handshakes.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/is_array_sorted.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/josephus_problem.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/kth_symbol_in_grammar.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/last_index.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/letter_case_permutation.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/lucky_numbers.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/pascal_triangle.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/permutation_with_case_change.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/permutation_with_spaces.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/power_set.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/reverse_stack.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/sort_array.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/sort_stack.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/string_permutations.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/unique_subsets.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/merge_sort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/quick_sort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_TREE/exp_tree.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_TREE/exp_tree_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/stack_code.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/Stack/stack_using_LL.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/celebrity.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/mah.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/mar.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/ngl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/ngr.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/nsl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/nsr.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/rwt.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/stack_2/stack_again.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/stack_assignment">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/stack_assignment/linkedlistwithstack.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/stock_span.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/Lists.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/function_objects.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/hashing.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/maps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/priority_queue.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/sets.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/function_templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/overloading_templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/templates.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/templates2.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/unordered_maps.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/BST/BST_impl.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/BST_CN/BST.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/BST_CN/BST_use.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Binary_Trees_CN/binary_tree_node.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/TBT/TBT.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Trees_CN/tree_node.h">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Trees_CN/tree_use.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/BubbleSort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/InsertionSort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/MergeSort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/QuickSort.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/sorting_algorithms/selectionSort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp">
@@ -903,6 +273,636 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BACKTRACKING/n_queens.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BACKTRACKING/rat_in_a_maze.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/aggressive_cows.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/allocate_min_no_of_pages.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/bs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/cell_in_a_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/find_nth_root.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/first_and_last_occurrence.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/floor_in_a_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/next_alphabetical_element.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/peak_element.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/search_in_sorted_matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/BINARY_SEARCH/smallest_factorial_no.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DEQUEUE/deque2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DEQUEUE/deque3.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DEQUEUE/dequeue.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/count_all_possible_paths.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/count_no_of_substrings.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/count_ways_to_reach_nth_stair.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/distinct_occurrences.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/fib.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/get_min_squares.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/gold_mine.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/loot_houses.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/lus.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/max_cost_path.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/min_cost_path.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/min_count.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/min_no_of_jumps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/min_steps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/min_steps_to_dest.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/print_all_ss_of_a_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/string_ss.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_CN/sus.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/edit_distance.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/lcs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/lcs_of_3_strings.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/longest_common_substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/lrs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/scs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LCS/sequence_pattern_matching.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LPS/longest_palindrome_in_a_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LPS/lps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LPS/min_deletions_to_make_palindrome.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_LPS/min_insertions_to_form_palindrome.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_MCM/boolean_parenthesization.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_MCM/egg_dropping.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_MCM/mcm.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_MCM/palindromic_partitioning.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/DP_MCM/scrambled_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/bell_numbers.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/box_stacking.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/friends_pairing.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/interleaved_strings.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/las.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/lbs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/lcis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/lis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/longest_subsequence_-1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/max_chain_length.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/max_product_subarray.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/msis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/no_of_distinct_ss.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/pascal_triangle.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/wildcard_pattern_matching.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/TECH_DOSE/word_break.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/equal_sum_partition.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/knapsack_01.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/min_sum_partition.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/subset_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/knapsack_01_variations/target_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/unbounded_knapsack/coin_change_one.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/unbounded_knapsack/coin_change_two.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/unbounded_knapsack/rod_cutting.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/EXPONENTATION/matrix_exp.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/EXPONENTATION/mod_exp.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/FILE_HANDLING/file_handling.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/FILE_HANDLING/file_handling_2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/FILE_HANDLING/file_handling_FINAL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/Djikstras.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/GRAPHS_CN/Dijikstras.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/GRAPHS_CN/Prim.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/GRAPHS_CN/grpahs_use.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/GRAPHS_CN/kruskal.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/MST_Prim.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/MST_Prim2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/MST_kruskal.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/GRAPHS/graph2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/HEAP/heap.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/HEAP/heap_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/HEAP/heap_use.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Circular_LL/Circular_LL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Double_LL/double_LL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/LinkedList_CN/LL_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/LinkedList_CN/LL_node.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/LinkedList_CN/LL_node.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Single_LL/List.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Single_LL/List_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/LINKED_LIST/Single_LL/list_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/MATRIX/matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/circular_queue.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/queue_again/queue_final.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/queue_again/queue_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/queue_again/queue_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/queue_code.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/QUEUE/queue_using_LL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/all_indices.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/all_unique_permutations_of_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/delete_middle_element_of_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/fib.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/find_char_arr_length.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/first_index.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/generate_all_balanced_paranthesis.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/handshakes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/is_array_sorted.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/josephus_problem.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/kth_symbol_in_grammar.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/last_index.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/letter_case_permutation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/lucky_numbers.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/pascal_triangle.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/permutation_with_case_change.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/permutation_with_spaces.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/power_set.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/reverse_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/sort_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/sort_stack.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/string_permutations.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/RECURSION/unique_subsets.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/min_window_substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/pick_toys.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SORTING_ALGORITHMS/merge_sort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/SORTING_ALGORITHMS/quick_sort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/EXP_TREE/exp_tree.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/EXP_TREE/exp_tree_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/Expression_conversions/infix_to_postfix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/Expression_conversions/infix_to_prefix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/Expression_conversions/postfix_to_infix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/Expression_conversions/prefix_to_infix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/stack_code.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/Stack/stack_using_LL.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/celebrity.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/mah.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/mar.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/ngl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/ngr.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/nsl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/nsr.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/rwt.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/stack_2/stack_again.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/stack_assignment">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/stack_assignment/linkedlistwithstack.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STACK/stock_span.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/Lists.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/function_objects.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/hashing.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/maps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/priority_queue.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/sets.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/STL/vectors_tut.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TEMPLATES/function_templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TEMPLATES/overloading_templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TEMPLATES/templates.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TEMPLATES/templates2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TEMPLATES/unordered_maps.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/BST/BST_impl.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/BST_CN/BST.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/BST_CN/BST_use.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/Binary_Trees_CN/binary_tree_main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/Binary_Trees_CN/binary_tree_node.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/Binary_Trees_CN/binary_tree_use.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/TBT/TBT.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/Trees_CN/tree_node.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/Trees_CN/tree_use.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/sorting_algorithms/BubbleSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/sorting_algorithms/InsertionSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/sorting_algorithms/MergeSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/sorting_algorithms/QuickSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA_PROBLEM_SOLVING/TREES/sorting_algorithms/selectionSort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/GFG/Arrays/check_array_equality.cpp">
