@@ -96,8 +96,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
         DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS/GRAPHS_CN/kruskal.cpp DSA/GRAPHS/GRAPHS_CN/Prim.cpp
         DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
-        DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/merge_sort.cpp
-        DSA/SORTING_ALGORITHMS/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
+        DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
+        DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
         DSA/STACK/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
         DSA/FILE_HANDLING/file_handling_2.cpp DSA/FILE_HANDLING/file_handling_FINAL.cpp
         DSA/DP/DP_CN/fib.cpp DSA/DP/DP_CN/min_steps.cpp DSA/DP/DP_CN/min_count.cpp

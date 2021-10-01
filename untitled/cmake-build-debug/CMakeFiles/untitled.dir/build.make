@@ -2429,31 +2429,31 @@ CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s: c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_prefix.cpp -o CMakeFiles\untitled.dir\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_prefix.cpp.s
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/merge_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\merge_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\merge_sort.cpp
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\merge_sort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\merge_sort.cpp.i
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp.i
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\merge_sort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\merge_sort.cpp.s
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp.s
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/quick_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\quick_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\quick_sort.cpp
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\quick_sort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\quick_sort.cpp.i
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp.i
 
-CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\quick_sort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\quick_sort.cpp.s
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp.s
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj: ../DSA/STACK/EXP_TREE/exp_tree_impl.cpp
@@ -4367,8 +4367,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj" \
@@ -4687,8 +4687,8 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj

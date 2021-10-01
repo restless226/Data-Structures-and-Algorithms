@@ -4570,59 +4570,59 @@ DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
 .PHONY : DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
 
-DSA/SORTING_ALGORITHMS/merge_sort.obj: DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.obj: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
 
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.obj
-
-# target to build an object file
-DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.obj
-
-DSA/SORTING_ALGORITHMS/merge_sort.i: DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
-
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.i
-
-# target to preprocess a source file
-DSA/SORTING_ALGORITHMS/merge_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.i
-
-DSA/SORTING_ALGORITHMS/merge_sort.s: DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
-
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.s
-
-# target to generate assembly for a file
-DSA/SORTING_ALGORITHMS/merge_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
-.PHONY : DSA/SORTING_ALGORITHMS/merge_sort.cpp.s
-
-DSA/SORTING_ALGORITHMS/quick_sort.obj: DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
-
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.obj
 
 # target to build an object file
-DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.obj
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
 
-DSA/SORTING_ALGORITHMS/quick_sort.i: DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.i: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i
 
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.i
 
 # target to preprocess a source file
-DSA/SORTING_ALGORITHMS/quick_sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.i
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i
 
-DSA/SORTING_ALGORITHMS/quick_sort.s: DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.s: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s
 
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.s
 
 # target to generate assembly for a file
-DSA/SORTING_ALGORITHMS/quick_sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
-.PHONY : DSA/SORTING_ALGORITHMS/quick_sort.cpp.s
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.obj: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.i: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.s: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s
 
 DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
@@ -9175,12 +9175,12 @@ help:
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
-	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.obj
-	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.i
-	@echo ... DSA/SORTING_ALGORITHMS/merge_sort.s
-	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.obj
-	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.i
-	@echo ... DSA/SORTING_ALGORITHMS/quick_sort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.s
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
 	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
