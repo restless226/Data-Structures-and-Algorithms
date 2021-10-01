@@ -15,7 +15,7 @@
 //    int i = 0;    // window back pointer
 //    int j = 0;    // window front pointer
 //
-//    queue<int> q;
+//    QUEUE<int> q;
 //    vector<int> ans;
 //
 //    while (j < n) {

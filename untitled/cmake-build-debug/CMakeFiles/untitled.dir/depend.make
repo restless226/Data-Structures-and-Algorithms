@@ -63,15 +63,6 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.o
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../DSA/BINARY_SEARCH/smallest_factorial_no.cpp
 
-CMakeFiles/untitled.dir/DSA/BST/BST_impl.cpp.obj: ../DSA/BST/BST_impl.cpp
-
-CMakeFiles/untitled.dir/DSA/BST_CN/BST_use.cpp.obj: ../DSA/BST_CN/BST_use.cpp
-
-CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_main.cpp.obj: ../DSA/Binary_Trees_CN/binary_tree_main.cpp
-CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_main.cpp.obj: ../DSA/Binary_Trees_CN/binary_tree_node.h
-
-CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_use.cpp.obj: ../DSA/Binary_Trees_CN/binary_tree_use.cpp
-
 CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_all_possible_paths.cpp.obj: ../DSA/DP/DP_CN/count_all_possible_paths.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_no_of_substrings.cpp.obj: ../DSA/DP/DP_CN/count_no_of_substrings.cpp
@@ -206,10 +197,6 @@ CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj: ../DSA/EXPONENTATI
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj: ../DSA/EXPONENTATION/mod_exp.cpp
 
-CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
-
-CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
-
 CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.obj: ../DSA/EXP_TREE/exp_tree_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj: ../DSA/FILE_HANDLING/file_handling.cpp
@@ -312,6 +299,14 @@ CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj: ../DSA/GRAPHS/Djikstras.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Prim.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj: ../DSA/GRAPHS/MST_Prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj: ../DSA/GRAPHS/MST_Prim2.cpp
@@ -321,14 +316,6 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj: ../DSA/GRAPHS/MST_kruska
 CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj: ../DSA/GRAPHS/graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
-
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS_CN/Dijikstras.cpp
-
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS_CN/Prim.cpp
-
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS_CN/grpahs_use.cpp
-
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS_CN/kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
 
@@ -348,21 +335,21 @@ CMakeFiles/untitled.dir/DSA/HackerRank/insert_at_tail.cpp.obj: ../DSA/HackerRank
 
 CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.obj: ../DSA/HackerRank/reverse_LL.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Circular_LL/Circular_LL.cpp.obj: ../DSA/LinkedList/Circular_LL/Circular_LL.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj: ../DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Double_LL/double_LL.cpp.obj: ../DSA/LinkedList/Double_LL/double_LL.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj: ../DSA/LINKED_LIST/Double_LL/double_LL.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.obj: ../DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj: ../DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.obj: ../DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj: ../DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/List_impl.cpp.obj: ../DSA/LinkedList/Single_LL/List_impl.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj: ../DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/list_main.cpp.obj: ../DSA/LinkedList/Single_LL/list_main.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj: ../DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_main.cpp.obj: ../DSA/LinkedList_CN/LL_main.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj: ../DSA/LINKED_LIST/Single_LL/List_impl.cpp
 
-CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_node.cpp.obj: ../DSA/LinkedList_CN/LL_node.cpp
+CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj: ../DSA/LINKED_LIST/Single_LL/list_main.cpp
 
 CMakeFiles/untitled.dir/DSA/MATRIX/matrix.cpp.obj: ../DSA/MATRIX/matrix.cpp
 
@@ -381,6 +368,8 @@ CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.obj: ../DSA/RECUR
 CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.obj: ../DSA/RECURSION/first_index.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.obj: ../DSA/RECURSION/generate_all_balanced_paranthesis.cpp
+
+CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj: ../DSA/RECURSION/handshakes.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.obj: ../DSA/RECURSION/is_array_sorted.cpp
 
@@ -436,24 +425,6 @@ CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/merge_sort.cpp.obj: ../DSA/
 
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp
 
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/celebrity.cpp.obj: ../DSA/STACK_PROBLEMS/celebrity.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mah.cpp.obj: ../DSA/STACK_PROBLEMS/mah.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mar.cpp.obj: ../DSA/STACK_PROBLEMS/mar.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngl.cpp.obj: ../DSA/STACK_PROBLEMS/ngl.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngr.cpp.obj: ../DSA/STACK_PROBLEMS/ngr.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsl.cpp.obj: ../DSA/STACK_PROBLEMS/nsl.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsr.cpp.obj: ../DSA/STACK_PROBLEMS/nsr.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/rwt.cpp.obj: ../DSA/STACK_PROBLEMS/rwt.cpp
-
-CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/stock_span.cpp.obj: ../DSA/STACK_PROBLEMS/stock_span.cpp
-
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj: ../DSA/STL/Lists.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj: ../DSA/STL/function_objects.cpp
@@ -468,17 +439,62 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_postfix.cpp.obj: ../DSA/Stack/Expression_conversions/infix_to_postfix.cpp
+CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_prefix.cpp.obj: ../DSA/Stack/Expression_conversions/infix_to_prefix.cpp
+CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/postfix_to_infix.cpp.obj: ../DSA/Stack/Expression_conversions/postfix_to_infix.cpp
+CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/infix_to_postfix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/prefix_to_infix.cpp.obj: ../DSA/Stack/Expression_conversions/prefix_to_infix.cpp
+CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/infix_to_prefix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/stack_code.cpp.obj: ../DSA/Stack/stack_code.cpp
+CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/postfix_to_infix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp
 
-CMakeFiles/untitled.dir/DSA/Stack/stack_using_LL.cpp.obj: ../DSA/Stack/stack_using_LL.cpp
+CMakeFiles/untitled.dir/DSA/Stack/Stack/Expression_conversions/prefix_to_infix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/Stack/stack_code.cpp.obj: ../DSA/STACK/Stack/stack_code.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/Stack/stack_using_LL.cpp.obj: ../DSA/STACK/Stack/stack_using_LL.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/celebrity.cpp.obj: ../DSA/STACK/celebrity.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/mah.cpp.obj: ../DSA/STACK/mah.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/mar.cpp.obj: ../DSA/STACK/mar.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/ngl.cpp.obj: ../DSA/STACK/ngl.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/ngr.cpp.obj: ../DSA/STACK/ngr.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/nsl.cpp.obj: ../DSA/STACK/nsl.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/nsr.cpp.obj: ../DSA/STACK/nsr.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/rwt.cpp.obj: ../DSA/STACK/rwt.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/stack_2/stack_again.cpp.obj: ../DSA/STACK/stack_2/stack_again.cpp
+
+CMakeFiles/untitled.dir/DSA/Stack/stock_span.cpp.obj: ../DSA/STACK/stock_span.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj: ../DSA/TREES/BST/BST_impl.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj: ../DSA/TREES/BST_CN/BST_use.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj: ../DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp
+CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj: ../DSA/TREES/Binary_Trees_CN/binary_tree_node.h
+
+CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj: ../DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj: ../DSA/TREES/Trees_CN/tree_use.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj: ../DSA/TREES/sorting_algorithms/BubbleSort.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj: ../DSA/TREES/sorting_algorithms/InsertionSort.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj: ../DSA/TREES/sorting_algorithms/MergeSort.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj: ../DSA/TREES/sorting_algorithms/QuickSort.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj: ../DSA/TREES/sorting_algorithms/selectionSort.cpp
 
 CMakeFiles/untitled.dir/DSA/Templates/function_templates.cpp.obj: ../DSA/Templates/function_templates.cpp
 
@@ -490,35 +506,27 @@ CMakeFiles/untitled.dir/DSA/Templates/templates2.cpp.obj: ../DSA/Templates/templ
 
 CMakeFiles/untitled.dir/DSA/Templates/unordered_maps.cpp.obj: ../DSA/Templates/unordered_maps.cpp
 
-CMakeFiles/untitled.dir/DSA/Trees_CN/tree_use.cpp.obj: ../DSA/Trees_CN/tree_use.cpp
-
-CMakeFiles/untitled.dir/DSA/algorithms/SORTING/BubbleSort.cpp.obj: ../DSA/algorithms/SORTING/BubbleSort.cpp
-
-CMakeFiles/untitled.dir/DSA/algorithms/SORTING/InsertionSort.cpp.obj: ../DSA/algorithms/SORTING/InsertionSort.cpp
-
-CMakeFiles/untitled.dir/DSA/algorithms/SORTING/MergeSort.cpp.obj: ../DSA/algorithms/SORTING/MergeSort.cpp
-
-CMakeFiles/untitled.dir/DSA/algorithms/SORTING/QuickSort.cpp.obj: ../DSA/algorithms/SORTING/QuickSort.cpp
-
-CMakeFiles/untitled.dir/DSA/algorithms/SORTING/selectionSort.cpp.obj: ../DSA/algorithms/SORTING/selectionSort.cpp
-
-CMakeFiles/untitled.dir/DSA/dequeue/deque2.cpp.obj: ../DSA/dequeue/deque2.cpp
+CMakeFiles/untitled.dir/DSA/dequeue/deque2.cpp.obj: ../DSA/DEQUEUE/deque2.cpp
 
 CMakeFiles/untitled.dir/DSA/dequeue/deque3.cpp.obj: ../DSA/dequeue/deque3.cpp
 
-CMakeFiles/untitled.dir/DSA/dequeue/dequeue.cpp.obj: ../DSA/dequeue/dequeue.cpp
+CMakeFiles/untitled.dir/DSA/dequeue/dequeue.cpp.obj: ../DSA/DEQUEUE/dequeue.cpp
 
-CMakeFiles/untitled.dir/DSA/queue/circular_queue.cpp.obj: ../DSA/queue/circular_queue.cpp
+CMakeFiles/untitled.dir/DSA/queue/circular_queue.cpp.obj: ../DSA/QUEUE/circular_queue.cpp
 
-CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.obj: ../DSA/queue/queue_code.cpp
+CMakeFiles/untitled.dir/DSA/queue/queue_again/queue_impl.cpp.obj: ../DSA/QUEUE/queue_again/queue_impl.cpp
 
-CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.obj: ../DSA/queue/queue_using_LL.cpp
+CMakeFiles/untitled.dir/DSA/queue/queue_again/queue_main.cpp.obj: ../DSA/QUEUE/queue_again/queue_main.cpp
 
-CMakeFiles/untitled.dir/DSAL_mock/DSA_mock_test.cpp.obj: ../DSAL_mock/DSA_mock_test.cpp
+CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.obj: ../DSA/QUEUE/queue_code.cpp
 
-CMakeFiles/untitled.dir/DSAL_mock/impl.cpp.obj: ../DSAL_mock/impl.cpp
+CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.obj: ../DSA/QUEUE/queue_using_LL.cpp
 
-CMakeFiles/untitled.dir/DSAL_mock/main.cpp.obj: ../DSAL_mock/main.cpp
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/impl.cpp
+
+CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj: ../DSA_ASSIGNMENTS/arrays_practice/array1.cpp
 
@@ -625,10 +633,4 @@ CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj: ../algorithm
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj: ../algorithmic_toolbox/week3/money_change.cpp
 
 CMakeFiles/untitled.dir/calculator/calculator_II.cpp.obj: ../calculator/calculator_II.cpp
-
-CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.obj: ../queue_again/queue_impl.cpp
-
-CMakeFiles/untitled.dir/queue_again/queue_main.cpp.obj: ../queue_again/queue_main.cpp
-
-CMakeFiles/untitled.dir/stack_2/stack_again.cpp.obj: ../stack_2/stack_again.cpp
 

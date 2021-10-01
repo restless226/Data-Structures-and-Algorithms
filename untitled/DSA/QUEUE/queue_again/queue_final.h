@@ -8,9 +8,10 @@
 //};
 //
 //class CircularQueue {
-//    int front, rear;
-//    int count;
-//    struct Student stu[40];
+//    private:
+//        int front, rear;
+//        int count;
+//        struct Student stu[40];
 //public:
 //    CircularQueue(int n) {
 //        count = n;

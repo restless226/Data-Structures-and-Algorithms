@@ -979,113 +979,86 @@ DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
 .PHONY : DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
 
-DSA/BST/BST_impl.obj: DSA/BST/BST_impl.cpp.obj
+DSA/DEQUEUE/deque2.obj: DSA/DEQUEUE/deque2.cpp.obj
 
-.PHONY : DSA/BST/BST_impl.obj
-
-# target to build an object file
-DSA/BST/BST_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST/BST_impl.cpp.obj
-.PHONY : DSA/BST/BST_impl.cpp.obj
-
-DSA/BST/BST_impl.i: DSA/BST/BST_impl.cpp.i
-
-.PHONY : DSA/BST/BST_impl.i
-
-# target to preprocess a source file
-DSA/BST/BST_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST/BST_impl.cpp.i
-.PHONY : DSA/BST/BST_impl.cpp.i
-
-DSA/BST/BST_impl.s: DSA/BST/BST_impl.cpp.s
-
-.PHONY : DSA/BST/BST_impl.s
-
-# target to generate assembly for a file
-DSA/BST/BST_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST/BST_impl.cpp.s
-.PHONY : DSA/BST/BST_impl.cpp.s
-
-DSA/BST_CN/BST_use.obj: DSA/BST_CN/BST_use.cpp.obj
-
-.PHONY : DSA/BST_CN/BST_use.obj
+.PHONY : DSA/DEQUEUE/deque2.obj
 
 # target to build an object file
-DSA/BST_CN/BST_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST_CN/BST_use.cpp.obj
-.PHONY : DSA/BST_CN/BST_use.cpp.obj
+DSA/DEQUEUE/deque2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj
+.PHONY : DSA/DEQUEUE/deque2.cpp.obj
 
-DSA/BST_CN/BST_use.i: DSA/BST_CN/BST_use.cpp.i
+DSA/DEQUEUE/deque2.i: DSA/DEQUEUE/deque2.cpp.i
 
-.PHONY : DSA/BST_CN/BST_use.i
+.PHONY : DSA/DEQUEUE/deque2.i
 
 # target to preprocess a source file
-DSA/BST_CN/BST_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST_CN/BST_use.cpp.i
-.PHONY : DSA/BST_CN/BST_use.cpp.i
+DSA/DEQUEUE/deque2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.i
+.PHONY : DSA/DEQUEUE/deque2.cpp.i
 
-DSA/BST_CN/BST_use.s: DSA/BST_CN/BST_use.cpp.s
+DSA/DEQUEUE/deque2.s: DSA/DEQUEUE/deque2.cpp.s
 
-.PHONY : DSA/BST_CN/BST_use.s
+.PHONY : DSA/DEQUEUE/deque2.s
 
 # target to generate assembly for a file
-DSA/BST_CN/BST_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BST_CN/BST_use.cpp.s
-.PHONY : DSA/BST_CN/BST_use.cpp.s
+DSA/DEQUEUE/deque2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.s
+.PHONY : DSA/DEQUEUE/deque2.cpp.s
 
-DSA/Binary_Trees_CN/binary_tree_main.obj: DSA/Binary_Trees_CN/binary_tree_main.cpp.obj
+DSA/DEQUEUE/deque3.obj: DSA/DEQUEUE/deque3.cpp.obj
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.obj
+.PHONY : DSA/DEQUEUE/deque3.obj
 
 # target to build an object file
-DSA/Binary_Trees_CN/binary_tree_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_main.cpp.obj
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.cpp.obj
+DSA/DEQUEUE/deque3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj
+.PHONY : DSA/DEQUEUE/deque3.cpp.obj
 
-DSA/Binary_Trees_CN/binary_tree_main.i: DSA/Binary_Trees_CN/binary_tree_main.cpp.i
+DSA/DEQUEUE/deque3.i: DSA/DEQUEUE/deque3.cpp.i
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.i
+.PHONY : DSA/DEQUEUE/deque3.i
 
 # target to preprocess a source file
-DSA/Binary_Trees_CN/binary_tree_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_main.cpp.i
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.cpp.i
+DSA/DEQUEUE/deque3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.i
+.PHONY : DSA/DEQUEUE/deque3.cpp.i
 
-DSA/Binary_Trees_CN/binary_tree_main.s: DSA/Binary_Trees_CN/binary_tree_main.cpp.s
+DSA/DEQUEUE/deque3.s: DSA/DEQUEUE/deque3.cpp.s
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.s
+.PHONY : DSA/DEQUEUE/deque3.s
 
 # target to generate assembly for a file
-DSA/Binary_Trees_CN/binary_tree_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_main.cpp.s
-.PHONY : DSA/Binary_Trees_CN/binary_tree_main.cpp.s
+DSA/DEQUEUE/deque3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.s
+.PHONY : DSA/DEQUEUE/deque3.cpp.s
 
-DSA/Binary_Trees_CN/binary_tree_use.obj: DSA/Binary_Trees_CN/binary_tree_use.cpp.obj
+DSA/DEQUEUE/dequeue.obj: DSA/DEQUEUE/dequeue.cpp.obj
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.obj
+.PHONY : DSA/DEQUEUE/dequeue.obj
 
 # target to build an object file
-DSA/Binary_Trees_CN/binary_tree_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_use.cpp.obj
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.cpp.obj
+DSA/DEQUEUE/dequeue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj
+.PHONY : DSA/DEQUEUE/dequeue.cpp.obj
 
-DSA/Binary_Trees_CN/binary_tree_use.i: DSA/Binary_Trees_CN/binary_tree_use.cpp.i
+DSA/DEQUEUE/dequeue.i: DSA/DEQUEUE/dequeue.cpp.i
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.i
+.PHONY : DSA/DEQUEUE/dequeue.i
 
 # target to preprocess a source file
-DSA/Binary_Trees_CN/binary_tree_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_use.cpp.i
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.cpp.i
+DSA/DEQUEUE/dequeue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.i
+.PHONY : DSA/DEQUEUE/dequeue.cpp.i
 
-DSA/Binary_Trees_CN/binary_tree_use.s: DSA/Binary_Trees_CN/binary_tree_use.cpp.s
+DSA/DEQUEUE/dequeue.s: DSA/DEQUEUE/dequeue.cpp.s
 
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.s
+.PHONY : DSA/DEQUEUE/dequeue.s
 
 # target to generate assembly for a file
-DSA/Binary_Trees_CN/binary_tree_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Binary_Trees_CN/binary_tree_use.cpp.s
-.PHONY : DSA/Binary_Trees_CN/binary_tree_use.cpp.s
+DSA/DEQUEUE/dequeue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.s
+.PHONY : DSA/DEQUEUE/dequeue.cpp.s
 
 DSA/DP/DP_CN/count_all_possible_paths.obj: DSA/DP/DP_CN/count_all_possible_paths.cpp.obj
 
@@ -2896,87 +2869,6 @@ DSA/EXPONENTATION/mod_exp.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.s
 .PHONY : DSA/EXPONENTATION/mod_exp.cpp.s
 
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
-
-# target to build an object file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
-
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i: DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
-
-# target to preprocess a source file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
-
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s: DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
-
-# target to generate assembly for a file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
-
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj: DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj
-
-# target to build an object file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
-
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i: DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i
-
-# target to preprocess a source file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
-
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s: DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
-
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s
-
-# target to generate assembly for a file
-DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
-.PHONY : DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
-
-DSA/EXP_TREE/exp_tree_impl.obj: DSA/EXP_TREE/exp_tree_impl.cpp.obj
-
-.PHONY : DSA/EXP_TREE/exp_tree_impl.obj
-
-# target to build an object file
-DSA/EXP_TREE/exp_tree_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.obj
-.PHONY : DSA/EXP_TREE/exp_tree_impl.cpp.obj
-
-DSA/EXP_TREE/exp_tree_impl.i: DSA/EXP_TREE/exp_tree_impl.cpp.i
-
-.PHONY : DSA/EXP_TREE/exp_tree_impl.i
-
-# target to preprocess a source file
-DSA/EXP_TREE/exp_tree_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.i
-.PHONY : DSA/EXP_TREE/exp_tree_impl.cpp.i
-
-DSA/EXP_TREE/exp_tree_impl.s: DSA/EXP_TREE/exp_tree_impl.cpp.s
-
-.PHONY : DSA/EXP_TREE/exp_tree_impl.s
-
-# target to generate assembly for a file
-DSA/EXP_TREE/exp_tree_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/EXP_TREE/exp_tree_impl.cpp.s
-.PHONY : DSA/EXP_TREE/exp_tree_impl.cpp.s
-
 DSA/FILE_HANDLING/file_handling.obj: DSA/FILE_HANDLING/file_handling.cpp.obj
 
 .PHONY : DSA/FILE_HANDLING/file_handling.obj
@@ -3058,1248 +2950,6 @@ DSA/FILE_HANDLING/file_handling_FINAL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 .PHONY : DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 
-DSA/GFG/Arrays/check_array_equality.obj: DSA/GFG/Arrays/check_array_equality.cpp.obj
-
-.PHONY : DSA/GFG/Arrays/check_array_equality.obj
-
-# target to build an object file
-DSA/GFG/Arrays/check_array_equality.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/check_array_equality.cpp.obj
-.PHONY : DSA/GFG/Arrays/check_array_equality.cpp.obj
-
-DSA/GFG/Arrays/check_array_equality.i: DSA/GFG/Arrays/check_array_equality.cpp.i
-
-.PHONY : DSA/GFG/Arrays/check_array_equality.i
-
-# target to preprocess a source file
-DSA/GFG/Arrays/check_array_equality.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/check_array_equality.cpp.i
-.PHONY : DSA/GFG/Arrays/check_array_equality.cpp.i
-
-DSA/GFG/Arrays/check_array_equality.s: DSA/GFG/Arrays/check_array_equality.cpp.s
-
-.PHONY : DSA/GFG/Arrays/check_array_equality.s
-
-# target to generate assembly for a file
-DSA/GFG/Arrays/check_array_equality.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/check_array_equality.cpp.s
-.PHONY : DSA/GFG/Arrays/check_array_equality.cpp.s
-
-DSA/GFG/Arrays/fighting_darkness.obj: DSA/GFG/Arrays/fighting_darkness.cpp.obj
-
-.PHONY : DSA/GFG/Arrays/fighting_darkness.obj
-
-# target to build an object file
-DSA/GFG/Arrays/fighting_darkness.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/fighting_darkness.cpp.obj
-.PHONY : DSA/GFG/Arrays/fighting_darkness.cpp.obj
-
-DSA/GFG/Arrays/fighting_darkness.i: DSA/GFG/Arrays/fighting_darkness.cpp.i
-
-.PHONY : DSA/GFG/Arrays/fighting_darkness.i
-
-# target to preprocess a source file
-DSA/GFG/Arrays/fighting_darkness.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/fighting_darkness.cpp.i
-.PHONY : DSA/GFG/Arrays/fighting_darkness.cpp.i
-
-DSA/GFG/Arrays/fighting_darkness.s: DSA/GFG/Arrays/fighting_darkness.cpp.s
-
-.PHONY : DSA/GFG/Arrays/fighting_darkness.s
-
-# target to generate assembly for a file
-DSA/GFG/Arrays/fighting_darkness.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/fighting_darkness.cpp.s
-.PHONY : DSA/GFG/Arrays/fighting_darkness.cpp.s
-
-DSA/GFG/Arrays/rotate_array.obj: DSA/GFG/Arrays/rotate_array.cpp.obj
-
-.PHONY : DSA/GFG/Arrays/rotate_array.obj
-
-# target to build an object file
-DSA/GFG/Arrays/rotate_array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/rotate_array.cpp.obj
-.PHONY : DSA/GFG/Arrays/rotate_array.cpp.obj
-
-DSA/GFG/Arrays/rotate_array.i: DSA/GFG/Arrays/rotate_array.cpp.i
-
-.PHONY : DSA/GFG/Arrays/rotate_array.i
-
-# target to preprocess a source file
-DSA/GFG/Arrays/rotate_array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/rotate_array.cpp.i
-.PHONY : DSA/GFG/Arrays/rotate_array.cpp.i
-
-DSA/GFG/Arrays/rotate_array.s: DSA/GFG/Arrays/rotate_array.cpp.s
-
-.PHONY : DSA/GFG/Arrays/rotate_array.s
-
-# target to generate assembly for a file
-DSA/GFG/Arrays/rotate_array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Arrays/rotate_array.cpp.s
-.PHONY : DSA/GFG/Arrays/rotate_array.cpp.s
-
-DSA/GFG/LL/Add_1_to_LL.obj: DSA/GFG/LL/Add_1_to_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/Add_1_to_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/Add_1_to_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_1_to_LL.cpp.obj
-.PHONY : DSA/GFG/LL/Add_1_to_LL.cpp.obj
-
-DSA/GFG/LL/Add_1_to_LL.i: DSA/GFG/LL/Add_1_to_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/Add_1_to_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/Add_1_to_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_1_to_LL.cpp.i
-.PHONY : DSA/GFG/LL/Add_1_to_LL.cpp.i
-
-DSA/GFG/LL/Add_1_to_LL.s: DSA/GFG/LL/Add_1_to_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/Add_1_to_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/Add_1_to_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_1_to_LL.cpp.s
-.PHONY : DSA/GFG/LL/Add_1_to_LL.cpp.s
-
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj: DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
-
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj
-
-# target to build an object file
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
-
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.i: DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
-
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.i
-
-# target to preprocess a source file
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
-
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.s: DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
-
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
-.PHONY : DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
-
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj: DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
-
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj
-
-# target to build an object file
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
-
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i: DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
-
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i
-
-# target to preprocess a source file
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
-
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s: DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
-
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
-.PHONY : DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
-
-DSA/GFG/LL/Identical_LL.obj: DSA/GFG/LL/Identical_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/Identical_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/Identical_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Identical_LL.cpp.obj
-.PHONY : DSA/GFG/LL/Identical_LL.cpp.obj
-
-DSA/GFG/LL/Identical_LL.i: DSA/GFG/LL/Identical_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/Identical_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/Identical_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Identical_LL.cpp.i
-.PHONY : DSA/GFG/LL/Identical_LL.cpp.i
-
-DSA/GFG/LL/Identical_LL.s: DSA/GFG/LL/Identical_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/Identical_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/Identical_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Identical_LL.cpp.s
-.PHONY : DSA/GFG/LL/Identical_LL.cpp.s
-
-DSA/GFG/LL/LL_insertion.obj: DSA/GFG/LL/LL_insertion.cpp.obj
-
-.PHONY : DSA/GFG/LL/LL_insertion.obj
-
-# target to build an object file
-DSA/GFG/LL/LL_insertion.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_insertion.cpp.obj
-.PHONY : DSA/GFG/LL/LL_insertion.cpp.obj
-
-DSA/GFG/LL/LL_insertion.i: DSA/GFG/LL/LL_insertion.cpp.i
-
-.PHONY : DSA/GFG/LL/LL_insertion.i
-
-# target to preprocess a source file
-DSA/GFG/LL/LL_insertion.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_insertion.cpp.i
-.PHONY : DSA/GFG/LL/LL_insertion.cpp.i
-
-DSA/GFG/LL/LL_insertion.s: DSA/GFG/LL/LL_insertion.cpp.s
-
-.PHONY : DSA/GFG/LL/LL_insertion.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/LL_insertion.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_insertion.cpp.s
-.PHONY : DSA/GFG/LL/LL_insertion.cpp.s
-
-DSA/GFG/LL/LL_length_even_or_odd.obj: DSA/GFG/LL/LL_length_even_or_odd.cpp.obj
-
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.obj
-
-# target to build an object file
-DSA/GFG/LL/LL_length_even_or_odd.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_length_even_or_odd.cpp.obj
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.cpp.obj
-
-DSA/GFG/LL/LL_length_even_or_odd.i: DSA/GFG/LL/LL_length_even_or_odd.cpp.i
-
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.i
-
-# target to preprocess a source file
-DSA/GFG/LL/LL_length_even_or_odd.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_length_even_or_odd.cpp.i
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.cpp.i
-
-DSA/GFG/LL/LL_length_even_or_odd.s: DSA/GFG/LL/LL_length_even_or_odd.cpp.s
-
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/LL_length_even_or_odd.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/LL_length_even_or_odd.cpp.s
-.PHONY : DSA/GFG/LL/LL_length_even_or_odd.cpp.s
-
-DSA/GFG/LL/Stack.obj: DSA/GFG/LL/Stack.cpp.obj
-
-.PHONY : DSA/GFG/LL/Stack.obj
-
-# target to build an object file
-DSA/GFG/LL/Stack.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Stack.cpp.obj
-.PHONY : DSA/GFG/LL/Stack.cpp.obj
-
-DSA/GFG/LL/Stack.i: DSA/GFG/LL/Stack.cpp.i
-
-.PHONY : DSA/GFG/LL/Stack.i
-
-# target to preprocess a source file
-DSA/GFG/LL/Stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Stack.cpp.i
-.PHONY : DSA/GFG/LL/Stack.cpp.i
-
-DSA/GFG/LL/Stack.s: DSA/GFG/LL/Stack.cpp.s
-
-.PHONY : DSA/GFG/LL/Stack.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/Stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/Stack.cpp.s
-.PHONY : DSA/GFG/LL/Stack.cpp.s
-
-DSA/GFG/LL/compare_two_LL.obj: DSA/GFG/LL/compare_two_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/compare_two_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/compare_two_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/compare_two_LL.cpp.obj
-.PHONY : DSA/GFG/LL/compare_two_LL.cpp.obj
-
-DSA/GFG/LL/compare_two_LL.i: DSA/GFG/LL/compare_two_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/compare_two_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/compare_two_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/compare_two_LL.cpp.i
-.PHONY : DSA/GFG/LL/compare_two_LL.cpp.i
-
-DSA/GFG/LL/compare_two_LL.s: DSA/GFG/LL/compare_two_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/compare_two_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/compare_two_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/compare_two_LL.cpp.s
-.PHONY : DSA/GFG/LL/compare_two_LL.cpp.s
-
-DSA/GFG/LL/count_nodes.obj: DSA/GFG/LL/count_nodes.cpp.obj
-
-.PHONY : DSA/GFG/LL/count_nodes.obj
-
-# target to build an object file
-DSA/GFG/LL/count_nodes.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/count_nodes.cpp.obj
-.PHONY : DSA/GFG/LL/count_nodes.cpp.obj
-
-DSA/GFG/LL/count_nodes.i: DSA/GFG/LL/count_nodes.cpp.i
-
-.PHONY : DSA/GFG/LL/count_nodes.i
-
-# target to preprocess a source file
-DSA/GFG/LL/count_nodes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/count_nodes.cpp.i
-.PHONY : DSA/GFG/LL/count_nodes.cpp.i
-
-DSA/GFG/LL/count_nodes.s: DSA/GFG/LL/count_nodes.cpp.s
-
-.PHONY : DSA/GFG/LL/count_nodes.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/count_nodes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/count_nodes.cpp.s
-.PHONY : DSA/GFG/LL/count_nodes.cpp.s
-
-DSA/GFG/LL/decimal_eq_of_binary_LL.obj: DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
-
-DSA/GFG/LL/decimal_eq_of_binary_LL.i: DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.i
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.i
-
-DSA/GFG/LL/decimal_eq_of_binary_LL.s: DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.s
-.PHONY : DSA/GFG/LL/decimal_eq_of_binary_LL.cpp.s
-
-DSA/GFG/LL/delete_alternate_nodes.obj: DSA/GFG/LL/delete_alternate_nodes.cpp.obj
-
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.obj
-
-# target to build an object file
-DSA/GFG/LL/delete_alternate_nodes.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_alternate_nodes.cpp.obj
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.cpp.obj
-
-DSA/GFG/LL/delete_alternate_nodes.i: DSA/GFG/LL/delete_alternate_nodes.cpp.i
-
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.i
-
-# target to preprocess a source file
-DSA/GFG/LL/delete_alternate_nodes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_alternate_nodes.cpp.i
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.cpp.i
-
-DSA/GFG/LL/delete_alternate_nodes.s: DSA/GFG/LL/delete_alternate_nodes.cpp.s
-
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/delete_alternate_nodes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_alternate_nodes.cpp.s
-.PHONY : DSA/GFG/LL/delete_alternate_nodes.cpp.s
-
-DSA/GFG/LL/delete_without_head_pointer.obj: DSA/GFG/LL/delete_without_head_pointer.cpp.obj
-
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.obj
-
-# target to build an object file
-DSA/GFG/LL/delete_without_head_pointer.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_without_head_pointer.cpp.obj
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.cpp.obj
-
-DSA/GFG/LL/delete_without_head_pointer.i: DSA/GFG/LL/delete_without_head_pointer.cpp.i
-
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.i
-
-# target to preprocess a source file
-DSA/GFG/LL/delete_without_head_pointer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_without_head_pointer.cpp.i
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.cpp.i
-
-DSA/GFG/LL/delete_without_head_pointer.s: DSA/GFG/LL/delete_without_head_pointer.cpp.s
-
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/delete_without_head_pointer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/delete_without_head_pointer.cpp.s
-.PHONY : DSA/GFG/LL/delete_without_head_pointer.cpp.s
-
-DSA/GFG/LL/find_middle_of_LL.obj: DSA/GFG/LL/find_middle_of_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/find_middle_of_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/find_middle_of_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/find_middle_of_LL.cpp.obj
-.PHONY : DSA/GFG/LL/find_middle_of_LL.cpp.obj
-
-DSA/GFG/LL/find_middle_of_LL.i: DSA/GFG/LL/find_middle_of_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/find_middle_of_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/find_middle_of_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/find_middle_of_LL.cpp.i
-.PHONY : DSA/GFG/LL/find_middle_of_LL.cpp.i
-
-DSA/GFG/LL/find_middle_of_LL.s: DSA/GFG/LL/find_middle_of_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/find_middle_of_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/find_middle_of_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/find_middle_of_LL.cpp.s
-.PHONY : DSA/GFG/LL/find_middle_of_LL.cpp.s
-
-DSA/GFG/LL/insert_in_middle.obj: DSA/GFG/LL/insert_in_middle.cpp.obj
-
-.PHONY : DSA/GFG/LL/insert_in_middle.obj
-
-# target to build an object file
-DSA/GFG/LL/insert_in_middle.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/insert_in_middle.cpp.obj
-.PHONY : DSA/GFG/LL/insert_in_middle.cpp.obj
-
-DSA/GFG/LL/insert_in_middle.i: DSA/GFG/LL/insert_in_middle.cpp.i
-
-.PHONY : DSA/GFG/LL/insert_in_middle.i
-
-# target to preprocess a source file
-DSA/GFG/LL/insert_in_middle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/insert_in_middle.cpp.i
-.PHONY : DSA/GFG/LL/insert_in_middle.cpp.i
-
-DSA/GFG/LL/insert_in_middle.s: DSA/GFG/LL/insert_in_middle.cpp.s
-
-.PHONY : DSA/GFG/LL/insert_in_middle.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/insert_in_middle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/insert_in_middle.cpp.s
-.PHONY : DSA/GFG/LL/insert_in_middle.cpp.s
-
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj: DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
-
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj
-
-# target to build an object file
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
-
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.i: DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
-
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.i
-
-# target to preprocess a source file
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
-
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.s: DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
-
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
-.PHONY : DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
-
-DSA/GFG/LL/node_at_given_index.obj: DSA/GFG/LL/node_at_given_index.cpp.obj
-
-.PHONY : DSA/GFG/LL/node_at_given_index.obj
-
-# target to build an object file
-DSA/GFG/LL/node_at_given_index.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/node_at_given_index.cpp.obj
-.PHONY : DSA/GFG/LL/node_at_given_index.cpp.obj
-
-DSA/GFG/LL/node_at_given_index.i: DSA/GFG/LL/node_at_given_index.cpp.i
-
-.PHONY : DSA/GFG/LL/node_at_given_index.i
-
-# target to preprocess a source file
-DSA/GFG/LL/node_at_given_index.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/node_at_given_index.cpp.i
-.PHONY : DSA/GFG/LL/node_at_given_index.cpp.i
-
-DSA/GFG/LL/node_at_given_index.s: DSA/GFG/LL/node_at_given_index.cpp.s
-
-.PHONY : DSA/GFG/LL/node_at_given_index.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/node_at_given_index.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/node_at_given_index.cpp.s
-.PHONY : DSA/GFG/LL/node_at_given_index.cpp.s
-
-DSA/GFG/LL/occurance_in_LL.obj: DSA/GFG/LL/occurance_in_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/occurance_in_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/occurance_in_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/occurance_in_LL.cpp.obj
-.PHONY : DSA/GFG/LL/occurance_in_LL.cpp.obj
-
-DSA/GFG/LL/occurance_in_LL.i: DSA/GFG/LL/occurance_in_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/occurance_in_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/occurance_in_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/occurance_in_LL.cpp.i
-.PHONY : DSA/GFG/LL/occurance_in_LL.cpp.i
-
-DSA/GFG/LL/occurance_in_LL.s: DSA/GFG/LL/occurance_in_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/occurance_in_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/occurance_in_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/occurance_in_LL.cpp.s
-.PHONY : DSA/GFG/LL/occurance_in_LL.cpp.s
-
-DSA/GFG/LL/sort_LL.obj: DSA/GFG/LL/sort_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/sort_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/sort_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sort_LL.cpp.obj
-.PHONY : DSA/GFG/LL/sort_LL.cpp.obj
-
-DSA/GFG/LL/sort_LL.i: DSA/GFG/LL/sort_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/sort_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/sort_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sort_LL.cpp.i
-.PHONY : DSA/GFG/LL/sort_LL.cpp.i
-
-DSA/GFG/LL/sort_LL.s: DSA/GFG/LL/sort_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/sort_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/sort_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sort_LL.cpp.s
-.PHONY : DSA/GFG/LL/sort_LL.cpp.s
-
-DSA/GFG/LL/subtraction_in_LL.obj: DSA/GFG/LL/subtraction_in_LL.cpp.obj
-
-.PHONY : DSA/GFG/LL/subtraction_in_LL.obj
-
-# target to build an object file
-DSA/GFG/LL/subtraction_in_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/subtraction_in_LL.cpp.obj
-.PHONY : DSA/GFG/LL/subtraction_in_LL.cpp.obj
-
-DSA/GFG/LL/subtraction_in_LL.i: DSA/GFG/LL/subtraction_in_LL.cpp.i
-
-.PHONY : DSA/GFG/LL/subtraction_in_LL.i
-
-# target to preprocess a source file
-DSA/GFG/LL/subtraction_in_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/subtraction_in_LL.cpp.i
-.PHONY : DSA/GFG/LL/subtraction_in_LL.cpp.i
-
-DSA/GFG/LL/subtraction_in_LL.s: DSA/GFG/LL/subtraction_in_LL.cpp.s
-
-.PHONY : DSA/GFG/LL/subtraction_in_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/subtraction_in_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/subtraction_in_LL.cpp.s
-.PHONY : DSA/GFG/LL/subtraction_in_LL.cpp.s
-
-DSA/GFG/LL/sum_of_last_n_nodes.obj: DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj
-
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.obj
-
-# target to build an object file
-DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.cpp.obj
-
-DSA/GFG/LL/sum_of_last_n_nodes.i: DSA/GFG/LL/sum_of_last_n_nodes.cpp.i
-
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.i
-
-# target to preprocess a source file
-DSA/GFG/LL/sum_of_last_n_nodes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sum_of_last_n_nodes.cpp.i
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.cpp.i
-
-DSA/GFG/LL/sum_of_last_n_nodes.s: DSA/GFG/LL/sum_of_last_n_nodes.cpp.s
-
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.s
-
-# target to generate assembly for a file
-DSA/GFG/LL/sum_of_last_n_nodes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/LL/sum_of_last_n_nodes.cpp.s
-.PHONY : DSA/GFG/LL/sum_of_last_n_nodes.cpp.s
-
-DSA/GFG/Queue/STL_queue.obj: DSA/GFG/Queue/STL_queue.cpp.obj
-
-.PHONY : DSA/GFG/Queue/STL_queue.obj
-
-# target to build an object file
-DSA/GFG/Queue/STL_queue.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/STL_queue.cpp.obj
-.PHONY : DSA/GFG/Queue/STL_queue.cpp.obj
-
-DSA/GFG/Queue/STL_queue.i: DSA/GFG/Queue/STL_queue.cpp.i
-
-.PHONY : DSA/GFG/Queue/STL_queue.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/STL_queue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/STL_queue.cpp.i
-.PHONY : DSA/GFG/Queue/STL_queue.cpp.i
-
-DSA/GFG/Queue/STL_queue.s: DSA/GFG/Queue/STL_queue.cpp.s
-
-.PHONY : DSA/GFG/Queue/STL_queue.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/STL_queue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/STL_queue.cpp.s
-.PHONY : DSA/GFG/Queue/STL_queue.cpp.s
-
-DSA/GFG/Queue/generate_binary_no.obj: DSA/GFG/Queue/generate_binary_no.cpp.obj
-
-.PHONY : DSA/GFG/Queue/generate_binary_no.obj
-
-# target to build an object file
-DSA/GFG/Queue/generate_binary_no.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/generate_binary_no.cpp.obj
-.PHONY : DSA/GFG/Queue/generate_binary_no.cpp.obj
-
-DSA/GFG/Queue/generate_binary_no.i: DSA/GFG/Queue/generate_binary_no.cpp.i
-
-.PHONY : DSA/GFG/Queue/generate_binary_no.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/generate_binary_no.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/generate_binary_no.cpp.i
-.PHONY : DSA/GFG/Queue/generate_binary_no.cpp.i
-
-DSA/GFG/Queue/generate_binary_no.s: DSA/GFG/Queue/generate_binary_no.cpp.s
-
-.PHONY : DSA/GFG/Queue/generate_binary_no.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/generate_binary_no.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/generate_binary_no.cpp.s
-.PHONY : DSA/GFG/Queue/generate_binary_no.cpp.s
-
-DSA/GFG/Queue/queue_push_and_pop.obj: DSA/GFG/Queue/queue_push_and_pop.cpp.obj
-
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.obj
-
-# target to build an object file
-DSA/GFG/Queue/queue_push_and_pop.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_push_and_pop.cpp.obj
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.cpp.obj
-
-DSA/GFG/Queue/queue_push_and_pop.i: DSA/GFG/Queue/queue_push_and_pop.cpp.i
-
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/queue_push_and_pop.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_push_and_pop.cpp.i
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.cpp.i
-
-DSA/GFG/Queue/queue_push_and_pop.s: DSA/GFG/Queue/queue_push_and_pop.cpp.s
-
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/queue_push_and_pop.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_push_and_pop.cpp.s
-.PHONY : DSA/GFG/Queue/queue_push_and_pop.cpp.s
-
-DSA/GFG/Queue/queue_reversal.obj: DSA/GFG/Queue/queue_reversal.cpp.obj
-
-.PHONY : DSA/GFG/Queue/queue_reversal.obj
-
-# target to build an object file
-DSA/GFG/Queue/queue_reversal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_reversal.cpp.obj
-.PHONY : DSA/GFG/Queue/queue_reversal.cpp.obj
-
-DSA/GFG/Queue/queue_reversal.i: DSA/GFG/Queue/queue_reversal.cpp.i
-
-.PHONY : DSA/GFG/Queue/queue_reversal.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/queue_reversal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_reversal.cpp.i
-.PHONY : DSA/GFG/Queue/queue_reversal.cpp.i
-
-DSA/GFG/Queue/queue_reversal.s: DSA/GFG/Queue/queue_reversal.cpp.s
-
-.PHONY : DSA/GFG/Queue/queue_reversal.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/queue_reversal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_reversal.cpp.s
-.PHONY : DSA/GFG/Queue/queue_reversal.cpp.s
-
-DSA/GFG/Queue/queue_using_LL.obj: DSA/GFG/Queue/queue_using_LL.cpp.obj
-
-.PHONY : DSA/GFG/Queue/queue_using_LL.obj
-
-# target to build an object file
-DSA/GFG/Queue/queue_using_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_LL.cpp.obj
-.PHONY : DSA/GFG/Queue/queue_using_LL.cpp.obj
-
-DSA/GFG/Queue/queue_using_LL.i: DSA/GFG/Queue/queue_using_LL.cpp.i
-
-.PHONY : DSA/GFG/Queue/queue_using_LL.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/queue_using_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_LL.cpp.i
-.PHONY : DSA/GFG/Queue/queue_using_LL.cpp.i
-
-DSA/GFG/Queue/queue_using_LL.s: DSA/GFG/Queue/queue_using_LL.cpp.s
-
-.PHONY : DSA/GFG/Queue/queue_using_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/queue_using_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_LL.cpp.s
-.PHONY : DSA/GFG/Queue/queue_using_LL.cpp.s
-
-DSA/GFG/Queue/queue_using_array.obj: DSA/GFG/Queue/queue_using_array.cpp.obj
-
-.PHONY : DSA/GFG/Queue/queue_using_array.obj
-
-# target to build an object file
-DSA/GFG/Queue/queue_using_array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_array.cpp.obj
-.PHONY : DSA/GFG/Queue/queue_using_array.cpp.obj
-
-DSA/GFG/Queue/queue_using_array.i: DSA/GFG/Queue/queue_using_array.cpp.i
-
-.PHONY : DSA/GFG/Queue/queue_using_array.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/queue_using_array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_array.cpp.i
-.PHONY : DSA/GFG/Queue/queue_using_array.cpp.i
-
-DSA/GFG/Queue/queue_using_array.s: DSA/GFG/Queue/queue_using_array.cpp.s
-
-.PHONY : DSA/GFG/Queue/queue_using_array.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/queue_using_array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_array.cpp.s
-.PHONY : DSA/GFG/Queue/queue_using_array.cpp.s
-
-DSA/GFG/Queue/queue_using_two_stacks.obj: DSA/GFG/Queue/queue_using_two_stacks.cpp.obj
-
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.obj
-
-# target to build an object file
-DSA/GFG/Queue/queue_using_two_stacks.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_two_stacks.cpp.obj
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.cpp.obj
-
-DSA/GFG/Queue/queue_using_two_stacks.i: DSA/GFG/Queue/queue_using_two_stacks.cpp.i
-
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.i
-
-# target to preprocess a source file
-DSA/GFG/Queue/queue_using_two_stacks.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_two_stacks.cpp.i
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.cpp.i
-
-DSA/GFG/Queue/queue_using_two_stacks.s: DSA/GFG/Queue/queue_using_two_stacks.cpp.s
-
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.s
-
-# target to generate assembly for a file
-DSA/GFG/Queue/queue_using_two_stacks.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Queue/queue_using_two_stacks.cpp.s
-.PHONY : DSA/GFG/Queue/queue_using_two_stacks.cpp.s
-
-DSA/GFG/Stack/delete_middle_element_of_stack.obj: DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj
-
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.obj
-
-# target to build an object file
-DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.cpp.obj
-
-DSA/GFG/Stack/delete_middle_element_of_stack.i: DSA/GFG/Stack/delete_middle_element_of_stack.cpp.i
-
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/delete_middle_element_of_stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/delete_middle_element_of_stack.cpp.i
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.cpp.i
-
-DSA/GFG/Stack/delete_middle_element_of_stack.s: DSA/GFG/Stack/delete_middle_element_of_stack.cpp.s
-
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/delete_middle_element_of_stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/delete_middle_element_of_stack.cpp.s
-.PHONY : DSA/GFG/Stack/delete_middle_element_of_stack.cpp.s
-
-DSA/GFG/Stack/get_min_at_pop.obj: DSA/GFG/Stack/get_min_at_pop.cpp.obj
-
-.PHONY : DSA/GFG/Stack/get_min_at_pop.obj
-
-# target to build an object file
-DSA/GFG/Stack/get_min_at_pop.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/get_min_at_pop.cpp.obj
-.PHONY : DSA/GFG/Stack/get_min_at_pop.cpp.obj
-
-DSA/GFG/Stack/get_min_at_pop.i: DSA/GFG/Stack/get_min_at_pop.cpp.i
-
-.PHONY : DSA/GFG/Stack/get_min_at_pop.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/get_min_at_pop.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/get_min_at_pop.cpp.i
-.PHONY : DSA/GFG/Stack/get_min_at_pop.cpp.i
-
-DSA/GFG/Stack/get_min_at_pop.s: DSA/GFG/Stack/get_min_at_pop.cpp.s
-
-.PHONY : DSA/GFG/Stack/get_min_at_pop.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/get_min_at_pop.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/get_min_at_pop.cpp.s
-.PHONY : DSA/GFG/Stack/get_min_at_pop.cpp.s
-
-DSA/GFG/Stack/immediate_smaller_element.obj: DSA/GFG/Stack/immediate_smaller_element.cpp.obj
-
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.obj
-
-# target to build an object file
-DSA/GFG/Stack/immediate_smaller_element.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/immediate_smaller_element.cpp.obj
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.cpp.obj
-
-DSA/GFG/Stack/immediate_smaller_element.i: DSA/GFG/Stack/immediate_smaller_element.cpp.i
-
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/immediate_smaller_element.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/immediate_smaller_element.cpp.i
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.cpp.i
-
-DSA/GFG/Stack/immediate_smaller_element.s: DSA/GFG/Stack/immediate_smaller_element.cpp.s
-
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/immediate_smaller_element.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/immediate_smaller_element.cpp.s
-.PHONY : DSA/GFG/Stack/immediate_smaller_element.cpp.s
-
-DSA/GFG/Stack/impl_two_stacks_in_array.obj: DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj
-
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.obj
-
-# target to build an object file
-DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.cpp.obj
-
-DSA/GFG/Stack/impl_two_stacks_in_array.i: DSA/GFG/Stack/impl_two_stacks_in_array.cpp.i
-
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/impl_two_stacks_in_array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/impl_two_stacks_in_array.cpp.i
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.cpp.i
-
-DSA/GFG/Stack/impl_two_stacks_in_array.s: DSA/GFG/Stack/impl_two_stacks_in_array.cpp.s
-
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/impl_two_stacks_in_array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/impl_two_stacks_in_array.cpp.s
-.PHONY : DSA/GFG/Stack/impl_two_stacks_in_array.cpp.s
-
-DSA/GFG/Stack/pairwise_consecutive_elements.obj: DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj
-
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.obj
-
-# target to build an object file
-DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.cpp.obj
-
-DSA/GFG/Stack/pairwise_consecutive_elements.i: DSA/GFG/Stack/pairwise_consecutive_elements.cpp.i
-
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/pairwise_consecutive_elements.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/pairwise_consecutive_elements.cpp.i
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.cpp.i
-
-DSA/GFG/Stack/pairwise_consecutive_elements.s: DSA/GFG/Stack/pairwise_consecutive_elements.cpp.s
-
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/pairwise_consecutive_elements.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/pairwise_consecutive_elements.cpp.s
-.PHONY : DSA/GFG/Stack/pairwise_consecutive_elements.cpp.s
-
-DSA/GFG/Stack/print_bracket_no.obj: DSA/GFG/Stack/print_bracket_no.cpp.obj
-
-.PHONY : DSA/GFG/Stack/print_bracket_no.obj
-
-# target to build an object file
-DSA/GFG/Stack/print_bracket_no.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/print_bracket_no.cpp.obj
-.PHONY : DSA/GFG/Stack/print_bracket_no.cpp.obj
-
-DSA/GFG/Stack/print_bracket_no.i: DSA/GFG/Stack/print_bracket_no.cpp.i
-
-.PHONY : DSA/GFG/Stack/print_bracket_no.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/print_bracket_no.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/print_bracket_no.cpp.i
-.PHONY : DSA/GFG/Stack/print_bracket_no.cpp.i
-
-DSA/GFG/Stack/print_bracket_no.s: DSA/GFG/Stack/print_bracket_no.cpp.s
-
-.PHONY : DSA/GFG/Stack/print_bracket_no.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/print_bracket_no.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/print_bracket_no.cpp.s
-.PHONY : DSA/GFG/Stack/print_bracket_no.cpp.s
-
-DSA/GFG/Stack/remove_repeated_digits.obj: DSA/GFG/Stack/remove_repeated_digits.cpp.obj
-
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.obj
-
-# target to build an object file
-DSA/GFG/Stack/remove_repeated_digits.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/remove_repeated_digits.cpp.obj
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.cpp.obj
-
-DSA/GFG/Stack/remove_repeated_digits.i: DSA/GFG/Stack/remove_repeated_digits.cpp.i
-
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/remove_repeated_digits.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/remove_repeated_digits.cpp.i
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.cpp.i
-
-DSA/GFG/Stack/remove_repeated_digits.s: DSA/GFG/Stack/remove_repeated_digits.cpp.s
-
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/remove_repeated_digits.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/remove_repeated_digits.cpp.s
-.PHONY : DSA/GFG/Stack/remove_repeated_digits.cpp.s
-
-DSA/GFG/Stack/reverse_a_string.obj: DSA/GFG/Stack/reverse_a_string.cpp.obj
-
-.PHONY : DSA/GFG/Stack/reverse_a_string.obj
-
-# target to build an object file
-DSA/GFG/Stack/reverse_a_string.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/reverse_a_string.cpp.obj
-.PHONY : DSA/GFG/Stack/reverse_a_string.cpp.obj
-
-DSA/GFG/Stack/reverse_a_string.i: DSA/GFG/Stack/reverse_a_string.cpp.i
-
-.PHONY : DSA/GFG/Stack/reverse_a_string.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/reverse_a_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/reverse_a_string.cpp.i
-.PHONY : DSA/GFG/Stack/reverse_a_string.cpp.i
-
-DSA/GFG/Stack/reverse_a_string.s: DSA/GFG/Stack/reverse_a_string.cpp.s
-
-.PHONY : DSA/GFG/Stack/reverse_a_string.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/reverse_a_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/reverse_a_string.cpp.s
-.PHONY : DSA/GFG/Stack/reverse_a_string.cpp.s
-
-DSA/GFG/Stack/sorting_stack.obj: DSA/GFG/Stack/sorting_stack.cpp.obj
-
-.PHONY : DSA/GFG/Stack/sorting_stack.obj
-
-# target to build an object file
-DSA/GFG/Stack/sorting_stack.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/sorting_stack.cpp.obj
-.PHONY : DSA/GFG/Stack/sorting_stack.cpp.obj
-
-DSA/GFG/Stack/sorting_stack.i: DSA/GFG/Stack/sorting_stack.cpp.i
-
-.PHONY : DSA/GFG/Stack/sorting_stack.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/sorting_stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/sorting_stack.cpp.i
-.PHONY : DSA/GFG/Stack/sorting_stack.cpp.i
-
-DSA/GFG/Stack/sorting_stack.s: DSA/GFG/Stack/sorting_stack.cpp.s
-
-.PHONY : DSA/GFG/Stack/sorting_stack.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/sorting_stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/sorting_stack.cpp.s
-.PHONY : DSA/GFG/Stack/sorting_stack.cpp.s
-
-DSA/GFG/Stack/special_stack.obj: DSA/GFG/Stack/special_stack.cpp.obj
-
-.PHONY : DSA/GFG/Stack/special_stack.obj
-
-# target to build an object file
-DSA/GFG/Stack/special_stack.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/special_stack.cpp.obj
-.PHONY : DSA/GFG/Stack/special_stack.cpp.obj
-
-DSA/GFG/Stack/special_stack.i: DSA/GFG/Stack/special_stack.cpp.i
-
-.PHONY : DSA/GFG/Stack/special_stack.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/special_stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/special_stack.cpp.i
-.PHONY : DSA/GFG/Stack/special_stack.cpp.i
-
-DSA/GFG/Stack/special_stack.s: DSA/GFG/Stack/special_stack.cpp.s
-
-.PHONY : DSA/GFG/Stack/special_stack.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/special_stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/special_stack.cpp.s
-.PHONY : DSA/GFG/Stack/special_stack.cpp.s
-
-DSA/GFG/Stack/stack_designer.obj: DSA/GFG/Stack/stack_designer.cpp.obj
-
-.PHONY : DSA/GFG/Stack/stack_designer.obj
-
-# target to build an object file
-DSA/GFG/Stack/stack_designer.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_designer.cpp.obj
-.PHONY : DSA/GFG/Stack/stack_designer.cpp.obj
-
-DSA/GFG/Stack/stack_designer.i: DSA/GFG/Stack/stack_designer.cpp.i
-
-.PHONY : DSA/GFG/Stack/stack_designer.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/stack_designer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_designer.cpp.i
-.PHONY : DSA/GFG/Stack/stack_designer.cpp.i
-
-DSA/GFG/Stack/stack_designer.s: DSA/GFG/Stack/stack_designer.cpp.s
-
-.PHONY : DSA/GFG/Stack/stack_designer.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/stack_designer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_designer.cpp.s
-.PHONY : DSA/GFG/Stack/stack_designer.cpp.s
-
-DSA/GFG/Stack/stack_using_LL.obj: DSA/GFG/Stack/stack_using_LL.cpp.obj
-
-.PHONY : DSA/GFG/Stack/stack_using_LL.obj
-
-# target to build an object file
-DSA/GFG/Stack/stack_using_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_LL.cpp.obj
-.PHONY : DSA/GFG/Stack/stack_using_LL.cpp.obj
-
-DSA/GFG/Stack/stack_using_LL.i: DSA/GFG/Stack/stack_using_LL.cpp.i
-
-.PHONY : DSA/GFG/Stack/stack_using_LL.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/stack_using_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_LL.cpp.i
-.PHONY : DSA/GFG/Stack/stack_using_LL.cpp.i
-
-DSA/GFG/Stack/stack_using_LL.s: DSA/GFG/Stack/stack_using_LL.cpp.s
-
-.PHONY : DSA/GFG/Stack/stack_using_LL.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/stack_using_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_LL.cpp.s
-.PHONY : DSA/GFG/Stack/stack_using_LL.cpp.s
-
-DSA/GFG/Stack/stack_using_array.obj: DSA/GFG/Stack/stack_using_array.cpp.obj
-
-.PHONY : DSA/GFG/Stack/stack_using_array.obj
-
-# target to build an object file
-DSA/GFG/Stack/stack_using_array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_array.cpp.obj
-.PHONY : DSA/GFG/Stack/stack_using_array.cpp.obj
-
-DSA/GFG/Stack/stack_using_array.i: DSA/GFG/Stack/stack_using_array.cpp.i
-
-.PHONY : DSA/GFG/Stack/stack_using_array.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/stack_using_array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_array.cpp.i
-.PHONY : DSA/GFG/Stack/stack_using_array.cpp.i
-
-DSA/GFG/Stack/stack_using_array.s: DSA/GFG/Stack/stack_using_array.cpp.s
-
-.PHONY : DSA/GFG/Stack/stack_using_array.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/stack_using_array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_array.cpp.s
-.PHONY : DSA/GFG/Stack/stack_using_array.cpp.s
-
-DSA/GFG/Stack/stack_using_two_queues.obj: DSA/GFG/Stack/stack_using_two_queues.cpp.obj
-
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.obj
-
-# target to build an object file
-DSA/GFG/Stack/stack_using_two_queues.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_two_queues.cpp.obj
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.cpp.obj
-
-DSA/GFG/Stack/stack_using_two_queues.i: DSA/GFG/Stack/stack_using_two_queues.cpp.i
-
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/stack_using_two_queues.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_two_queues.cpp.i
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.cpp.i
-
-DSA/GFG/Stack/stack_using_two_queues.s: DSA/GFG/Stack/stack_using_two_queues.cpp.s
-
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/stack_using_two_queues.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/stack_using_two_queues.cpp.s
-.PHONY : DSA/GFG/Stack/stack_using_two_queues.cpp.s
-
-DSA/GFG/Stack/valid_substring.obj: DSA/GFG/Stack/valid_substring.cpp.obj
-
-.PHONY : DSA/GFG/Stack/valid_substring.obj
-
-# target to build an object file
-DSA/GFG/Stack/valid_substring.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/valid_substring.cpp.obj
-.PHONY : DSA/GFG/Stack/valid_substring.cpp.obj
-
-DSA/GFG/Stack/valid_substring.i: DSA/GFG/Stack/valid_substring.cpp.i
-
-.PHONY : DSA/GFG/Stack/valid_substring.i
-
-# target to preprocess a source file
-DSA/GFG/Stack/valid_substring.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/valid_substring.cpp.i
-.PHONY : DSA/GFG/Stack/valid_substring.cpp.i
-
-DSA/GFG/Stack/valid_substring.s: DSA/GFG/Stack/valid_substring.cpp.s
-
-.PHONY : DSA/GFG/Stack/valid_substring.s
-
-# target to generate assembly for a file
-DSA/GFG/Stack/valid_substring.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/Stack/valid_substring.cpp.s
-.PHONY : DSA/GFG/Stack/valid_substring.cpp.s
-
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.obj: DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
-
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
-
-# target to build an object file
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
-
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.i: DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
-
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.i
-
-# target to preprocess a source file
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
-
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.s: DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
-
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.s
-
-# target to generate assembly for a file
-DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
-.PHONY : DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
-
 DSA/GRAPHS/Djikstras.obj: DSA/GRAPHS/Djikstras.cpp.obj
 
 .PHONY : DSA/GRAPHS/Djikstras.obj
@@ -4326,6 +2976,114 @@ DSA/GRAPHS/Djikstras.s: DSA/GRAPHS/Djikstras.cpp.s
 DSA/GRAPHS/Djikstras.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.s
 .PHONY : DSA/GRAPHS/Djikstras.cpp.s
+
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj
+
+# target to build an object file
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
+
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.i: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.i
+
+# target to preprocess a source file
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
+
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.s: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
+
+DSA/GRAPHS/GRAPHS_CN/Prim.obj: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.obj
+
+# target to build an object file
+DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
+
+DSA/GRAPHS/GRAPHS_CN/Prim.i: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.i
+
+# target to preprocess a source file
+DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
+
+DSA/GRAPHS/GRAPHS_CN/Prim.s: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
+.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
+
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj
+
+# target to build an object file
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
+
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.i: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.i
+
+# target to preprocess a source file
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
+
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.s: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
+.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
+
+DSA/GRAPHS/GRAPHS_CN/kruskal.obj: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.obj
+
+# target to build an object file
+DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+
+DSA/GRAPHS/GRAPHS_CN/kruskal.i: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.i
+
+# target to preprocess a source file
+DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
+
+DSA/GRAPHS/GRAPHS_CN/kruskal.s: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
+
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
+.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
 
 DSA/GRAPHS/MST_Prim.obj: DSA/GRAPHS/MST_Prim.cpp.obj
 
@@ -4461,114 +3219,6 @@ DSA/GRAPHS/graph2.s: DSA/GRAPHS/graph2.cpp.s
 DSA/GRAPHS/graph2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.s
 .PHONY : DSA/GRAPHS/graph2.cpp.s
-
-DSA/GRAPHS_CN/Dijikstras.obj: DSA/GRAPHS_CN/Dijikstras.cpp.obj
-
-.PHONY : DSA/GRAPHS_CN/Dijikstras.obj
-
-# target to build an object file
-DSA/GRAPHS_CN/Dijikstras.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Dijikstras.cpp.obj
-.PHONY : DSA/GRAPHS_CN/Dijikstras.cpp.obj
-
-DSA/GRAPHS_CN/Dijikstras.i: DSA/GRAPHS_CN/Dijikstras.cpp.i
-
-.PHONY : DSA/GRAPHS_CN/Dijikstras.i
-
-# target to preprocess a source file
-DSA/GRAPHS_CN/Dijikstras.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Dijikstras.cpp.i
-.PHONY : DSA/GRAPHS_CN/Dijikstras.cpp.i
-
-DSA/GRAPHS_CN/Dijikstras.s: DSA/GRAPHS_CN/Dijikstras.cpp.s
-
-.PHONY : DSA/GRAPHS_CN/Dijikstras.s
-
-# target to generate assembly for a file
-DSA/GRAPHS_CN/Dijikstras.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Dijikstras.cpp.s
-.PHONY : DSA/GRAPHS_CN/Dijikstras.cpp.s
-
-DSA/GRAPHS_CN/Prim.obj: DSA/GRAPHS_CN/Prim.cpp.obj
-
-.PHONY : DSA/GRAPHS_CN/Prim.obj
-
-# target to build an object file
-DSA/GRAPHS_CN/Prim.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Prim.cpp.obj
-.PHONY : DSA/GRAPHS_CN/Prim.cpp.obj
-
-DSA/GRAPHS_CN/Prim.i: DSA/GRAPHS_CN/Prim.cpp.i
-
-.PHONY : DSA/GRAPHS_CN/Prim.i
-
-# target to preprocess a source file
-DSA/GRAPHS_CN/Prim.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Prim.cpp.i
-.PHONY : DSA/GRAPHS_CN/Prim.cpp.i
-
-DSA/GRAPHS_CN/Prim.s: DSA/GRAPHS_CN/Prim.cpp.s
-
-.PHONY : DSA/GRAPHS_CN/Prim.s
-
-# target to generate assembly for a file
-DSA/GRAPHS_CN/Prim.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/Prim.cpp.s
-.PHONY : DSA/GRAPHS_CN/Prim.cpp.s
-
-DSA/GRAPHS_CN/grpahs_use.obj: DSA/GRAPHS_CN/grpahs_use.cpp.obj
-
-.PHONY : DSA/GRAPHS_CN/grpahs_use.obj
-
-# target to build an object file
-DSA/GRAPHS_CN/grpahs_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/grpahs_use.cpp.obj
-.PHONY : DSA/GRAPHS_CN/grpahs_use.cpp.obj
-
-DSA/GRAPHS_CN/grpahs_use.i: DSA/GRAPHS_CN/grpahs_use.cpp.i
-
-.PHONY : DSA/GRAPHS_CN/grpahs_use.i
-
-# target to preprocess a source file
-DSA/GRAPHS_CN/grpahs_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/grpahs_use.cpp.i
-.PHONY : DSA/GRAPHS_CN/grpahs_use.cpp.i
-
-DSA/GRAPHS_CN/grpahs_use.s: DSA/GRAPHS_CN/grpahs_use.cpp.s
-
-.PHONY : DSA/GRAPHS_CN/grpahs_use.s
-
-# target to generate assembly for a file
-DSA/GRAPHS_CN/grpahs_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/grpahs_use.cpp.s
-.PHONY : DSA/GRAPHS_CN/grpahs_use.cpp.s
-
-DSA/GRAPHS_CN/kruskal.obj: DSA/GRAPHS_CN/kruskal.cpp.obj
-
-.PHONY : DSA/GRAPHS_CN/kruskal.obj
-
-# target to build an object file
-DSA/GRAPHS_CN/kruskal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/kruskal.cpp.obj
-.PHONY : DSA/GRAPHS_CN/kruskal.cpp.obj
-
-DSA/GRAPHS_CN/kruskal.i: DSA/GRAPHS_CN/kruskal.cpp.i
-
-.PHONY : DSA/GRAPHS_CN/kruskal.i
-
-# target to preprocess a source file
-DSA/GRAPHS_CN/kruskal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/kruskal.cpp.i
-.PHONY : DSA/GRAPHS_CN/kruskal.cpp.i
-
-DSA/GRAPHS_CN/kruskal.s: DSA/GRAPHS_CN/kruskal.cpp.s
-
-.PHONY : DSA/GRAPHS_CN/kruskal.s
-
-# target to generate assembly for a file
-DSA/GRAPHS_CN/kruskal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_CN/kruskal.cpp.s
-.PHONY : DSA/GRAPHS_CN/kruskal.cpp.s
 
 DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
 
@@ -4813,221 +3463,221 @@ DSA/HackerRank/reverse_LL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HackerRank/reverse_LL.cpp.s
 .PHONY : DSA/HackerRank/reverse_LL.cpp.s
 
-DSA/LinkedList/Circular_LL/Circular_LL.obj: DSA/LinkedList/Circular_LL/Circular_LL.cpp.obj
+DSA/LINKED_LIST/Circular_LL/Circular_LL.obj: DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
 
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.obj
-
-# target to build an object file
-DSA/LinkedList/Circular_LL/Circular_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Circular_LL/Circular_LL.cpp.obj
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.cpp.obj
-
-DSA/LinkedList/Circular_LL/Circular_LL.i: DSA/LinkedList/Circular_LL/Circular_LL.cpp.i
-
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.i
-
-# target to preprocess a source file
-DSA/LinkedList/Circular_LL/Circular_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Circular_LL/Circular_LL.cpp.i
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.cpp.i
-
-DSA/LinkedList/Circular_LL/Circular_LL.s: DSA/LinkedList/Circular_LL/Circular_LL.cpp.s
-
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.s
-
-# target to generate assembly for a file
-DSA/LinkedList/Circular_LL/Circular_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Circular_LL/Circular_LL.cpp.s
-.PHONY : DSA/LinkedList/Circular_LL/Circular_LL.cpp.s
-
-DSA/LinkedList/Double_LL/double_LL.obj: DSA/LinkedList/Double_LL/double_LL.cpp.obj
-
-.PHONY : DSA/LinkedList/Double_LL/double_LL.obj
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.obj
 
 # target to build an object file
-DSA/LinkedList/Double_LL/double_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Double_LL/double_LL.cpp.obj
-.PHONY : DSA/LinkedList/Double_LL/double_LL.cpp.obj
+DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
 
-DSA/LinkedList/Double_LL/double_LL.i: DSA/LinkedList/Double_LL/double_LL.cpp.i
+DSA/LINKED_LIST/Circular_LL/Circular_LL.i: DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.i
 
-.PHONY : DSA/LinkedList/Double_LL/double_LL.i
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.i
 
 # target to preprocess a source file
-DSA/LinkedList/Double_LL/double_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Double_LL/double_LL.cpp.i
-.PHONY : DSA/LinkedList/Double_LL/double_LL.cpp.i
+DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.i
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.i
 
-DSA/LinkedList/Double_LL/double_LL.s: DSA/LinkedList/Double_LL/double_LL.cpp.s
+DSA/LINKED_LIST/Circular_LL/Circular_LL.s: DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.s
 
-.PHONY : DSA/LinkedList/Double_LL/double_LL.s
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.s
 
 # target to generate assembly for a file
-DSA/LinkedList/Double_LL/double_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Double_LL/double_LL.cpp.s
-.PHONY : DSA/LinkedList/Double_LL/double_LL.cpp.s
+DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.s
+.PHONY : DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.s
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.obj: DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.obj
+DSA/LINKED_LIST/Double_LL/double_LL.obj: DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.obj
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.obj
 
 # target to build an object file
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.obj
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.obj
+DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.i: DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.i
+DSA/LINKED_LIST/Double_LL/double_LL.i: DSA/LINKED_LIST/Double_LL/double_LL.cpp.i
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.i
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.i
 
 # target to preprocess a source file
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.i
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.i
+DSA/LINKED_LIST/Double_LL/double_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.i
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.cpp.i
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.s: DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.s
+DSA/LINKED_LIST/Double_LL/double_LL.s: DSA/LINKED_LIST/Double_LL/double_LL.cpp.s
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.s
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.s
 
 # target to generate assembly for a file
-DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.s
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL._again.cpp.s
+DSA/LINKED_LIST/Double_LL/double_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.s
+.PHONY : DSA/LINKED_LIST/Double_LL/double_LL.cpp.s
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.obj: DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
+DSA/LINKED_LIST/LinkedList_CN/LL_main.obj: DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.obj
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.obj
 
 # target to build an object file
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
+DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.i: DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.i
+DSA/LINKED_LIST/LinkedList_CN/LL_main.i: DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.i
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.i
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.i
 
 # target to preprocess a source file
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.i
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.i
+DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.i
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.i
 
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.s: DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.s
+DSA/LINKED_LIST/LinkedList_CN/LL_main.s: DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s
 
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.s
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.s
 
 # target to generate assembly for a file
-DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.s
-.PHONY : DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.cpp.s
+DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s
 
-DSA/LinkedList/Single_LL/List_impl.obj: DSA/LinkedList/Single_LL/List_impl.cpp.obj
+DSA/LINKED_LIST/LinkedList_CN/LL_node.obj: DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj
 
-.PHONY : DSA/LinkedList/Single_LL/List_impl.obj
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.obj
 
 # target to build an object file
-DSA/LinkedList/Single_LL/List_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/List_impl.cpp.obj
-.PHONY : DSA/LinkedList/Single_LL/List_impl.cpp.obj
+DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj
 
-DSA/LinkedList/Single_LL/List_impl.i: DSA/LinkedList/Single_LL/List_impl.cpp.i
+DSA/LINKED_LIST/LinkedList_CN/LL_node.i: DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.i
 
-.PHONY : DSA/LinkedList/Single_LL/List_impl.i
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.i
 
 # target to preprocess a source file
-DSA/LinkedList/Single_LL/List_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/List_impl.cpp.i
-.PHONY : DSA/LinkedList/Single_LL/List_impl.cpp.i
+DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.i
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.i
 
-DSA/LinkedList/Single_LL/List_impl.s: DSA/LinkedList/Single_LL/List_impl.cpp.s
+DSA/LINKED_LIST/LinkedList_CN/LL_node.s: DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.s
 
-.PHONY : DSA/LinkedList/Single_LL/List_impl.s
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.s
 
 # target to generate assembly for a file
-DSA/LinkedList/Single_LL/List_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/List_impl.cpp.s
-.PHONY : DSA/LinkedList/Single_LL/List_impl.cpp.s
+DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.s
+.PHONY : DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.s
 
-DSA/LinkedList/Single_LL/list_main.obj: DSA/LinkedList/Single_LL/list_main.cpp.obj
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.obj: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj
 
-.PHONY : DSA/LinkedList/Single_LL/list_main.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.obj
 
 # target to build an object file
-DSA/LinkedList/Single_LL/list_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/list_main.cpp.obj
-.PHONY : DSA/LinkedList/Single_LL/list_main.cpp.obj
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj
 
-DSA/LinkedList/Single_LL/list_main.i: DSA/LinkedList/Single_LL/list_main.cpp.i
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.i: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.i
 
-.PHONY : DSA/LinkedList/Single_LL/list_main.i
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.i
 
 # target to preprocess a source file
-DSA/LinkedList/Single_LL/list_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/list_main.cpp.i
-.PHONY : DSA/LinkedList/Single_LL/list_main.cpp.i
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.i
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.i
 
-DSA/LinkedList/Single_LL/list_main.s: DSA/LinkedList/Single_LL/list_main.cpp.s
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.s: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.s
 
-.PHONY : DSA/LinkedList/Single_LL/list_main.s
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.s
 
 # target to generate assembly for a file
-DSA/LinkedList/Single_LL/list_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList/Single_LL/list_main.cpp.s
-.PHONY : DSA/LinkedList/Single_LL/list_main.cpp.s
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.s
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.s
 
-DSA/LinkedList_CN/LL_main.obj: DSA/LinkedList_CN/LL_main.cpp.obj
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.obj: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
 
-.PHONY : DSA/LinkedList_CN/LL_main.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.obj
 
 # target to build an object file
-DSA/LinkedList_CN/LL_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_main.cpp.obj
-.PHONY : DSA/LinkedList_CN/LL_main.cpp.obj
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj
 
-DSA/LinkedList_CN/LL_main.i: DSA/LinkedList_CN/LL_main.cpp.i
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.i: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.i
 
-.PHONY : DSA/LinkedList_CN/LL_main.i
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.i
 
 # target to preprocess a source file
-DSA/LinkedList_CN/LL_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_main.cpp.i
-.PHONY : DSA/LinkedList_CN/LL_main.cpp.i
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.i
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.i
 
-DSA/LinkedList_CN/LL_main.s: DSA/LinkedList_CN/LL_main.cpp.s
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.s: DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.s
 
-.PHONY : DSA/LinkedList_CN/LL_main.s
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.s
 
 # target to generate assembly for a file
-DSA/LinkedList_CN/LL_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_main.cpp.s
-.PHONY : DSA/LinkedList_CN/LL_main.cpp.s
+DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.s
+.PHONY : DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.s
 
-DSA/LinkedList_CN/LL_node.obj: DSA/LinkedList_CN/LL_node.cpp.obj
+DSA/LINKED_LIST/Single_LL/List_impl.obj: DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj
 
-.PHONY : DSA/LinkedList_CN/LL_node.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.obj
 
 # target to build an object file
-DSA/LinkedList_CN/LL_node.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_node.cpp.obj
-.PHONY : DSA/LinkedList_CN/LL_node.cpp.obj
+DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj
 
-DSA/LinkedList_CN/LL_node.i: DSA/LinkedList_CN/LL_node.cpp.i
+DSA/LINKED_LIST/Single_LL/List_impl.i: DSA/LINKED_LIST/Single_LL/List_impl.cpp.i
 
-.PHONY : DSA/LinkedList_CN/LL_node.i
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.i
 
 # target to preprocess a source file
-DSA/LinkedList_CN/LL_node.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_node.cpp.i
-.PHONY : DSA/LinkedList_CN/LL_node.cpp.i
+DSA/LINKED_LIST/Single_LL/List_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.i
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.cpp.i
 
-DSA/LinkedList_CN/LL_node.s: DSA/LinkedList_CN/LL_node.cpp.s
+DSA/LINKED_LIST/Single_LL/List_impl.s: DSA/LINKED_LIST/Single_LL/List_impl.cpp.s
 
-.PHONY : DSA/LinkedList_CN/LL_node.s
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.s
 
 # target to generate assembly for a file
-DSA/LinkedList_CN/LL_node.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LinkedList_CN/LL_node.cpp.s
-.PHONY : DSA/LinkedList_CN/LL_node.cpp.s
+DSA/LINKED_LIST/Single_LL/List_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.s
+.PHONY : DSA/LINKED_LIST/Single_LL/List_impl.cpp.s
+
+DSA/LINKED_LIST/Single_LL/list_main.obj: DSA/LINKED_LIST/Single_LL/list_main.cpp.obj
+
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.obj
+
+# target to build an object file
+DSA/LINKED_LIST/Single_LL/list_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.cpp.obj
+
+DSA/LINKED_LIST/Single_LL/list_main.i: DSA/LINKED_LIST/Single_LL/list_main.cpp.i
+
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.i
+
+# target to preprocess a source file
+DSA/LINKED_LIST/Single_LL/list_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.i
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.cpp.i
+
+DSA/LINKED_LIST/Single_LL/list_main.s: DSA/LINKED_LIST/Single_LL/list_main.cpp.s
+
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.s
+
+# target to generate assembly for a file
+DSA/LINKED_LIST/Single_LL/list_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.s
+.PHONY : DSA/LINKED_LIST/Single_LL/list_main.cpp.s
 
 DSA/MATRIX/matrix.obj: DSA/MATRIX/matrix.cpp.obj
 
@@ -5055,6 +3705,141 @@ DSA/MATRIX/matrix.s: DSA/MATRIX/matrix.cpp.s
 DSA/MATRIX/matrix.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/MATRIX/matrix.cpp.s
 .PHONY : DSA/MATRIX/matrix.cpp.s
+
+DSA/QUEUE/circular_queue.obj: DSA/QUEUE/circular_queue.cpp.obj
+
+.PHONY : DSA/QUEUE/circular_queue.obj
+
+# target to build an object file
+DSA/QUEUE/circular_queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.obj
+.PHONY : DSA/QUEUE/circular_queue.cpp.obj
+
+DSA/QUEUE/circular_queue.i: DSA/QUEUE/circular_queue.cpp.i
+
+.PHONY : DSA/QUEUE/circular_queue.i
+
+# target to preprocess a source file
+DSA/QUEUE/circular_queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.i
+.PHONY : DSA/QUEUE/circular_queue.cpp.i
+
+DSA/QUEUE/circular_queue.s: DSA/QUEUE/circular_queue.cpp.s
+
+.PHONY : DSA/QUEUE/circular_queue.s
+
+# target to generate assembly for a file
+DSA/QUEUE/circular_queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.s
+.PHONY : DSA/QUEUE/circular_queue.cpp.s
+
+DSA/QUEUE/queue_again/queue_impl.obj: DSA/QUEUE/queue_again/queue_impl.cpp.obj
+
+.PHONY : DSA/QUEUE/queue_again/queue_impl.obj
+
+# target to build an object file
+DSA/QUEUE/queue_again/queue_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.obj
+.PHONY : DSA/QUEUE/queue_again/queue_impl.cpp.obj
+
+DSA/QUEUE/queue_again/queue_impl.i: DSA/QUEUE/queue_again/queue_impl.cpp.i
+
+.PHONY : DSA/QUEUE/queue_again/queue_impl.i
+
+# target to preprocess a source file
+DSA/QUEUE/queue_again/queue_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.i
+.PHONY : DSA/QUEUE/queue_again/queue_impl.cpp.i
+
+DSA/QUEUE/queue_again/queue_impl.s: DSA/QUEUE/queue_again/queue_impl.cpp.s
+
+.PHONY : DSA/QUEUE/queue_again/queue_impl.s
+
+# target to generate assembly for a file
+DSA/QUEUE/queue_again/queue_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.s
+.PHONY : DSA/QUEUE/queue_again/queue_impl.cpp.s
+
+DSA/QUEUE/queue_again/queue_main.obj: DSA/QUEUE/queue_again/queue_main.cpp.obj
+
+.PHONY : DSA/QUEUE/queue_again/queue_main.obj
+
+# target to build an object file
+DSA/QUEUE/queue_again/queue_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.obj
+.PHONY : DSA/QUEUE/queue_again/queue_main.cpp.obj
+
+DSA/QUEUE/queue_again/queue_main.i: DSA/QUEUE/queue_again/queue_main.cpp.i
+
+.PHONY : DSA/QUEUE/queue_again/queue_main.i
+
+# target to preprocess a source file
+DSA/QUEUE/queue_again/queue_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.i
+.PHONY : DSA/QUEUE/queue_again/queue_main.cpp.i
+
+DSA/QUEUE/queue_again/queue_main.s: DSA/QUEUE/queue_again/queue_main.cpp.s
+
+.PHONY : DSA/QUEUE/queue_again/queue_main.s
+
+# target to generate assembly for a file
+DSA/QUEUE/queue_again/queue_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.s
+.PHONY : DSA/QUEUE/queue_again/queue_main.cpp.s
+
+DSA/QUEUE/queue_code.obj: DSA/QUEUE/queue_code.cpp.obj
+
+.PHONY : DSA/QUEUE/queue_code.obj
+
+# target to build an object file
+DSA/QUEUE/queue_code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.obj
+.PHONY : DSA/QUEUE/queue_code.cpp.obj
+
+DSA/QUEUE/queue_code.i: DSA/QUEUE/queue_code.cpp.i
+
+.PHONY : DSA/QUEUE/queue_code.i
+
+# target to preprocess a source file
+DSA/QUEUE/queue_code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.i
+.PHONY : DSA/QUEUE/queue_code.cpp.i
+
+DSA/QUEUE/queue_code.s: DSA/QUEUE/queue_code.cpp.s
+
+.PHONY : DSA/QUEUE/queue_code.s
+
+# target to generate assembly for a file
+DSA/QUEUE/queue_code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.s
+.PHONY : DSA/QUEUE/queue_code.cpp.s
+
+DSA/QUEUE/queue_using_LL.obj: DSA/QUEUE/queue_using_LL.cpp.obj
+
+.PHONY : DSA/QUEUE/queue_using_LL.obj
+
+# target to build an object file
+DSA/QUEUE/queue_using_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.obj
+.PHONY : DSA/QUEUE/queue_using_LL.cpp.obj
+
+DSA/QUEUE/queue_using_LL.i: DSA/QUEUE/queue_using_LL.cpp.i
+
+.PHONY : DSA/QUEUE/queue_using_LL.i
+
+# target to preprocess a source file
+DSA/QUEUE/queue_using_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.i
+.PHONY : DSA/QUEUE/queue_using_LL.cpp.i
+
+DSA/QUEUE/queue_using_LL.s: DSA/QUEUE/queue_using_LL.cpp.s
+
+.PHONY : DSA/QUEUE/queue_using_LL.s
+
+# target to generate assembly for a file
+DSA/QUEUE/queue_using_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.s
+.PHONY : DSA/QUEUE/queue_using_LL.cpp.s
 
 DSA/RECURSION/all_indices.obj: DSA/RECURSION/all_indices.cpp.obj
 
@@ -5271,6 +4056,33 @@ DSA/RECURSION/generate_all_balanced_paranthesis.s: DSA/RECURSION/generate_all_ba
 DSA/RECURSION/generate_all_balanced_paranthesis.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.s
 .PHONY : DSA/RECURSION/generate_all_balanced_paranthesis.cpp.s
+
+DSA/RECURSION/handshakes.obj: DSA/RECURSION/handshakes.cpp.obj
+
+.PHONY : DSA/RECURSION/handshakes.obj
+
+# target to build an object file
+DSA/RECURSION/handshakes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj
+.PHONY : DSA/RECURSION/handshakes.cpp.obj
+
+DSA/RECURSION/handshakes.i: DSA/RECURSION/handshakes.cpp.i
+
+.PHONY : DSA/RECURSION/handshakes.i
+
+# target to preprocess a source file
+DSA/RECURSION/handshakes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.i
+.PHONY : DSA/RECURSION/handshakes.cpp.i
+
+DSA/RECURSION/handshakes.s: DSA/RECURSION/handshakes.cpp.s
+
+.PHONY : DSA/RECURSION/handshakes.s
+
+# target to generate assembly for a file
+DSA/RECURSION/handshakes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.s
+.PHONY : DSA/RECURSION/handshakes.cpp.s
 
 DSA/RECURSION/is_array_sorted.obj: DSA/RECURSION/is_array_sorted.cpp.obj
 
@@ -6001,248 +4813,518 @@ DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 .PHONY : DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.cpp.s
 
-DSA/STACK_PROBLEMS/celebrity.obj: DSA/STACK_PROBLEMS/celebrity.cpp.obj
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/celebrity.obj
-
-# target to build an object file
-DSA/STACK_PROBLEMS/celebrity.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/celebrity.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/celebrity.cpp.obj
-
-DSA/STACK_PROBLEMS/celebrity.i: DSA/STACK_PROBLEMS/celebrity.cpp.i
-
-.PHONY : DSA/STACK_PROBLEMS/celebrity.i
-
-# target to preprocess a source file
-DSA/STACK_PROBLEMS/celebrity.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/celebrity.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/celebrity.cpp.i
-
-DSA/STACK_PROBLEMS/celebrity.s: DSA/STACK_PROBLEMS/celebrity.cpp.s
-
-.PHONY : DSA/STACK_PROBLEMS/celebrity.s
-
-# target to generate assembly for a file
-DSA/STACK_PROBLEMS/celebrity.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/celebrity.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/celebrity.cpp.s
-
-DSA/STACK_PROBLEMS/mah.obj: DSA/STACK_PROBLEMS/mah.cpp.obj
-
-.PHONY : DSA/STACK_PROBLEMS/mah.obj
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/mah.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mah.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/mah.cpp.obj
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 
-DSA/STACK_PROBLEMS/mah.i: DSA/STACK_PROBLEMS/mah.cpp.i
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/mah.i
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/mah.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mah.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/mah.cpp.i
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i
 
-DSA/STACK_PROBLEMS/mah.s: DSA/STACK_PROBLEMS/mah.cpp.s
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/mah.s
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/mah.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mah.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/mah.cpp.s
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s
 
-DSA/STACK_PROBLEMS/mar.obj: DSA/STACK_PROBLEMS/mar.cpp.obj
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/mar.obj
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/mar.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mar.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/mar.cpp.obj
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
 
-DSA/STACK_PROBLEMS/mar.i: DSA/STACK_PROBLEMS/mar.cpp.i
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/mar.i
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/mar.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mar.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/mar.cpp.i
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i
 
-DSA/STACK_PROBLEMS/mar.s: DSA/STACK_PROBLEMS/mar.cpp.s
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s: DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/mar.s
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/mar.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/mar.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/mar.cpp.s
+DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
+.PHONY : DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s
 
-DSA/STACK_PROBLEMS/ngl.obj: DSA/STACK_PROBLEMS/ngl.cpp.obj
+DSA/STACK/EXP_TREE/exp_tree_impl.obj: DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/ngl.obj
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/ngl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngl.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/ngl.cpp.obj
+DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj
 
-DSA/STACK_PROBLEMS/ngl.i: DSA/STACK_PROBLEMS/ngl.cpp.i
+DSA/STACK/EXP_TREE/exp_tree_impl.i: DSA/STACK/EXP_TREE/exp_tree_impl.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/ngl.i
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/ngl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngl.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/ngl.cpp.i
+DSA/STACK/EXP_TREE/exp_tree_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.i
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.cpp.i
 
-DSA/STACK_PROBLEMS/ngl.s: DSA/STACK_PROBLEMS/ngl.cpp.s
+DSA/STACK/EXP_TREE/exp_tree_impl.s: DSA/STACK/EXP_TREE/exp_tree_impl.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/ngl.s
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/ngl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngl.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/ngl.cpp.s
+DSA/STACK/EXP_TREE/exp_tree_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.s
+.PHONY : DSA/STACK/EXP_TREE/exp_tree_impl.cpp.s
 
-DSA/STACK_PROBLEMS/ngr.obj: DSA/STACK_PROBLEMS/ngr.cpp.obj
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.obj: DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/ngr.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/ngr.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngr.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/ngr.cpp.obj
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj
 
-DSA/STACK_PROBLEMS/ngr.i: DSA/STACK_PROBLEMS/ngr.cpp.i
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.i: DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/ngr.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/ngr.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngr.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/ngr.cpp.i
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.i
 
-DSA/STACK_PROBLEMS/ngr.s: DSA/STACK_PROBLEMS/ngr.cpp.s
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.s: DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/ngr.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/ngr.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/ngr.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/ngr.cpp.s
+DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.s
 
-DSA/STACK_PROBLEMS/nsl.obj: DSA/STACK_PROBLEMS/nsl.cpp.obj
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.obj: DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/nsl.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/nsl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsl.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/nsl.cpp.obj
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj
 
-DSA/STACK_PROBLEMS/nsl.i: DSA/STACK_PROBLEMS/nsl.cpp.i
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.i: DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/nsl.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/nsl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsl.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/nsl.cpp.i
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.i
 
-DSA/STACK_PROBLEMS/nsl.s: DSA/STACK_PROBLEMS/nsl.cpp.s
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.s: DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/nsl.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/nsl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsl.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/nsl.cpp.s
+DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.s
 
-DSA/STACK_PROBLEMS/nsr.obj: DSA/STACK_PROBLEMS/nsr.cpp.obj
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.obj: DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/nsr.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/nsr.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsr.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/nsr.cpp.obj
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj
 
-DSA/STACK_PROBLEMS/nsr.i: DSA/STACK_PROBLEMS/nsr.cpp.i
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.i: DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/nsr.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/nsr.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsr.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/nsr.cpp.i
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.i
 
-DSA/STACK_PROBLEMS/nsr.s: DSA/STACK_PROBLEMS/nsr.cpp.s
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.s: DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/nsr.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/nsr.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/nsr.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/nsr.cpp.s
+DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.s
 
-DSA/STACK_PROBLEMS/rwt.obj: DSA/STACK_PROBLEMS/rwt.cpp.obj
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.obj: DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/rwt.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/rwt.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/rwt.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/rwt.cpp.obj
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj
 
-DSA/STACK_PROBLEMS/rwt.i: DSA/STACK_PROBLEMS/rwt.cpp.i
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.i: DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/rwt.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/rwt.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/rwt.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/rwt.cpp.i
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.i
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.i
 
-DSA/STACK_PROBLEMS/rwt.s: DSA/STACK_PROBLEMS/rwt.cpp.s
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.s: DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/rwt.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/rwt.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/rwt.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/rwt.cpp.s
+DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.s
+.PHONY : DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.s
 
-DSA/STACK_PROBLEMS/stock_span.obj: DSA/STACK_PROBLEMS/stock_span.cpp.obj
+DSA/STACK/Stack/stack_code.obj: DSA/STACK/Stack/stack_code.cpp.obj
 
-.PHONY : DSA/STACK_PROBLEMS/stock_span.obj
+.PHONY : DSA/STACK/Stack/stack_code.obj
 
 # target to build an object file
-DSA/STACK_PROBLEMS/stock_span.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/stock_span.cpp.obj
-.PHONY : DSA/STACK_PROBLEMS/stock_span.cpp.obj
+DSA/STACK/Stack/stack_code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.obj
+.PHONY : DSA/STACK/Stack/stack_code.cpp.obj
 
-DSA/STACK_PROBLEMS/stock_span.i: DSA/STACK_PROBLEMS/stock_span.cpp.i
+DSA/STACK/Stack/stack_code.i: DSA/STACK/Stack/stack_code.cpp.i
 
-.PHONY : DSA/STACK_PROBLEMS/stock_span.i
+.PHONY : DSA/STACK/Stack/stack_code.i
 
 # target to preprocess a source file
-DSA/STACK_PROBLEMS/stock_span.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/stock_span.cpp.i
-.PHONY : DSA/STACK_PROBLEMS/stock_span.cpp.i
+DSA/STACK/Stack/stack_code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.i
+.PHONY : DSA/STACK/Stack/stack_code.cpp.i
 
-DSA/STACK_PROBLEMS/stock_span.s: DSA/STACK_PROBLEMS/stock_span.cpp.s
+DSA/STACK/Stack/stack_code.s: DSA/STACK/Stack/stack_code.cpp.s
 
-.PHONY : DSA/STACK_PROBLEMS/stock_span.s
+.PHONY : DSA/STACK/Stack/stack_code.s
 
 # target to generate assembly for a file
-DSA/STACK_PROBLEMS/stock_span.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK_PROBLEMS/stock_span.cpp.s
-.PHONY : DSA/STACK_PROBLEMS/stock_span.cpp.s
+DSA/STACK/Stack/stack_code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.s
+.PHONY : DSA/STACK/Stack/stack_code.cpp.s
+
+DSA/STACK/Stack/stack_using_LL.obj: DSA/STACK/Stack/stack_using_LL.cpp.obj
+
+.PHONY : DSA/STACK/Stack/stack_using_LL.obj
+
+# target to build an object file
+DSA/STACK/Stack/stack_using_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.obj
+.PHONY : DSA/STACK/Stack/stack_using_LL.cpp.obj
+
+DSA/STACK/Stack/stack_using_LL.i: DSA/STACK/Stack/stack_using_LL.cpp.i
+
+.PHONY : DSA/STACK/Stack/stack_using_LL.i
+
+# target to preprocess a source file
+DSA/STACK/Stack/stack_using_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.i
+.PHONY : DSA/STACK/Stack/stack_using_LL.cpp.i
+
+DSA/STACK/Stack/stack_using_LL.s: DSA/STACK/Stack/stack_using_LL.cpp.s
+
+.PHONY : DSA/STACK/Stack/stack_using_LL.s
+
+# target to generate assembly for a file
+DSA/STACK/Stack/stack_using_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.s
+.PHONY : DSA/STACK/Stack/stack_using_LL.cpp.s
+
+DSA/STACK/celebrity.obj: DSA/STACK/celebrity.cpp.obj
+
+.PHONY : DSA/STACK/celebrity.obj
+
+# target to build an object file
+DSA/STACK/celebrity.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.obj
+.PHONY : DSA/STACK/celebrity.cpp.obj
+
+DSA/STACK/celebrity.i: DSA/STACK/celebrity.cpp.i
+
+.PHONY : DSA/STACK/celebrity.i
+
+# target to preprocess a source file
+DSA/STACK/celebrity.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.i
+.PHONY : DSA/STACK/celebrity.cpp.i
+
+DSA/STACK/celebrity.s: DSA/STACK/celebrity.cpp.s
+
+.PHONY : DSA/STACK/celebrity.s
+
+# target to generate assembly for a file
+DSA/STACK/celebrity.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.s
+.PHONY : DSA/STACK/celebrity.cpp.s
+
+DSA/STACK/mah.obj: DSA/STACK/mah.cpp.obj
+
+.PHONY : DSA/STACK/mah.obj
+
+# target to build an object file
+DSA/STACK/mah.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.obj
+.PHONY : DSA/STACK/mah.cpp.obj
+
+DSA/STACK/mah.i: DSA/STACK/mah.cpp.i
+
+.PHONY : DSA/STACK/mah.i
+
+# target to preprocess a source file
+DSA/STACK/mah.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.i
+.PHONY : DSA/STACK/mah.cpp.i
+
+DSA/STACK/mah.s: DSA/STACK/mah.cpp.s
+
+.PHONY : DSA/STACK/mah.s
+
+# target to generate assembly for a file
+DSA/STACK/mah.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.s
+.PHONY : DSA/STACK/mah.cpp.s
+
+DSA/STACK/mar.obj: DSA/STACK/mar.cpp.obj
+
+.PHONY : DSA/STACK/mar.obj
+
+# target to build an object file
+DSA/STACK/mar.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.obj
+.PHONY : DSA/STACK/mar.cpp.obj
+
+DSA/STACK/mar.i: DSA/STACK/mar.cpp.i
+
+.PHONY : DSA/STACK/mar.i
+
+# target to preprocess a source file
+DSA/STACK/mar.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.i
+.PHONY : DSA/STACK/mar.cpp.i
+
+DSA/STACK/mar.s: DSA/STACK/mar.cpp.s
+
+.PHONY : DSA/STACK/mar.s
+
+# target to generate assembly for a file
+DSA/STACK/mar.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.s
+.PHONY : DSA/STACK/mar.cpp.s
+
+DSA/STACK/ngl.obj: DSA/STACK/ngl.cpp.obj
+
+.PHONY : DSA/STACK/ngl.obj
+
+# target to build an object file
+DSA/STACK/ngl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.obj
+.PHONY : DSA/STACK/ngl.cpp.obj
+
+DSA/STACK/ngl.i: DSA/STACK/ngl.cpp.i
+
+.PHONY : DSA/STACK/ngl.i
+
+# target to preprocess a source file
+DSA/STACK/ngl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.i
+.PHONY : DSA/STACK/ngl.cpp.i
+
+DSA/STACK/ngl.s: DSA/STACK/ngl.cpp.s
+
+.PHONY : DSA/STACK/ngl.s
+
+# target to generate assembly for a file
+DSA/STACK/ngl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.s
+.PHONY : DSA/STACK/ngl.cpp.s
+
+DSA/STACK/ngr.obj: DSA/STACK/ngr.cpp.obj
+
+.PHONY : DSA/STACK/ngr.obj
+
+# target to build an object file
+DSA/STACK/ngr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.obj
+.PHONY : DSA/STACK/ngr.cpp.obj
+
+DSA/STACK/ngr.i: DSA/STACK/ngr.cpp.i
+
+.PHONY : DSA/STACK/ngr.i
+
+# target to preprocess a source file
+DSA/STACK/ngr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.i
+.PHONY : DSA/STACK/ngr.cpp.i
+
+DSA/STACK/ngr.s: DSA/STACK/ngr.cpp.s
+
+.PHONY : DSA/STACK/ngr.s
+
+# target to generate assembly for a file
+DSA/STACK/ngr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.s
+.PHONY : DSA/STACK/ngr.cpp.s
+
+DSA/STACK/nsl.obj: DSA/STACK/nsl.cpp.obj
+
+.PHONY : DSA/STACK/nsl.obj
+
+# target to build an object file
+DSA/STACK/nsl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.obj
+.PHONY : DSA/STACK/nsl.cpp.obj
+
+DSA/STACK/nsl.i: DSA/STACK/nsl.cpp.i
+
+.PHONY : DSA/STACK/nsl.i
+
+# target to preprocess a source file
+DSA/STACK/nsl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.i
+.PHONY : DSA/STACK/nsl.cpp.i
+
+DSA/STACK/nsl.s: DSA/STACK/nsl.cpp.s
+
+.PHONY : DSA/STACK/nsl.s
+
+# target to generate assembly for a file
+DSA/STACK/nsl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.s
+.PHONY : DSA/STACK/nsl.cpp.s
+
+DSA/STACK/nsr.obj: DSA/STACK/nsr.cpp.obj
+
+.PHONY : DSA/STACK/nsr.obj
+
+# target to build an object file
+DSA/STACK/nsr.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.obj
+.PHONY : DSA/STACK/nsr.cpp.obj
+
+DSA/STACK/nsr.i: DSA/STACK/nsr.cpp.i
+
+.PHONY : DSA/STACK/nsr.i
+
+# target to preprocess a source file
+DSA/STACK/nsr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.i
+.PHONY : DSA/STACK/nsr.cpp.i
+
+DSA/STACK/nsr.s: DSA/STACK/nsr.cpp.s
+
+.PHONY : DSA/STACK/nsr.s
+
+# target to generate assembly for a file
+DSA/STACK/nsr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.s
+.PHONY : DSA/STACK/nsr.cpp.s
+
+DSA/STACK/rwt.obj: DSA/STACK/rwt.cpp.obj
+
+.PHONY : DSA/STACK/rwt.obj
+
+# target to build an object file
+DSA/STACK/rwt.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.obj
+.PHONY : DSA/STACK/rwt.cpp.obj
+
+DSA/STACK/rwt.i: DSA/STACK/rwt.cpp.i
+
+.PHONY : DSA/STACK/rwt.i
+
+# target to preprocess a source file
+DSA/STACK/rwt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.i
+.PHONY : DSA/STACK/rwt.cpp.i
+
+DSA/STACK/rwt.s: DSA/STACK/rwt.cpp.s
+
+.PHONY : DSA/STACK/rwt.s
+
+# target to generate assembly for a file
+DSA/STACK/rwt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.s
+.PHONY : DSA/STACK/rwt.cpp.s
+
+DSA/STACK/stack_2/stack_again.obj: DSA/STACK/stack_2/stack_again.cpp.obj
+
+.PHONY : DSA/STACK/stack_2/stack_again.obj
+
+# target to build an object file
+DSA/STACK/stack_2/stack_again.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.obj
+.PHONY : DSA/STACK/stack_2/stack_again.cpp.obj
+
+DSA/STACK/stack_2/stack_again.i: DSA/STACK/stack_2/stack_again.cpp.i
+
+.PHONY : DSA/STACK/stack_2/stack_again.i
+
+# target to preprocess a source file
+DSA/STACK/stack_2/stack_again.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.i
+.PHONY : DSA/STACK/stack_2/stack_again.cpp.i
+
+DSA/STACK/stack_2/stack_again.s: DSA/STACK/stack_2/stack_again.cpp.s
+
+.PHONY : DSA/STACK/stack_2/stack_again.s
+
+# target to generate assembly for a file
+DSA/STACK/stack_2/stack_again.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.s
+.PHONY : DSA/STACK/stack_2/stack_again.cpp.s
+
+DSA/STACK/stock_span.obj: DSA/STACK/stock_span.cpp.obj
+
+.PHONY : DSA/STACK/stock_span.obj
+
+# target to build an object file
+DSA/STACK/stock_span.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.obj
+.PHONY : DSA/STACK/stock_span.cpp.obj
+
+DSA/STACK/stock_span.i: DSA/STACK/stock_span.cpp.i
+
+.PHONY : DSA/STACK/stock_span.i
+
+# target to preprocess a source file
+DSA/STACK/stock_span.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.i
+.PHONY : DSA/STACK/stock_span.cpp.i
+
+DSA/STACK/stock_span.s: DSA/STACK/stock_span.cpp.s
+
+.PHONY : DSA/STACK/stock_span.s
+
+# target to generate assembly for a file
+DSA/STACK/stock_span.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.s
+.PHONY : DSA/STACK/stock_span.cpp.s
 
 DSA/STL/Lists.obj: DSA/STL/Lists.cpp.obj
 
@@ -6433,167 +5515,275 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
-DSA/Stack/Expression_conversions/infix_to_postfix.obj: DSA/Stack/Expression_conversions/infix_to_postfix.cpp.obj
+DSA/TREES/BST/BST_impl.obj: DSA/TREES/BST/BST_impl.cpp.obj
 
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.obj
-
-# target to build an object file
-DSA/Stack/Expression_conversions/infix_to_postfix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_postfix.cpp.obj
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.cpp.obj
-
-DSA/Stack/Expression_conversions/infix_to_postfix.i: DSA/Stack/Expression_conversions/infix_to_postfix.cpp.i
-
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.i
-
-# target to preprocess a source file
-DSA/Stack/Expression_conversions/infix_to_postfix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_postfix.cpp.i
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.cpp.i
-
-DSA/Stack/Expression_conversions/infix_to_postfix.s: DSA/Stack/Expression_conversions/infix_to_postfix.cpp.s
-
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.s
-
-# target to generate assembly for a file
-DSA/Stack/Expression_conversions/infix_to_postfix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_postfix.cpp.s
-.PHONY : DSA/Stack/Expression_conversions/infix_to_postfix.cpp.s
-
-DSA/Stack/Expression_conversions/infix_to_prefix.obj: DSA/Stack/Expression_conversions/infix_to_prefix.cpp.obj
-
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.obj
+.PHONY : DSA/TREES/BST/BST_impl.obj
 
 # target to build an object file
-DSA/Stack/Expression_conversions/infix_to_prefix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_prefix.cpp.obj
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.cpp.obj
+DSA/TREES/BST/BST_impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj
+.PHONY : DSA/TREES/BST/BST_impl.cpp.obj
 
-DSA/Stack/Expression_conversions/infix_to_prefix.i: DSA/Stack/Expression_conversions/infix_to_prefix.cpp.i
+DSA/TREES/BST/BST_impl.i: DSA/TREES/BST/BST_impl.cpp.i
 
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.i
+.PHONY : DSA/TREES/BST/BST_impl.i
 
 # target to preprocess a source file
-DSA/Stack/Expression_conversions/infix_to_prefix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_prefix.cpp.i
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.cpp.i
+DSA/TREES/BST/BST_impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.i
+.PHONY : DSA/TREES/BST/BST_impl.cpp.i
 
-DSA/Stack/Expression_conversions/infix_to_prefix.s: DSA/Stack/Expression_conversions/infix_to_prefix.cpp.s
+DSA/TREES/BST/BST_impl.s: DSA/TREES/BST/BST_impl.cpp.s
 
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.s
+.PHONY : DSA/TREES/BST/BST_impl.s
 
 # target to generate assembly for a file
-DSA/Stack/Expression_conversions/infix_to_prefix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/infix_to_prefix.cpp.s
-.PHONY : DSA/Stack/Expression_conversions/infix_to_prefix.cpp.s
+DSA/TREES/BST/BST_impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.s
+.PHONY : DSA/TREES/BST/BST_impl.cpp.s
 
-DSA/Stack/Expression_conversions/postfix_to_infix.obj: DSA/Stack/Expression_conversions/postfix_to_infix.cpp.obj
+DSA/TREES/BST_CN/BST_use.obj: DSA/TREES/BST_CN/BST_use.cpp.obj
 
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.obj
+.PHONY : DSA/TREES/BST_CN/BST_use.obj
 
 # target to build an object file
-DSA/Stack/Expression_conversions/postfix_to_infix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/postfix_to_infix.cpp.obj
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.cpp.obj
+DSA/TREES/BST_CN/BST_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj
+.PHONY : DSA/TREES/BST_CN/BST_use.cpp.obj
 
-DSA/Stack/Expression_conversions/postfix_to_infix.i: DSA/Stack/Expression_conversions/postfix_to_infix.cpp.i
+DSA/TREES/BST_CN/BST_use.i: DSA/TREES/BST_CN/BST_use.cpp.i
 
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.i
+.PHONY : DSA/TREES/BST_CN/BST_use.i
 
 # target to preprocess a source file
-DSA/Stack/Expression_conversions/postfix_to_infix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/postfix_to_infix.cpp.i
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.cpp.i
+DSA/TREES/BST_CN/BST_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.i
+.PHONY : DSA/TREES/BST_CN/BST_use.cpp.i
 
-DSA/Stack/Expression_conversions/postfix_to_infix.s: DSA/Stack/Expression_conversions/postfix_to_infix.cpp.s
+DSA/TREES/BST_CN/BST_use.s: DSA/TREES/BST_CN/BST_use.cpp.s
 
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.s
+.PHONY : DSA/TREES/BST_CN/BST_use.s
 
 # target to generate assembly for a file
-DSA/Stack/Expression_conversions/postfix_to_infix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/postfix_to_infix.cpp.s
-.PHONY : DSA/Stack/Expression_conversions/postfix_to_infix.cpp.s
+DSA/TREES/BST_CN/BST_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.s
+.PHONY : DSA/TREES/BST_CN/BST_use.cpp.s
 
-DSA/Stack/Expression_conversions/prefix_to_infix.obj: DSA/Stack/Expression_conversions/prefix_to_infix.cpp.obj
+DSA/TREES/Binary_Trees_CN/binary_tree_main.obj: DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj
 
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.obj
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.obj
 
 # target to build an object file
-DSA/Stack/Expression_conversions/prefix_to_infix.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/prefix_to_infix.cpp.obj
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.cpp.obj
+DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj
 
-DSA/Stack/Expression_conversions/prefix_to_infix.i: DSA/Stack/Expression_conversions/prefix_to_infix.cpp.i
+DSA/TREES/Binary_Trees_CN/binary_tree_main.i: DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.i
 
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.i
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.i
 
 # target to preprocess a source file
-DSA/Stack/Expression_conversions/prefix_to_infix.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/prefix_to_infix.cpp.i
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.cpp.i
+DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.i
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.i
 
-DSA/Stack/Expression_conversions/prefix_to_infix.s: DSA/Stack/Expression_conversions/prefix_to_infix.cpp.s
+DSA/TREES/Binary_Trees_CN/binary_tree_main.s: DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.s
 
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.s
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.s
 
 # target to generate assembly for a file
-DSA/Stack/Expression_conversions/prefix_to_infix.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/Expression_conversions/prefix_to_infix.cpp.s
-.PHONY : DSA/Stack/Expression_conversions/prefix_to_infix.cpp.s
+DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.s
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.s
 
-DSA/Stack/stack_code.obj: DSA/Stack/stack_code.cpp.obj
+DSA/TREES/Binary_Trees_CN/binary_tree_use.obj: DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj
 
-.PHONY : DSA/Stack/stack_code.obj
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.obj
 
 # target to build an object file
-DSA/Stack/stack_code.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_code.cpp.obj
-.PHONY : DSA/Stack/stack_code.cpp.obj
+DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj
 
-DSA/Stack/stack_code.i: DSA/Stack/stack_code.cpp.i
+DSA/TREES/Binary_Trees_CN/binary_tree_use.i: DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.i
 
-.PHONY : DSA/Stack/stack_code.i
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.i
 
 # target to preprocess a source file
-DSA/Stack/stack_code.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_code.cpp.i
-.PHONY : DSA/Stack/stack_code.cpp.i
+DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.i
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.i
 
-DSA/Stack/stack_code.s: DSA/Stack/stack_code.cpp.s
+DSA/TREES/Binary_Trees_CN/binary_tree_use.s: DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s
 
-.PHONY : DSA/Stack/stack_code.s
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.s
 
 # target to generate assembly for a file
-DSA/Stack/stack_code.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_code.cpp.s
-.PHONY : DSA/Stack/stack_code.cpp.s
+DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s
+.PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s
 
-DSA/Stack/stack_using_LL.obj: DSA/Stack/stack_using_LL.cpp.obj
+DSA/TREES/Trees_CN/tree_use.obj: DSA/TREES/Trees_CN/tree_use.cpp.obj
 
-.PHONY : DSA/Stack/stack_using_LL.obj
+.PHONY : DSA/TREES/Trees_CN/tree_use.obj
 
 # target to build an object file
-DSA/Stack/stack_using_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_using_LL.cpp.obj
-.PHONY : DSA/Stack/stack_using_LL.cpp.obj
+DSA/TREES/Trees_CN/tree_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj
+.PHONY : DSA/TREES/Trees_CN/tree_use.cpp.obj
 
-DSA/Stack/stack_using_LL.i: DSA/Stack/stack_using_LL.cpp.i
+DSA/TREES/Trees_CN/tree_use.i: DSA/TREES/Trees_CN/tree_use.cpp.i
 
-.PHONY : DSA/Stack/stack_using_LL.i
+.PHONY : DSA/TREES/Trees_CN/tree_use.i
 
 # target to preprocess a source file
-DSA/Stack/stack_using_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_using_LL.cpp.i
-.PHONY : DSA/Stack/stack_using_LL.cpp.i
+DSA/TREES/Trees_CN/tree_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.i
+.PHONY : DSA/TREES/Trees_CN/tree_use.cpp.i
 
-DSA/Stack/stack_using_LL.s: DSA/Stack/stack_using_LL.cpp.s
+DSA/TREES/Trees_CN/tree_use.s: DSA/TREES/Trees_CN/tree_use.cpp.s
 
-.PHONY : DSA/Stack/stack_using_LL.s
+.PHONY : DSA/TREES/Trees_CN/tree_use.s
 
 # target to generate assembly for a file
-DSA/Stack/stack_using_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Stack/stack_using_LL.cpp.s
-.PHONY : DSA/Stack/stack_using_LL.cpp.s
+DSA/TREES/Trees_CN/tree_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.s
+.PHONY : DSA/TREES/Trees_CN/tree_use.cpp.s
+
+DSA/TREES/sorting_algorithms/BubbleSort.obj: DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj
+
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.obj
+
+# target to build an object file
+DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj
+
+DSA/TREES/sorting_algorithms/BubbleSort.i: DSA/TREES/sorting_algorithms/BubbleSort.cpp.i
+
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.i
+
+# target to preprocess a source file
+DSA/TREES/sorting_algorithms/BubbleSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.i
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.cpp.i
+
+DSA/TREES/sorting_algorithms/BubbleSort.s: DSA/TREES/sorting_algorithms/BubbleSort.cpp.s
+
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.s
+
+# target to generate assembly for a file
+DSA/TREES/sorting_algorithms/BubbleSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.s
+.PHONY : DSA/TREES/sorting_algorithms/BubbleSort.cpp.s
+
+DSA/TREES/sorting_algorithms/InsertionSort.obj: DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj
+
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.obj
+
+# target to build an object file
+DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj
+
+DSA/TREES/sorting_algorithms/InsertionSort.i: DSA/TREES/sorting_algorithms/InsertionSort.cpp.i
+
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.i
+
+# target to preprocess a source file
+DSA/TREES/sorting_algorithms/InsertionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.i
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.cpp.i
+
+DSA/TREES/sorting_algorithms/InsertionSort.s: DSA/TREES/sorting_algorithms/InsertionSort.cpp.s
+
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.s
+
+# target to generate assembly for a file
+DSA/TREES/sorting_algorithms/InsertionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.s
+.PHONY : DSA/TREES/sorting_algorithms/InsertionSort.cpp.s
+
+DSA/TREES/sorting_algorithms/MergeSort.obj: DSA/TREES/sorting_algorithms/MergeSort.cpp.obj
+
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.obj
+
+# target to build an object file
+DSA/TREES/sorting_algorithms/MergeSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.cpp.obj
+
+DSA/TREES/sorting_algorithms/MergeSort.i: DSA/TREES/sorting_algorithms/MergeSort.cpp.i
+
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.i
+
+# target to preprocess a source file
+DSA/TREES/sorting_algorithms/MergeSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.i
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.cpp.i
+
+DSA/TREES/sorting_algorithms/MergeSort.s: DSA/TREES/sorting_algorithms/MergeSort.cpp.s
+
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.s
+
+# target to generate assembly for a file
+DSA/TREES/sorting_algorithms/MergeSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.s
+.PHONY : DSA/TREES/sorting_algorithms/MergeSort.cpp.s
+
+DSA/TREES/sorting_algorithms/QuickSort.obj: DSA/TREES/sorting_algorithms/QuickSort.cpp.obj
+
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.obj
+
+# target to build an object file
+DSA/TREES/sorting_algorithms/QuickSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.cpp.obj
+
+DSA/TREES/sorting_algorithms/QuickSort.i: DSA/TREES/sorting_algorithms/QuickSort.cpp.i
+
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.i
+
+# target to preprocess a source file
+DSA/TREES/sorting_algorithms/QuickSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.i
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.cpp.i
+
+DSA/TREES/sorting_algorithms/QuickSort.s: DSA/TREES/sorting_algorithms/QuickSort.cpp.s
+
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.s
+
+# target to generate assembly for a file
+DSA/TREES/sorting_algorithms/QuickSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.s
+.PHONY : DSA/TREES/sorting_algorithms/QuickSort.cpp.s
+
+DSA/TREES/sorting_algorithms/selectionSort.obj: DSA/TREES/sorting_algorithms/selectionSort.cpp.obj
+
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.obj
+
+# target to build an object file
+DSA/TREES/sorting_algorithms/selectionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.cpp.obj
+
+DSA/TREES/sorting_algorithms/selectionSort.i: DSA/TREES/sorting_algorithms/selectionSort.cpp.i
+
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.i
+
+# target to preprocess a source file
+DSA/TREES/sorting_algorithms/selectionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.i
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.cpp.i
+
+DSA/TREES/sorting_algorithms/selectionSort.s: DSA/TREES/sorting_algorithms/selectionSort.cpp.s
+
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.s
+
+# target to generate assembly for a file
+DSA/TREES/sorting_algorithms/selectionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.s
+.PHONY : DSA/TREES/sorting_algorithms/selectionSort.cpp.s
 
 DSA/Templates/function_templates.obj: DSA/Templates/function_templates.cpp.obj
 
@@ -6730,410 +5920,86 @@ DSA/Templates/unordered_maps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Templates/unordered_maps.cpp.s
 .PHONY : DSA/Templates/unordered_maps.cpp.s
 
-DSA/Trees_CN/tree_use.obj: DSA/Trees_CN/tree_use.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj: DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
 
-.PHONY : DSA/Trees_CN/tree_use.obj
-
-# target to build an object file
-DSA/Trees_CN/tree_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Trees_CN/tree_use.cpp.obj
-.PHONY : DSA/Trees_CN/tree_use.cpp.obj
-
-DSA/Trees_CN/tree_use.i: DSA/Trees_CN/tree_use.cpp.i
-
-.PHONY : DSA/Trees_CN/tree_use.i
-
-# target to preprocess a source file
-DSA/Trees_CN/tree_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Trees_CN/tree_use.cpp.i
-.PHONY : DSA/Trees_CN/tree_use.cpp.i
-
-DSA/Trees_CN/tree_use.s: DSA/Trees_CN/tree_use.cpp.s
-
-.PHONY : DSA/Trees_CN/tree_use.s
-
-# target to generate assembly for a file
-DSA/Trees_CN/tree_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/Trees_CN/tree_use.cpp.s
-.PHONY : DSA/Trees_CN/tree_use.cpp.s
-
-DSA/algorithms/SORTING/BubbleSort.obj: DSA/algorithms/SORTING/BubbleSort.cpp.obj
-
-.PHONY : DSA/algorithms/SORTING/BubbleSort.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj
 
 # target to build an object file
-DSA/algorithms/SORTING/BubbleSort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/BubbleSort.cpp.obj
-.PHONY : DSA/algorithms/SORTING/BubbleSort.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
 
-DSA/algorithms/SORTING/BubbleSort.i: DSA/algorithms/SORTING/BubbleSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.i: DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.i
 
-.PHONY : DSA/algorithms/SORTING/BubbleSort.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.i
 
 # target to preprocess a source file
-DSA/algorithms/SORTING/BubbleSort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/BubbleSort.cpp.i
-.PHONY : DSA/algorithms/SORTING/BubbleSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.i
 
-DSA/algorithms/SORTING/BubbleSort.s: DSA/algorithms/SORTING/BubbleSort.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.s: DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.s
 
-.PHONY : DSA/algorithms/SORTING/BubbleSort.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.s
 
 # target to generate assembly for a file
-DSA/algorithms/SORTING/BubbleSort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/BubbleSort.cpp.s
-.PHONY : DSA/algorithms/SORTING/BubbleSort.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.s
 
-DSA/algorithms/SORTING/InsertionSort.obj: DSA/algorithms/SORTING/InsertionSort.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/impl.obj: DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj
 
-.PHONY : DSA/algorithms/SORTING/InsertionSort.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.obj
 
 # target to build an object file
-DSA/algorithms/SORTING/InsertionSort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/InsertionSort.cpp.obj
-.PHONY : DSA/algorithms/SORTING/InsertionSort.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj
 
-DSA/algorithms/SORTING/InsertionSort.i: DSA/algorithms/SORTING/InsertionSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/impl.i: DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.i
 
-.PHONY : DSA/algorithms/SORTING/InsertionSort.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.i
 
 # target to preprocess a source file
-DSA/algorithms/SORTING/InsertionSort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/InsertionSort.cpp.i
-.PHONY : DSA/algorithms/SORTING/InsertionSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.i
 
-DSA/algorithms/SORTING/InsertionSort.s: DSA/algorithms/SORTING/InsertionSort.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/impl.s: DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.s
 
-.PHONY : DSA/algorithms/SORTING/InsertionSort.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.s
 
 # target to generate assembly for a file
-DSA/algorithms/SORTING/InsertionSort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/InsertionSort.cpp.s
-.PHONY : DSA/algorithms/SORTING/InsertionSort.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.s
 
-DSA/algorithms/SORTING/MergeSort.obj: DSA/algorithms/SORTING/MergeSort.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/main.obj: DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj
 
-.PHONY : DSA/algorithms/SORTING/MergeSort.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.obj
 
 # target to build an object file
-DSA/algorithms/SORTING/MergeSort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/MergeSort.cpp.obj
-.PHONY : DSA/algorithms/SORTING/MergeSort.cpp.obj
+DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj
 
-DSA/algorithms/SORTING/MergeSort.i: DSA/algorithms/SORTING/MergeSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/main.i: DSA_ASSIGNMENTS/DSAL_mock/main.cpp.i
 
-.PHONY : DSA/algorithms/SORTING/MergeSort.i
-
-# target to preprocess a source file
-DSA/algorithms/SORTING/MergeSort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/MergeSort.cpp.i
-.PHONY : DSA/algorithms/SORTING/MergeSort.cpp.i
-
-DSA/algorithms/SORTING/MergeSort.s: DSA/algorithms/SORTING/MergeSort.cpp.s
-
-.PHONY : DSA/algorithms/SORTING/MergeSort.s
-
-# target to generate assembly for a file
-DSA/algorithms/SORTING/MergeSort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/MergeSort.cpp.s
-.PHONY : DSA/algorithms/SORTING/MergeSort.cpp.s
-
-DSA/algorithms/SORTING/QuickSort.obj: DSA/algorithms/SORTING/QuickSort.cpp.obj
-
-.PHONY : DSA/algorithms/SORTING/QuickSort.obj
-
-# target to build an object file
-DSA/algorithms/SORTING/QuickSort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/QuickSort.cpp.obj
-.PHONY : DSA/algorithms/SORTING/QuickSort.cpp.obj
-
-DSA/algorithms/SORTING/QuickSort.i: DSA/algorithms/SORTING/QuickSort.cpp.i
-
-.PHONY : DSA/algorithms/SORTING/QuickSort.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.i
 
 # target to preprocess a source file
-DSA/algorithms/SORTING/QuickSort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/QuickSort.cpp.i
-.PHONY : DSA/algorithms/SORTING/QuickSort.cpp.i
+DSA_ASSIGNMENTS/DSAL_mock/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.i
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.cpp.i
 
-DSA/algorithms/SORTING/QuickSort.s: DSA/algorithms/SORTING/QuickSort.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/main.s: DSA_ASSIGNMENTS/DSAL_mock/main.cpp.s
 
-.PHONY : DSA/algorithms/SORTING/QuickSort.s
-
-# target to generate assembly for a file
-DSA/algorithms/SORTING/QuickSort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/QuickSort.cpp.s
-.PHONY : DSA/algorithms/SORTING/QuickSort.cpp.s
-
-DSA/algorithms/SORTING/selectionSort.obj: DSA/algorithms/SORTING/selectionSort.cpp.obj
-
-.PHONY : DSA/algorithms/SORTING/selectionSort.obj
-
-# target to build an object file
-DSA/algorithms/SORTING/selectionSort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/selectionSort.cpp.obj
-.PHONY : DSA/algorithms/SORTING/selectionSort.cpp.obj
-
-DSA/algorithms/SORTING/selectionSort.i: DSA/algorithms/SORTING/selectionSort.cpp.i
-
-.PHONY : DSA/algorithms/SORTING/selectionSort.i
-
-# target to preprocess a source file
-DSA/algorithms/SORTING/selectionSort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/selectionSort.cpp.i
-.PHONY : DSA/algorithms/SORTING/selectionSort.cpp.i
-
-DSA/algorithms/SORTING/selectionSort.s: DSA/algorithms/SORTING/selectionSort.cpp.s
-
-.PHONY : DSA/algorithms/SORTING/selectionSort.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.s
 
 # target to generate assembly for a file
-DSA/algorithms/SORTING/selectionSort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/algorithms/SORTING/selectionSort.cpp.s
-.PHONY : DSA/algorithms/SORTING/selectionSort.cpp.s
-
-DSA/dequeue/deque2.obj: DSA/dequeue/deque2.cpp.obj
-
-.PHONY : DSA/dequeue/deque2.obj
-
-# target to build an object file
-DSA/dequeue/deque2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque2.cpp.obj
-.PHONY : DSA/dequeue/deque2.cpp.obj
-
-DSA/dequeue/deque2.i: DSA/dequeue/deque2.cpp.i
-
-.PHONY : DSA/dequeue/deque2.i
-
-# target to preprocess a source file
-DSA/dequeue/deque2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque2.cpp.i
-.PHONY : DSA/dequeue/deque2.cpp.i
-
-DSA/dequeue/deque2.s: DSA/dequeue/deque2.cpp.s
-
-.PHONY : DSA/dequeue/deque2.s
-
-# target to generate assembly for a file
-DSA/dequeue/deque2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque2.cpp.s
-.PHONY : DSA/dequeue/deque2.cpp.s
-
-DSA/dequeue/deque3.obj: DSA/dequeue/deque3.cpp.obj
-
-.PHONY : DSA/dequeue/deque3.obj
-
-# target to build an object file
-DSA/dequeue/deque3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque3.cpp.obj
-.PHONY : DSA/dequeue/deque3.cpp.obj
-
-DSA/dequeue/deque3.i: DSA/dequeue/deque3.cpp.i
-
-.PHONY : DSA/dequeue/deque3.i
-
-# target to preprocess a source file
-DSA/dequeue/deque3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque3.cpp.i
-.PHONY : DSA/dequeue/deque3.cpp.i
-
-DSA/dequeue/deque3.s: DSA/dequeue/deque3.cpp.s
-
-.PHONY : DSA/dequeue/deque3.s
-
-# target to generate assembly for a file
-DSA/dequeue/deque3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/deque3.cpp.s
-.PHONY : DSA/dequeue/deque3.cpp.s
-
-DSA/dequeue/dequeue.obj: DSA/dequeue/dequeue.cpp.obj
-
-.PHONY : DSA/dequeue/dequeue.obj
-
-# target to build an object file
-DSA/dequeue/dequeue.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/dequeue.cpp.obj
-.PHONY : DSA/dequeue/dequeue.cpp.obj
-
-DSA/dequeue/dequeue.i: DSA/dequeue/dequeue.cpp.i
-
-.PHONY : DSA/dequeue/dequeue.i
-
-# target to preprocess a source file
-DSA/dequeue/dequeue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/dequeue.cpp.i
-.PHONY : DSA/dequeue/dequeue.cpp.i
-
-DSA/dequeue/dequeue.s: DSA/dequeue/dequeue.cpp.s
-
-.PHONY : DSA/dequeue/dequeue.s
-
-# target to generate assembly for a file
-DSA/dequeue/dequeue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/dequeue/dequeue.cpp.s
-.PHONY : DSA/dequeue/dequeue.cpp.s
-
-DSA/queue/circular_queue.obj: DSA/queue/circular_queue.cpp.obj
-
-.PHONY : DSA/queue/circular_queue.obj
-
-# target to build an object file
-DSA/queue/circular_queue.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/circular_queue.cpp.obj
-.PHONY : DSA/queue/circular_queue.cpp.obj
-
-DSA/queue/circular_queue.i: DSA/queue/circular_queue.cpp.i
-
-.PHONY : DSA/queue/circular_queue.i
-
-# target to preprocess a source file
-DSA/queue/circular_queue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/circular_queue.cpp.i
-.PHONY : DSA/queue/circular_queue.cpp.i
-
-DSA/queue/circular_queue.s: DSA/queue/circular_queue.cpp.s
-
-.PHONY : DSA/queue/circular_queue.s
-
-# target to generate assembly for a file
-DSA/queue/circular_queue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/circular_queue.cpp.s
-.PHONY : DSA/queue/circular_queue.cpp.s
-
-DSA/queue/queue_code.obj: DSA/queue/queue_code.cpp.obj
-
-.PHONY : DSA/queue/queue_code.obj
-
-# target to build an object file
-DSA/queue/queue_code.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.obj
-.PHONY : DSA/queue/queue_code.cpp.obj
-
-DSA/queue/queue_code.i: DSA/queue/queue_code.cpp.i
-
-.PHONY : DSA/queue/queue_code.i
-
-# target to preprocess a source file
-DSA/queue/queue_code.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.i
-.PHONY : DSA/queue/queue_code.cpp.i
-
-DSA/queue/queue_code.s: DSA/queue/queue_code.cpp.s
-
-.PHONY : DSA/queue/queue_code.s
-
-# target to generate assembly for a file
-DSA/queue/queue_code.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_code.cpp.s
-.PHONY : DSA/queue/queue_code.cpp.s
-
-DSA/queue/queue_using_LL.obj: DSA/queue/queue_using_LL.cpp.obj
-
-.PHONY : DSA/queue/queue_using_LL.obj
-
-# target to build an object file
-DSA/queue/queue_using_LL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.obj
-.PHONY : DSA/queue/queue_using_LL.cpp.obj
-
-DSA/queue/queue_using_LL.i: DSA/queue/queue_using_LL.cpp.i
-
-.PHONY : DSA/queue/queue_using_LL.i
-
-# target to preprocess a source file
-DSA/queue/queue_using_LL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.i
-.PHONY : DSA/queue/queue_using_LL.cpp.i
-
-DSA/queue/queue_using_LL.s: DSA/queue/queue_using_LL.cpp.s
-
-.PHONY : DSA/queue/queue_using_LL.s
-
-# target to generate assembly for a file
-DSA/queue/queue_using_LL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/queue/queue_using_LL.cpp.s
-.PHONY : DSA/queue/queue_using_LL.cpp.s
-
-DSAL_mock/DSA_mock_test.obj: DSAL_mock/DSA_mock_test.cpp.obj
-
-.PHONY : DSAL_mock/DSA_mock_test.obj
-
-# target to build an object file
-DSAL_mock/DSA_mock_test.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/DSA_mock_test.cpp.obj
-.PHONY : DSAL_mock/DSA_mock_test.cpp.obj
-
-DSAL_mock/DSA_mock_test.i: DSAL_mock/DSA_mock_test.cpp.i
-
-.PHONY : DSAL_mock/DSA_mock_test.i
-
-# target to preprocess a source file
-DSAL_mock/DSA_mock_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/DSA_mock_test.cpp.i
-.PHONY : DSAL_mock/DSA_mock_test.cpp.i
-
-DSAL_mock/DSA_mock_test.s: DSAL_mock/DSA_mock_test.cpp.s
-
-.PHONY : DSAL_mock/DSA_mock_test.s
-
-# target to generate assembly for a file
-DSAL_mock/DSA_mock_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/DSA_mock_test.cpp.s
-.PHONY : DSAL_mock/DSA_mock_test.cpp.s
-
-DSAL_mock/impl.obj: DSAL_mock/impl.cpp.obj
-
-.PHONY : DSAL_mock/impl.obj
-
-# target to build an object file
-DSAL_mock/impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/impl.cpp.obj
-.PHONY : DSAL_mock/impl.cpp.obj
-
-DSAL_mock/impl.i: DSAL_mock/impl.cpp.i
-
-.PHONY : DSAL_mock/impl.i
-
-# target to preprocess a source file
-DSAL_mock/impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/impl.cpp.i
-.PHONY : DSAL_mock/impl.cpp.i
-
-DSAL_mock/impl.s: DSAL_mock/impl.cpp.s
-
-.PHONY : DSAL_mock/impl.s
-
-# target to generate assembly for a file
-DSAL_mock/impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/impl.cpp.s
-.PHONY : DSAL_mock/impl.cpp.s
-
-DSAL_mock/main.obj: DSAL_mock/main.cpp.obj
-
-.PHONY : DSAL_mock/main.obj
-
-# target to build an object file
-DSAL_mock/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/main.cpp.obj
-.PHONY : DSAL_mock/main.cpp.obj
-
-DSAL_mock/main.i: DSAL_mock/main.cpp.i
-
-.PHONY : DSAL_mock/main.i
-
-# target to preprocess a source file
-DSAL_mock/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/main.cpp.i
-.PHONY : DSAL_mock/main.cpp.i
-
-DSAL_mock/main.s: DSAL_mock/main.cpp.s
-
-.PHONY : DSAL_mock/main.s
-
-# target to generate assembly for a file
-DSAL_mock/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSAL_mock/main.cpp.s
-.PHONY : DSAL_mock/main.cpp.s
+DSA_ASSIGNMENTS/DSAL_mock/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.s
+.PHONY : DSA_ASSIGNMENTS/DSAL_mock/main.cpp.s
 
 DSA_ASSIGNMENTS/arrays_practice/array1.obj: DSA_ASSIGNMENTS/arrays_practice/array1.cpp.obj
 
@@ -8242,6 +7108,1248 @@ DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s
 .PHONY : DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s
 
+OLD/GFG/Arrays/check_array_equality.obj: OLD/GFG/Arrays/check_array_equality.cpp.obj
+
+.PHONY : OLD/GFG/Arrays/check_array_equality.obj
+
+# target to build an object file
+OLD/GFG/Arrays/check_array_equality.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj
+.PHONY : OLD/GFG/Arrays/check_array_equality.cpp.obj
+
+OLD/GFG/Arrays/check_array_equality.i: OLD/GFG/Arrays/check_array_equality.cpp.i
+
+.PHONY : OLD/GFG/Arrays/check_array_equality.i
+
+# target to preprocess a source file
+OLD/GFG/Arrays/check_array_equality.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.i
+.PHONY : OLD/GFG/Arrays/check_array_equality.cpp.i
+
+OLD/GFG/Arrays/check_array_equality.s: OLD/GFG/Arrays/check_array_equality.cpp.s
+
+.PHONY : OLD/GFG/Arrays/check_array_equality.s
+
+# target to generate assembly for a file
+OLD/GFG/Arrays/check_array_equality.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.s
+.PHONY : OLD/GFG/Arrays/check_array_equality.cpp.s
+
+OLD/GFG/Arrays/fighting_darkness.obj: OLD/GFG/Arrays/fighting_darkness.cpp.obj
+
+.PHONY : OLD/GFG/Arrays/fighting_darkness.obj
+
+# target to build an object file
+OLD/GFG/Arrays/fighting_darkness.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj
+.PHONY : OLD/GFG/Arrays/fighting_darkness.cpp.obj
+
+OLD/GFG/Arrays/fighting_darkness.i: OLD/GFG/Arrays/fighting_darkness.cpp.i
+
+.PHONY : OLD/GFG/Arrays/fighting_darkness.i
+
+# target to preprocess a source file
+OLD/GFG/Arrays/fighting_darkness.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.i
+.PHONY : OLD/GFG/Arrays/fighting_darkness.cpp.i
+
+OLD/GFG/Arrays/fighting_darkness.s: OLD/GFG/Arrays/fighting_darkness.cpp.s
+
+.PHONY : OLD/GFG/Arrays/fighting_darkness.s
+
+# target to generate assembly for a file
+OLD/GFG/Arrays/fighting_darkness.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.s
+.PHONY : OLD/GFG/Arrays/fighting_darkness.cpp.s
+
+OLD/GFG/Arrays/rotate_array.obj: OLD/GFG/Arrays/rotate_array.cpp.obj
+
+.PHONY : OLD/GFG/Arrays/rotate_array.obj
+
+# target to build an object file
+OLD/GFG/Arrays/rotate_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj
+.PHONY : OLD/GFG/Arrays/rotate_array.cpp.obj
+
+OLD/GFG/Arrays/rotate_array.i: OLD/GFG/Arrays/rotate_array.cpp.i
+
+.PHONY : OLD/GFG/Arrays/rotate_array.i
+
+# target to preprocess a source file
+OLD/GFG/Arrays/rotate_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.i
+.PHONY : OLD/GFG/Arrays/rotate_array.cpp.i
+
+OLD/GFG/Arrays/rotate_array.s: OLD/GFG/Arrays/rotate_array.cpp.s
+
+.PHONY : OLD/GFG/Arrays/rotate_array.s
+
+# target to generate assembly for a file
+OLD/GFG/Arrays/rotate_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.s
+.PHONY : OLD/GFG/Arrays/rotate_array.cpp.s
+
+OLD/GFG/LL/Add_1_to_LL.obj: OLD/GFG/LL/Add_1_to_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/Add_1_to_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/Add_1_to_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj
+.PHONY : OLD/GFG/LL/Add_1_to_LL.cpp.obj
+
+OLD/GFG/LL/Add_1_to_LL.i: OLD/GFG/LL/Add_1_to_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/Add_1_to_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/Add_1_to_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.i
+.PHONY : OLD/GFG/LL/Add_1_to_LL.cpp.i
+
+OLD/GFG/LL/Add_1_to_LL.s: OLD/GFG/LL/Add_1_to_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/Add_1_to_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/Add_1_to_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.s
+.PHONY : OLD/GFG/LL/Add_1_to_LL.cpp.s
+
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj: OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
+
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj
+
+# target to build an object file
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj
+
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.i: OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
+
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.i
+
+# target to preprocess a source file
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i
+
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.s: OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
+
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
+.PHONY : OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.s
+
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj: OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
+
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj
+
+# target to build an object file
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj
+
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i: OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
+
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i
+
+# target to preprocess a source file
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i
+
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s: OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
+
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
+.PHONY : OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s
+
+OLD/GFG/LL/Identical_LL.obj: OLD/GFG/LL/Identical_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/Identical_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/Identical_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj
+.PHONY : OLD/GFG/LL/Identical_LL.cpp.obj
+
+OLD/GFG/LL/Identical_LL.i: OLD/GFG/LL/Identical_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/Identical_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/Identical_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.i
+.PHONY : OLD/GFG/LL/Identical_LL.cpp.i
+
+OLD/GFG/LL/Identical_LL.s: OLD/GFG/LL/Identical_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/Identical_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/Identical_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.s
+.PHONY : OLD/GFG/LL/Identical_LL.cpp.s
+
+OLD/GFG/LL/LL_insertion.obj: OLD/GFG/LL/LL_insertion.cpp.obj
+
+.PHONY : OLD/GFG/LL/LL_insertion.obj
+
+# target to build an object file
+OLD/GFG/LL/LL_insertion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj
+.PHONY : OLD/GFG/LL/LL_insertion.cpp.obj
+
+OLD/GFG/LL/LL_insertion.i: OLD/GFG/LL/LL_insertion.cpp.i
+
+.PHONY : OLD/GFG/LL/LL_insertion.i
+
+# target to preprocess a source file
+OLD/GFG/LL/LL_insertion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.i
+.PHONY : OLD/GFG/LL/LL_insertion.cpp.i
+
+OLD/GFG/LL/LL_insertion.s: OLD/GFG/LL/LL_insertion.cpp.s
+
+.PHONY : OLD/GFG/LL/LL_insertion.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/LL_insertion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.s
+.PHONY : OLD/GFG/LL/LL_insertion.cpp.s
+
+OLD/GFG/LL/LL_length_even_or_odd.obj: OLD/GFG/LL/LL_length_even_or_odd.cpp.obj
+
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.obj
+
+# target to build an object file
+OLD/GFG/LL/LL_length_even_or_odd.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.cpp.obj
+
+OLD/GFG/LL/LL_length_even_or_odd.i: OLD/GFG/LL/LL_length_even_or_odd.cpp.i
+
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.i
+
+# target to preprocess a source file
+OLD/GFG/LL/LL_length_even_or_odd.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.i
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.cpp.i
+
+OLD/GFG/LL/LL_length_even_or_odd.s: OLD/GFG/LL/LL_length_even_or_odd.cpp.s
+
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/LL_length_even_or_odd.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.s
+.PHONY : OLD/GFG/LL/LL_length_even_or_odd.cpp.s
+
+OLD/GFG/LL/Stack.obj: OLD/GFG/LL/Stack.cpp.obj
+
+.PHONY : OLD/GFG/LL/Stack.obj
+
+# target to build an object file
+OLD/GFG/LL/Stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj
+.PHONY : OLD/GFG/LL/Stack.cpp.obj
+
+OLD/GFG/LL/Stack.i: OLD/GFG/LL/Stack.cpp.i
+
+.PHONY : OLD/GFG/LL/Stack.i
+
+# target to preprocess a source file
+OLD/GFG/LL/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.i
+.PHONY : OLD/GFG/LL/Stack.cpp.i
+
+OLD/GFG/LL/Stack.s: OLD/GFG/LL/Stack.cpp.s
+
+.PHONY : OLD/GFG/LL/Stack.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.s
+.PHONY : OLD/GFG/LL/Stack.cpp.s
+
+OLD/GFG/LL/compare_two_LL.obj: OLD/GFG/LL/compare_two_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/compare_two_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/compare_two_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj
+.PHONY : OLD/GFG/LL/compare_two_LL.cpp.obj
+
+OLD/GFG/LL/compare_two_LL.i: OLD/GFG/LL/compare_two_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/compare_two_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/compare_two_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.i
+.PHONY : OLD/GFG/LL/compare_two_LL.cpp.i
+
+OLD/GFG/LL/compare_two_LL.s: OLD/GFG/LL/compare_two_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/compare_two_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/compare_two_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.s
+.PHONY : OLD/GFG/LL/compare_two_LL.cpp.s
+
+OLD/GFG/LL/count_nodes.obj: OLD/GFG/LL/count_nodes.cpp.obj
+
+.PHONY : OLD/GFG/LL/count_nodes.obj
+
+# target to build an object file
+OLD/GFG/LL/count_nodes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj
+.PHONY : OLD/GFG/LL/count_nodes.cpp.obj
+
+OLD/GFG/LL/count_nodes.i: OLD/GFG/LL/count_nodes.cpp.i
+
+.PHONY : OLD/GFG/LL/count_nodes.i
+
+# target to preprocess a source file
+OLD/GFG/LL/count_nodes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.i
+.PHONY : OLD/GFG/LL/count_nodes.cpp.i
+
+OLD/GFG/LL/count_nodes.s: OLD/GFG/LL/count_nodes.cpp.s
+
+.PHONY : OLD/GFG/LL/count_nodes.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/count_nodes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.s
+.PHONY : OLD/GFG/LL/count_nodes.cpp.s
+
+OLD/GFG/LL/decimal_eq_of_binary_LL.obj: OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj
+
+OLD/GFG/LL/decimal_eq_of_binary_LL.i: OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.i
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.i
+
+OLD/GFG/LL/decimal_eq_of_binary_LL.s: OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.s
+.PHONY : OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.s
+
+OLD/GFG/LL/delete_alternate_nodes.obj: OLD/GFG/LL/delete_alternate_nodes.cpp.obj
+
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.obj
+
+# target to build an object file
+OLD/GFG/LL/delete_alternate_nodes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.cpp.obj
+
+OLD/GFG/LL/delete_alternate_nodes.i: OLD/GFG/LL/delete_alternate_nodes.cpp.i
+
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.i
+
+# target to preprocess a source file
+OLD/GFG/LL/delete_alternate_nodes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.i
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.cpp.i
+
+OLD/GFG/LL/delete_alternate_nodes.s: OLD/GFG/LL/delete_alternate_nodes.cpp.s
+
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/delete_alternate_nodes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.s
+.PHONY : OLD/GFG/LL/delete_alternate_nodes.cpp.s
+
+OLD/GFG/LL/delete_without_head_pointer.obj: OLD/GFG/LL/delete_without_head_pointer.cpp.obj
+
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.obj
+
+# target to build an object file
+OLD/GFG/LL/delete_without_head_pointer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.cpp.obj
+
+OLD/GFG/LL/delete_without_head_pointer.i: OLD/GFG/LL/delete_without_head_pointer.cpp.i
+
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.i
+
+# target to preprocess a source file
+OLD/GFG/LL/delete_without_head_pointer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.i
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.cpp.i
+
+OLD/GFG/LL/delete_without_head_pointer.s: OLD/GFG/LL/delete_without_head_pointer.cpp.s
+
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/delete_without_head_pointer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.s
+.PHONY : OLD/GFG/LL/delete_without_head_pointer.cpp.s
+
+OLD/GFG/LL/find_middle_of_LL.obj: OLD/GFG/LL/find_middle_of_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/find_middle_of_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/find_middle_of_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj
+.PHONY : OLD/GFG/LL/find_middle_of_LL.cpp.obj
+
+OLD/GFG/LL/find_middle_of_LL.i: OLD/GFG/LL/find_middle_of_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/find_middle_of_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/find_middle_of_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.i
+.PHONY : OLD/GFG/LL/find_middle_of_LL.cpp.i
+
+OLD/GFG/LL/find_middle_of_LL.s: OLD/GFG/LL/find_middle_of_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/find_middle_of_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/find_middle_of_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.s
+.PHONY : OLD/GFG/LL/find_middle_of_LL.cpp.s
+
+OLD/GFG/LL/insert_in_middle.obj: OLD/GFG/LL/insert_in_middle.cpp.obj
+
+.PHONY : OLD/GFG/LL/insert_in_middle.obj
+
+# target to build an object file
+OLD/GFG/LL/insert_in_middle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj
+.PHONY : OLD/GFG/LL/insert_in_middle.cpp.obj
+
+OLD/GFG/LL/insert_in_middle.i: OLD/GFG/LL/insert_in_middle.cpp.i
+
+.PHONY : OLD/GFG/LL/insert_in_middle.i
+
+# target to preprocess a source file
+OLD/GFG/LL/insert_in_middle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.i
+.PHONY : OLD/GFG/LL/insert_in_middle.cpp.i
+
+OLD/GFG/LL/insert_in_middle.s: OLD/GFG/LL/insert_in_middle.cpp.s
+
+.PHONY : OLD/GFG/LL/insert_in_middle.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/insert_in_middle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.s
+.PHONY : OLD/GFG/LL/insert_in_middle.cpp.s
+
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj: OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
+
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj
+
+# target to build an object file
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj
+
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.i: OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
+
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.i
+
+# target to preprocess a source file
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i
+
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.s: OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
+
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
+.PHONY : OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.s
+
+OLD/GFG/LL/node_at_given_index.obj: OLD/GFG/LL/node_at_given_index.cpp.obj
+
+.PHONY : OLD/GFG/LL/node_at_given_index.obj
+
+# target to build an object file
+OLD/GFG/LL/node_at_given_index.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj
+.PHONY : OLD/GFG/LL/node_at_given_index.cpp.obj
+
+OLD/GFG/LL/node_at_given_index.i: OLD/GFG/LL/node_at_given_index.cpp.i
+
+.PHONY : OLD/GFG/LL/node_at_given_index.i
+
+# target to preprocess a source file
+OLD/GFG/LL/node_at_given_index.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.i
+.PHONY : OLD/GFG/LL/node_at_given_index.cpp.i
+
+OLD/GFG/LL/node_at_given_index.s: OLD/GFG/LL/node_at_given_index.cpp.s
+
+.PHONY : OLD/GFG/LL/node_at_given_index.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/node_at_given_index.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.s
+.PHONY : OLD/GFG/LL/node_at_given_index.cpp.s
+
+OLD/GFG/LL/occurance_in_LL.obj: OLD/GFG/LL/occurance_in_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/occurance_in_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/occurance_in_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj
+.PHONY : OLD/GFG/LL/occurance_in_LL.cpp.obj
+
+OLD/GFG/LL/occurance_in_LL.i: OLD/GFG/LL/occurance_in_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/occurance_in_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/occurance_in_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.i
+.PHONY : OLD/GFG/LL/occurance_in_LL.cpp.i
+
+OLD/GFG/LL/occurance_in_LL.s: OLD/GFG/LL/occurance_in_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/occurance_in_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/occurance_in_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.s
+.PHONY : OLD/GFG/LL/occurance_in_LL.cpp.s
+
+OLD/GFG/LL/sort_LL.obj: OLD/GFG/LL/sort_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/sort_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/sort_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj
+.PHONY : OLD/GFG/LL/sort_LL.cpp.obj
+
+OLD/GFG/LL/sort_LL.i: OLD/GFG/LL/sort_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/sort_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/sort_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.i
+.PHONY : OLD/GFG/LL/sort_LL.cpp.i
+
+OLD/GFG/LL/sort_LL.s: OLD/GFG/LL/sort_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/sort_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/sort_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.s
+.PHONY : OLD/GFG/LL/sort_LL.cpp.s
+
+OLD/GFG/LL/subtraction_in_LL.obj: OLD/GFG/LL/subtraction_in_LL.cpp.obj
+
+.PHONY : OLD/GFG/LL/subtraction_in_LL.obj
+
+# target to build an object file
+OLD/GFG/LL/subtraction_in_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj
+.PHONY : OLD/GFG/LL/subtraction_in_LL.cpp.obj
+
+OLD/GFG/LL/subtraction_in_LL.i: OLD/GFG/LL/subtraction_in_LL.cpp.i
+
+.PHONY : OLD/GFG/LL/subtraction_in_LL.i
+
+# target to preprocess a source file
+OLD/GFG/LL/subtraction_in_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.i
+.PHONY : OLD/GFG/LL/subtraction_in_LL.cpp.i
+
+OLD/GFG/LL/subtraction_in_LL.s: OLD/GFG/LL/subtraction_in_LL.cpp.s
+
+.PHONY : OLD/GFG/LL/subtraction_in_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/subtraction_in_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.s
+.PHONY : OLD/GFG/LL/subtraction_in_LL.cpp.s
+
+OLD/GFG/LL/sum_of_last_n_nodes.obj: OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj
+
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.obj
+
+# target to build an object file
+OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj
+
+OLD/GFG/LL/sum_of_last_n_nodes.i: OLD/GFG/LL/sum_of_last_n_nodes.cpp.i
+
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.i
+
+# target to preprocess a source file
+OLD/GFG/LL/sum_of_last_n_nodes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.i
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.cpp.i
+
+OLD/GFG/LL/sum_of_last_n_nodes.s: OLD/GFG/LL/sum_of_last_n_nodes.cpp.s
+
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.s
+
+# target to generate assembly for a file
+OLD/GFG/LL/sum_of_last_n_nodes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.s
+.PHONY : OLD/GFG/LL/sum_of_last_n_nodes.cpp.s
+
+OLD/GFG/Queue/STL_queue.obj: OLD/GFG/Queue/STL_queue.cpp.obj
+
+.PHONY : OLD/GFG/Queue/STL_queue.obj
+
+# target to build an object file
+OLD/GFG/Queue/STL_queue.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj
+.PHONY : OLD/GFG/Queue/STL_queue.cpp.obj
+
+OLD/GFG/Queue/STL_queue.i: OLD/GFG/Queue/STL_queue.cpp.i
+
+.PHONY : OLD/GFG/Queue/STL_queue.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/STL_queue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.i
+.PHONY : OLD/GFG/Queue/STL_queue.cpp.i
+
+OLD/GFG/Queue/STL_queue.s: OLD/GFG/Queue/STL_queue.cpp.s
+
+.PHONY : OLD/GFG/Queue/STL_queue.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/STL_queue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.s
+.PHONY : OLD/GFG/Queue/STL_queue.cpp.s
+
+OLD/GFG/Queue/generate_binary_no.obj: OLD/GFG/Queue/generate_binary_no.cpp.obj
+
+.PHONY : OLD/GFG/Queue/generate_binary_no.obj
+
+# target to build an object file
+OLD/GFG/Queue/generate_binary_no.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj
+.PHONY : OLD/GFG/Queue/generate_binary_no.cpp.obj
+
+OLD/GFG/Queue/generate_binary_no.i: OLD/GFG/Queue/generate_binary_no.cpp.i
+
+.PHONY : OLD/GFG/Queue/generate_binary_no.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/generate_binary_no.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.i
+.PHONY : OLD/GFG/Queue/generate_binary_no.cpp.i
+
+OLD/GFG/Queue/generate_binary_no.s: OLD/GFG/Queue/generate_binary_no.cpp.s
+
+.PHONY : OLD/GFG/Queue/generate_binary_no.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/generate_binary_no.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.s
+.PHONY : OLD/GFG/Queue/generate_binary_no.cpp.s
+
+OLD/GFG/Queue/queue_push_and_pop.obj: OLD/GFG/Queue/queue_push_and_pop.cpp.obj
+
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.obj
+
+# target to build an object file
+OLD/GFG/Queue/queue_push_and_pop.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.cpp.obj
+
+OLD/GFG/Queue/queue_push_and_pop.i: OLD/GFG/Queue/queue_push_and_pop.cpp.i
+
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/queue_push_and_pop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.i
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.cpp.i
+
+OLD/GFG/Queue/queue_push_and_pop.s: OLD/GFG/Queue/queue_push_and_pop.cpp.s
+
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/queue_push_and_pop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.s
+.PHONY : OLD/GFG/Queue/queue_push_and_pop.cpp.s
+
+OLD/GFG/Queue/queue_reversal.obj: OLD/GFG/Queue/queue_reversal.cpp.obj
+
+.PHONY : OLD/GFG/Queue/queue_reversal.obj
+
+# target to build an object file
+OLD/GFG/Queue/queue_reversal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj
+.PHONY : OLD/GFG/Queue/queue_reversal.cpp.obj
+
+OLD/GFG/Queue/queue_reversal.i: OLD/GFG/Queue/queue_reversal.cpp.i
+
+.PHONY : OLD/GFG/Queue/queue_reversal.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/queue_reversal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.i
+.PHONY : OLD/GFG/Queue/queue_reversal.cpp.i
+
+OLD/GFG/Queue/queue_reversal.s: OLD/GFG/Queue/queue_reversal.cpp.s
+
+.PHONY : OLD/GFG/Queue/queue_reversal.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/queue_reversal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.s
+.PHONY : OLD/GFG/Queue/queue_reversal.cpp.s
+
+OLD/GFG/Queue/queue_using_LL.obj: OLD/GFG/Queue/queue_using_LL.cpp.obj
+
+.PHONY : OLD/GFG/Queue/queue_using_LL.obj
+
+# target to build an object file
+OLD/GFG/Queue/queue_using_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj
+.PHONY : OLD/GFG/Queue/queue_using_LL.cpp.obj
+
+OLD/GFG/Queue/queue_using_LL.i: OLD/GFG/Queue/queue_using_LL.cpp.i
+
+.PHONY : OLD/GFG/Queue/queue_using_LL.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/queue_using_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.i
+.PHONY : OLD/GFG/Queue/queue_using_LL.cpp.i
+
+OLD/GFG/Queue/queue_using_LL.s: OLD/GFG/Queue/queue_using_LL.cpp.s
+
+.PHONY : OLD/GFG/Queue/queue_using_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/queue_using_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.s
+.PHONY : OLD/GFG/Queue/queue_using_LL.cpp.s
+
+OLD/GFG/Queue/queue_using_array.obj: OLD/GFG/Queue/queue_using_array.cpp.obj
+
+.PHONY : OLD/GFG/Queue/queue_using_array.obj
+
+# target to build an object file
+OLD/GFG/Queue/queue_using_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj
+.PHONY : OLD/GFG/Queue/queue_using_array.cpp.obj
+
+OLD/GFG/Queue/queue_using_array.i: OLD/GFG/Queue/queue_using_array.cpp.i
+
+.PHONY : OLD/GFG/Queue/queue_using_array.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/queue_using_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.i
+.PHONY : OLD/GFG/Queue/queue_using_array.cpp.i
+
+OLD/GFG/Queue/queue_using_array.s: OLD/GFG/Queue/queue_using_array.cpp.s
+
+.PHONY : OLD/GFG/Queue/queue_using_array.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/queue_using_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.s
+.PHONY : OLD/GFG/Queue/queue_using_array.cpp.s
+
+OLD/GFG/Queue/queue_using_two_stacks.obj: OLD/GFG/Queue/queue_using_two_stacks.cpp.obj
+
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.obj
+
+# target to build an object file
+OLD/GFG/Queue/queue_using_two_stacks.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.cpp.obj
+
+OLD/GFG/Queue/queue_using_two_stacks.i: OLD/GFG/Queue/queue_using_two_stacks.cpp.i
+
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.i
+
+# target to preprocess a source file
+OLD/GFG/Queue/queue_using_two_stacks.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.i
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.cpp.i
+
+OLD/GFG/Queue/queue_using_two_stacks.s: OLD/GFG/Queue/queue_using_two_stacks.cpp.s
+
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.s
+
+# target to generate assembly for a file
+OLD/GFG/Queue/queue_using_two_stacks.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.s
+.PHONY : OLD/GFG/Queue/queue_using_two_stacks.cpp.s
+
+OLD/GFG/Stack/delete_middle_element_of_stack.obj: OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj
+
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.obj
+
+# target to build an object file
+OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj
+
+OLD/GFG/Stack/delete_middle_element_of_stack.i: OLD/GFG/Stack/delete_middle_element_of_stack.cpp.i
+
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/delete_middle_element_of_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.i
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.cpp.i
+
+OLD/GFG/Stack/delete_middle_element_of_stack.s: OLD/GFG/Stack/delete_middle_element_of_stack.cpp.s
+
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/delete_middle_element_of_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.s
+.PHONY : OLD/GFG/Stack/delete_middle_element_of_stack.cpp.s
+
+OLD/GFG/Stack/get_min_at_pop.obj: OLD/GFG/Stack/get_min_at_pop.cpp.obj
+
+.PHONY : OLD/GFG/Stack/get_min_at_pop.obj
+
+# target to build an object file
+OLD/GFG/Stack/get_min_at_pop.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj
+.PHONY : OLD/GFG/Stack/get_min_at_pop.cpp.obj
+
+OLD/GFG/Stack/get_min_at_pop.i: OLD/GFG/Stack/get_min_at_pop.cpp.i
+
+.PHONY : OLD/GFG/Stack/get_min_at_pop.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/get_min_at_pop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.i
+.PHONY : OLD/GFG/Stack/get_min_at_pop.cpp.i
+
+OLD/GFG/Stack/get_min_at_pop.s: OLD/GFG/Stack/get_min_at_pop.cpp.s
+
+.PHONY : OLD/GFG/Stack/get_min_at_pop.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/get_min_at_pop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.s
+.PHONY : OLD/GFG/Stack/get_min_at_pop.cpp.s
+
+OLD/GFG/Stack/immediate_smaller_element.obj: OLD/GFG/Stack/immediate_smaller_element.cpp.obj
+
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.obj
+
+# target to build an object file
+OLD/GFG/Stack/immediate_smaller_element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.cpp.obj
+
+OLD/GFG/Stack/immediate_smaller_element.i: OLD/GFG/Stack/immediate_smaller_element.cpp.i
+
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/immediate_smaller_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.i
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.cpp.i
+
+OLD/GFG/Stack/immediate_smaller_element.s: OLD/GFG/Stack/immediate_smaller_element.cpp.s
+
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/immediate_smaller_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.s
+.PHONY : OLD/GFG/Stack/immediate_smaller_element.cpp.s
+
+OLD/GFG/Stack/impl_two_stacks_in_array.obj: OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj
+
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.obj
+
+# target to build an object file
+OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj
+
+OLD/GFG/Stack/impl_two_stacks_in_array.i: OLD/GFG/Stack/impl_two_stacks_in_array.cpp.i
+
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/impl_two_stacks_in_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.i
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.cpp.i
+
+OLD/GFG/Stack/impl_two_stacks_in_array.s: OLD/GFG/Stack/impl_two_stacks_in_array.cpp.s
+
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/impl_two_stacks_in_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.s
+.PHONY : OLD/GFG/Stack/impl_two_stacks_in_array.cpp.s
+
+OLD/GFG/Stack/pairwise_consecutive_elements.obj: OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj
+
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.obj
+
+# target to build an object file
+OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj
+
+OLD/GFG/Stack/pairwise_consecutive_elements.i: OLD/GFG/Stack/pairwise_consecutive_elements.cpp.i
+
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/pairwise_consecutive_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.i
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.cpp.i
+
+OLD/GFG/Stack/pairwise_consecutive_elements.s: OLD/GFG/Stack/pairwise_consecutive_elements.cpp.s
+
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/pairwise_consecutive_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.s
+.PHONY : OLD/GFG/Stack/pairwise_consecutive_elements.cpp.s
+
+OLD/GFG/Stack/print_bracket_no.obj: OLD/GFG/Stack/print_bracket_no.cpp.obj
+
+.PHONY : OLD/GFG/Stack/print_bracket_no.obj
+
+# target to build an object file
+OLD/GFG/Stack/print_bracket_no.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj
+.PHONY : OLD/GFG/Stack/print_bracket_no.cpp.obj
+
+OLD/GFG/Stack/print_bracket_no.i: OLD/GFG/Stack/print_bracket_no.cpp.i
+
+.PHONY : OLD/GFG/Stack/print_bracket_no.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/print_bracket_no.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.i
+.PHONY : OLD/GFG/Stack/print_bracket_no.cpp.i
+
+OLD/GFG/Stack/print_bracket_no.s: OLD/GFG/Stack/print_bracket_no.cpp.s
+
+.PHONY : OLD/GFG/Stack/print_bracket_no.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/print_bracket_no.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.s
+.PHONY : OLD/GFG/Stack/print_bracket_no.cpp.s
+
+OLD/GFG/Stack/remove_repeated_digits.obj: OLD/GFG/Stack/remove_repeated_digits.cpp.obj
+
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.obj
+
+# target to build an object file
+OLD/GFG/Stack/remove_repeated_digits.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.cpp.obj
+
+OLD/GFG/Stack/remove_repeated_digits.i: OLD/GFG/Stack/remove_repeated_digits.cpp.i
+
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/remove_repeated_digits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.i
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.cpp.i
+
+OLD/GFG/Stack/remove_repeated_digits.s: OLD/GFG/Stack/remove_repeated_digits.cpp.s
+
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/remove_repeated_digits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.s
+.PHONY : OLD/GFG/Stack/remove_repeated_digits.cpp.s
+
+OLD/GFG/Stack/reverse_a_string.obj: OLD/GFG/Stack/reverse_a_string.cpp.obj
+
+.PHONY : OLD/GFG/Stack/reverse_a_string.obj
+
+# target to build an object file
+OLD/GFG/Stack/reverse_a_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj
+.PHONY : OLD/GFG/Stack/reverse_a_string.cpp.obj
+
+OLD/GFG/Stack/reverse_a_string.i: OLD/GFG/Stack/reverse_a_string.cpp.i
+
+.PHONY : OLD/GFG/Stack/reverse_a_string.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/reverse_a_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.i
+.PHONY : OLD/GFG/Stack/reverse_a_string.cpp.i
+
+OLD/GFG/Stack/reverse_a_string.s: OLD/GFG/Stack/reverse_a_string.cpp.s
+
+.PHONY : OLD/GFG/Stack/reverse_a_string.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/reverse_a_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.s
+.PHONY : OLD/GFG/Stack/reverse_a_string.cpp.s
+
+OLD/GFG/Stack/sorting_stack.obj: OLD/GFG/Stack/sorting_stack.cpp.obj
+
+.PHONY : OLD/GFG/Stack/sorting_stack.obj
+
+# target to build an object file
+OLD/GFG/Stack/sorting_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj
+.PHONY : OLD/GFG/Stack/sorting_stack.cpp.obj
+
+OLD/GFG/Stack/sorting_stack.i: OLD/GFG/Stack/sorting_stack.cpp.i
+
+.PHONY : OLD/GFG/Stack/sorting_stack.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/sorting_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.i
+.PHONY : OLD/GFG/Stack/sorting_stack.cpp.i
+
+OLD/GFG/Stack/sorting_stack.s: OLD/GFG/Stack/sorting_stack.cpp.s
+
+.PHONY : OLD/GFG/Stack/sorting_stack.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/sorting_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.s
+.PHONY : OLD/GFG/Stack/sorting_stack.cpp.s
+
+OLD/GFG/Stack/special_stack.obj: OLD/GFG/Stack/special_stack.cpp.obj
+
+.PHONY : OLD/GFG/Stack/special_stack.obj
+
+# target to build an object file
+OLD/GFG/Stack/special_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj
+.PHONY : OLD/GFG/Stack/special_stack.cpp.obj
+
+OLD/GFG/Stack/special_stack.i: OLD/GFG/Stack/special_stack.cpp.i
+
+.PHONY : OLD/GFG/Stack/special_stack.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/special_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.i
+.PHONY : OLD/GFG/Stack/special_stack.cpp.i
+
+OLD/GFG/Stack/special_stack.s: OLD/GFG/Stack/special_stack.cpp.s
+
+.PHONY : OLD/GFG/Stack/special_stack.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/special_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.s
+.PHONY : OLD/GFG/Stack/special_stack.cpp.s
+
+OLD/GFG/Stack/stack_designer.obj: OLD/GFG/Stack/stack_designer.cpp.obj
+
+.PHONY : OLD/GFG/Stack/stack_designer.obj
+
+# target to build an object file
+OLD/GFG/Stack/stack_designer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj
+.PHONY : OLD/GFG/Stack/stack_designer.cpp.obj
+
+OLD/GFG/Stack/stack_designer.i: OLD/GFG/Stack/stack_designer.cpp.i
+
+.PHONY : OLD/GFG/Stack/stack_designer.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/stack_designer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.i
+.PHONY : OLD/GFG/Stack/stack_designer.cpp.i
+
+OLD/GFG/Stack/stack_designer.s: OLD/GFG/Stack/stack_designer.cpp.s
+
+.PHONY : OLD/GFG/Stack/stack_designer.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/stack_designer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.s
+.PHONY : OLD/GFG/Stack/stack_designer.cpp.s
+
+OLD/GFG/Stack/stack_using_LL.obj: OLD/GFG/Stack/stack_using_LL.cpp.obj
+
+.PHONY : OLD/GFG/Stack/stack_using_LL.obj
+
+# target to build an object file
+OLD/GFG/Stack/stack_using_LL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj
+.PHONY : OLD/GFG/Stack/stack_using_LL.cpp.obj
+
+OLD/GFG/Stack/stack_using_LL.i: OLD/GFG/Stack/stack_using_LL.cpp.i
+
+.PHONY : OLD/GFG/Stack/stack_using_LL.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/stack_using_LL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.i
+.PHONY : OLD/GFG/Stack/stack_using_LL.cpp.i
+
+OLD/GFG/Stack/stack_using_LL.s: OLD/GFG/Stack/stack_using_LL.cpp.s
+
+.PHONY : OLD/GFG/Stack/stack_using_LL.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/stack_using_LL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.s
+.PHONY : OLD/GFG/Stack/stack_using_LL.cpp.s
+
+OLD/GFG/Stack/stack_using_array.obj: OLD/GFG/Stack/stack_using_array.cpp.obj
+
+.PHONY : OLD/GFG/Stack/stack_using_array.obj
+
+# target to build an object file
+OLD/GFG/Stack/stack_using_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj
+.PHONY : OLD/GFG/Stack/stack_using_array.cpp.obj
+
+OLD/GFG/Stack/stack_using_array.i: OLD/GFG/Stack/stack_using_array.cpp.i
+
+.PHONY : OLD/GFG/Stack/stack_using_array.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/stack_using_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.i
+.PHONY : OLD/GFG/Stack/stack_using_array.cpp.i
+
+OLD/GFG/Stack/stack_using_array.s: OLD/GFG/Stack/stack_using_array.cpp.s
+
+.PHONY : OLD/GFG/Stack/stack_using_array.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/stack_using_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.s
+.PHONY : OLD/GFG/Stack/stack_using_array.cpp.s
+
+OLD/GFG/Stack/stack_using_two_queues.obj: OLD/GFG/Stack/stack_using_two_queues.cpp.obj
+
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.obj
+
+# target to build an object file
+OLD/GFG/Stack/stack_using_two_queues.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.cpp.obj
+
+OLD/GFG/Stack/stack_using_two_queues.i: OLD/GFG/Stack/stack_using_two_queues.cpp.i
+
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/stack_using_two_queues.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.i
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.cpp.i
+
+OLD/GFG/Stack/stack_using_two_queues.s: OLD/GFG/Stack/stack_using_two_queues.cpp.s
+
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/stack_using_two_queues.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.s
+.PHONY : OLD/GFG/Stack/stack_using_two_queues.cpp.s
+
+OLD/GFG/Stack/valid_substring.obj: OLD/GFG/Stack/valid_substring.cpp.obj
+
+.PHONY : OLD/GFG/Stack/valid_substring.obj
+
+# target to build an object file
+OLD/GFG/Stack/valid_substring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj
+.PHONY : OLD/GFG/Stack/valid_substring.cpp.obj
+
+OLD/GFG/Stack/valid_substring.i: OLD/GFG/Stack/valid_substring.cpp.i
+
+.PHONY : OLD/GFG/Stack/valid_substring.i
+
+# target to preprocess a source file
+OLD/GFG/Stack/valid_substring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.i
+.PHONY : OLD/GFG/Stack/valid_substring.cpp.i
+
+OLD/GFG/Stack/valid_substring.s: OLD/GFG/Stack/valid_substring.cpp.s
+
+.PHONY : OLD/GFG/Stack/valid_substring.s
+
+# target to generate assembly for a file
+OLD/GFG/Stack/valid_substring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.s
+.PHONY : OLD/GFG/Stack/valid_substring.cpp.s
+
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.obj: OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
+
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
+
+# target to build an object file
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj
+
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.i: OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
+
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.i
+
+# target to preprocess a source file
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i
+
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.s: OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
+
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.s
+
+# target to generate assembly for a file
+OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
+.PHONY : OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s
+
 ROUGH_FILES/main.obj: ROUGH_FILES/main.cpp.obj
 
 .PHONY : ROUGH_FILES/main.obj
@@ -8566,87 +8674,6 @@ calculator/calculator_II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/calculator/calculator_II.cpp.s
 .PHONY : calculator/calculator_II.cpp.s
 
-queue_again/queue_impl.obj: queue_again/queue_impl.cpp.obj
-
-.PHONY : queue_again/queue_impl.obj
-
-# target to build an object file
-queue_again/queue_impl.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.obj
-.PHONY : queue_again/queue_impl.cpp.obj
-
-queue_again/queue_impl.i: queue_again/queue_impl.cpp.i
-
-.PHONY : queue_again/queue_impl.i
-
-# target to preprocess a source file
-queue_again/queue_impl.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.i
-.PHONY : queue_again/queue_impl.cpp.i
-
-queue_again/queue_impl.s: queue_again/queue_impl.cpp.s
-
-.PHONY : queue_again/queue_impl.s
-
-# target to generate assembly for a file
-queue_again/queue_impl.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_impl.cpp.s
-.PHONY : queue_again/queue_impl.cpp.s
-
-queue_again/queue_main.obj: queue_again/queue_main.cpp.obj
-
-.PHONY : queue_again/queue_main.obj
-
-# target to build an object file
-queue_again/queue_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_main.cpp.obj
-.PHONY : queue_again/queue_main.cpp.obj
-
-queue_again/queue_main.i: queue_again/queue_main.cpp.i
-
-.PHONY : queue_again/queue_main.i
-
-# target to preprocess a source file
-queue_again/queue_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_main.cpp.i
-.PHONY : queue_again/queue_main.cpp.i
-
-queue_again/queue_main.s: queue_again/queue_main.cpp.s
-
-.PHONY : queue_again/queue_main.s
-
-# target to generate assembly for a file
-queue_again/queue_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/queue_again/queue_main.cpp.s
-.PHONY : queue_again/queue_main.cpp.s
-
-stack_2/stack_again.obj: stack_2/stack_again.cpp.obj
-
-.PHONY : stack_2/stack_again.obj
-
-# target to build an object file
-stack_2/stack_again.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/stack_2/stack_again.cpp.obj
-.PHONY : stack_2/stack_again.cpp.obj
-
-stack_2/stack_again.i: stack_2/stack_again.cpp.i
-
-.PHONY : stack_2/stack_again.i
-
-# target to preprocess a source file
-stack_2/stack_again.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/stack_2/stack_again.cpp.i
-.PHONY : stack_2/stack_again.cpp.i
-
-stack_2/stack_again.s: stack_2/stack_again.cpp.s
-
-.PHONY : stack_2/stack_again.s
-
-# target to generate assembly for a file
-stack_2/stack_again.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/stack_2/stack_again.cpp.s
-.PHONY : stack_2/stack_again.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -8749,18 +8776,15 @@ help:
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.obj
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.i
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.s
-	@echo ... DSA/BST/BST_impl.obj
-	@echo ... DSA/BST/BST_impl.i
-	@echo ... DSA/BST/BST_impl.s
-	@echo ... DSA/BST_CN/BST_use.obj
-	@echo ... DSA/BST_CN/BST_use.i
-	@echo ... DSA/BST_CN/BST_use.s
-	@echo ... DSA/Binary_Trees_CN/binary_tree_main.obj
-	@echo ... DSA/Binary_Trees_CN/binary_tree_main.i
-	@echo ... DSA/Binary_Trees_CN/binary_tree_main.s
-	@echo ... DSA/Binary_Trees_CN/binary_tree_use.obj
-	@echo ... DSA/Binary_Trees_CN/binary_tree_use.i
-	@echo ... DSA/Binary_Trees_CN/binary_tree_use.s
+	@echo ... DSA/DEQUEUE/deque2.obj
+	@echo ... DSA/DEQUEUE/deque2.i
+	@echo ... DSA/DEQUEUE/deque2.s
+	@echo ... DSA/DEQUEUE/deque3.obj
+	@echo ... DSA/DEQUEUE/deque3.i
+	@echo ... DSA/DEQUEUE/deque3.s
+	@echo ... DSA/DEQUEUE/dequeue.obj
+	@echo ... DSA/DEQUEUE/dequeue.i
+	@echo ... DSA/DEQUEUE/dequeue.s
 	@echo ... DSA/DP/DP_CN/count_all_possible_paths.obj
 	@echo ... DSA/DP/DP_CN/count_all_possible_paths.i
 	@echo ... DSA/DP/DP_CN/count_all_possible_paths.s
@@ -8962,15 +8986,6 @@ help:
 	@echo ... DSA/EXPONENTATION/mod_exp.obj
 	@echo ... DSA/EXPONENTATION/mod_exp.i
 	@echo ... DSA/EXPONENTATION/mod_exp.s
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i
-	@echo ... DSA/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s
-	@echo ... DSA/EXP_TREE/exp_tree_impl.obj
-	@echo ... DSA/EXP_TREE/exp_tree_impl.i
-	@echo ... DSA/EXP_TREE/exp_tree_impl.s
 	@echo ... DSA/FILE_HANDLING/file_handling.obj
 	@echo ... DSA/FILE_HANDLING/file_handling.i
 	@echo ... DSA/FILE_HANDLING/file_handling.s
@@ -8980,147 +8995,21 @@ help:
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.obj
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.i
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.s
-	@echo ... DSA/GFG/Arrays/check_array_equality.obj
-	@echo ... DSA/GFG/Arrays/check_array_equality.i
-	@echo ... DSA/GFG/Arrays/check_array_equality.s
-	@echo ... DSA/GFG/Arrays/fighting_darkness.obj
-	@echo ... DSA/GFG/Arrays/fighting_darkness.i
-	@echo ... DSA/GFG/Arrays/fighting_darkness.s
-	@echo ... DSA/GFG/Arrays/rotate_array.obj
-	@echo ... DSA/GFG/Arrays/rotate_array.i
-	@echo ... DSA/GFG/Arrays/rotate_array.s
-	@echo ... DSA/GFG/LL/Add_1_to_LL.obj
-	@echo ... DSA/GFG/LL/Add_1_to_LL.i
-	@echo ... DSA/GFG/LL/Add_1_to_LL.s
-	@echo ... DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj
-	@echo ... DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.i
-	@echo ... DSA/GFG/LL/Add_two_numbers_represented_by_Linked_List.s
-	@echo ... DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj
-	@echo ... DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i
-	@echo ... DSA/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s
-	@echo ... DSA/GFG/LL/Identical_LL.obj
-	@echo ... DSA/GFG/LL/Identical_LL.i
-	@echo ... DSA/GFG/LL/Identical_LL.s
-	@echo ... DSA/GFG/LL/LL_insertion.obj
-	@echo ... DSA/GFG/LL/LL_insertion.i
-	@echo ... DSA/GFG/LL/LL_insertion.s
-	@echo ... DSA/GFG/LL/LL_length_even_or_odd.obj
-	@echo ... DSA/GFG/LL/LL_length_even_or_odd.i
-	@echo ... DSA/GFG/LL/LL_length_even_or_odd.s
-	@echo ... DSA/GFG/LL/Stack.obj
-	@echo ... DSA/GFG/LL/Stack.i
-	@echo ... DSA/GFG/LL/Stack.s
-	@echo ... DSA/GFG/LL/compare_two_LL.obj
-	@echo ... DSA/GFG/LL/compare_two_LL.i
-	@echo ... DSA/GFG/LL/compare_two_LL.s
-	@echo ... DSA/GFG/LL/count_nodes.obj
-	@echo ... DSA/GFG/LL/count_nodes.i
-	@echo ... DSA/GFG/LL/count_nodes.s
-	@echo ... DSA/GFG/LL/decimal_eq_of_binary_LL.obj
-	@echo ... DSA/GFG/LL/decimal_eq_of_binary_LL.i
-	@echo ... DSA/GFG/LL/decimal_eq_of_binary_LL.s
-	@echo ... DSA/GFG/LL/delete_alternate_nodes.obj
-	@echo ... DSA/GFG/LL/delete_alternate_nodes.i
-	@echo ... DSA/GFG/LL/delete_alternate_nodes.s
-	@echo ... DSA/GFG/LL/delete_without_head_pointer.obj
-	@echo ... DSA/GFG/LL/delete_without_head_pointer.i
-	@echo ... DSA/GFG/LL/delete_without_head_pointer.s
-	@echo ... DSA/GFG/LL/find_middle_of_LL.obj
-	@echo ... DSA/GFG/LL/find_middle_of_LL.i
-	@echo ... DSA/GFG/LL/find_middle_of_LL.s
-	@echo ... DSA/GFG/LL/insert_in_middle.obj
-	@echo ... DSA/GFG/LL/insert_in_middle.i
-	@echo ... DSA/GFG/LL/insert_in_middle.s
-	@echo ... DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj
-	@echo ... DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.i
-	@echo ... DSA/GFG/LL/linked_list_of_strings_forms_a_palindrome.s
-	@echo ... DSA/GFG/LL/node_at_given_index.obj
-	@echo ... DSA/GFG/LL/node_at_given_index.i
-	@echo ... DSA/GFG/LL/node_at_given_index.s
-	@echo ... DSA/GFG/LL/occurance_in_LL.obj
-	@echo ... DSA/GFG/LL/occurance_in_LL.i
-	@echo ... DSA/GFG/LL/occurance_in_LL.s
-	@echo ... DSA/GFG/LL/sort_LL.obj
-	@echo ... DSA/GFG/LL/sort_LL.i
-	@echo ... DSA/GFG/LL/sort_LL.s
-	@echo ... DSA/GFG/LL/subtraction_in_LL.obj
-	@echo ... DSA/GFG/LL/subtraction_in_LL.i
-	@echo ... DSA/GFG/LL/subtraction_in_LL.s
-	@echo ... DSA/GFG/LL/sum_of_last_n_nodes.obj
-	@echo ... DSA/GFG/LL/sum_of_last_n_nodes.i
-	@echo ... DSA/GFG/LL/sum_of_last_n_nodes.s
-	@echo ... DSA/GFG/Queue/STL_queue.obj
-	@echo ... DSA/GFG/Queue/STL_queue.i
-	@echo ... DSA/GFG/Queue/STL_queue.s
-	@echo ... DSA/GFG/Queue/generate_binary_no.obj
-	@echo ... DSA/GFG/Queue/generate_binary_no.i
-	@echo ... DSA/GFG/Queue/generate_binary_no.s
-	@echo ... DSA/GFG/Queue/queue_push_and_pop.obj
-	@echo ... DSA/GFG/Queue/queue_push_and_pop.i
-	@echo ... DSA/GFG/Queue/queue_push_and_pop.s
-	@echo ... DSA/GFG/Queue/queue_reversal.obj
-	@echo ... DSA/GFG/Queue/queue_reversal.i
-	@echo ... DSA/GFG/Queue/queue_reversal.s
-	@echo ... DSA/GFG/Queue/queue_using_LL.obj
-	@echo ... DSA/GFG/Queue/queue_using_LL.i
-	@echo ... DSA/GFG/Queue/queue_using_LL.s
-	@echo ... DSA/GFG/Queue/queue_using_array.obj
-	@echo ... DSA/GFG/Queue/queue_using_array.i
-	@echo ... DSA/GFG/Queue/queue_using_array.s
-	@echo ... DSA/GFG/Queue/queue_using_two_stacks.obj
-	@echo ... DSA/GFG/Queue/queue_using_two_stacks.i
-	@echo ... DSA/GFG/Queue/queue_using_two_stacks.s
-	@echo ... DSA/GFG/Stack/delete_middle_element_of_stack.obj
-	@echo ... DSA/GFG/Stack/delete_middle_element_of_stack.i
-	@echo ... DSA/GFG/Stack/delete_middle_element_of_stack.s
-	@echo ... DSA/GFG/Stack/get_min_at_pop.obj
-	@echo ... DSA/GFG/Stack/get_min_at_pop.i
-	@echo ... DSA/GFG/Stack/get_min_at_pop.s
-	@echo ... DSA/GFG/Stack/immediate_smaller_element.obj
-	@echo ... DSA/GFG/Stack/immediate_smaller_element.i
-	@echo ... DSA/GFG/Stack/immediate_smaller_element.s
-	@echo ... DSA/GFG/Stack/impl_two_stacks_in_array.obj
-	@echo ... DSA/GFG/Stack/impl_two_stacks_in_array.i
-	@echo ... DSA/GFG/Stack/impl_two_stacks_in_array.s
-	@echo ... DSA/GFG/Stack/pairwise_consecutive_elements.obj
-	@echo ... DSA/GFG/Stack/pairwise_consecutive_elements.i
-	@echo ... DSA/GFG/Stack/pairwise_consecutive_elements.s
-	@echo ... DSA/GFG/Stack/print_bracket_no.obj
-	@echo ... DSA/GFG/Stack/print_bracket_no.i
-	@echo ... DSA/GFG/Stack/print_bracket_no.s
-	@echo ... DSA/GFG/Stack/remove_repeated_digits.obj
-	@echo ... DSA/GFG/Stack/remove_repeated_digits.i
-	@echo ... DSA/GFG/Stack/remove_repeated_digits.s
-	@echo ... DSA/GFG/Stack/reverse_a_string.obj
-	@echo ... DSA/GFG/Stack/reverse_a_string.i
-	@echo ... DSA/GFG/Stack/reverse_a_string.s
-	@echo ... DSA/GFG/Stack/sorting_stack.obj
-	@echo ... DSA/GFG/Stack/sorting_stack.i
-	@echo ... DSA/GFG/Stack/sorting_stack.s
-	@echo ... DSA/GFG/Stack/special_stack.obj
-	@echo ... DSA/GFG/Stack/special_stack.i
-	@echo ... DSA/GFG/Stack/special_stack.s
-	@echo ... DSA/GFG/Stack/stack_designer.obj
-	@echo ... DSA/GFG/Stack/stack_designer.i
-	@echo ... DSA/GFG/Stack/stack_designer.s
-	@echo ... DSA/GFG/Stack/stack_using_LL.obj
-	@echo ... DSA/GFG/Stack/stack_using_LL.i
-	@echo ... DSA/GFG/Stack/stack_using_LL.s
-	@echo ... DSA/GFG/Stack/stack_using_array.obj
-	@echo ... DSA/GFG/Stack/stack_using_array.i
-	@echo ... DSA/GFG/Stack/stack_using_array.s
-	@echo ... DSA/GFG/Stack/stack_using_two_queues.obj
-	@echo ... DSA/GFG/Stack/stack_using_two_queues.i
-	@echo ... DSA/GFG/Stack/stack_using_two_queues.s
-	@echo ... DSA/GFG/Stack/valid_substring.obj
-	@echo ... DSA/GFG/Stack/valid_substring.i
-	@echo ... DSA/GFG/Stack/valid_substring.s
-	@echo ... DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
-	@echo ... DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.i
-	@echo ... DSA/GFG/searching/Count_zeros_in_a_sorted_matrix.s
 	@echo ... DSA/GRAPHS/Djikstras.obj
 	@echo ... DSA/GRAPHS/Djikstras.i
 	@echo ... DSA/GRAPHS/Djikstras.s
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.i
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.s
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.obj
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.i
+	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.s
+	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj
+	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.i
+	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.s
+	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.obj
+	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.i
+	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.s
 	@echo ... DSA/GRAPHS/MST_Prim.obj
 	@echo ... DSA/GRAPHS/MST_Prim.i
 	@echo ... DSA/GRAPHS/MST_Prim.s
@@ -9136,18 +9025,6 @@ help:
 	@echo ... DSA/GRAPHS/graph2.obj
 	@echo ... DSA/GRAPHS/graph2.i
 	@echo ... DSA/GRAPHS/graph2.s
-	@echo ... DSA/GRAPHS_CN/Dijikstras.obj
-	@echo ... DSA/GRAPHS_CN/Dijikstras.i
-	@echo ... DSA/GRAPHS_CN/Dijikstras.s
-	@echo ... DSA/GRAPHS_CN/Prim.obj
-	@echo ... DSA/GRAPHS_CN/Prim.i
-	@echo ... DSA/GRAPHS_CN/Prim.s
-	@echo ... DSA/GRAPHS_CN/grpahs_use.obj
-	@echo ... DSA/GRAPHS_CN/grpahs_use.i
-	@echo ... DSA/GRAPHS_CN/grpahs_use.s
-	@echo ... DSA/GRAPHS_CN/kruskal.obj
-	@echo ... DSA/GRAPHS_CN/kruskal.i
-	@echo ... DSA/GRAPHS_CN/kruskal.s
 	@echo ... DSA/HEAP/heap_main.obj
 	@echo ... DSA/HEAP/heap_main.i
 	@echo ... DSA/HEAP/heap_main.s
@@ -9175,33 +9052,48 @@ help:
 	@echo ... DSA/HackerRank/reverse_LL.obj
 	@echo ... DSA/HackerRank/reverse_LL.i
 	@echo ... DSA/HackerRank/reverse_LL.s
-	@echo ... DSA/LinkedList/Circular_LL/Circular_LL.obj
-	@echo ... DSA/LinkedList/Circular_LL/Circular_LL.i
-	@echo ... DSA/LinkedList/Circular_LL/Circular_LL.s
-	@echo ... DSA/LinkedList/Double_LL/double_LL.obj
-	@echo ... DSA/LinkedList/Double_LL/double_LL.i
-	@echo ... DSA/LinkedList/Double_LL/double_LL.s
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL._again.obj
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL._again.i
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL._again.s
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.obj
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.i
-	@echo ... DSA/LinkedList/Single_LL/LinkedList_again/LL_Final_code.s
-	@echo ... DSA/LinkedList/Single_LL/List_impl.obj
-	@echo ... DSA/LinkedList/Single_LL/List_impl.i
-	@echo ... DSA/LinkedList/Single_LL/List_impl.s
-	@echo ... DSA/LinkedList/Single_LL/list_main.obj
-	@echo ... DSA/LinkedList/Single_LL/list_main.i
-	@echo ... DSA/LinkedList/Single_LL/list_main.s
-	@echo ... DSA/LinkedList_CN/LL_main.obj
-	@echo ... DSA/LinkedList_CN/LL_main.i
-	@echo ... DSA/LinkedList_CN/LL_main.s
-	@echo ... DSA/LinkedList_CN/LL_node.obj
-	@echo ... DSA/LinkedList_CN/LL_node.i
-	@echo ... DSA/LinkedList_CN/LL_node.s
+	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.obj
+	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.i
+	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.s
+	@echo ... DSA/LINKED_LIST/Double_LL/double_LL.obj
+	@echo ... DSA/LINKED_LIST/Double_LL/double_LL.i
+	@echo ... DSA/LINKED_LIST/Double_LL/double_LL.s
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_main.obj
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_main.i
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_main.s
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_node.obj
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_node.i
+	@echo ... DSA/LINKED_LIST/LinkedList_CN/LL_node.s
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.obj
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.i
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.s
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.obj
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.i
+	@echo ... DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.s
+	@echo ... DSA/LINKED_LIST/Single_LL/List_impl.obj
+	@echo ... DSA/LINKED_LIST/Single_LL/List_impl.i
+	@echo ... DSA/LINKED_LIST/Single_LL/List_impl.s
+	@echo ... DSA/LINKED_LIST/Single_LL/list_main.obj
+	@echo ... DSA/LINKED_LIST/Single_LL/list_main.i
+	@echo ... DSA/LINKED_LIST/Single_LL/list_main.s
 	@echo ... DSA/MATRIX/matrix.obj
 	@echo ... DSA/MATRIX/matrix.i
 	@echo ... DSA/MATRIX/matrix.s
+	@echo ... DSA/QUEUE/circular_queue.obj
+	@echo ... DSA/QUEUE/circular_queue.i
+	@echo ... DSA/QUEUE/circular_queue.s
+	@echo ... DSA/QUEUE/queue_again/queue_impl.obj
+	@echo ... DSA/QUEUE/queue_again/queue_impl.i
+	@echo ... DSA/QUEUE/queue_again/queue_impl.s
+	@echo ... DSA/QUEUE/queue_again/queue_main.obj
+	@echo ... DSA/QUEUE/queue_again/queue_main.i
+	@echo ... DSA/QUEUE/queue_again/queue_main.s
+	@echo ... DSA/QUEUE/queue_code.obj
+	@echo ... DSA/QUEUE/queue_code.i
+	@echo ... DSA/QUEUE/queue_code.s
+	@echo ... DSA/QUEUE/queue_using_LL.obj
+	@echo ... DSA/QUEUE/queue_using_LL.i
+	@echo ... DSA/QUEUE/queue_using_LL.s
 	@echo ... DSA/RECURSION/all_indices.obj
 	@echo ... DSA/RECURSION/all_indices.i
 	@echo ... DSA/RECURSION/all_indices.s
@@ -9226,6 +9118,9 @@ help:
 	@echo ... DSA/RECURSION/generate_all_balanced_paranthesis.obj
 	@echo ... DSA/RECURSION/generate_all_balanced_paranthesis.i
 	@echo ... DSA/RECURSION/generate_all_balanced_paranthesis.s
+	@echo ... DSA/RECURSION/handshakes.obj
+	@echo ... DSA/RECURSION/handshakes.i
+	@echo ... DSA/RECURSION/handshakes.s
 	@echo ... DSA/RECURSION/is_array_sorted.obj
 	@echo ... DSA/RECURSION/is_array_sorted.i
 	@echo ... DSA/RECURSION/is_array_sorted.s
@@ -9307,33 +9202,63 @@ help:
 	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.obj
 	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.i
 	@echo ... DSA/SORTING_ALGORITHMS_AGAIN/quick_sort.s
-	@echo ... DSA/STACK_PROBLEMS/celebrity.obj
-	@echo ... DSA/STACK_PROBLEMS/celebrity.i
-	@echo ... DSA/STACK_PROBLEMS/celebrity.s
-	@echo ... DSA/STACK_PROBLEMS/mah.obj
-	@echo ... DSA/STACK_PROBLEMS/mah.i
-	@echo ... DSA/STACK_PROBLEMS/mah.s
-	@echo ... DSA/STACK_PROBLEMS/mar.obj
-	@echo ... DSA/STACK_PROBLEMS/mar.i
-	@echo ... DSA/STACK_PROBLEMS/mar.s
-	@echo ... DSA/STACK_PROBLEMS/ngl.obj
-	@echo ... DSA/STACK_PROBLEMS/ngl.i
-	@echo ... DSA/STACK_PROBLEMS/ngl.s
-	@echo ... DSA/STACK_PROBLEMS/ngr.obj
-	@echo ... DSA/STACK_PROBLEMS/ngr.i
-	@echo ... DSA/STACK_PROBLEMS/ngr.s
-	@echo ... DSA/STACK_PROBLEMS/nsl.obj
-	@echo ... DSA/STACK_PROBLEMS/nsl.i
-	@echo ... DSA/STACK_PROBLEMS/nsl.s
-	@echo ... DSA/STACK_PROBLEMS/nsr.obj
-	@echo ... DSA/STACK_PROBLEMS/nsr.i
-	@echo ... DSA/STACK_PROBLEMS/nsr.s
-	@echo ... DSA/STACK_PROBLEMS/rwt.obj
-	@echo ... DSA/STACK_PROBLEMS/rwt.i
-	@echo ... DSA/STACK_PROBLEMS/rwt.s
-	@echo ... DSA/STACK_PROBLEMS/stock_span.obj
-	@echo ... DSA/STACK_PROBLEMS/stock_span.i
-	@echo ... DSA/STACK_PROBLEMS/stock_span.s
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.obj
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.i
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.s
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.obj
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.i
+	@echo ... DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.s
+	@echo ... DSA/STACK/EXP_TREE/exp_tree_impl.obj
+	@echo ... DSA/STACK/EXP_TREE/exp_tree_impl.i
+	@echo ... DSA/STACK/EXP_TREE/exp_tree_impl.s
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_postfix.obj
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_postfix.i
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_postfix.s
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_prefix.obj
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_prefix.i
+	@echo ... DSA/STACK/Stack/Expression_conversions/infix_to_prefix.s
+	@echo ... DSA/STACK/Stack/Expression_conversions/postfix_to_infix.obj
+	@echo ... DSA/STACK/Stack/Expression_conversions/postfix_to_infix.i
+	@echo ... DSA/STACK/Stack/Expression_conversions/postfix_to_infix.s
+	@echo ... DSA/STACK/Stack/Expression_conversions/prefix_to_infix.obj
+	@echo ... DSA/STACK/Stack/Expression_conversions/prefix_to_infix.i
+	@echo ... DSA/STACK/Stack/Expression_conversions/prefix_to_infix.s
+	@echo ... DSA/STACK/Stack/stack_code.obj
+	@echo ... DSA/STACK/Stack/stack_code.i
+	@echo ... DSA/STACK/Stack/stack_code.s
+	@echo ... DSA/STACK/Stack/stack_using_LL.obj
+	@echo ... DSA/STACK/Stack/stack_using_LL.i
+	@echo ... DSA/STACK/Stack/stack_using_LL.s
+	@echo ... DSA/STACK/celebrity.obj
+	@echo ... DSA/STACK/celebrity.i
+	@echo ... DSA/STACK/celebrity.s
+	@echo ... DSA/STACK/mah.obj
+	@echo ... DSA/STACK/mah.i
+	@echo ... DSA/STACK/mah.s
+	@echo ... DSA/STACK/mar.obj
+	@echo ... DSA/STACK/mar.i
+	@echo ... DSA/STACK/mar.s
+	@echo ... DSA/STACK/ngl.obj
+	@echo ... DSA/STACK/ngl.i
+	@echo ... DSA/STACK/ngl.s
+	@echo ... DSA/STACK/ngr.obj
+	@echo ... DSA/STACK/ngr.i
+	@echo ... DSA/STACK/ngr.s
+	@echo ... DSA/STACK/nsl.obj
+	@echo ... DSA/STACK/nsl.i
+	@echo ... DSA/STACK/nsl.s
+	@echo ... DSA/STACK/nsr.obj
+	@echo ... DSA/STACK/nsr.i
+	@echo ... DSA/STACK/nsr.s
+	@echo ... DSA/STACK/rwt.obj
+	@echo ... DSA/STACK/rwt.i
+	@echo ... DSA/STACK/rwt.s
+	@echo ... DSA/STACK/stack_2/stack_again.obj
+	@echo ... DSA/STACK/stack_2/stack_again.i
+	@echo ... DSA/STACK/stack_2/stack_again.s
+	@echo ... DSA/STACK/stock_span.obj
+	@echo ... DSA/STACK/stock_span.i
+	@echo ... DSA/STACK/stock_span.s
 	@echo ... DSA/STL/Lists.obj
 	@echo ... DSA/STL/Lists.i
 	@echo ... DSA/STL/Lists.s
@@ -9355,24 +9280,36 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
-	@echo ... DSA/Stack/Expression_conversions/infix_to_postfix.obj
-	@echo ... DSA/Stack/Expression_conversions/infix_to_postfix.i
-	@echo ... DSA/Stack/Expression_conversions/infix_to_postfix.s
-	@echo ... DSA/Stack/Expression_conversions/infix_to_prefix.obj
-	@echo ... DSA/Stack/Expression_conversions/infix_to_prefix.i
-	@echo ... DSA/Stack/Expression_conversions/infix_to_prefix.s
-	@echo ... DSA/Stack/Expression_conversions/postfix_to_infix.obj
-	@echo ... DSA/Stack/Expression_conversions/postfix_to_infix.i
-	@echo ... DSA/Stack/Expression_conversions/postfix_to_infix.s
-	@echo ... DSA/Stack/Expression_conversions/prefix_to_infix.obj
-	@echo ... DSA/Stack/Expression_conversions/prefix_to_infix.i
-	@echo ... DSA/Stack/Expression_conversions/prefix_to_infix.s
-	@echo ... DSA/Stack/stack_code.obj
-	@echo ... DSA/Stack/stack_code.i
-	@echo ... DSA/Stack/stack_code.s
-	@echo ... DSA/Stack/stack_using_LL.obj
-	@echo ... DSA/Stack/stack_using_LL.i
-	@echo ... DSA/Stack/stack_using_LL.s
+	@echo ... DSA/TREES/BST/BST_impl.obj
+	@echo ... DSA/TREES/BST/BST_impl.i
+	@echo ... DSA/TREES/BST/BST_impl.s
+	@echo ... DSA/TREES/BST_CN/BST_use.obj
+	@echo ... DSA/TREES/BST_CN/BST_use.i
+	@echo ... DSA/TREES/BST_CN/BST_use.s
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_main.obj
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_main.i
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_main.s
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.obj
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.i
+	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.s
+	@echo ... DSA/TREES/Trees_CN/tree_use.obj
+	@echo ... DSA/TREES/Trees_CN/tree_use.i
+	@echo ... DSA/TREES/Trees_CN/tree_use.s
+	@echo ... DSA/TREES/sorting_algorithms/BubbleSort.obj
+	@echo ... DSA/TREES/sorting_algorithms/BubbleSort.i
+	@echo ... DSA/TREES/sorting_algorithms/BubbleSort.s
+	@echo ... DSA/TREES/sorting_algorithms/InsertionSort.obj
+	@echo ... DSA/TREES/sorting_algorithms/InsertionSort.i
+	@echo ... DSA/TREES/sorting_algorithms/InsertionSort.s
+	@echo ... DSA/TREES/sorting_algorithms/MergeSort.obj
+	@echo ... DSA/TREES/sorting_algorithms/MergeSort.i
+	@echo ... DSA/TREES/sorting_algorithms/MergeSort.s
+	@echo ... DSA/TREES/sorting_algorithms/QuickSort.obj
+	@echo ... DSA/TREES/sorting_algorithms/QuickSort.i
+	@echo ... DSA/TREES/sorting_algorithms/QuickSort.s
+	@echo ... DSA/TREES/sorting_algorithms/selectionSort.obj
+	@echo ... DSA/TREES/sorting_algorithms/selectionSort.i
+	@echo ... DSA/TREES/sorting_algorithms/selectionSort.s
 	@echo ... DSA/Templates/function_templates.obj
 	@echo ... DSA/Templates/function_templates.i
 	@echo ... DSA/Templates/function_templates.s
@@ -9388,51 +9325,15 @@ help:
 	@echo ... DSA/Templates/unordered_maps.obj
 	@echo ... DSA/Templates/unordered_maps.i
 	@echo ... DSA/Templates/unordered_maps.s
-	@echo ... DSA/Trees_CN/tree_use.obj
-	@echo ... DSA/Trees_CN/tree_use.i
-	@echo ... DSA/Trees_CN/tree_use.s
-	@echo ... DSA/algorithms/SORTING/BubbleSort.obj
-	@echo ... DSA/algorithms/SORTING/BubbleSort.i
-	@echo ... DSA/algorithms/SORTING/BubbleSort.s
-	@echo ... DSA/algorithms/SORTING/InsertionSort.obj
-	@echo ... DSA/algorithms/SORTING/InsertionSort.i
-	@echo ... DSA/algorithms/SORTING/InsertionSort.s
-	@echo ... DSA/algorithms/SORTING/MergeSort.obj
-	@echo ... DSA/algorithms/SORTING/MergeSort.i
-	@echo ... DSA/algorithms/SORTING/MergeSort.s
-	@echo ... DSA/algorithms/SORTING/QuickSort.obj
-	@echo ... DSA/algorithms/SORTING/QuickSort.i
-	@echo ... DSA/algorithms/SORTING/QuickSort.s
-	@echo ... DSA/algorithms/SORTING/selectionSort.obj
-	@echo ... DSA/algorithms/SORTING/selectionSort.i
-	@echo ... DSA/algorithms/SORTING/selectionSort.s
-	@echo ... DSA/dequeue/deque2.obj
-	@echo ... DSA/dequeue/deque2.i
-	@echo ... DSA/dequeue/deque2.s
-	@echo ... DSA/dequeue/deque3.obj
-	@echo ... DSA/dequeue/deque3.i
-	@echo ... DSA/dequeue/deque3.s
-	@echo ... DSA/dequeue/dequeue.obj
-	@echo ... DSA/dequeue/dequeue.i
-	@echo ... DSA/dequeue/dequeue.s
-	@echo ... DSA/queue/circular_queue.obj
-	@echo ... DSA/queue/circular_queue.i
-	@echo ... DSA/queue/circular_queue.s
-	@echo ... DSA/queue/queue_code.obj
-	@echo ... DSA/queue/queue_code.i
-	@echo ... DSA/queue/queue_code.s
-	@echo ... DSA/queue/queue_using_LL.obj
-	@echo ... DSA/queue/queue_using_LL.i
-	@echo ... DSA/queue/queue_using_LL.s
-	@echo ... DSAL_mock/DSA_mock_test.obj
-	@echo ... DSAL_mock/DSA_mock_test.i
-	@echo ... DSAL_mock/DSA_mock_test.s
-	@echo ... DSAL_mock/impl.obj
-	@echo ... DSAL_mock/impl.i
-	@echo ... DSAL_mock/impl.s
-	@echo ... DSAL_mock/main.obj
-	@echo ... DSAL_mock/main.i
-	@echo ... DSAL_mock/main.s
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.i
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.s
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/impl.obj
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/impl.i
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/impl.s
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/main.obj
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/main.i
+	@echo ... DSA_ASSIGNMENTS/DSAL_mock/main.s
 	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.obj
 	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.i
 	@echo ... DSA_ASSIGNMENTS/arrays_practice/array1.s
@@ -9556,6 +9457,144 @@ help:
 	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.obj
 	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.i
 	@echo ... DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.s
+	@echo ... OLD/GFG/Arrays/check_array_equality.obj
+	@echo ... OLD/GFG/Arrays/check_array_equality.i
+	@echo ... OLD/GFG/Arrays/check_array_equality.s
+	@echo ... OLD/GFG/Arrays/fighting_darkness.obj
+	@echo ... OLD/GFG/Arrays/fighting_darkness.i
+	@echo ... OLD/GFG/Arrays/fighting_darkness.s
+	@echo ... OLD/GFG/Arrays/rotate_array.obj
+	@echo ... OLD/GFG/Arrays/rotate_array.i
+	@echo ... OLD/GFG/Arrays/rotate_array.s
+	@echo ... OLD/GFG/LL/Add_1_to_LL.obj
+	@echo ... OLD/GFG/LL/Add_1_to_LL.i
+	@echo ... OLD/GFG/LL/Add_1_to_LL.s
+	@echo ... OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.obj
+	@echo ... OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.i
+	@echo ... OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.s
+	@echo ... OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.obj
+	@echo ... OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.i
+	@echo ... OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.s
+	@echo ... OLD/GFG/LL/Identical_LL.obj
+	@echo ... OLD/GFG/LL/Identical_LL.i
+	@echo ... OLD/GFG/LL/Identical_LL.s
+	@echo ... OLD/GFG/LL/LL_insertion.obj
+	@echo ... OLD/GFG/LL/LL_insertion.i
+	@echo ... OLD/GFG/LL/LL_insertion.s
+	@echo ... OLD/GFG/LL/LL_length_even_or_odd.obj
+	@echo ... OLD/GFG/LL/LL_length_even_or_odd.i
+	@echo ... OLD/GFG/LL/LL_length_even_or_odd.s
+	@echo ... OLD/GFG/LL/Stack.obj
+	@echo ... OLD/GFG/LL/Stack.i
+	@echo ... OLD/GFG/LL/Stack.s
+	@echo ... OLD/GFG/LL/compare_two_LL.obj
+	@echo ... OLD/GFG/LL/compare_two_LL.i
+	@echo ... OLD/GFG/LL/compare_two_LL.s
+	@echo ... OLD/GFG/LL/count_nodes.obj
+	@echo ... OLD/GFG/LL/count_nodes.i
+	@echo ... OLD/GFG/LL/count_nodes.s
+	@echo ... OLD/GFG/LL/decimal_eq_of_binary_LL.obj
+	@echo ... OLD/GFG/LL/decimal_eq_of_binary_LL.i
+	@echo ... OLD/GFG/LL/decimal_eq_of_binary_LL.s
+	@echo ... OLD/GFG/LL/delete_alternate_nodes.obj
+	@echo ... OLD/GFG/LL/delete_alternate_nodes.i
+	@echo ... OLD/GFG/LL/delete_alternate_nodes.s
+	@echo ... OLD/GFG/LL/delete_without_head_pointer.obj
+	@echo ... OLD/GFG/LL/delete_without_head_pointer.i
+	@echo ... OLD/GFG/LL/delete_without_head_pointer.s
+	@echo ... OLD/GFG/LL/find_middle_of_LL.obj
+	@echo ... OLD/GFG/LL/find_middle_of_LL.i
+	@echo ... OLD/GFG/LL/find_middle_of_LL.s
+	@echo ... OLD/GFG/LL/insert_in_middle.obj
+	@echo ... OLD/GFG/LL/insert_in_middle.i
+	@echo ... OLD/GFG/LL/insert_in_middle.s
+	@echo ... OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.obj
+	@echo ... OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.i
+	@echo ... OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.s
+	@echo ... OLD/GFG/LL/node_at_given_index.obj
+	@echo ... OLD/GFG/LL/node_at_given_index.i
+	@echo ... OLD/GFG/LL/node_at_given_index.s
+	@echo ... OLD/GFG/LL/occurance_in_LL.obj
+	@echo ... OLD/GFG/LL/occurance_in_LL.i
+	@echo ... OLD/GFG/LL/occurance_in_LL.s
+	@echo ... OLD/GFG/LL/sort_LL.obj
+	@echo ... OLD/GFG/LL/sort_LL.i
+	@echo ... OLD/GFG/LL/sort_LL.s
+	@echo ... OLD/GFG/LL/subtraction_in_LL.obj
+	@echo ... OLD/GFG/LL/subtraction_in_LL.i
+	@echo ... OLD/GFG/LL/subtraction_in_LL.s
+	@echo ... OLD/GFG/LL/sum_of_last_n_nodes.obj
+	@echo ... OLD/GFG/LL/sum_of_last_n_nodes.i
+	@echo ... OLD/GFG/LL/sum_of_last_n_nodes.s
+	@echo ... OLD/GFG/Queue/STL_queue.obj
+	@echo ... OLD/GFG/Queue/STL_queue.i
+	@echo ... OLD/GFG/Queue/STL_queue.s
+	@echo ... OLD/GFG/Queue/generate_binary_no.obj
+	@echo ... OLD/GFG/Queue/generate_binary_no.i
+	@echo ... OLD/GFG/Queue/generate_binary_no.s
+	@echo ... OLD/GFG/Queue/queue_push_and_pop.obj
+	@echo ... OLD/GFG/Queue/queue_push_and_pop.i
+	@echo ... OLD/GFG/Queue/queue_push_and_pop.s
+	@echo ... OLD/GFG/Queue/queue_reversal.obj
+	@echo ... OLD/GFG/Queue/queue_reversal.i
+	@echo ... OLD/GFG/Queue/queue_reversal.s
+	@echo ... OLD/GFG/Queue/queue_using_LL.obj
+	@echo ... OLD/GFG/Queue/queue_using_LL.i
+	@echo ... OLD/GFG/Queue/queue_using_LL.s
+	@echo ... OLD/GFG/Queue/queue_using_array.obj
+	@echo ... OLD/GFG/Queue/queue_using_array.i
+	@echo ... OLD/GFG/Queue/queue_using_array.s
+	@echo ... OLD/GFG/Queue/queue_using_two_stacks.obj
+	@echo ... OLD/GFG/Queue/queue_using_two_stacks.i
+	@echo ... OLD/GFG/Queue/queue_using_two_stacks.s
+	@echo ... OLD/GFG/Stack/delete_middle_element_of_stack.obj
+	@echo ... OLD/GFG/Stack/delete_middle_element_of_stack.i
+	@echo ... OLD/GFG/Stack/delete_middle_element_of_stack.s
+	@echo ... OLD/GFG/Stack/get_min_at_pop.obj
+	@echo ... OLD/GFG/Stack/get_min_at_pop.i
+	@echo ... OLD/GFG/Stack/get_min_at_pop.s
+	@echo ... OLD/GFG/Stack/immediate_smaller_element.obj
+	@echo ... OLD/GFG/Stack/immediate_smaller_element.i
+	@echo ... OLD/GFG/Stack/immediate_smaller_element.s
+	@echo ... OLD/GFG/Stack/impl_two_stacks_in_array.obj
+	@echo ... OLD/GFG/Stack/impl_two_stacks_in_array.i
+	@echo ... OLD/GFG/Stack/impl_two_stacks_in_array.s
+	@echo ... OLD/GFG/Stack/pairwise_consecutive_elements.obj
+	@echo ... OLD/GFG/Stack/pairwise_consecutive_elements.i
+	@echo ... OLD/GFG/Stack/pairwise_consecutive_elements.s
+	@echo ... OLD/GFG/Stack/print_bracket_no.obj
+	@echo ... OLD/GFG/Stack/print_bracket_no.i
+	@echo ... OLD/GFG/Stack/print_bracket_no.s
+	@echo ... OLD/GFG/Stack/remove_repeated_digits.obj
+	@echo ... OLD/GFG/Stack/remove_repeated_digits.i
+	@echo ... OLD/GFG/Stack/remove_repeated_digits.s
+	@echo ... OLD/GFG/Stack/reverse_a_string.obj
+	@echo ... OLD/GFG/Stack/reverse_a_string.i
+	@echo ... OLD/GFG/Stack/reverse_a_string.s
+	@echo ... OLD/GFG/Stack/sorting_stack.obj
+	@echo ... OLD/GFG/Stack/sorting_stack.i
+	@echo ... OLD/GFG/Stack/sorting_stack.s
+	@echo ... OLD/GFG/Stack/special_stack.obj
+	@echo ... OLD/GFG/Stack/special_stack.i
+	@echo ... OLD/GFG/Stack/special_stack.s
+	@echo ... OLD/GFG/Stack/stack_designer.obj
+	@echo ... OLD/GFG/Stack/stack_designer.i
+	@echo ... OLD/GFG/Stack/stack_designer.s
+	@echo ... OLD/GFG/Stack/stack_using_LL.obj
+	@echo ... OLD/GFG/Stack/stack_using_LL.i
+	@echo ... OLD/GFG/Stack/stack_using_LL.s
+	@echo ... OLD/GFG/Stack/stack_using_array.obj
+	@echo ... OLD/GFG/Stack/stack_using_array.i
+	@echo ... OLD/GFG/Stack/stack_using_array.s
+	@echo ... OLD/GFG/Stack/stack_using_two_queues.obj
+	@echo ... OLD/GFG/Stack/stack_using_two_queues.i
+	@echo ... OLD/GFG/Stack/stack_using_two_queues.s
+	@echo ... OLD/GFG/Stack/valid_substring.obj
+	@echo ... OLD/GFG/Stack/valid_substring.i
+	@echo ... OLD/GFG/Stack/valid_substring.s
+	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.obj
+	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.i
+	@echo ... OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.s
 	@echo ... ROUGH_FILES/main.obj
 	@echo ... ROUGH_FILES/main.i
 	@echo ... ROUGH_FILES/main.s
@@ -9592,15 +9631,6 @@ help:
 	@echo ... calculator/calculator_II.obj
 	@echo ... calculator/calculator_II.i
 	@echo ... calculator/calculator_II.s
-	@echo ... queue_again/queue_impl.obj
-	@echo ... queue_again/queue_impl.i
-	@echo ... queue_again/queue_impl.s
-	@echo ... queue_again/queue_main.obj
-	@echo ... queue_again/queue_main.i
-	@echo ... queue_again/queue_main.s
-	@echo ... stack_2/stack_again.obj
-	@echo ... stack_2/stack_again.i
-	@echo ... stack_2/stack_again.s
 .PHONY : help
 
 

@@ -6,11 +6,11 @@
 // * Internally this 'vector' is converted into 'Heap'
 // * Cost of insertion and extraction is logarithmic O(log n)
 // * std::priority_queue is implemented using std:make_heap,std:push_heap,std:pop_heap functions
-// * we can largest or smallest element from priority queue in O(1) time
+// * we can largest or smallest element from priority QUEUE in O(1) time
 // */
 //
 //#include <iostream>
-//#include <queue>
+//#include <QUEUE>
 //using namespace std;
 //
 //template<typename T> void print_q(T q){

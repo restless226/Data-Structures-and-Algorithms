@@ -378,7 +378,7 @@
 //
 //    else
 //    {
-//        queue<BST*> level_Q;
+//        QUEUE<BST*> level_Q;
 //        level_Q.push(root);
 //        while(!level_Q.empty())
 //        {
@@ -418,7 +418,7 @@
 //        return 0;
 //    }
 //
-//    queue<BST*> d_queue;
+//    QUEUE<BST*> d_queue;
 //    d_queue.push(root);
 //
 //    int height = 0;

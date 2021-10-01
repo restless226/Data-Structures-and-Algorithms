@@ -23,7 +23,7 @@
 //        rear = -1;
 //    }
 //
-//    //Function to check whether the queue is empty or not.
+//    //Function to check whether the QUEUE is empty or not.
 //    bool isEmpty() {
 //        if (front1 == -1 && rear == -1) {
 //            return true;
@@ -31,7 +31,7 @@
 //            return false;
 //    }
 //
-//    //Function to check whether the queue is full or not.
+//    //Function to check whether the QUEUE is full or not.
 //    bool isFull() {
 //        if ((rear + 1) % count1 == front1)
 //            return true;
@@ -39,10 +39,10 @@
 //            return false;
 //    }
 //
-//    //Function to enter a student in a queue.
+//    //Function to enter a student in a QUEUE.
 //    void enqueue() {
 //        if (isFull()) {
-//            cout << "The queue is full" << endl;
+//            cout << "The QUEUE is full" << endl;
 //            return;
 //        } else if (isEmpty()) {
 //            rear = 0;
@@ -84,10 +84,10 @@
 //    }
 //
 //    //Function to serve a student.
-//    void dequeue() {
-//        //Checking whether a queue is empty or not while dequeuing
+//    void DEQUEUE() {
+//        //Checking whether a QUEUE is empty or not while dequeuing
 //        if (isEmpty()) {
-//            cout << "The queue is Empty" << endl;
+//            cout << "The QUEUE is Empty" << endl;
 //            return;
 //        }
 //            //checking if there is only one element left.
@@ -116,11 +116,11 @@
 //    void display() {
 //        //checking if there is no student in the list.
 //        if (isEmpty()) {
-//            cout << "There are no students in the queue!!" << endl;
+//            cout << "There are no students in the QUEUE!!" << endl;
 //            return;
 //        } else {
-//            //displaying the number of students in the queue in tabular format.
-//            cout << "Students in the queue are: " << endl;
+//            //displaying the number of students in the QUEUE in tabular format.
+//            cout << "Students in the QUEUE are: " << endl;
 //            cout << "Roll No." << "\t" << "    Name    " << "\t" << " Class " << endl;
 //            int i = front1;
 //            while (1) {
@@ -138,8 +138,8 @@
 //
 //int main() {
 //    int n;
-//    //taking the size of the queue from the user.
-//    cout << "Enter the size of queue: " << endl;
+//    //taking the size of the QUEUE from the user.
+//    cout << "Enter the size of QUEUE: " << endl;
 //    cin >> n;
 //    CircularQueue q1(n);
 //
@@ -150,7 +150,7 @@
 //        cout << "Press 2 To Serve the student" << endl;
 //        cout << "3. isEmpty" << endl;
 //        cout << "4. isFull" << endl;
-//        cout << "5. Display the list of students in a queue:" << endl;
+//        cout << "5. Display the list of students in a QUEUE:" << endl;
 //        cout << "6. Clear the screen" << endl << endl;
 //
 //        cin >> option;
@@ -161,7 +161,7 @@
 //                break;
 //            case 2:
 //                cout << "Dequeue function called!!" << endl;
-//                q1.dequeue();
+//                q1.DEQUEUE();
 //                break;
 //            case 3:
 //                if (q1.isEmpty()) {
@@ -183,7 +183,7 @@
 //                system("cls");
 //                break;
 //            case 0:
-//                cout << "Thank you for using the queue application" << endl;
+//                cout << "Thank you for using the QUEUE application" << endl;
 //                break;
 //            default:
 //                cout << "Please enter a valid option: " << endl;

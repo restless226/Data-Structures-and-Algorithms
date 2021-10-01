@@ -1,9 +1,9 @@
 //#include <iostream>
-//#include <queue>
+//#include <QUEUE>
 //using namespace std;
 //
 //void printBFS(int** edges,int n,int sv,bool* visited){
-//    queue<int> pendingVertices;// vertices which are seen but not printed
+//    QUEUE<int> pendingVertices;// vertices which are seen but not printed
 //
 //    pendingVertices.push(sv);
 //    visited[sv]=true;

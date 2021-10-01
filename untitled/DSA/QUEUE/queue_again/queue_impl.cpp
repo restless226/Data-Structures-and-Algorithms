@@ -1,6 +1,6 @@
 //#include <iostream>
-//using namespace std;
 //#include "QUEUE.h"
+//using namespace std;
 //
 ////Function to check whether the QUEUE is empty or not.
 //bool CircularQueue::isEmpty() {
