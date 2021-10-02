@@ -3220,6 +3220,141 @@ DSA/GRAPHS/graph2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.s
 .PHONY : DSA/GRAPHS/graph2.cpp.s
 
+DSA/GREEDY/activity_selection.obj: DSA/GREEDY/activity_selection.cpp.obj
+
+.PHONY : DSA/GREEDY/activity_selection.obj
+
+# target to build an object file
+DSA/GREEDY/activity_selection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj
+.PHONY : DSA/GREEDY/activity_selection.cpp.obj
+
+DSA/GREEDY/activity_selection.i: DSA/GREEDY/activity_selection.cpp.i
+
+.PHONY : DSA/GREEDY/activity_selection.i
+
+# target to preprocess a source file
+DSA/GREEDY/activity_selection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.i
+.PHONY : DSA/GREEDY/activity_selection.cpp.i
+
+DSA/GREEDY/activity_selection.s: DSA/GREEDY/activity_selection.cpp.s
+
+.PHONY : DSA/GREEDY/activity_selection.s
+
+# target to generate assembly for a file
+DSA/GREEDY/activity_selection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s
+.PHONY : DSA/GREEDY/activity_selection.cpp.s
+
+DSA/GREEDY/fractional_knapsack.obj: DSA/GREEDY/fractional_knapsack.cpp.obj
+
+.PHONY : DSA/GREEDY/fractional_knapsack.obj
+
+# target to build an object file
+DSA/GREEDY/fractional_knapsack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj
+.PHONY : DSA/GREEDY/fractional_knapsack.cpp.obj
+
+DSA/GREEDY/fractional_knapsack.i: DSA/GREEDY/fractional_knapsack.cpp.i
+
+.PHONY : DSA/GREEDY/fractional_knapsack.i
+
+# target to preprocess a source file
+DSA/GREEDY/fractional_knapsack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.i
+.PHONY : DSA/GREEDY/fractional_knapsack.cpp.i
+
+DSA/GREEDY/fractional_knapsack.s: DSA/GREEDY/fractional_knapsack.cpp.s
+
+.PHONY : DSA/GREEDY/fractional_knapsack.s
+
+# target to generate assembly for a file
+DSA/GREEDY/fractional_knapsack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.s
+.PHONY : DSA/GREEDY/fractional_knapsack.cpp.s
+
+DSA/GREEDY/job_sequencing.obj: DSA/GREEDY/job_sequencing.cpp.obj
+
+.PHONY : DSA/GREEDY/job_sequencing.obj
+
+# target to build an object file
+DSA/GREEDY/job_sequencing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj
+.PHONY : DSA/GREEDY/job_sequencing.cpp.obj
+
+DSA/GREEDY/job_sequencing.i: DSA/GREEDY/job_sequencing.cpp.i
+
+.PHONY : DSA/GREEDY/job_sequencing.i
+
+# target to preprocess a source file
+DSA/GREEDY/job_sequencing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.i
+.PHONY : DSA/GREEDY/job_sequencing.cpp.i
+
+DSA/GREEDY/job_sequencing.s: DSA/GREEDY/job_sequencing.cpp.s
+
+.PHONY : DSA/GREEDY/job_sequencing.s
+
+# target to generate assembly for a file
+DSA/GREEDY/job_sequencing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.s
+.PHONY : DSA/GREEDY/job_sequencing.cpp.s
+
+DSA/GREEDY/minimum_platforms.obj: DSA/GREEDY/minimum_platforms.cpp.obj
+
+.PHONY : DSA/GREEDY/minimum_platforms.obj
+
+# target to build an object file
+DSA/GREEDY/minimum_platforms.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj
+.PHONY : DSA/GREEDY/minimum_platforms.cpp.obj
+
+DSA/GREEDY/minimum_platforms.i: DSA/GREEDY/minimum_platforms.cpp.i
+
+.PHONY : DSA/GREEDY/minimum_platforms.i
+
+# target to preprocess a source file
+DSA/GREEDY/minimum_platforms.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.i
+.PHONY : DSA/GREEDY/minimum_platforms.cpp.i
+
+DSA/GREEDY/minimum_platforms.s: DSA/GREEDY/minimum_platforms.cpp.s
+
+.PHONY : DSA/GREEDY/minimum_platforms.s
+
+# target to generate assembly for a file
+DSA/GREEDY/minimum_platforms.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.s
+.PHONY : DSA/GREEDY/minimum_platforms.cpp.s
+
+DSA/GREEDY/n_meetings_in_one_room.obj: DSA/GREEDY/n_meetings_in_one_room.cpp.obj
+
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.obj
+
+# target to build an object file
+DSA/GREEDY/n_meetings_in_one_room.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.cpp.obj
+
+DSA/GREEDY/n_meetings_in_one_room.i: DSA/GREEDY/n_meetings_in_one_room.cpp.i
+
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.i
+
+# target to preprocess a source file
+DSA/GREEDY/n_meetings_in_one_room.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.i
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.cpp.i
+
+DSA/GREEDY/n_meetings_in_one_room.s: DSA/GREEDY/n_meetings_in_one_room.cpp.s
+
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.s
+
+# target to generate assembly for a file
+DSA/GREEDY/n_meetings_in_one_room.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s
+.PHONY : DSA/GREEDY/n_meetings_in_one_room.cpp.s
+
 DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
 
 .PHONY : DSA/HEAP/heap_main.obj
@@ -9025,6 +9160,21 @@ help:
 	@echo ... DSA/GRAPHS/graph2.obj
 	@echo ... DSA/GRAPHS/graph2.i
 	@echo ... DSA/GRAPHS/graph2.s
+	@echo ... DSA/GREEDY/activity_selection.obj
+	@echo ... DSA/GREEDY/activity_selection.i
+	@echo ... DSA/GREEDY/activity_selection.s
+	@echo ... DSA/GREEDY/fractional_knapsack.obj
+	@echo ... DSA/GREEDY/fractional_knapsack.i
+	@echo ... DSA/GREEDY/fractional_knapsack.s
+	@echo ... DSA/GREEDY/job_sequencing.obj
+	@echo ... DSA/GREEDY/job_sequencing.i
+	@echo ... DSA/GREEDY/job_sequencing.s
+	@echo ... DSA/GREEDY/minimum_platforms.obj
+	@echo ... DSA/GREEDY/minimum_platforms.i
+	@echo ... DSA/GREEDY/minimum_platforms.s
+	@echo ... DSA/GREEDY/n_meetings_in_one_room.obj
+	@echo ... DSA/GREEDY/n_meetings_in_one_room.i
+	@echo ... DSA/GREEDY/n_meetings_in_one_room.s
 	@echo ... DSA/HEAP/heap_main.obj
 	@echo ... DSA/HEAP/heap_main.i
 	@echo ... DSA/HEAP/heap_main.s

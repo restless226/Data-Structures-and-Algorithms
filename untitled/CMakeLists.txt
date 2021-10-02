@@ -159,6 +159,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/RECURSION/josephus_problem.cpp DSA/RECURSION/string_permutations.cpp
         DSA/RECURSION/pascal_triangle.cpp DSA/DP/TECH_DOSE/pascal_triangle.cpp
         DSA/RECURSION/lucky_numbers.cpp DSA/RECURSION/all_unique_permutations_of_array.cpp
-        DSA/RECURSION/handshakes.cpp)
+        DSA/RECURSION/handshakes.cpp DSA/GREEDY/fractional_knapsack.cpp DSA/GREEDY/job_sequencing.cpp
+        DSA/GREEDY/n_meetings_in_one_room.cpp DSA/GREEDY/minimum_platforms.cpp
+        DSA/GREEDY/activity_selection.cpp)
 
 

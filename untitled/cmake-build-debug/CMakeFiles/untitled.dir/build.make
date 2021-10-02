@@ -4184,6 +4184,71 @@ CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\handshakes.cpp -o CMakeFiles\untitled.dir\DSA\RECURSION\handshakes.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: ../DSA/GREEDY/fractional_knapsack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\fractional_knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\fractional_knapsack.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\fractional_knapsack.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\fractional_knapsack.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\fractional_knapsack.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\fractional_knapsack.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: ../DSA/GREEDY/job_sequencing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\job_sequencing.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\job_sequencing.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\job_sequencing.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\job_sequencing.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\job_sequencing.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\job_sequencing.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: ../DSA/GREEDY/n_meetings_in_one_room.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\n_meetings_in_one_room.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\n_meetings_in_one_room.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\n_meetings_in_one_room.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\n_meetings_in_one_room.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\n_meetings_in_one_room.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\n_meetings_in_one_room.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: ../DSA/GREEDY/minimum_platforms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\minimum_platforms.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\minimum_platforms.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\minimum_platforms.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\minimum_platforms.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\minimum_platforms.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\minimum_platforms.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\activity_selection.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\activity_selection.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\activity_selection.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\activity_selection.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\activity_selection.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\activity_selection.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4501,7 +4566,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4822,11 +4892,16 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
