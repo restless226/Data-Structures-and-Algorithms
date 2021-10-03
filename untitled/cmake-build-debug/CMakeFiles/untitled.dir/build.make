@@ -2650,96 +2650,96 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\knapsack_01.cpp -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\knapsack_01.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj: ../DSA/DP/knapsack_01_variations/knapsack_01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\knapsack_01.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\knapsack_01.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack_01.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\knapsack_01.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\knapsack_01.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\knapsack_01.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\knapsack_01.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/subset_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\subset_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\subset_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: ../DSA/DP/bounded_knapsack/subset_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\subset_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\subset_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\subset_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\subset_sum.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\subset_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\subset_sum.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\subset_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\subset_sum.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\subset_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\subset_sum.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj: ../DSA/DP/knapsack_01_variations/equal_sum_partition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/equal_sum_partition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\equal_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\equal_sum_partition.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\equal_sum_partition.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\equal_sum_partition.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\equal_sum_partition.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\equal_sum_partition.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\equal_sum_partition.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj: ../DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_subsets_sum_with_given_sum.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj: ../DSA/DP/knapsack_01_variations/min_sum_partition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\min_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\min_sum_partition.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/min_sum_partition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\min_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\min_sum_partition.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\min_sum_partition.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\min_sum_partition.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\min_sum_partition.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\min_sum_partition.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\min_sum_partition.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\min_sum_partition.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\min_sum_partition.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\min_sum_partition.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\count_no_of_subsets_with_given_difference.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/target_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\target_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\target_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj: ../DSA/DP/bounded_knapsack/target_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\target_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\target_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\target_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\target_sum.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\target_sum.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\target_sum.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\knapsack_01_variations\target_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\knapsack_01_variations\target_sum.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\target_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\target_sum.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
@@ -4249,6 +4249,58 @@ CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\activity_selection.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\activity_selection.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: ../DSA/GREEDY/jump_game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\jump_game.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\jump_game.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\jump_game.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\jump_game.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\jump_game.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\jump_game.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: ../DSA/DP/unbounded_knapsack/min_coin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\min_coin.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\min_coin.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\min_coin.cpp > CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\min_coin.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\min_coin.cpp -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\min_coin.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: ../DSA/GREEDY/choose_and_swap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\choose_and_swap.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\choose_and_swap.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\choose_and_swap.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\choose_and_swap.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\choose_and_swap.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\choose_and_swap.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: ../DSA/GREEDY/stock_buy_and_sell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\stock_buy_and_sell.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\stock_buy_and_sell.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\stock_buy_and_sell.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\stock_buy_and_sell.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\stock_buy_and_sell.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\stock_buy_and_sell.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4449,13 +4501,13 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj" \
@@ -4571,7 +4623,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4774,13 +4830,13 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj
@@ -4897,11 +4953,15 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

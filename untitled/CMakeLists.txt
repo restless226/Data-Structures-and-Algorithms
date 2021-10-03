@@ -104,9 +104,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DAA_ASSIGNMENTS/file_handling.cpp DAA_ASSIGNMENTS/merge_sort.cpp DAA_ASSIGNMENTS/n_queens.cpp DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
         DSA/BACKTRACKING/n_queens.cpp DSA/BACKTRACKING/rat_in_a_maze.cpp
         DSA/BINARY_SEARCH/aggressive_cows.cpp DAA_ASSIGNMENTS/knapsack_01.cpp
-        DSA/DP/knapsack_01_variations/knapsack_01.cpp DSA/DP/knapsack_01_variations/subset_sum.cpp DSA/DP/knapsack_01_variations/equal_sum_partition.cpp
-        DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp DSA/DP/knapsack_01_variations/min_sum_partition.cpp
-        DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp DSA/DP/knapsack_01_variations/target_sum.cpp
+        DSA/DP/bounded_knapsack/knapsack_01.cpp DSA/DP/bounded_knapsack/subset_sum.cpp DSA/DP/bounded_knapsack/equal_sum_partition.cpp
+        DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp DSA/DP/bounded_knapsack/min_sum_partition.cpp
+        DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp DSA/DP/bounded_knapsack/target_sum.cpp
         DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp DSA/DP/unbounded_knapsack/rod_cutting.cpp
         DSA/DP/unbounded_knapsack/coin_change_one.cpp DSA/DP/unbounded_knapsack/coin_change_two.cpp
         DSA/DP/DP_LCS/lcs.cpp DSA/DP/DP_LCS/longest_common_substring.cpp
@@ -161,6 +161,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/RECURSION/lucky_numbers.cpp DSA/RECURSION/all_unique_permutations_of_array.cpp
         DSA/RECURSION/handshakes.cpp DSA/GREEDY/fractional_knapsack.cpp DSA/GREEDY/job_sequencing.cpp
         DSA/GREEDY/n_meetings_in_one_room.cpp DSA/GREEDY/minimum_platforms.cpp
-        DSA/GREEDY/activity_selection.cpp)
+        DSA/GREEDY/activity_selection.cpp DSA/GREEDY/jump_game.cpp DSA/DP/unbounded_knapsack/min_coin.cpp
+        DSA/GREEDY/choose_and_swap.cpp DSA/GREEDY/stock_buy_and_sell.cpp)
 
 

@@ -171,23 +171,25 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: ../D
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/word_break.cpp.obj: ../DSA/DP/TECH_DOSE/word_break.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj: ../DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj: ../DSA/DP/knapsack_01_variations/equal_sum_partition.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/equal_sum_partition.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj: ../DSA/DP/knapsack_01_variations/knapsack_01.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack_01.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj: ../DSA/DP/knapsack_01_variations/min_sum_partition.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/min_sum_partition.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/subset_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: ../DSA/DP/bounded_knapsack/subset_sum.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj: ../DSA/DP/knapsack_01_variations/target_sum.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj: ../DSA/DP/bounded_knapsack/target_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../DSA/DP/unbounded_knapsack/coin_change_one.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj: ../DSA/DP/unbounded_knapsack/coin_change_two.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: ../DSA/DP/unbounded_knapsack/min_coin.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../DSA/DP/unbounded_knapsack/rod_cutting.cpp
 
@@ -225,13 +227,19 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 
+CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: ../DSA/GREEDY/choose_and_swap.cpp
+
 CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: ../DSA/GREEDY/fractional_knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: ../DSA/GREEDY/job_sequencing.cpp
 
+CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: ../DSA/GREEDY/jump_game.cpp
+
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: ../DSA/GREEDY/minimum_platforms.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: ../DSA/GREEDY/n_meetings_in_one_room.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: ../DSA/GREEDY/stock_buy_and_sell.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
 

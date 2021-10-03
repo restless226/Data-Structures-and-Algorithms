@@ -2518,194 +2518,194 @@ DSA/DP/TECH_DOSE/word_break.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/word_break.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/word_break.cpp.s
 
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj: DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.obj: DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
-
-# target to build an object file
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.obj
-
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i: DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
-
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
-
-# target to preprocess a source file
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.i
-
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s: DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
-
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
-
-# target to generate assembly for a file
-DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.cpp.s
-
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj: DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
-
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.obj
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj
 
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i: DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.i: DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.i
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i
 
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s: DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.s: DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.cpp.s
+DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.s
 
-DSA/DP/knapsack_01_variations/equal_sum_partition.obj: DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.obj: DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.obj
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.obj
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj
 
-DSA/DP/knapsack_01_variations/equal_sum_partition.i: DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.i: DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.i
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.i
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i
 
-DSA/DP/knapsack_01_variations/equal_sum_partition.s: DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.s: DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.s
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/equal_sum_partition.cpp.s
+DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.s
 
-DSA/DP/knapsack_01_variations/knapsack_01.obj: DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj
+DSA/DP/bounded_knapsack/equal_sum_partition.obj: DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.obj
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.cpp.obj
+DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj
 
-DSA/DP/knapsack_01_variations/knapsack_01.i: DSA/DP/knapsack_01_variations/knapsack_01.cpp.i
+DSA/DP/bounded_knapsack/equal_sum_partition.i: DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.i
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/knapsack_01.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.cpp.i
+DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i
 
-DSA/DP/knapsack_01_variations/knapsack_01.s: DSA/DP/knapsack_01_variations/knapsack_01.cpp.s
+DSA/DP/bounded_knapsack/equal_sum_partition.s: DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.s
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/knapsack_01.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/knapsack_01.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/knapsack_01.cpp.s
+DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s
 
-DSA/DP/knapsack_01_variations/min_sum_partition.obj: DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj
+DSA/DP/bounded_knapsack/knapsack_01.obj: DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.obj
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.cpp.obj
+DSA/DP/bounded_knapsack/knapsack_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
 
-DSA/DP/knapsack_01_variations/min_sum_partition.i: DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i
+DSA/DP/bounded_knapsack/knapsack_01.i: DSA/DP/bounded_knapsack/knapsack_01.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.i
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.cpp.i
+DSA/DP/bounded_knapsack/knapsack_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.i
 
-DSA/DP/knapsack_01_variations/min_sum_partition.s: DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s
+DSA/DP/bounded_knapsack/knapsack_01.s: DSA/DP/bounded_knapsack/knapsack_01.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.s
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/min_sum_partition.cpp.s
+DSA/DP/bounded_knapsack/knapsack_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.s
 
-DSA/DP/knapsack_01_variations/subset_sum.obj: DSA/DP/knapsack_01_variations/subset_sum.cpp.obj
+DSA/DP/bounded_knapsack/min_sum_partition.obj: DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.obj
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/subset_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.cpp.obj
+DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
 
-DSA/DP/knapsack_01_variations/subset_sum.i: DSA/DP/knapsack_01_variations/subset_sum.cpp.i
+DSA/DP/bounded_knapsack/min_sum_partition.i: DSA/DP/bounded_knapsack/min_sum_partition.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.i
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/subset_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.cpp.i
+DSA/DP/bounded_knapsack/min_sum_partition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.cpp.i
 
-DSA/DP/knapsack_01_variations/subset_sum.s: DSA/DP/knapsack_01_variations/subset_sum.cpp.s
+DSA/DP/bounded_knapsack/min_sum_partition.s: DSA/DP/bounded_knapsack/min_sum_partition.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.s
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/subset_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/subset_sum.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/subset_sum.cpp.s
+DSA/DP/bounded_knapsack/min_sum_partition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/min_sum_partition.cpp.s
 
-DSA/DP/knapsack_01_variations/target_sum.obj: DSA/DP/knapsack_01_variations/target_sum.cpp.obj
+DSA/DP/bounded_knapsack/subset_sum.obj: DSA/DP/bounded_knapsack/subset_sum.cpp.obj
 
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.obj
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.obj
 
 # target to build an object file
-DSA/DP/knapsack_01_variations/target_sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.obj
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.cpp.obj
+DSA/DP/bounded_knapsack/subset_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.cpp.obj
 
-DSA/DP/knapsack_01_variations/target_sum.i: DSA/DP/knapsack_01_variations/target_sum.cpp.i
+DSA/DP/bounded_knapsack/subset_sum.i: DSA/DP/bounded_knapsack/subset_sum.cpp.i
 
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.i
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.i
 
 # target to preprocess a source file
-DSA/DP/knapsack_01_variations/target_sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.i
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.cpp.i
+DSA/DP/bounded_knapsack/subset_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.cpp.i
 
-DSA/DP/knapsack_01_variations/target_sum.s: DSA/DP/knapsack_01_variations/target_sum.cpp.s
+DSA/DP/bounded_knapsack/subset_sum.s: DSA/DP/bounded_knapsack/subset_sum.cpp.s
 
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.s
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.s
 
 # target to generate assembly for a file
-DSA/DP/knapsack_01_variations/target_sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/knapsack_01_variations/target_sum.cpp.s
-.PHONY : DSA/DP/knapsack_01_variations/target_sum.cpp.s
+DSA/DP/bounded_knapsack/subset_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/subset_sum.cpp.s
+
+DSA/DP/bounded_knapsack/target_sum.obj: DSA/DP/bounded_knapsack/target_sum.cpp.obj
+
+.PHONY : DSA/DP/bounded_knapsack/target_sum.obj
+
+# target to build an object file
+DSA/DP/bounded_knapsack/target_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/target_sum.cpp.obj
+
+DSA/DP/bounded_knapsack/target_sum.i: DSA/DP/bounded_knapsack/target_sum.cpp.i
+
+.PHONY : DSA/DP/bounded_knapsack/target_sum.i
+
+# target to preprocess a source file
+DSA/DP/bounded_knapsack/target_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/target_sum.cpp.i
+
+DSA/DP/bounded_knapsack/target_sum.s: DSA/DP/bounded_knapsack/target_sum.cpp.s
+
+.PHONY : DSA/DP/bounded_knapsack/target_sum.s
+
+# target to generate assembly for a file
+DSA/DP/bounded_knapsack/target_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/target_sum.cpp.s
 
 DSA/DP/unbounded_knapsack/coin_change_one.obj: DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj
 
@@ -2760,6 +2760,33 @@ DSA/DP/unbounded_knapsack/coin_change_two.s: DSA/DP/unbounded_knapsack/coin_chan
 DSA/DP/unbounded_knapsack/coin_change_two.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.s
 .PHONY : DSA/DP/unbounded_knapsack/coin_change_two.cpp.s
+
+DSA/DP/unbounded_knapsack/min_coin.obj: DSA/DP/unbounded_knapsack/min_coin.cpp.obj
+
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.obj
+
+# target to build an object file
+DSA/DP/unbounded_knapsack/min_coin.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.cpp.obj
+
+DSA/DP/unbounded_knapsack/min_coin.i: DSA/DP/unbounded_knapsack/min_coin.cpp.i
+
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.i
+
+# target to preprocess a source file
+DSA/DP/unbounded_knapsack/min_coin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.i
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.cpp.i
+
+DSA/DP/unbounded_knapsack/min_coin.s: DSA/DP/unbounded_knapsack/min_coin.cpp.s
+
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.s
+
+# target to generate assembly for a file
+DSA/DP/unbounded_knapsack/min_coin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.s
+.PHONY : DSA/DP/unbounded_knapsack/min_coin.cpp.s
 
 DSA/DP/unbounded_knapsack/rod_cutting.obj: DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj
 
@@ -3247,6 +3274,33 @@ DSA/GREEDY/activity_selection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s
 .PHONY : DSA/GREEDY/activity_selection.cpp.s
 
+DSA/GREEDY/choose_and_swap.obj: DSA/GREEDY/choose_and_swap.cpp.obj
+
+.PHONY : DSA/GREEDY/choose_and_swap.obj
+
+# target to build an object file
+DSA/GREEDY/choose_and_swap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj
+.PHONY : DSA/GREEDY/choose_and_swap.cpp.obj
+
+DSA/GREEDY/choose_and_swap.i: DSA/GREEDY/choose_and_swap.cpp.i
+
+.PHONY : DSA/GREEDY/choose_and_swap.i
+
+# target to preprocess a source file
+DSA/GREEDY/choose_and_swap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.i
+.PHONY : DSA/GREEDY/choose_and_swap.cpp.i
+
+DSA/GREEDY/choose_and_swap.s: DSA/GREEDY/choose_and_swap.cpp.s
+
+.PHONY : DSA/GREEDY/choose_and_swap.s
+
+# target to generate assembly for a file
+DSA/GREEDY/choose_and_swap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.s
+.PHONY : DSA/GREEDY/choose_and_swap.cpp.s
+
 DSA/GREEDY/fractional_knapsack.obj: DSA/GREEDY/fractional_knapsack.cpp.obj
 
 .PHONY : DSA/GREEDY/fractional_knapsack.obj
@@ -3301,6 +3355,33 @@ DSA/GREEDY/job_sequencing.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.s
 .PHONY : DSA/GREEDY/job_sequencing.cpp.s
 
+DSA/GREEDY/jump_game.obj: DSA/GREEDY/jump_game.cpp.obj
+
+.PHONY : DSA/GREEDY/jump_game.obj
+
+# target to build an object file
+DSA/GREEDY/jump_game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj
+.PHONY : DSA/GREEDY/jump_game.cpp.obj
+
+DSA/GREEDY/jump_game.i: DSA/GREEDY/jump_game.cpp.i
+
+.PHONY : DSA/GREEDY/jump_game.i
+
+# target to preprocess a source file
+DSA/GREEDY/jump_game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.i
+.PHONY : DSA/GREEDY/jump_game.cpp.i
+
+DSA/GREEDY/jump_game.s: DSA/GREEDY/jump_game.cpp.s
+
+.PHONY : DSA/GREEDY/jump_game.s
+
+# target to generate assembly for a file
+DSA/GREEDY/jump_game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.s
+.PHONY : DSA/GREEDY/jump_game.cpp.s
+
 DSA/GREEDY/minimum_platforms.obj: DSA/GREEDY/minimum_platforms.cpp.obj
 
 .PHONY : DSA/GREEDY/minimum_platforms.obj
@@ -3354,6 +3435,33 @@ DSA/GREEDY/n_meetings_in_one_room.s: DSA/GREEDY/n_meetings_in_one_room.cpp.s
 DSA/GREEDY/n_meetings_in_one_room.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s
 .PHONY : DSA/GREEDY/n_meetings_in_one_room.cpp.s
+
+DSA/GREEDY/stock_buy_and_sell.obj: DSA/GREEDY/stock_buy_and_sell.cpp.obj
+
+.PHONY : DSA/GREEDY/stock_buy_and_sell.obj
+
+# target to build an object file
+DSA/GREEDY/stock_buy_and_sell.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj
+.PHONY : DSA/GREEDY/stock_buy_and_sell.cpp.obj
+
+DSA/GREEDY/stock_buy_and_sell.i: DSA/GREEDY/stock_buy_and_sell.cpp.i
+
+.PHONY : DSA/GREEDY/stock_buy_and_sell.i
+
+# target to preprocess a source file
+DSA/GREEDY/stock_buy_and_sell.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.i
+.PHONY : DSA/GREEDY/stock_buy_and_sell.cpp.i
+
+DSA/GREEDY/stock_buy_and_sell.s: DSA/GREEDY/stock_buy_and_sell.cpp.s
+
+.PHONY : DSA/GREEDY/stock_buy_and_sell.s
+
+# target to generate assembly for a file
+DSA/GREEDY/stock_buy_and_sell.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s
+.PHONY : DSA/GREEDY/stock_buy_and_sell.cpp.s
 
 DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
 
@@ -9082,33 +9190,36 @@ help:
 	@echo ... DSA/DP/TECH_DOSE/word_break.obj
 	@echo ... DSA/DP/TECH_DOSE/word_break.i
 	@echo ... DSA/DP/TECH_DOSE/word_break.s
-	@echo ... DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.obj
-	@echo ... DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.i
-	@echo ... DSA/DP/knapsack_01_variations/count_no_of_subsets_with_given_difference.s
-	@echo ... DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.obj
-	@echo ... DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.i
-	@echo ... DSA/DP/knapsack_01_variations/count_subsets_sum_with_given_sum.s
-	@echo ... DSA/DP/knapsack_01_variations/equal_sum_partition.obj
-	@echo ... DSA/DP/knapsack_01_variations/equal_sum_partition.i
-	@echo ... DSA/DP/knapsack_01_variations/equal_sum_partition.s
-	@echo ... DSA/DP/knapsack_01_variations/knapsack_01.obj
-	@echo ... DSA/DP/knapsack_01_variations/knapsack_01.i
-	@echo ... DSA/DP/knapsack_01_variations/knapsack_01.s
-	@echo ... DSA/DP/knapsack_01_variations/min_sum_partition.obj
-	@echo ... DSA/DP/knapsack_01_variations/min_sum_partition.i
-	@echo ... DSA/DP/knapsack_01_variations/min_sum_partition.s
-	@echo ... DSA/DP/knapsack_01_variations/subset_sum.obj
-	@echo ... DSA/DP/knapsack_01_variations/subset_sum.i
-	@echo ... DSA/DP/knapsack_01_variations/subset_sum.s
-	@echo ... DSA/DP/knapsack_01_variations/target_sum.obj
-	@echo ... DSA/DP/knapsack_01_variations/target_sum.i
-	@echo ... DSA/DP/knapsack_01_variations/target_sum.s
+	@echo ... DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.obj
+	@echo ... DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.i
+	@echo ... DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.s
+	@echo ... DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.obj
+	@echo ... DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.i
+	@echo ... DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.s
+	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.obj
+	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.i
+	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.s
+	@echo ... DSA/DP/bounded_knapsack/knapsack_01.obj
+	@echo ... DSA/DP/bounded_knapsack/knapsack_01.i
+	@echo ... DSA/DP/bounded_knapsack/knapsack_01.s
+	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.obj
+	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.i
+	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.s
+	@echo ... DSA/DP/bounded_knapsack/subset_sum.obj
+	@echo ... DSA/DP/bounded_knapsack/subset_sum.i
+	@echo ... DSA/DP/bounded_knapsack/subset_sum.s
+	@echo ... DSA/DP/bounded_knapsack/target_sum.obj
+	@echo ... DSA/DP/bounded_knapsack/target_sum.i
+	@echo ... DSA/DP/bounded_knapsack/target_sum.s
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_one.obj
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_one.i
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_one.s
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_two.obj
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_two.i
 	@echo ... DSA/DP/unbounded_knapsack/coin_change_two.s
+	@echo ... DSA/DP/unbounded_knapsack/min_coin.obj
+	@echo ... DSA/DP/unbounded_knapsack/min_coin.i
+	@echo ... DSA/DP/unbounded_knapsack/min_coin.s
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.obj
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.i
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.s
@@ -9163,18 +9274,27 @@ help:
 	@echo ... DSA/GREEDY/activity_selection.obj
 	@echo ... DSA/GREEDY/activity_selection.i
 	@echo ... DSA/GREEDY/activity_selection.s
+	@echo ... DSA/GREEDY/choose_and_swap.obj
+	@echo ... DSA/GREEDY/choose_and_swap.i
+	@echo ... DSA/GREEDY/choose_and_swap.s
 	@echo ... DSA/GREEDY/fractional_knapsack.obj
 	@echo ... DSA/GREEDY/fractional_knapsack.i
 	@echo ... DSA/GREEDY/fractional_knapsack.s
 	@echo ... DSA/GREEDY/job_sequencing.obj
 	@echo ... DSA/GREEDY/job_sequencing.i
 	@echo ... DSA/GREEDY/job_sequencing.s
+	@echo ... DSA/GREEDY/jump_game.obj
+	@echo ... DSA/GREEDY/jump_game.i
+	@echo ... DSA/GREEDY/jump_game.s
 	@echo ... DSA/GREEDY/minimum_platforms.obj
 	@echo ... DSA/GREEDY/minimum_platforms.i
 	@echo ... DSA/GREEDY/minimum_platforms.s
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.obj
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.i
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.s
+	@echo ... DSA/GREEDY/stock_buy_and_sell.obj
+	@echo ... DSA/GREEDY/stock_buy_and_sell.i
+	@echo ... DSA/GREEDY/stock_buy_and_sell.s
 	@echo ... DSA/HEAP/heap_main.obj
 	@echo ... DSA/HEAP/heap_main.i
 	@echo ... DSA/HEAP/heap_main.s
