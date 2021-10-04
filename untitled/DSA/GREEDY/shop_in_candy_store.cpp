@@ -19,8 +19,22 @@
 //#define int long long
 //using namespace std;
 //
-//void solve() {
-//
+//vector<int> solve(int candies[], int n, int k) {
+//    vector<int> cost;
+//    sort(candies, candies + n);
+//    int remainingCandies = n;
+//    int minBuy = 0;
+//    int maxBuy = 0;
+//    int minIt = 0;
+//    int maxIt = n - 1;
+//    while (remainingCandies > 0) {
+//        minBuy += candies[minIt++];
+//        maxBuy += candies[maxIt--];
+//        remainingCandies -= (k + 1);
+//    }
+//    cost.push_back(minBuy);
+//    cost.push_back(maxBuy);
+//    return cost;
 //}
 //
 //int32_t main() {
@@ -30,15 +44,31 @@
 //    int t;
 //    cin >> t;
 //    while (t--) {
-//        solve();
+//        int n, k;
+//        cin >> n >> k;
+//        int candies[n];
+//
+//        for (int i = 0; i < n; i++) {
+//            cin >> candies[i];
+//        }
+//        vector<int> cost = solve(candies, n, k);
+//        cout << cost[0] << " " << cost[1] << '\n';
 //    }
 //    return 0;
 //}
 //
 ///*
 //INPUT:
-//
+//3
+//4 2
+//3 2 1 4
+//5 4
+//3 2 1 4 5
+//10 0
+//1 2 3 4 5 6 7 8 9 10
 //
 //OUTPUT:
-//
+//3 7
+//1 5
+//55 55
 //*/

@@ -11,8 +11,55 @@
 //#define int long long
 //using namespace std;
 //
-//void solve() {
+//struct Pile {
+//    int value;
+//    int quantity;
+//};
 //
+//void printArray(Pile pile[], int n) {
+//    cout << "value :    ";
+//    for (int i = 0; i < n; i++) {
+//        cout << pile[i].value << " ";
+//    }
+//    cout << '\n';
+//
+//    cout << "quantity :   ";
+//    for (int i = 0; i < n; i++) {
+//        cout << pile[i].quantity << " ";
+//    }
+//    cout << '\n';
+//}
+//
+//bool cmp(Pile pile1, Pile pile2) {
+//    return pile1.quantity > pile2.quantity ? true : false;
+//}
+//
+////TODO
+//int solve(int arr[], int n, int k) {
+//    unordered_map<int, int> mp;
+//    for (int i = 0; i < n; i++) {
+//        mp[arr[i]]++;
+//    }
+//    Pile pile[mp.size()];
+//    int i = 0;
+//    for (auto itr:mp) {
+//        pile[i].value = itr.first;
+//        pile[i].quantity = itr.second;
+//        i++;
+//    }
+//
+//    cout << "\nPILE ARRAY BEFORE...\n";
+//    printArray(pile, n);
+//    sort(pile, pile + n, cmp);
+//    cout << "\nPILE ARRAY AFTER...\n";
+//    printArray(pile, n);
+//
+//    int removed = 0;
+//    for (int j = 0; j < mp.size() - 1; j++) {
+//        if(abs(pile[j].value-pile[j+1].value)){
+//
+//        }
+//    }
 //}
 //
 //int32_t main() {
@@ -22,14 +69,24 @@
 //    int t;
 //    cin >> t;
 //    while (t--) {
-//        solve();
+//        int n, k;
+//        cin >> n >> k;
+//        int arr[n];
+//        for (int i = 0; i < n; i++) {
+//            cin >> arr[i];
+//        }
+//        cout << solve(arr, n, k) << '\n';
 //    }
 //    return 0;
 //}
 //
 ///*
 //INPUT:
-//
+//2
+//4 0
+//2 2 2 2
+//6 3
+//1 5 1 2 5 1
 //
 //OUTPUT:
 //

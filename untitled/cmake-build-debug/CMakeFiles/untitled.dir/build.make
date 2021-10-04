@@ -4301,6 +4301,110 @@ CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\stock_buy_and_sell.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\stock_buy_and_sell.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj: ../DSA/GREEDY/police_and_thieves.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\police_and_thieves.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\police_and_thieves.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\police_and_thieves.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\police_and_thieves.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\police_and_thieves.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\police_and_thieves.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj: ../DSA/GREEDY/shop_in_candy_store.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\shop_in_candy_store.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\shop_in_candy_store.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\shop_in_candy_store.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\shop_in_candy_store.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\shop_in_candy_store.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\shop_in_candy_store.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: ../DSA/GREEDY/maximize_sum_after_k_negations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\maximize_sum_after_k_negations.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\maximize_sum_after_k_negations.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\maximize_sum_after_k_negations.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\maximize_sum_after_k_negations.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\maximize_sum_after_k_negations.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\maximize_sum_after_k_negations.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj: ../DSA/GREEDY/buy_maximum_stocks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\buy_maximum_stocks.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\buy_maximum_stocks.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\buy_maximum_stocks.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\buy_maximum_stocks.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\buy_maximum_stocks.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\buy_maximum_stocks.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: ../DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: ../DSA/GREEDY/survive_on_island.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\survive_on_island.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\survive_on_island.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\survive_on_island.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\survive_on_island.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\survive_on_island.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\survive_on_island.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: ../DSA/GREEDY/min_cost_of_ropes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_of_ropes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_of_ropes.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_of_ropes.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_of_ropes.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_of_ropes.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_of_ropes.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj: ../DSA/GREEDY/max_equal_sum_of_three_stacks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4627,7 +4731,15 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -4957,11 +5069,19 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

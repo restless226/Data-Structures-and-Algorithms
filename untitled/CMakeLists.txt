@@ -162,6 +162,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/RECURSION/handshakes.cpp DSA/GREEDY/fractional_knapsack.cpp DSA/GREEDY/job_sequencing.cpp
         DSA/GREEDY/n_meetings_in_one_room.cpp DSA/GREEDY/minimum_platforms.cpp
         DSA/GREEDY/activity_selection.cpp DSA/GREEDY/jump_game.cpp DSA/DP/unbounded_knapsack/min_coin.cpp
-        DSA/GREEDY/choose_and_swap.cpp DSA/GREEDY/stock_buy_and_sell.cpp)
+        DSA/GREEDY/choose_and_swap.cpp DSA/GREEDY/stock_buy_and_sell.cpp DSA/GREEDY/police_and_thieves.cpp
+        DSA/GREEDY/shop_in_candy_store.cpp DSA/GREEDY/maximize_sum_after_k_negations.cpp
+        DSA/GREEDY/buy_maximum_stocks.cpp DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
+        DSA/GREEDY/survive_on_island.cpp DSA/GREEDY/min_cost_of_ropes.cpp DSA/GREEDY/max_equal_sum_of_three_stacks.cpp)
 
 

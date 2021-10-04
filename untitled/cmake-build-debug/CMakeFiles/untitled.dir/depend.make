@@ -227,6 +227,8 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 
+CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj: ../DSA/GREEDY/buy_maximum_stocks.cpp
+
 CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: ../DSA/GREEDY/choose_and_swap.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: ../DSA/GREEDY/fractional_knapsack.cpp
@@ -235,11 +237,25 @@ CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: ../DSA/GREEDY/job_seq
 
 CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: ../DSA/GREEDY/jump_game.cpp
 
+CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj: ../DSA/GREEDY/max_equal_sum_of_three_stacks.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: ../DSA/GREEDY/maximize_sum_after_k_negations.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: ../DSA/GREEDY/min_cost_of_ropes.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: ../DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
+
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: ../DSA/GREEDY/minimum_platforms.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: ../DSA/GREEDY/n_meetings_in_one_room.cpp
 
+CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj: ../DSA/GREEDY/police_and_thieves.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj: ../DSA/GREEDY/shop_in_candy_store.cpp
+
 CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: ../DSA/GREEDY/stock_buy_and_sell.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: ../DSA/GREEDY/survive_on_island.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
 

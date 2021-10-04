@@ -3274,6 +3274,33 @@ DSA/GREEDY/activity_selection.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s
 .PHONY : DSA/GREEDY/activity_selection.cpp.s
 
+DSA/GREEDY/buy_maximum_stocks.obj: DSA/GREEDY/buy_maximum_stocks.cpp.obj
+
+.PHONY : DSA/GREEDY/buy_maximum_stocks.obj
+
+# target to build an object file
+DSA/GREEDY/buy_maximum_stocks.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj
+.PHONY : DSA/GREEDY/buy_maximum_stocks.cpp.obj
+
+DSA/GREEDY/buy_maximum_stocks.i: DSA/GREEDY/buy_maximum_stocks.cpp.i
+
+.PHONY : DSA/GREEDY/buy_maximum_stocks.i
+
+# target to preprocess a source file
+DSA/GREEDY/buy_maximum_stocks.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.i
+.PHONY : DSA/GREEDY/buy_maximum_stocks.cpp.i
+
+DSA/GREEDY/buy_maximum_stocks.s: DSA/GREEDY/buy_maximum_stocks.cpp.s
+
+.PHONY : DSA/GREEDY/buy_maximum_stocks.s
+
+# target to generate assembly for a file
+DSA/GREEDY/buy_maximum_stocks.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.s
+.PHONY : DSA/GREEDY/buy_maximum_stocks.cpp.s
+
 DSA/GREEDY/choose_and_swap.obj: DSA/GREEDY/choose_and_swap.cpp.obj
 
 .PHONY : DSA/GREEDY/choose_and_swap.obj
@@ -3382,6 +3409,114 @@ DSA/GREEDY/jump_game.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.s
 .PHONY : DSA/GREEDY/jump_game.cpp.s
 
+DSA/GREEDY/max_equal_sum_of_three_stacks.obj: DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj
+
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.obj
+
+# target to build an object file
+DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj
+
+DSA/GREEDY/max_equal_sum_of_three_stacks.i: DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i
+
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.i
+
+# target to preprocess a source file
+DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i
+
+DSA/GREEDY/max_equal_sum_of_three_stacks.s: DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s
+
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.s
+
+# target to generate assembly for a file
+DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s
+.PHONY : DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s
+
+DSA/GREEDY/maximize_sum_after_k_negations.obj: DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj
+
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.obj
+
+# target to build an object file
+DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj
+
+DSA/GREEDY/maximize_sum_after_k_negations.i: DSA/GREEDY/maximize_sum_after_k_negations.cpp.i
+
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.i
+
+# target to preprocess a source file
+DSA/GREEDY/maximize_sum_after_k_negations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.i
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.cpp.i
+
+DSA/GREEDY/maximize_sum_after_k_negations.s: DSA/GREEDY/maximize_sum_after_k_negations.cpp.s
+
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.s
+
+# target to generate assembly for a file
+DSA/GREEDY/maximize_sum_after_k_negations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.s
+.PHONY : DSA/GREEDY/maximize_sum_after_k_negations.cpp.s
+
+DSA/GREEDY/min_cost_of_ropes.obj: DSA/GREEDY/min_cost_of_ropes.cpp.obj
+
+.PHONY : DSA/GREEDY/min_cost_of_ropes.obj
+
+# target to build an object file
+DSA/GREEDY/min_cost_of_ropes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj
+.PHONY : DSA/GREEDY/min_cost_of_ropes.cpp.obj
+
+DSA/GREEDY/min_cost_of_ropes.i: DSA/GREEDY/min_cost_of_ropes.cpp.i
+
+.PHONY : DSA/GREEDY/min_cost_of_ropes.i
+
+# target to preprocess a source file
+DSA/GREEDY/min_cost_of_ropes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.i
+.PHONY : DSA/GREEDY/min_cost_of_ropes.cpp.i
+
+DSA/GREEDY/min_cost_of_ropes.s: DSA/GREEDY/min_cost_of_ropes.cpp.s
+
+.PHONY : DSA/GREEDY/min_cost_of_ropes.s
+
+# target to generate assembly for a file
+DSA/GREEDY/min_cost_of_ropes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.s
+.PHONY : DSA/GREEDY/min_cost_of_ropes.cpp.s
+
+DSA/GREEDY/min_cost_to_cut_board_into_squares.obj: DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj
+
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.obj
+
+# target to build an object file
+DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj
+
+DSA/GREEDY/min_cost_to_cut_board_into_squares.i: DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i
+
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.i
+
+# target to preprocess a source file
+DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i
+
+DSA/GREEDY/min_cost_to_cut_board_into_squares.s: DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s
+
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.s
+
+# target to generate assembly for a file
+DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s
+.PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s
+
 DSA/GREEDY/minimum_platforms.obj: DSA/GREEDY/minimum_platforms.cpp.obj
 
 .PHONY : DSA/GREEDY/minimum_platforms.obj
@@ -3436,6 +3571,60 @@ DSA/GREEDY/n_meetings_in_one_room.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s
 .PHONY : DSA/GREEDY/n_meetings_in_one_room.cpp.s
 
+DSA/GREEDY/police_and_thieves.obj: DSA/GREEDY/police_and_thieves.cpp.obj
+
+.PHONY : DSA/GREEDY/police_and_thieves.obj
+
+# target to build an object file
+DSA/GREEDY/police_and_thieves.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj
+.PHONY : DSA/GREEDY/police_and_thieves.cpp.obj
+
+DSA/GREEDY/police_and_thieves.i: DSA/GREEDY/police_and_thieves.cpp.i
+
+.PHONY : DSA/GREEDY/police_and_thieves.i
+
+# target to preprocess a source file
+DSA/GREEDY/police_and_thieves.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.i
+.PHONY : DSA/GREEDY/police_and_thieves.cpp.i
+
+DSA/GREEDY/police_and_thieves.s: DSA/GREEDY/police_and_thieves.cpp.s
+
+.PHONY : DSA/GREEDY/police_and_thieves.s
+
+# target to generate assembly for a file
+DSA/GREEDY/police_and_thieves.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.s
+.PHONY : DSA/GREEDY/police_and_thieves.cpp.s
+
+DSA/GREEDY/shop_in_candy_store.obj: DSA/GREEDY/shop_in_candy_store.cpp.obj
+
+.PHONY : DSA/GREEDY/shop_in_candy_store.obj
+
+# target to build an object file
+DSA/GREEDY/shop_in_candy_store.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj
+.PHONY : DSA/GREEDY/shop_in_candy_store.cpp.obj
+
+DSA/GREEDY/shop_in_candy_store.i: DSA/GREEDY/shop_in_candy_store.cpp.i
+
+.PHONY : DSA/GREEDY/shop_in_candy_store.i
+
+# target to preprocess a source file
+DSA/GREEDY/shop_in_candy_store.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.i
+.PHONY : DSA/GREEDY/shop_in_candy_store.cpp.i
+
+DSA/GREEDY/shop_in_candy_store.s: DSA/GREEDY/shop_in_candy_store.cpp.s
+
+.PHONY : DSA/GREEDY/shop_in_candy_store.s
+
+# target to generate assembly for a file
+DSA/GREEDY/shop_in_candy_store.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.s
+.PHONY : DSA/GREEDY/shop_in_candy_store.cpp.s
+
 DSA/GREEDY/stock_buy_and_sell.obj: DSA/GREEDY/stock_buy_and_sell.cpp.obj
 
 .PHONY : DSA/GREEDY/stock_buy_and_sell.obj
@@ -3462,6 +3651,33 @@ DSA/GREEDY/stock_buy_and_sell.s: DSA/GREEDY/stock_buy_and_sell.cpp.s
 DSA/GREEDY/stock_buy_and_sell.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s
 .PHONY : DSA/GREEDY/stock_buy_and_sell.cpp.s
+
+DSA/GREEDY/survive_on_island.obj: DSA/GREEDY/survive_on_island.cpp.obj
+
+.PHONY : DSA/GREEDY/survive_on_island.obj
+
+# target to build an object file
+DSA/GREEDY/survive_on_island.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj
+.PHONY : DSA/GREEDY/survive_on_island.cpp.obj
+
+DSA/GREEDY/survive_on_island.i: DSA/GREEDY/survive_on_island.cpp.i
+
+.PHONY : DSA/GREEDY/survive_on_island.i
+
+# target to preprocess a source file
+DSA/GREEDY/survive_on_island.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.i
+.PHONY : DSA/GREEDY/survive_on_island.cpp.i
+
+DSA/GREEDY/survive_on_island.s: DSA/GREEDY/survive_on_island.cpp.s
+
+.PHONY : DSA/GREEDY/survive_on_island.s
+
+# target to generate assembly for a file
+DSA/GREEDY/survive_on_island.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.s
+.PHONY : DSA/GREEDY/survive_on_island.cpp.s
 
 DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
 
@@ -9274,6 +9490,9 @@ help:
 	@echo ... DSA/GREEDY/activity_selection.obj
 	@echo ... DSA/GREEDY/activity_selection.i
 	@echo ... DSA/GREEDY/activity_selection.s
+	@echo ... DSA/GREEDY/buy_maximum_stocks.obj
+	@echo ... DSA/GREEDY/buy_maximum_stocks.i
+	@echo ... DSA/GREEDY/buy_maximum_stocks.s
 	@echo ... DSA/GREEDY/choose_and_swap.obj
 	@echo ... DSA/GREEDY/choose_and_swap.i
 	@echo ... DSA/GREEDY/choose_and_swap.s
@@ -9286,15 +9505,36 @@ help:
 	@echo ... DSA/GREEDY/jump_game.obj
 	@echo ... DSA/GREEDY/jump_game.i
 	@echo ... DSA/GREEDY/jump_game.s
+	@echo ... DSA/GREEDY/max_equal_sum_of_three_stacks.obj
+	@echo ... DSA/GREEDY/max_equal_sum_of_three_stacks.i
+	@echo ... DSA/GREEDY/max_equal_sum_of_three_stacks.s
+	@echo ... DSA/GREEDY/maximize_sum_after_k_negations.obj
+	@echo ... DSA/GREEDY/maximize_sum_after_k_negations.i
+	@echo ... DSA/GREEDY/maximize_sum_after_k_negations.s
+	@echo ... DSA/GREEDY/min_cost_of_ropes.obj
+	@echo ... DSA/GREEDY/min_cost_of_ropes.i
+	@echo ... DSA/GREEDY/min_cost_of_ropes.s
+	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.obj
+	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.i
+	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.s
 	@echo ... DSA/GREEDY/minimum_platforms.obj
 	@echo ... DSA/GREEDY/minimum_platforms.i
 	@echo ... DSA/GREEDY/minimum_platforms.s
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.obj
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.i
 	@echo ... DSA/GREEDY/n_meetings_in_one_room.s
+	@echo ... DSA/GREEDY/police_and_thieves.obj
+	@echo ... DSA/GREEDY/police_and_thieves.i
+	@echo ... DSA/GREEDY/police_and_thieves.s
+	@echo ... DSA/GREEDY/shop_in_candy_store.obj
+	@echo ... DSA/GREEDY/shop_in_candy_store.i
+	@echo ... DSA/GREEDY/shop_in_candy_store.s
 	@echo ... DSA/GREEDY/stock_buy_and_sell.obj
 	@echo ... DSA/GREEDY/stock_buy_and_sell.i
 	@echo ... DSA/GREEDY/stock_buy_and_sell.s
+	@echo ... DSA/GREEDY/survive_on_island.obj
+	@echo ... DSA/GREEDY/survive_on_island.i
+	@echo ... DSA/GREEDY/survive_on_island.s
 	@echo ... DSA/HEAP/heap_main.obj
 	@echo ... DSA/HEAP/heap_main.i
 	@echo ... DSA/HEAP/heap_main.s
