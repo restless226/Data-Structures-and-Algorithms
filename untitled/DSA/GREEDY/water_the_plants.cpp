@@ -15,8 +15,53 @@
 //#define int long long
 //using namespace std;
 //
-//int solve(int gallery[], int n) {
+//void print_array(vector<pair<int, int>> sprinkler, int n) {
+//    cout << "start : ";
+//    for (int i = 0; i < n; i++) {
+//        cout << sprinkler[i].first << " ";
+//    }
+//    cout << '\n';
 //
+//    cout << "end :   ";
+//    for (int i = 0; i < n; i++) {
+//        cout << sprinkler[i].second << " ";
+//    }
+//    cout << '\n';
+//}
+//
+//int solve(int gallery[], int n) {
+//    vector<pair<int, int>> sprinkler;
+//    for (int i = 0; i < n; i++) {
+//        if (gallery[i] > -1) {
+//            sprinkler.emplace_back(i - gallery[i], i + gallery[i]);
+//        }
+//    }
+//    cout << "\nSPRINKLER ARRAY BEFORE...\n";
+//    print_array(sprinkler, sprinkler.size());
+//    sort(sprinkler.begin(), sprinkler.end());
+//    cout << "\nSPRINKLER ARRAY AFTER...\n";
+//    print_array(sprinkler, sprinkler.size());
+//    int max_left = 0;    // stores leftmost range of a sprinkler
+//    int max_right = 0;   // stores rightmost range of a sprinkler
+//    int ans = 0;
+//    while (max_right < n) {
+//        if (max_left == sprinkler.size() || sprinkler[max_left].first > max_right) {
+//            return -1;
+//        }
+//        // stores the rightmost boundary of current sprinkler
+//        int max_range = sprinkler[max_left].second;
+//        while (max_left + 1 < sprinkler.size() && sprinkler[max_left + 1].first <= max_right) {
+//            max_left++;
+//            max_range = max(max_range, sprinkler[max_left].second);
+//        }
+//        if (max_range < max_right) {
+//            return -1;
+//        }
+//        ans++;
+//        max_right = max_range + 1;
+//        max_left++;
+//    }
+//    return ans;
 //}
 //
 //int32_t main() {
@@ -46,6 +91,32 @@
 //9
 //2 3 4 -1 2 0 0 -1 0
 //
-//OUTPUT:
 //
+//OUTPUT:
+//SPRINKLER ARRAY BEFORE...
+//start : -1 1 -2 1 4 -1 4 3
+//end :   1 1 6 5 4 11 8 11
+//
+//SPRINKLER ARRAY AFTER...
+//start : -2 -1 -1 1 1 3 4 4
+//end :   6 1 11 1 5 11 4 8
+//1
+//
+//SPRINKLER ARRAY BEFORE...
+//start : -1 0 4 5
+//end :   3 4 4 5
+//
+//SPRINKLER ARRAY AFTER...
+//start : -1 0 4 5
+//end :   3 4 4 5
+//2
+//
+//SPRINKLER ARRAY BEFORE...
+//start : -2 -2 -2 2 5 6 8
+//end :   2 4 6 6 5 6 8
+//
+//SPRINKLER ARRAY AFTER...
+//start : -2 -2 -2 2 5 6 8
+//end :   2 4 6 6 5 6 8
+//-1
 //*/

@@ -142,6 +142,33 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+DAA_ASSIGNMENTS/bellman_ford.obj: DAA_ASSIGNMENTS/bellman_ford.cpp.obj
+
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.obj
+
+# target to build an object file
+DAA_ASSIGNMENTS/bellman_ford.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.cpp.obj
+
+DAA_ASSIGNMENTS/bellman_ford.i: DAA_ASSIGNMENTS/bellman_ford.cpp.i
+
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.i
+
+# target to preprocess a source file
+DAA_ASSIGNMENTS/bellman_ford.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.i
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.cpp.i
+
+DAA_ASSIGNMENTS/bellman_ford.s: DAA_ASSIGNMENTS/bellman_ford.cpp.s
+
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.s
+
+# target to generate assembly for a file
+DAA_ASSIGNMENTS/bellman_ford.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.s
+.PHONY : DAA_ASSIGNMENTS/bellman_ford.cpp.s
+
 DAA_ASSIGNMENTS/file_handling.obj: DAA_ASSIGNMENTS/file_handling.cpp.obj
 
 .PHONY : DAA_ASSIGNMENTS/file_handling.obj
@@ -978,6 +1005,33 @@ DSA/BINARY_SEARCH/smallest_factorial_no.s: DSA/BINARY_SEARCH/smallest_factorial_
 DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
 .PHONY : DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
+
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj: DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj
+
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj
+
+# target to build an object file
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj
+
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.i: DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i
+
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.i
+
+# target to preprocess a source file
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i
+
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.s: DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s
+
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.s
+
+# target to generate assembly for a file
+DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s
+.PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s
 
 DSA/DEQUEUE/deque2.obj: DSA/DEQUEUE/deque2.cpp.obj
 
@@ -3328,6 +3382,33 @@ DSA/GREEDY/choose_and_swap.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.s
 .PHONY : DSA/GREEDY/choose_and_swap.cpp.s
 
+DSA/GREEDY/coin_piles.obj: DSA/GREEDY/coin_piles.cpp.obj
+
+.PHONY : DSA/GREEDY/coin_piles.obj
+
+# target to build an object file
+DSA/GREEDY/coin_piles.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj
+.PHONY : DSA/GREEDY/coin_piles.cpp.obj
+
+DSA/GREEDY/coin_piles.i: DSA/GREEDY/coin_piles.cpp.i
+
+.PHONY : DSA/GREEDY/coin_piles.i
+
+# target to preprocess a source file
+DSA/GREEDY/coin_piles.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.i
+.PHONY : DSA/GREEDY/coin_piles.cpp.i
+
+DSA/GREEDY/coin_piles.s: DSA/GREEDY/coin_piles.cpp.s
+
+.PHONY : DSA/GREEDY/coin_piles.s
+
+# target to generate assembly for a file
+DSA/GREEDY/coin_piles.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.s
+.PHONY : DSA/GREEDY/coin_piles.cpp.s
+
 DSA/GREEDY/fractional_knapsack.obj: DSA/GREEDY/fractional_knapsack.cpp.obj
 
 .PHONY : DSA/GREEDY/fractional_knapsack.obj
@@ -3678,6 +3759,33 @@ DSA/GREEDY/survive_on_island.s: DSA/GREEDY/survive_on_island.cpp.s
 DSA/GREEDY/survive_on_island.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.s
 .PHONY : DSA/GREEDY/survive_on_island.cpp.s
+
+DSA/GREEDY/water_the_plants.obj: DSA/GREEDY/water_the_plants.cpp.obj
+
+.PHONY : DSA/GREEDY/water_the_plants.obj
+
+# target to build an object file
+DSA/GREEDY/water_the_plants.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj
+.PHONY : DSA/GREEDY/water_the_plants.cpp.obj
+
+DSA/GREEDY/water_the_plants.i: DSA/GREEDY/water_the_plants.cpp.i
+
+.PHONY : DSA/GREEDY/water_the_plants.i
+
+# target to preprocess a source file
+DSA/GREEDY/water_the_plants.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.i
+.PHONY : DSA/GREEDY/water_the_plants.cpp.i
+
+DSA/GREEDY/water_the_plants.s: DSA/GREEDY/water_the_plants.cpp.s
+
+.PHONY : DSA/GREEDY/water_the_plants.s
+
+# target to generate assembly for a file
+DSA/GREEDY/water_the_plants.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.s
+.PHONY : DSA/GREEDY/water_the_plants.cpp.s
 
 DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
 
@@ -9142,6 +9250,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled
+	@echo ... DAA_ASSIGNMENTS/bellman_ford.obj
+	@echo ... DAA_ASSIGNMENTS/bellman_ford.i
+	@echo ... DAA_ASSIGNMENTS/bellman_ford.s
 	@echo ... DAA_ASSIGNMENTS/file_handling.obj
 	@echo ... DAA_ASSIGNMENTS/file_handling.i
 	@echo ... DAA_ASSIGNMENTS/file_handling.s
@@ -9235,6 +9346,9 @@ help:
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.obj
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.i
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.s
+	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj
+	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.i
+	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.s
 	@echo ... DSA/DEQUEUE/deque2.obj
 	@echo ... DSA/DEQUEUE/deque2.i
 	@echo ... DSA/DEQUEUE/deque2.s
@@ -9496,6 +9610,9 @@ help:
 	@echo ... DSA/GREEDY/choose_and_swap.obj
 	@echo ... DSA/GREEDY/choose_and_swap.i
 	@echo ... DSA/GREEDY/choose_and_swap.s
+	@echo ... DSA/GREEDY/coin_piles.obj
+	@echo ... DSA/GREEDY/coin_piles.i
+	@echo ... DSA/GREEDY/coin_piles.s
 	@echo ... DSA/GREEDY/fractional_knapsack.obj
 	@echo ... DSA/GREEDY/fractional_knapsack.i
 	@echo ... DSA/GREEDY/fractional_knapsack.s
@@ -9535,6 +9652,9 @@ help:
 	@echo ... DSA/GREEDY/survive_on_island.obj
 	@echo ... DSA/GREEDY/survive_on_island.i
 	@echo ... DSA/GREEDY/survive_on_island.s
+	@echo ... DSA/GREEDY/water_the_plants.obj
+	@echo ... DSA/GREEDY/water_the_plants.i
+	@echo ... DSA/GREEDY/water_the_plants.s
 	@echo ... DSA/HEAP/heap_main.obj
 	@echo ... DSA/HEAP/heap_main.i
 	@echo ... DSA/HEAP/heap_main.s

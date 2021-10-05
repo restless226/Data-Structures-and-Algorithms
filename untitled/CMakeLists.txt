@@ -165,6 +165,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GREEDY/choose_and_swap.cpp DSA/GREEDY/stock_buy_and_sell.cpp DSA/GREEDY/police_and_thieves.cpp
         DSA/GREEDY/shop_in_candy_store.cpp DSA/GREEDY/maximize_sum_after_k_negations.cpp
         DSA/GREEDY/buy_maximum_stocks.cpp DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
-        DSA/GREEDY/survive_on_island.cpp DSA/GREEDY/min_cost_of_ropes.cpp DSA/GREEDY/max_equal_sum_of_three_stacks.cpp)
+        DSA/GREEDY/survive_on_island.cpp DSA/GREEDY/min_cost_of_ropes.cpp DSA/GREEDY/max_equal_sum_of_three_stacks.cpp
+        DSA/GREEDY/water_the_plants.cpp DSA/GREEDY/coin_piles.cpp DAA_ASSIGNMENTS/bellman_ford.cpp
+        DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp)
 
 

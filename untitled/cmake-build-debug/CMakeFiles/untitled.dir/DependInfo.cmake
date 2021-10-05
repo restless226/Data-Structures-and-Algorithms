@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/bellman_ford.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/file_handling.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/file_handling.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/knapsack_01.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj"
@@ -35,6 +36,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/smallest_factorial_no.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_all_possible_paths.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_all_possible_paths.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_no_of_substrings.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_no_of_substrings.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj"
@@ -119,6 +121,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/activity_selection.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/buy_maximum_stocks.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/choose_and_swap.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/coin_piles.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/fractional_knapsack.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/job_sequencing.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/jump_game.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj"
@@ -132,6 +135,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/shop_in_candy_store.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/stock_buy_and_sell.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/survive_on_island.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/water_the_plants.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_main.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_use.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj"

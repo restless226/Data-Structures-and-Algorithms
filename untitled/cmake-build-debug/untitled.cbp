@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/bellman_ford.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/file_handling.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -171,6 +174,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/smallest_factorial_no.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/deque2.cpp">
@@ -434,6 +440,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/choose_and_swap.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/coin_piles.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/fractional_knapsack.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -471,6 +480,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/survive_on_island.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/water_the_plants.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap.h">

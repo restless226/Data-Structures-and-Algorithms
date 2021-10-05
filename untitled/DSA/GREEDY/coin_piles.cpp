@@ -23,7 +23,7 @@
 //    }
 //    cout << '\n';
 //
-//    cout << "quantity :   ";
+//    cout << "quantity : ";
 //    for (int i = 0; i < n; i++) {
 //        cout << pile[i].quantity << " ";
 //    }
@@ -34,11 +34,13 @@
 //    return pile1.quantity > pile2.quantity ? true : false;
 //}
 //
-////TODO
 //int solve(int arr[], int n, int k) {
 //    unordered_map<int, int> mp;
 //    for (int i = 0; i < n; i++) {
 //        mp[arr[i]]++;
+//    }
+//    if(mp.size()==1){
+//        return 0;
 //    }
 //    Pile pile[mp.size()];
 //    int i = 0;
@@ -49,16 +51,13 @@
 //    }
 //
 //    cout << "\nPILE ARRAY BEFORE...\n";
-//    printArray(pile, n);
-//    sort(pile, pile + n, cmp);
+//    printArray(pile, mp.size());
+//    sort(pile, pile + mp.size(), cmp);
 //    cout << "\nPILE ARRAY AFTER...\n";
-//    printArray(pile, n);
+//    printArray(pile, mp.size());
 //
-//    int removed = 0;
-//    for (int j = 0; j < mp.size() - 1; j++) {
-//        if(abs(pile[j].value-pile[j+1].value)){
+//    for (int j = 0; j < n; j++) {
 //
-//        }
 //    }
 //}
 //

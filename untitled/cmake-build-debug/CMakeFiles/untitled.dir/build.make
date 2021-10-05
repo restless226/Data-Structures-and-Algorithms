@@ -4405,6 +4405,58 @@ CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj: ../DSA/GREEDY/water_the_plants.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\water_the_plants.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\water_the_plants.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\water_the_plants.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\water_the_plants.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\water_the_plants.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\water_the_plants.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj: ../DSA/GREEDY/coin_piles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\coin_piles.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\coin_piles.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\coin_piles.cpp > CMakeFiles\untitled.dir\DSA\GREEDY\coin_piles.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\coin_piles.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\coin_piles.cpp.s
+
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: ../DAA_ASSIGNMENTS/bellman_ford.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\bellman_ford.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\bellman_ford.cpp
+
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\bellman_ford.cpp > CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\bellman_ford.cpp.i
+
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\bellman_ford.cpp -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\bellman_ford.cpp.s
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp > CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp.i
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4739,7 +4791,11 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj" \
+"CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -5077,11 +5133,15 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squa
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

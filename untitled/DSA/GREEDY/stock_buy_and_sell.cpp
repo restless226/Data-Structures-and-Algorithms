@@ -12,9 +12,14 @@
 //#define int long long
 //using namespace std;
 //
-//
-//vector<vector<int>> solve(vector<int> stock, int n) {
-//
+//vector<vector<int>> solve(vector<int> &stock, int n) {
+//    vector<vector<int>> ans;
+//    for (int i = 1; i < n; i++) {
+//        if (stock[i] > stock[i - 1]) {
+//            ans.push_back({i - 1, i});
+//        }
+//    }
+//    return ans;
 //}
 //
 //int check(vector<vector<int>> ans, vector<int> stock, int p) {
@@ -56,8 +61,13 @@
 //
 ///*
 //INPUT:
-//
+//2
+//7
+//100 180 260 310 40 535 695
+//5
+//4 2 2 2 4
 //
 //OUTPUT:
-//
+//1
+//1
 //*/
