@@ -302,10 +302,16 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/box_stacking.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/friends_pairing.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/interleaved_strings.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/lap.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/las.cpp">
@@ -341,7 +347,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/pascal_triangle.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/total_decoding_messages.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp">
@@ -368,6 +380,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/bounded_knapsack/subset_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/bounded_knapsack/target_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -378,6 +393,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/min_coin.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/unbounded_knapsack/rod_cutting.cpp">
@@ -552,6 +570,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/combination_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/RECURSION/delete_middle_element_of_stack.cpp">
@@ -1127,9 +1148,6 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/OLD/HackerRank/reverse_LL.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/main.cpp">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough1.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1143,6 +1161,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough5.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/ROUGH_FILES/rough6.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/algorithmic_toolbox">

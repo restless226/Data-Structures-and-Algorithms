@@ -2140,6 +2140,33 @@ DSA/DP/TECH_DOSE/box_stacking.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/box_stacking.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/box_stacking.cpp.s
 
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.obj: DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj
+
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.i: DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.i
+
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.s: DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s
+
 DSA/DP/TECH_DOSE/friends_pairing.obj: DSA/DP/TECH_DOSE/friends_pairing.cpp.obj
 
 .PHONY : DSA/DP/TECH_DOSE/friends_pairing.obj
@@ -2193,6 +2220,33 @@ DSA/DP/TECH_DOSE/interleaved_strings.s: DSA/DP/TECH_DOSE/interleaved_strings.cpp
 DSA/DP/TECH_DOSE/interleaved_strings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/interleaved_strings.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/interleaved_strings.cpp.s
+
+DSA/DP/TECH_DOSE/lap.obj: DSA/DP/TECH_DOSE/lap.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/lap.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/lap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/lap.cpp.obj
+
+DSA/DP/TECH_DOSE/lap.i: DSA/DP/TECH_DOSE/lap.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/lap.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/lap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/lap.cpp.i
+
+DSA/DP/TECH_DOSE/lap.s: DSA/DP/TECH_DOSE/lap.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/lap.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/lap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/lap.cpp.s
 
 DSA/DP/TECH_DOSE/las.obj: DSA/DP/TECH_DOSE/las.cpp.obj
 
@@ -2491,6 +2545,33 @@ DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.s
 
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.obj: DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj
+
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.i: DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.i
+
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.s: DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s
+
 DSA/DP/TECH_DOSE/pascal_triangle.obj: DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj
 
 .PHONY : DSA/DP/TECH_DOSE/pascal_triangle.obj
@@ -2517,6 +2598,33 @@ DSA/DP/TECH_DOSE/pascal_triangle.s: DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
 DSA/DP/TECH_DOSE/pascal_triangle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/pascal_triangle.cpp.s
+
+DSA/DP/TECH_DOSE/total_decoding_messages.obj: DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj
+
+DSA/DP/TECH_DOSE/total_decoding_messages.i: DSA/DP/TECH_DOSE/total_decoding_messages.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/total_decoding_messages.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.cpp.i
+
+DSA/DP/TECH_DOSE/total_decoding_messages.s: DSA/DP/TECH_DOSE/total_decoding_messages.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/total_decoding_messages.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/total_decoding_messages.cpp.s
 
 DSA/DP/TECH_DOSE/wildcard_pattern_matching.obj: DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj
 
@@ -2734,6 +2842,33 @@ DSA/DP/bounded_knapsack/subset_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.s
 .PHONY : DSA/DP/bounded_knapsack/subset_sum.cpp.s
 
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.obj: DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj
+
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.obj
+
+# target to build an object file
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj
+
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.i: DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.i
+
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.i
+
+# target to preprocess a source file
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.i
+
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.s: DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.s
+
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.s
+
+# target to generate assembly for a file
+DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.s
+
 DSA/DP/bounded_knapsack/target_sum.obj: DSA/DP/bounded_knapsack/target_sum.cpp.obj
 
 .PHONY : DSA/DP/bounded_knapsack/target_sum.obj
@@ -2841,6 +2976,33 @@ DSA/DP/unbounded_knapsack/min_coin.s: DSA/DP/unbounded_knapsack/min_coin.cpp.s
 DSA/DP/unbounded_knapsack/min_coin.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.s
 .PHONY : DSA/DP/unbounded_knapsack/min_coin.cpp.s
+
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.obj: DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj
+
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.obj
+
+# target to build an object file
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj
+
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.i: DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.i
+
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.i
+
+# target to preprocess a source file
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.i
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.i
+
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.s: DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s
+
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.s
+
+# target to generate assembly for a file
+DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s
+.PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s
 
 DSA/DP/unbounded_knapsack/rod_cutting.obj: DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj
 
@@ -4299,6 +4461,33 @@ DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s: DSA/RE
 DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s
 .PHONY : DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.s
+
+DSA/RECURSION/combination_sum.obj: DSA/RECURSION/combination_sum.cpp.obj
+
+.PHONY : DSA/RECURSION/combination_sum.obj
+
+# target to build an object file
+DSA/RECURSION/combination_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.obj
+.PHONY : DSA/RECURSION/combination_sum.cpp.obj
+
+DSA/RECURSION/combination_sum.i: DSA/RECURSION/combination_sum.cpp.i
+
+.PHONY : DSA/RECURSION/combination_sum.i
+
+# target to preprocess a source file
+DSA/RECURSION/combination_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.i
+.PHONY : DSA/RECURSION/combination_sum.cpp.i
+
+DSA/RECURSION/combination_sum.s: DSA/RECURSION/combination_sum.cpp.s
+
+.PHONY : DSA/RECURSION/combination_sum.s
+
+# target to generate assembly for a file
+DSA/RECURSION/combination_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.s
+.PHONY : DSA/RECURSION/combination_sum.cpp.s
 
 DSA/RECURSION/delete_middle_element_of_stack.obj: DSA/RECURSION/delete_middle_element_of_stack.cpp.obj
 
@@ -8917,33 +9106,6 @@ OLD/HackerRank/reverse_LL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.s
 .PHONY : OLD/HackerRank/reverse_LL.cpp.s
 
-ROUGH_FILES/main.obj: ROUGH_FILES/main.cpp.obj
-
-.PHONY : ROUGH_FILES/main.obj
-
-# target to build an object file
-ROUGH_FILES/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.obj
-.PHONY : ROUGH_FILES/main.cpp.obj
-
-ROUGH_FILES/main.i: ROUGH_FILES/main.cpp.i
-
-.PHONY : ROUGH_FILES/main.i
-
-# target to preprocess a source file
-ROUGH_FILES/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.i
-.PHONY : ROUGH_FILES/main.cpp.i
-
-ROUGH_FILES/main.s: ROUGH_FILES/main.cpp.s
-
-.PHONY : ROUGH_FILES/main.s
-
-# target to generate assembly for a file
-ROUGH_FILES/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/main.cpp.s
-.PHONY : ROUGH_FILES/main.cpp.s
-
 ROUGH_FILES/rough1.obj: ROUGH_FILES/rough1.cpp.obj
 
 .PHONY : ROUGH_FILES/rough1.obj
@@ -9078,6 +9240,33 @@ ROUGH_FILES/rough5.s: ROUGH_FILES/rough5.cpp.s
 ROUGH_FILES/rough5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.s
 .PHONY : ROUGH_FILES/rough5.cpp.s
+
+ROUGH_FILES/rough6.obj: ROUGH_FILES/rough6.cpp.obj
+
+.PHONY : ROUGH_FILES/rough6.obj
+
+# target to build an object file
+ROUGH_FILES/rough6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.obj
+.PHONY : ROUGH_FILES/rough6.cpp.obj
+
+ROUGH_FILES/rough6.i: ROUGH_FILES/rough6.cpp.i
+
+.PHONY : ROUGH_FILES/rough6.i
+
+# target to preprocess a source file
+ROUGH_FILES/rough6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.i
+.PHONY : ROUGH_FILES/rough6.cpp.i
+
+ROUGH_FILES/rough6.s: ROUGH_FILES/rough6.cpp.s
+
+.PHONY : ROUGH_FILES/rough6.s
+
+# target to generate assembly for a file
+ROUGH_FILES/rough6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.s
+.PHONY : ROUGH_FILES/rough6.cpp.s
 
 algorithmic_toolbox/sum1.obj: algorithmic_toolbox/sum1.cpp.obj
 
@@ -9472,12 +9661,18 @@ help:
 	@echo ... DSA/DP/TECH_DOSE/box_stacking.obj
 	@echo ... DSA/DP/TECH_DOSE/box_stacking.i
 	@echo ... DSA/DP/TECH_DOSE/box_stacking.s
+	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.obj
+	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.i
+	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.s
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.obj
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.i
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.s
 	@echo ... DSA/DP/TECH_DOSE/interleaved_strings.obj
 	@echo ... DSA/DP/TECH_DOSE/interleaved_strings.i
 	@echo ... DSA/DP/TECH_DOSE/interleaved_strings.s
+	@echo ... DSA/DP/TECH_DOSE/lap.obj
+	@echo ... DSA/DP/TECH_DOSE/lap.i
+	@echo ... DSA/DP/TECH_DOSE/lap.s
 	@echo ... DSA/DP/TECH_DOSE/las.obj
 	@echo ... DSA/DP/TECH_DOSE/las.i
 	@echo ... DSA/DP/TECH_DOSE/las.s
@@ -9511,9 +9706,15 @@ help:
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.obj
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.i
 	@echo ... DSA/DP/TECH_DOSE/no_of_distinct_ss.s
+	@echo ... DSA/DP/TECH_DOSE/optimal_strategy_for_game.obj
+	@echo ... DSA/DP/TECH_DOSE/optimal_strategy_for_game.i
+	@echo ... DSA/DP/TECH_DOSE/optimal_strategy_for_game.s
 	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.obj
 	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.i
 	@echo ... DSA/DP/TECH_DOSE/pascal_triangle.s
+	@echo ... DSA/DP/TECH_DOSE/total_decoding_messages.obj
+	@echo ... DSA/DP/TECH_DOSE/total_decoding_messages.i
+	@echo ... DSA/DP/TECH_DOSE/total_decoding_messages.s
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.obj
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.i
 	@echo ... DSA/DP/TECH_DOSE/wildcard_pattern_matching.s
@@ -9538,6 +9739,9 @@ help:
 	@echo ... DSA/DP/bounded_knapsack/subset_sum.obj
 	@echo ... DSA/DP/bounded_knapsack/subset_sum.i
 	@echo ... DSA/DP/bounded_knapsack/subset_sum.s
+	@echo ... DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.obj
+	@echo ... DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.i
+	@echo ... DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.s
 	@echo ... DSA/DP/bounded_knapsack/target_sum.obj
 	@echo ... DSA/DP/bounded_knapsack/target_sum.i
 	@echo ... DSA/DP/bounded_knapsack/target_sum.s
@@ -9550,6 +9754,9 @@ help:
 	@echo ... DSA/DP/unbounded_knapsack/min_coin.obj
 	@echo ... DSA/DP/unbounded_knapsack/min_coin.i
 	@echo ... DSA/DP/unbounded_knapsack/min_coin.s
+	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.obj
+	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.i
+	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.s
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.obj
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.i
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.s
@@ -9712,6 +9919,9 @@ help:
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.obj
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.i
 	@echo ... DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.s
+	@echo ... DSA/RECURSION/combination_sum.obj
+	@echo ... DSA/RECURSION/combination_sum.i
+	@echo ... DSA/RECURSION/combination_sum.s
 	@echo ... DSA/RECURSION/delete_middle_element_of_stack.obj
 	@echo ... DSA/RECURSION/delete_middle_element_of_stack.i
 	@echo ... DSA/RECURSION/delete_middle_element_of_stack.s
@@ -10225,9 +10435,6 @@ help:
 	@echo ... OLD/HackerRank/reverse_LL.obj
 	@echo ... OLD/HackerRank/reverse_LL.i
 	@echo ... OLD/HackerRank/reverse_LL.s
-	@echo ... ROUGH_FILES/main.obj
-	@echo ... ROUGH_FILES/main.i
-	@echo ... ROUGH_FILES/main.s
 	@echo ... ROUGH_FILES/rough1.obj
 	@echo ... ROUGH_FILES/rough1.i
 	@echo ... ROUGH_FILES/rough1.s
@@ -10243,6 +10450,9 @@ help:
 	@echo ... ROUGH_FILES/rough5.obj
 	@echo ... ROUGH_FILES/rough5.i
 	@echo ... ROUGH_FILES/rough5.s
+	@echo ... ROUGH_FILES/rough6.obj
+	@echo ... ROUGH_FILES/rough6.i
+	@echo ... ROUGH_FILES/rough6.s
 	@echo ... algorithmic_toolbox/sum1.obj
 	@echo ... algorithmic_toolbox/sum1.i
 	@echo ... algorithmic_toolbox/sum1.s

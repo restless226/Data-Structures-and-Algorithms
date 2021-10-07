@@ -1,58 +1,68 @@
-//
-//
-//
-//// author: gary
 //#include <bits/stdc++.h>
 //
 //using namespace std;
-//typedef long long ll;
-//typedef pair<int, int> pii;
 //
-//#define ALL(x) (x).begin(), x.end()
+//vector<string> split_string(string);
 //
-//const int inf = 1e9;
-//const int maxn = 1e5 + 10;
+//void theHackathon(int n, int m, int a, int b, int f, int s, int t) {
+//    // Participant code here
+//    vector<string> ans;
+//    for (int i = 0; i < n; i++) {
 //
-//ll a[maxn];
-//ll b[maxn];
-//int T, n, m, x;
+//    }
+//
+//}
 //
 //int main() {
-//    scanf("%d", &T);
-//    while (T--) {
-//        scanf("%d%d%d", &n, &m, &x);
-//        for (int i = 1; i <= n; i++) scanf("%lld", a + i);
-//        for (int i = 1; i <= m; i++) scanf("%lld", b + i);
+//    string inputdata_temp;
+//    getline(cin, inputdata_temp);
 //
-//        for (int i = 1; i <= n; i++) {
-//            cout<<a[i]<<" ";
-//        }
-//        cout<<'\n';
-//        for (int i = 1; i <= m; i++) {
-//            cout<<b[i]<<" ";
-//        }
-//        cout<<'\n';
-//        for (int i = 1; i <= n; i++) a[i] += a[i - 1];
-//        for (int i = 1; i <= m; i++) b[i] += b[i - 1];
+//    vector<string> inputdata = split_string(inputdata_temp);
 //
-//        int res = 0;
-//        for (int i = 0, j = m; i <= n && a[i] <= x; i++) {
-//            while (a[i] + b[j] > x && j >= 1)
-//                j--;
-//            res = max(res, i + j);
-//        }
-//        printf("%d\n", res);
-//    }
+//    int n = stoi(inputdata[0]);
+//
+//    int m = stoi(inputdata[1]);
+//
+//    int a = stoi(inputdata[2]);
+//
+//    int b = stoi(inputdata[3]);
+//
+//    int f = stoi(inputdata[4]);
+//
+//    int s = stoi(inputdata[5]);
+//
+//    int t = stoi(inputdata[6]);
+//
+//    theHackathon(n, m, a, b, f, s, t);
+//
 //    return 0;
 //}
-///*
-// *
 //
-//2
-//5 4 10
-//4 2 4 6 1
-//2 1 8 5
-//3 7 3696
-//12 21 102
-//167 244 377 56 235 269 23
-//*/
+//vector<string> split_string(string input_string) {
+//    string::iterator new_end = unique(input_string.begin(), input_string.end(), [](const char &x, const char &y) {
+//        return x == y and x == ' ';
+//    });
+//
+//    input_string.erase(new_end, input_string.end());
+//
+//    while (input_string[input_string.length() - 1] == ' ') {
+//        input_string.pop_back();
+//    }
+//
+//    vector<string> splits;
+//    char delimiter = ' ';
+//
+//    size_t i = 0;
+//    size_t pos = input_string.find(delimiter);
+//
+//    while (pos != string::npos) {
+//        splits.push_back(input_string.substr(i, pos - i));
+//
+//        i = pos + 1;
+//        pos = input_string.find(delimiter, i);
+//    }
+//
+//    splits.push_back(input_string.substr(i, min(pos, input_string.length()) - i + 1));
+//
+//    return splits;
+//}

@@ -83,7 +83,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/graph.cpp DSA/GRAPHS/graph2.cpp DSA/GRAPHS/MST_Prim2.cpp
         DSA/GRAPHS/Djikstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
-        ROUGH_FILES/rough1.cpp ROUGH_FILES/main.cpp
+        ROUGH_FILES/rough1.cpp
         DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
         DSA/RECURSION/first_index.cpp DSA/RECURSION/last_index.cpp
         DSA/RECURSION/all_indices.cpp DSA/RECURSION/find_char_arr_length.cpp
@@ -167,6 +167,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GREEDY/buy_maximum_stocks.cpp DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
         DSA/GREEDY/survive_on_island.cpp DSA/GREEDY/min_cost_of_ropes.cpp DSA/GREEDY/max_equal_sum_of_three_stacks.cpp
         DSA/GREEDY/water_the_plants.cpp DSA/GREEDY/coin_piles.cpp DAA_ASSIGNMENTS/bellman_ford.cpp
-        DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp)
+        DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp DSA/RECURSION/combination_sum.cpp
+        DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp
+        ROUGH_FILES/rough6.cpp DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp
+        DSA/DP/TECH_DOSE/lap.cpp DSA/DP/TECH_DOSE/total_decoding_messages.cpp DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
+        )
 
 
