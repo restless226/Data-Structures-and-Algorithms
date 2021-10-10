@@ -1843,6 +1843,33 @@ DSA/DP/DP_LCS/sequence_pattern_matching.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.s
 .PHONY : DSA/DP/DP_LCS/sequence_pattern_matching.cpp.s
 
+DSA/DP/DP_LPS/count_palindromic_subsequences.obj: DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj
+
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.obj
+
+# target to build an object file
+DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj
+
+DSA/DP/DP_LPS/count_palindromic_subsequences.i: DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i
+
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.i
+
+# target to preprocess a source file
+DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i
+
+DSA/DP/DP_LPS/count_palindromic_subsequences.s: DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s
+
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.s
+
+# target to generate assembly for a file
+DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s
+.PHONY : DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s
+
 DSA/DP/DP_LPS/longest_palindrome_in_a_string.obj: DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj
 
 .PHONY : DSA/DP/DP_LPS/longest_palindrome_in_a_string.obj
@@ -2761,32 +2788,32 @@ DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s
 .PHONY : DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s
 
-DSA/DP/bounded_knapsack/knapsack_01.obj: DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
+DSA/DP/bounded_knapsack/knapsack.obj: DSA/DP/bounded_knapsack/knapsack.cpp.obj
 
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.obj
+.PHONY : DSA/DP/bounded_knapsack/knapsack.obj
 
 # target to build an object file
-DSA/DP/bounded_knapsack/knapsack_01.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
+DSA/DP/bounded_knapsack/knapsack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj
+.PHONY : DSA/DP/bounded_knapsack/knapsack.cpp.obj
 
-DSA/DP/bounded_knapsack/knapsack_01.i: DSA/DP/bounded_knapsack/knapsack_01.cpp.i
+DSA/DP/bounded_knapsack/knapsack.i: DSA/DP/bounded_knapsack/knapsack.cpp.i
 
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.i
+.PHONY : DSA/DP/bounded_knapsack/knapsack.i
 
 # target to preprocess a source file
-DSA/DP/bounded_knapsack/knapsack_01.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.i
+DSA/DP/bounded_knapsack/knapsack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.i
+.PHONY : DSA/DP/bounded_knapsack/knapsack.cpp.i
 
-DSA/DP/bounded_knapsack/knapsack_01.s: DSA/DP/bounded_knapsack/knapsack_01.cpp.s
+DSA/DP/bounded_knapsack/knapsack.s: DSA/DP/bounded_knapsack/knapsack.cpp.s
 
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.s
+.PHONY : DSA/DP/bounded_knapsack/knapsack.s
 
 # target to generate assembly for a file
-DSA/DP/bounded_knapsack/knapsack_01.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s
-.PHONY : DSA/DP/bounded_knapsack/knapsack_01.cpp.s
+DSA/DP/bounded_knapsack/knapsack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.s
+.PHONY : DSA/DP/bounded_knapsack/knapsack.cpp.s
 
 DSA/DP/bounded_knapsack/min_sum_partition.obj: DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
 
@@ -3004,6 +3031,33 @@ DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s
 .PHONY : DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.s
 
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.obj: DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj
+
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.obj
+
+# target to build an object file
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj
+
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.i: DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i
+
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.i
+
+# target to preprocess a source file
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i
+
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.s: DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s
+
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.s
+
+# target to generate assembly for a file
+DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s
+.PHONY : DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s
+
 DSA/DP/unbounded_knapsack/rod_cutting.obj: DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj
 
 .PHONY : DSA/DP/unbounded_knapsack/rod_cutting.obj
@@ -3031,32 +3085,32 @@ DSA/DP/unbounded_knapsack/rod_cutting.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.s
 .PHONY : DSA/DP/unbounded_knapsack/rod_cutting.cpp.s
 
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj: DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+DSA/DP/unbounded_knapsack/unbounded_knapsack.obj: DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj
 
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.obj
 
 # target to build an object file
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj
 
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i: DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
+DSA/DP/unbounded_knapsack/unbounded_knapsack.i: DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i
 
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.i
 
 # target to preprocess a source file
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i
+DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i
 
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s: DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
+DSA/DP/unbounded_knapsack/unbounded_knapsack.s: DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s
 
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.s
 
 # target to generate assembly for a file
-DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
-.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s
+DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s
+.PHONY : DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s
 
 DSA/EXPONENTATION/matrix_exp.obj: DSA/EXPONENTATION/matrix_exp.cpp.obj
 
@@ -3193,275 +3247,626 @@ DSA/FILE_HANDLING/file_handling_FINAL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 .PHONY : DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 
-DSA/GRAPHS/Djikstras.obj: DSA/GRAPHS/Djikstras.cpp.obj
+DSA/GRAPHS/bfs_dfs_connected_graph.obj: DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
 
-.PHONY : DSA/GRAPHS/Djikstras.obj
-
-# target to build an object file
-DSA/GRAPHS/Djikstras.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj
-.PHONY : DSA/GRAPHS/Djikstras.cpp.obj
-
-DSA/GRAPHS/Djikstras.i: DSA/GRAPHS/Djikstras.cpp.i
-
-.PHONY : DSA/GRAPHS/Djikstras.i
-
-# target to preprocess a source file
-DSA/GRAPHS/Djikstras.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.i
-.PHONY : DSA/GRAPHS/Djikstras.cpp.i
-
-DSA/GRAPHS/Djikstras.s: DSA/GRAPHS/Djikstras.cpp.s
-
-.PHONY : DSA/GRAPHS/Djikstras.s
-
-# target to generate assembly for a file
-DSA/GRAPHS/Djikstras.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.s
-.PHONY : DSA/GRAPHS/Djikstras.cpp.s
-
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
-
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.obj
 
 # target to build an object file
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
+DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
 
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.i: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
+DSA/GRAPHS/bfs_dfs_connected_graph.i: DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.i
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.i
 
 # target to preprocess a source file
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i
+DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i
 
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.s: DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
+DSA/GRAPHS/bfs_dfs_connected_graph.s: DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.s
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s
+DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s
+.PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s
 
-DSA/GRAPHS/GRAPHS_CN/Prim.obj: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
+DSA/GRAPHS/bfs_dfs_disconnected_graph.obj: DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.obj
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.obj
 
 # target to build an object file
-DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
+DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
 
-DSA/GRAPHS/GRAPHS_CN/Prim.i: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
+DSA/GRAPHS/bfs_dfs_disconnected_graph.i: DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.i
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.i
 
 # target to preprocess a source file
-DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i
+DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i
 
-DSA/GRAPHS/GRAPHS_CN/Prim.s: DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
+DSA/GRAPHS/bfs_dfs_disconnected_graph.s: DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.s
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
-.PHONY : DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s
+DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s
+.PHONY : DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s
 
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
+DSA/GRAPHS/bridge_edge_in_graph.obj: DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.obj
 
 # target to build an object file
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
+DSA/GRAPHS/bridge_edge_in_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
 
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.i: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
+DSA/GRAPHS/bridge_edge_in_graph.i: DSA/GRAPHS/bridge_edge_in_graph.cpp.i
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.i
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.i
 
 # target to preprocess a source file
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i
+DSA/GRAPHS/bridge_edge_in_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.i
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.cpp.i
 
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.s: DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
+DSA/GRAPHS/bridge_edge_in_graph.s: DSA/GRAPHS/bridge_edge_in_graph.cpp.s
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.s
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
-.PHONY : DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s
+DSA/GRAPHS/bridge_edge_in_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.s
+.PHONY : DSA/GRAPHS/bridge_edge_in_graph.cpp.s
 
-DSA/GRAPHS/GRAPHS_CN/kruskal.obj: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+DSA/GRAPHS/detect_cycle_in_directed_graph.obj: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.obj
 
 # target to build an object file
-DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
 
-DSA/GRAPHS/GRAPHS_CN/kruskal.i: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
+DSA/GRAPHS/detect_cycle_in_directed_graph.i: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.i
 
 # target to preprocess a source file
-DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i
+DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
 
-DSA/GRAPHS/GRAPHS_CN/kruskal.s: DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
+DSA/GRAPHS/detect_cycle_in_directed_graph.s: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
 
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
-.PHONY : DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s
+DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
 
-DSA/GRAPHS/MST_Prim.obj: DSA/GRAPHS/MST_Prim.cpp.obj
+DSA/GRAPHS/detect_cycle_in_undirected_graph.obj: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
 
-.PHONY : DSA/GRAPHS/MST_Prim.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.obj
 
 # target to build an object file
-DSA/GRAPHS/MST_Prim.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj
-.PHONY : DSA/GRAPHS/MST_Prim.cpp.obj
+DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
 
-DSA/GRAPHS/MST_Prim.i: DSA/GRAPHS/MST_Prim.cpp.i
+DSA/GRAPHS/detect_cycle_in_undirected_graph.i: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
 
-.PHONY : DSA/GRAPHS/MST_Prim.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.i
 
 # target to preprocess a source file
-DSA/GRAPHS/MST_Prim.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.i
-.PHONY : DSA/GRAPHS/MST_Prim.cpp.i
+DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
 
-DSA/GRAPHS/MST_Prim.s: DSA/GRAPHS/MST_Prim.cpp.s
+DSA/GRAPHS/detect_cycle_in_undirected_graph.s: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
 
-.PHONY : DSA/GRAPHS/MST_Prim.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/MST_Prim.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.s
-.PHONY : DSA/GRAPHS/MST_Prim.cpp.s
+DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
 
-DSA/GRAPHS/MST_Prim2.obj: DSA/GRAPHS/MST_Prim2.cpp.obj
+DSA/GRAPHS/dfs_using_stack.obj: DSA/GRAPHS/dfs_using_stack.cpp.obj
 
-.PHONY : DSA/GRAPHS/MST_Prim2.obj
+.PHONY : DSA/GRAPHS/dfs_using_stack.obj
 
 # target to build an object file
-DSA/GRAPHS/MST_Prim2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj
-.PHONY : DSA/GRAPHS/MST_Prim2.cpp.obj
+DSA/GRAPHS/dfs_using_stack.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj
+.PHONY : DSA/GRAPHS/dfs_using_stack.cpp.obj
 
-DSA/GRAPHS/MST_Prim2.i: DSA/GRAPHS/MST_Prim2.cpp.i
+DSA/GRAPHS/dfs_using_stack.i: DSA/GRAPHS/dfs_using_stack.cpp.i
 
-.PHONY : DSA/GRAPHS/MST_Prim2.i
+.PHONY : DSA/GRAPHS/dfs_using_stack.i
 
 # target to preprocess a source file
-DSA/GRAPHS/MST_Prim2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.i
-.PHONY : DSA/GRAPHS/MST_Prim2.cpp.i
+DSA/GRAPHS/dfs_using_stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.i
+.PHONY : DSA/GRAPHS/dfs_using_stack.cpp.i
 
-DSA/GRAPHS/MST_Prim2.s: DSA/GRAPHS/MST_Prim2.cpp.s
+DSA/GRAPHS/dfs_using_stack.s: DSA/GRAPHS/dfs_using_stack.cpp.s
 
-.PHONY : DSA/GRAPHS/MST_Prim2.s
+.PHONY : DSA/GRAPHS/dfs_using_stack.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/MST_Prim2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.s
-.PHONY : DSA/GRAPHS/MST_Prim2.cpp.s
+DSA/GRAPHS/dfs_using_stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.s
+.PHONY : DSA/GRAPHS/dfs_using_stack.cpp.s
 
-DSA/GRAPHS/MST_kruskal.obj: DSA/GRAPHS/MST_kruskal.cpp.obj
+DSA/GRAPHS/get_path_bfs.obj: DSA/GRAPHS/get_path_bfs.cpp.obj
 
-.PHONY : DSA/GRAPHS/MST_kruskal.obj
+.PHONY : DSA/GRAPHS/get_path_bfs.obj
 
 # target to build an object file
-DSA/GRAPHS/MST_kruskal.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj
-.PHONY : DSA/GRAPHS/MST_kruskal.cpp.obj
+DSA/GRAPHS/get_path_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/get_path_bfs.cpp.obj
 
-DSA/GRAPHS/MST_kruskal.i: DSA/GRAPHS/MST_kruskal.cpp.i
+DSA/GRAPHS/get_path_bfs.i: DSA/GRAPHS/get_path_bfs.cpp.i
 
-.PHONY : DSA/GRAPHS/MST_kruskal.i
+.PHONY : DSA/GRAPHS/get_path_bfs.i
 
 # target to preprocess a source file
-DSA/GRAPHS/MST_kruskal.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.i
-.PHONY : DSA/GRAPHS/MST_kruskal.cpp.i
+DSA/GRAPHS/get_path_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.i
+.PHONY : DSA/GRAPHS/get_path_bfs.cpp.i
 
-DSA/GRAPHS/MST_kruskal.s: DSA/GRAPHS/MST_kruskal.cpp.s
+DSA/GRAPHS/get_path_bfs.s: DSA/GRAPHS/get_path_bfs.cpp.s
 
-.PHONY : DSA/GRAPHS/MST_kruskal.s
+.PHONY : DSA/GRAPHS/get_path_bfs.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/MST_kruskal.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.s
-.PHONY : DSA/GRAPHS/MST_kruskal.cpp.s
+DSA/GRAPHS/get_path_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.s
+.PHONY : DSA/GRAPHS/get_path_bfs.cpp.s
 
-DSA/GRAPHS/graph.obj: DSA/GRAPHS/graph.cpp.obj
+DSA/GRAPHS/get_path_dfs.obj: DSA/GRAPHS/get_path_dfs.cpp.obj
 
-.PHONY : DSA/GRAPHS/graph.obj
+.PHONY : DSA/GRAPHS/get_path_dfs.obj
 
 # target to build an object file
-DSA/GRAPHS/graph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj
-.PHONY : DSA/GRAPHS/graph.cpp.obj
+DSA/GRAPHS/get_path_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/get_path_dfs.cpp.obj
 
-DSA/GRAPHS/graph.i: DSA/GRAPHS/graph.cpp.i
+DSA/GRAPHS/get_path_dfs.i: DSA/GRAPHS/get_path_dfs.cpp.i
 
-.PHONY : DSA/GRAPHS/graph.i
+.PHONY : DSA/GRAPHS/get_path_dfs.i
 
 # target to preprocess a source file
-DSA/GRAPHS/graph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.i
-.PHONY : DSA/GRAPHS/graph.cpp.i
+DSA/GRAPHS/get_path_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.i
+.PHONY : DSA/GRAPHS/get_path_dfs.cpp.i
 
-DSA/GRAPHS/graph.s: DSA/GRAPHS/graph.cpp.s
+DSA/GRAPHS/get_path_dfs.s: DSA/GRAPHS/get_path_dfs.cpp.s
 
-.PHONY : DSA/GRAPHS/graph.s
+.PHONY : DSA/GRAPHS/get_path_dfs.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/graph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.s
-.PHONY : DSA/GRAPHS/graph.cpp.s
+DSA/GRAPHS/get_path_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.s
+.PHONY : DSA/GRAPHS/get_path_dfs.cpp.s
 
-DSA/GRAPHS/graph2.obj: DSA/GRAPHS/graph2.cpp.obj
+DSA/GRAPHS/has_path.obj: DSA/GRAPHS/has_path.cpp.obj
 
-.PHONY : DSA/GRAPHS/graph2.obj
+.PHONY : DSA/GRAPHS/has_path.obj
 
 # target to build an object file
-DSA/GRAPHS/graph2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj
-.PHONY : DSA/GRAPHS/graph2.cpp.obj
+DSA/GRAPHS/has_path.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj
+.PHONY : DSA/GRAPHS/has_path.cpp.obj
 
-DSA/GRAPHS/graph2.i: DSA/GRAPHS/graph2.cpp.i
+DSA/GRAPHS/has_path.i: DSA/GRAPHS/has_path.cpp.i
 
-.PHONY : DSA/GRAPHS/graph2.i
+.PHONY : DSA/GRAPHS/has_path.i
 
 # target to preprocess a source file
-DSA/GRAPHS/graph2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.i
-.PHONY : DSA/GRAPHS/graph2.cpp.i
+DSA/GRAPHS/has_path.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.i
+.PHONY : DSA/GRAPHS/has_path.cpp.i
 
-DSA/GRAPHS/graph2.s: DSA/GRAPHS/graph2.cpp.s
+DSA/GRAPHS/has_path.s: DSA/GRAPHS/has_path.cpp.s
 
-.PHONY : DSA/GRAPHS/graph2.s
+.PHONY : DSA/GRAPHS/has_path.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/graph2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.s
-.PHONY : DSA/GRAPHS/graph2.cpp.s
+DSA/GRAPHS/has_path.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.s
+.PHONY : DSA/GRAPHS/has_path.cpp.s
+
+DSA/GRAPHS/is_graph_connected.obj: DSA/GRAPHS/is_graph_connected.cpp.obj
+
+.PHONY : DSA/GRAPHS/is_graph_connected.obj
+
+# target to build an object file
+DSA/GRAPHS/is_graph_connected.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj
+.PHONY : DSA/GRAPHS/is_graph_connected.cpp.obj
+
+DSA/GRAPHS/is_graph_connected.i: DSA/GRAPHS/is_graph_connected.cpp.i
+
+.PHONY : DSA/GRAPHS/is_graph_connected.i
+
+# target to preprocess a source file
+DSA/GRAPHS/is_graph_connected.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.i
+.PHONY : DSA/GRAPHS/is_graph_connected.cpp.i
+
+DSA/GRAPHS/is_graph_connected.s: DSA/GRAPHS/is_graph_connected.cpp.s
+
+.PHONY : DSA/GRAPHS/is_graph_connected.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/is_graph_connected.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.s
+.PHONY : DSA/GRAPHS/is_graph_connected.cpp.s
+
+DSA/GRAPHS/mother_vertex.obj: DSA/GRAPHS/mother_vertex.cpp.obj
+
+.PHONY : DSA/GRAPHS/mother_vertex.obj
+
+# target to build an object file
+DSA/GRAPHS/mother_vertex.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj
+.PHONY : DSA/GRAPHS/mother_vertex.cpp.obj
+
+DSA/GRAPHS/mother_vertex.i: DSA/GRAPHS/mother_vertex.cpp.i
+
+.PHONY : DSA/GRAPHS/mother_vertex.i
+
+# target to preprocess a source file
+DSA/GRAPHS/mother_vertex.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.i
+.PHONY : DSA/GRAPHS/mother_vertex.cpp.i
+
+DSA/GRAPHS/mother_vertex.s: DSA/GRAPHS/mother_vertex.cpp.s
+
+.PHONY : DSA/GRAPHS/mother_vertex.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/mother_vertex.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.s
+.PHONY : DSA/GRAPHS/mother_vertex.cpp.s
+
+DSA/GRAPHS/possible_paths_between_2_vertices.obj: DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
+
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.obj
+
+# target to build an object file
+DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
+
+DSA/GRAPHS/possible_paths_between_2_vertices.i: DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i
+
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.i
+
+# target to preprocess a source file
+DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i
+
+DSA/GRAPHS/possible_paths_between_2_vertices.s: DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s
+
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s
+.PHONY : DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s
+
+DSA/GRAPHS/print_all_connected_components.obj: DSA/GRAPHS/print_all_connected_components.cpp.obj
+
+.PHONY : DSA/GRAPHS/print_all_connected_components.obj
+
+# target to build an object file
+DSA/GRAPHS/print_all_connected_components.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj
+.PHONY : DSA/GRAPHS/print_all_connected_components.cpp.obj
+
+DSA/GRAPHS/print_all_connected_components.i: DSA/GRAPHS/print_all_connected_components.cpp.i
+
+.PHONY : DSA/GRAPHS/print_all_connected_components.i
+
+# target to preprocess a source file
+DSA/GRAPHS/print_all_connected_components.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.i
+.PHONY : DSA/GRAPHS/print_all_connected_components.cpp.i
+
+DSA/GRAPHS/print_all_connected_components.s: DSA/GRAPHS/print_all_connected_components.cpp.s
+
+.PHONY : DSA/GRAPHS/print_all_connected_components.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/print_all_connected_components.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s
+.PHONY : DSA/GRAPHS/print_all_connected_components.cpp.s
+
+DSA/GRAPHS_OLD/Djikstras.obj: DSA/GRAPHS_OLD/Djikstras.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/Djikstras.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/Djikstras.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/Djikstras.cpp.obj
+
+DSA/GRAPHS_OLD/Djikstras.i: DSA/GRAPHS_OLD/Djikstras.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/Djikstras.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/Djikstras.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.i
+.PHONY : DSA/GRAPHS_OLD/Djikstras.cpp.i
+
+DSA/GRAPHS_OLD/Djikstras.s: DSA/GRAPHS_OLD/Djikstras.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/Djikstras.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/Djikstras.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.s
+.PHONY : DSA/GRAPHS_OLD/Djikstras.cpp.s
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.obj: DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.i: DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.s: DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.obj: DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.i: DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i
+
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.s: DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s
+
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.obj: DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj
+
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.i: DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i
+
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.s: DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s
+
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.obj: DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj
+
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.i: DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i
+
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.s: DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s
+.PHONY : DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s
+
+DSA/GRAPHS_OLD/MST_Prim.obj: DSA/GRAPHS_OLD/MST_Prim.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/MST_Prim.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.cpp.obj
+
+DSA/GRAPHS_OLD/MST_Prim.i: DSA/GRAPHS_OLD/MST_Prim.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/MST_Prim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.i
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.cpp.i
+
+DSA/GRAPHS_OLD/MST_Prim.s: DSA/GRAPHS_OLD/MST_Prim.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/MST_Prim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.s
+.PHONY : DSA/GRAPHS_OLD/MST_Prim.cpp.s
+
+DSA/GRAPHS_OLD/MST_Prim2.obj: DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/MST_Prim2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
+
+DSA/GRAPHS_OLD/MST_Prim2.i: DSA/GRAPHS_OLD/MST_Prim2.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/MST_Prim2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.i
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.cpp.i
+
+DSA/GRAPHS_OLD/MST_Prim2.s: DSA/GRAPHS_OLD/MST_Prim2.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/MST_Prim2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.s
+.PHONY : DSA/GRAPHS_OLD/MST_Prim2.cpp.s
+
+DSA/GRAPHS_OLD/MST_kruskal.obj: DSA/GRAPHS_OLD/MST_kruskal.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/MST_kruskal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.cpp.obj
+
+DSA/GRAPHS_OLD/MST_kruskal.i: DSA/GRAPHS_OLD/MST_kruskal.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/MST_kruskal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.i
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.cpp.i
+
+DSA/GRAPHS_OLD/MST_kruskal.s: DSA/GRAPHS_OLD/MST_kruskal.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/MST_kruskal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.s
+.PHONY : DSA/GRAPHS_OLD/MST_kruskal.cpp.s
+
+DSA/GRAPHS_OLD/graph.obj: DSA/GRAPHS_OLD/graph.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/graph.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/graph.cpp.obj
+
+DSA/GRAPHS_OLD/graph.i: DSA/GRAPHS_OLD/graph.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/graph.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.i
+.PHONY : DSA/GRAPHS_OLD/graph.cpp.i
+
+DSA/GRAPHS_OLD/graph.s: DSA/GRAPHS_OLD/graph.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/graph.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.s
+.PHONY : DSA/GRAPHS_OLD/graph.cpp.s
+
+DSA/GRAPHS_OLD/graph2.obj: DSA/GRAPHS_OLD/graph2.cpp.obj
+
+.PHONY : DSA/GRAPHS_OLD/graph2.obj
+
+# target to build an object file
+DSA/GRAPHS_OLD/graph2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj
+.PHONY : DSA/GRAPHS_OLD/graph2.cpp.obj
+
+DSA/GRAPHS_OLD/graph2.i: DSA/GRAPHS_OLD/graph2.cpp.i
+
+.PHONY : DSA/GRAPHS_OLD/graph2.i
+
+# target to preprocess a source file
+DSA/GRAPHS_OLD/graph2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.i
+.PHONY : DSA/GRAPHS_OLD/graph2.cpp.i
+
+DSA/GRAPHS_OLD/graph2.s: DSA/GRAPHS_OLD/graph2.cpp.s
+
+.PHONY : DSA/GRAPHS_OLD/graph2.s
+
+# target to generate assembly for a file
+DSA/GRAPHS_OLD/graph2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.s
+.PHONY : DSA/GRAPHS_OLD/graph2.cpp.s
 
 DSA/GREEDY/activity_selection.obj: DSA/GREEDY/activity_selection.cpp.obj
 
@@ -9628,6 +10033,9 @@ help:
 	@echo ... DSA/DP/DP_LCS/sequence_pattern_matching.obj
 	@echo ... DSA/DP/DP_LCS/sequence_pattern_matching.i
 	@echo ... DSA/DP/DP_LCS/sequence_pattern_matching.s
+	@echo ... DSA/DP/DP_LPS/count_palindromic_subsequences.obj
+	@echo ... DSA/DP/DP_LPS/count_palindromic_subsequences.i
+	@echo ... DSA/DP/DP_LPS/count_palindromic_subsequences.s
 	@echo ... DSA/DP/DP_LPS/longest_palindrome_in_a_string.obj
 	@echo ... DSA/DP/DP_LPS/longest_palindrome_in_a_string.i
 	@echo ... DSA/DP/DP_LPS/longest_palindrome_in_a_string.s
@@ -9730,9 +10138,9 @@ help:
 	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.obj
 	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.i
 	@echo ... DSA/DP/bounded_knapsack/equal_sum_partition.s
-	@echo ... DSA/DP/bounded_knapsack/knapsack_01.obj
-	@echo ... DSA/DP/bounded_knapsack/knapsack_01.i
-	@echo ... DSA/DP/bounded_knapsack/knapsack_01.s
+	@echo ... DSA/DP/bounded_knapsack/knapsack.obj
+	@echo ... DSA/DP/bounded_knapsack/knapsack.i
+	@echo ... DSA/DP/bounded_knapsack/knapsack.s
 	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.obj
 	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.i
 	@echo ... DSA/DP/bounded_knapsack/min_sum_partition.s
@@ -9757,12 +10165,15 @@ help:
 	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.obj
 	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.i
 	@echo ... DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.s
+	@echo ... DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.obj
+	@echo ... DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.i
+	@echo ... DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.s
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.obj
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.i
 	@echo ... DSA/DP/unbounded_knapsack/rod_cutting.s
-	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.obj
-	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.i
-	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.s
+	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack.obj
+	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack.i
+	@echo ... DSA/DP/unbounded_knapsack/unbounded_knapsack.s
 	@echo ... DSA/EXPONENTATION/matrix_exp.obj
 	@echo ... DSA/EXPONENTATION/matrix_exp.i
 	@echo ... DSA/EXPONENTATION/matrix_exp.s
@@ -9778,36 +10189,75 @@ help:
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.obj
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.i
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.s
-	@echo ... DSA/GRAPHS/Djikstras.obj
-	@echo ... DSA/GRAPHS/Djikstras.i
-	@echo ... DSA/GRAPHS/Djikstras.s
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.obj
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.i
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Dijikstras.s
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.obj
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.i
-	@echo ... DSA/GRAPHS/GRAPHS_CN/Prim.s
-	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.obj
-	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.i
-	@echo ... DSA/GRAPHS/GRAPHS_CN/grpahs_use.s
-	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.obj
-	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.i
-	@echo ... DSA/GRAPHS/GRAPHS_CN/kruskal.s
-	@echo ... DSA/GRAPHS/MST_Prim.obj
-	@echo ... DSA/GRAPHS/MST_Prim.i
-	@echo ... DSA/GRAPHS/MST_Prim.s
-	@echo ... DSA/GRAPHS/MST_Prim2.obj
-	@echo ... DSA/GRAPHS/MST_Prim2.i
-	@echo ... DSA/GRAPHS/MST_Prim2.s
-	@echo ... DSA/GRAPHS/MST_kruskal.obj
-	@echo ... DSA/GRAPHS/MST_kruskal.i
-	@echo ... DSA/GRAPHS/MST_kruskal.s
-	@echo ... DSA/GRAPHS/graph.obj
-	@echo ... DSA/GRAPHS/graph.i
-	@echo ... DSA/GRAPHS/graph.s
-	@echo ... DSA/GRAPHS/graph2.obj
-	@echo ... DSA/GRAPHS/graph2.i
-	@echo ... DSA/GRAPHS/graph2.s
+	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.obj
+	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.i
+	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.s
+	@echo ... DSA/GRAPHS/bfs_dfs_disconnected_graph.obj
+	@echo ... DSA/GRAPHS/bfs_dfs_disconnected_graph.i
+	@echo ... DSA/GRAPHS/bfs_dfs_disconnected_graph.s
+	@echo ... DSA/GRAPHS/bridge_edge_in_graph.obj
+	@echo ... DSA/GRAPHS/bridge_edge_in_graph.i
+	@echo ... DSA/GRAPHS/bridge_edge_in_graph.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.s
+	@echo ... DSA/GRAPHS/dfs_using_stack.obj
+	@echo ... DSA/GRAPHS/dfs_using_stack.i
+	@echo ... DSA/GRAPHS/dfs_using_stack.s
+	@echo ... DSA/GRAPHS/get_path_bfs.obj
+	@echo ... DSA/GRAPHS/get_path_bfs.i
+	@echo ... DSA/GRAPHS/get_path_bfs.s
+	@echo ... DSA/GRAPHS/get_path_dfs.obj
+	@echo ... DSA/GRAPHS/get_path_dfs.i
+	@echo ... DSA/GRAPHS/get_path_dfs.s
+	@echo ... DSA/GRAPHS/has_path.obj
+	@echo ... DSA/GRAPHS/has_path.i
+	@echo ... DSA/GRAPHS/has_path.s
+	@echo ... DSA/GRAPHS/is_graph_connected.obj
+	@echo ... DSA/GRAPHS/is_graph_connected.i
+	@echo ... DSA/GRAPHS/is_graph_connected.s
+	@echo ... DSA/GRAPHS/mother_vertex.obj
+	@echo ... DSA/GRAPHS/mother_vertex.i
+	@echo ... DSA/GRAPHS/mother_vertex.s
+	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.obj
+	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.i
+	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.s
+	@echo ... DSA/GRAPHS/print_all_connected_components.obj
+	@echo ... DSA/GRAPHS/print_all_connected_components.i
+	@echo ... DSA/GRAPHS/print_all_connected_components.s
+	@echo ... DSA/GRAPHS_OLD/Djikstras.obj
+	@echo ... DSA/GRAPHS_OLD/Djikstras.i
+	@echo ... DSA/GRAPHS_OLD/Djikstras.s
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.obj
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.i
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.s
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Prim.obj
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Prim.i
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/Prim.s
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.obj
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.i
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.s
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.obj
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.i
+	@echo ... DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.s
+	@echo ... DSA/GRAPHS_OLD/MST_Prim.obj
+	@echo ... DSA/GRAPHS_OLD/MST_Prim.i
+	@echo ... DSA/GRAPHS_OLD/MST_Prim.s
+	@echo ... DSA/GRAPHS_OLD/MST_Prim2.obj
+	@echo ... DSA/GRAPHS_OLD/MST_Prim2.i
+	@echo ... DSA/GRAPHS_OLD/MST_Prim2.s
+	@echo ... DSA/GRAPHS_OLD/MST_kruskal.obj
+	@echo ... DSA/GRAPHS_OLD/MST_kruskal.i
+	@echo ... DSA/GRAPHS_OLD/MST_kruskal.s
+	@echo ... DSA/GRAPHS_OLD/graph.obj
+	@echo ... DSA/GRAPHS_OLD/graph.i
+	@echo ... DSA/GRAPHS_OLD/graph.s
+	@echo ... DSA/GRAPHS_OLD/graph2.obj
+	@echo ... DSA/GRAPHS_OLD/graph2.i
+	@echo ... DSA/GRAPHS_OLD/graph2.s
 	@echo ... DSA/GREEDY/activity_selection.obj
 	@echo ... DSA/GREEDY/activity_selection.i
 	@echo ... DSA/GREEDY/activity_selection.s

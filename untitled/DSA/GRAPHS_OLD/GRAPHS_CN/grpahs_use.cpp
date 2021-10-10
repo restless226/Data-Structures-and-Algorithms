@@ -4,8 +4,8 @@
 //
 //using namespace std;
 //
-//// [NOTE]: Works only for "connected GRAPHS"
-//// we make it working for "dis-connected GRAPHS" by using void DFS() function
+//// [NOTE]: Works only for "connected GRAPHS_OLD"
+//// we make it working for "dis-connected GRAPHS_OLD" by using void DFS() function
 //void printDFS(int **edges, int n, int sv, bool *visited) {
 //
 //    cout << sv << " ";
@@ -24,8 +24,8 @@
 //    }
 //}
 //
-//// [NOTE]: Works only for "connected GRAPHS"
-//// we make it working for "dis-connected GRAPHS" by using void BFS() function
+//// [NOTE]: Works only for "connected GRAPHS_OLD"
+//// we make it working for "dis-connected GRAPHS_OLD" by using void BFS() function
 //void printBFS(int **edges, int n, int sv, bool *visited) {
 //
 //    QUEUE<int> pendingVertices;     // vertices which are seen but not printed

@@ -20,14 +20,10 @@
 //}
 //
 //bool subset_sum(int arr[], int n, int sum) {
-////    bool dp[n + 1][sum + 1];
-//
 //    bool **dp = new bool *[n + 1];
-//
 //    for (int i = 0; i < n + 1; ++i) {
 //        dp[i] = new bool[sum + 1];
 //    }
-//
 //    // INITIALIZATION
 //    for (int i = 0; i < n + 1; ++i) {
 //        for (int j = 0; j < sum + 1; ++j) {
@@ -39,12 +35,9 @@
 //            }
 //        }
 //    }
-//
-////    cout<<"DP ARRAY BEFORE:\n";
-////    printArray(dp, n, sum);
-//
-//
-//    // ITERATIVE (top down) SOLUTION CODE
+//    cout << "DP ARRAY BEFORE:\n";
+//    printArray(dp, n, sum);
+//    // ITERATION
 //    for (int i = 1; i < n + 1; ++i) {
 //        for (int j = 1; j < sum + 1; ++j) {
 //            if (arr[i - 1] <= j) {
@@ -54,38 +47,24 @@
 //            }
 //        }
 //    }
-//
-////    cout<<"DP ARRAY AFTER:\n";
-////    printArray(dp, n, sum);
-//
+//    cout << "DP ARRAY AFTER:\n";
+//    printArray(dp, n, sum);
 //    return dp[n][sum];
 //}
 //
 //int32_t main() {
-//
 //    int n, sum;
-//
-////    cout << "Enter value of sum:\n";
-//
-////    cout << "Enter size of array:\n";
 //    cin >> n;
-//
 //    int arr[n];
-//
-////    cout << "Enter elements of array:\n";
 //    for (int i = 0; i < n; i++) {
 //        cin >> arr[i];
 //    }
-//
 //    cin >> sum;
-//
-//
 //    if (subset_sum(arr, n, sum)) {
 //        cout << "Subset exists with given sum\n";
 //    } else {
 //        cout << "No subset with given sum\n";
 //    }
-//
 //    return 0;
 //}
 //

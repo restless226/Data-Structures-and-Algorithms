@@ -69,7 +69,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-        ROUGH_FILES/rough3.cpp DSA/GRAPHS/MST_kruskal.cpp DSA/GRAPHS/MST_Prim.cpp
+        ROUGH_FILES/rough3.cpp DSA/GRAPHS_OLD/MST_kruskal.cpp DSA/GRAPHS_OLD/MST_Prim.cpp
         DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
         DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
         DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
@@ -80,8 +80,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         DSA/TEMPLATES/unordered_maps.cpp
-        DSA/GRAPHS/graph.cpp DSA/GRAPHS/graph2.cpp DSA/GRAPHS/MST_Prim2.cpp
-        DSA/GRAPHS/Djikstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
+        DSA/GRAPHS_OLD/graph.cpp DSA/GRAPHS_OLD/graph2.cpp DSA/GRAPHS_OLD/MST_Prim2.cpp
+        DSA/GRAPHS_OLD/Djikstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp
         DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
@@ -94,8 +94,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/TREES/BST_CN/BST_use.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.h
         DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp DSA/TREES/TBT/TBT.h DSA/HEAP/heap.h
         DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
-        DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS/GRAPHS_CN/kruskal.cpp DSA/GRAPHS/GRAPHS_CN/Prim.cpp
-        DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
+        DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
+        DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
         DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
         DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
         DSA/STACK/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
@@ -104,10 +104,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DAA_ASSIGNMENTS/file_handling.cpp DAA_ASSIGNMENTS/merge_sort.cpp DAA_ASSIGNMENTS/n_queens.cpp DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
         DSA/BACKTRACKING/n_queens.cpp DSA/BACKTRACKING/rat_in_a_maze.cpp
         DSA/BINARY_SEARCH/aggressive_cows.cpp DAA_ASSIGNMENTS/knapsack_01.cpp
-        DSA/DP/bounded_knapsack/knapsack_01.cpp DSA/DP/bounded_knapsack/subset_sum.cpp DSA/DP/bounded_knapsack/equal_sum_partition.cpp
+        DSA/DP/bounded_knapsack/knapsack.cpp DSA/DP/bounded_knapsack/subset_sum.cpp DSA/DP/bounded_knapsack/equal_sum_partition.cpp
         DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp DSA/DP/bounded_knapsack/min_sum_partition.cpp
         DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp DSA/DP/bounded_knapsack/target_sum.cpp
-        DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp DSA/DP/unbounded_knapsack/rod_cutting.cpp
+        DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp DSA/DP/unbounded_knapsack/rod_cutting.cpp
         DSA/DP/unbounded_knapsack/coin_change_one.cpp DSA/DP/unbounded_knapsack/coin_change_two.cpp
         DSA/DP/DP_LCS/lcs.cpp DSA/DP/DP_LCS/longest_common_substring.cpp
         DSA/DP/DP_LCS/scs.cpp DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
@@ -171,6 +171,11 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp
         ROUGH_FILES/rough6.cpp DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp
         DSA/DP/TECH_DOSE/lap.cpp DSA/DP/TECH_DOSE/total_decoding_messages.cpp DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
-        )
+        DSA/DP/DP_LPS/count_palindromic_subsequences.cpp DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
+        DSA/GRAPHS/bfs_dfs_connected_graph.cpp DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
+        DSA/GRAPHS/has_path.cpp DSA/GRAPHS/dfs_using_stack.cpp DSA/GRAPHS/get_path_dfs.cpp
+        DSA/GRAPHS/get_path_bfs.cpp DSA/GRAPHS/is_graph_connected.cpp DSA/GRAPHS/print_all_connected_components.cpp
+        DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
+        DSA/GRAPHS/mother_vertex.cpp DSA/GRAPHS/bridge_edge_in_graph.cpp DSA/GRAPHS/possible_paths_between_2_vertices.cpp)
 
 

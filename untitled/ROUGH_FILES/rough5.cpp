@@ -4,12 +4,12 @@
 //
 //vector<string> split_string(string);
 //
-//void theHackathon(int n, int m, int a, int b, int f, int s, int t) {
+//void theHackathon(int n, int m, int a, int b, int f, int s, int t,
+//                  vector<pair<string, int>> &employee, vector<pair<string, string>> &request) {
 //    // Participant code here
-//    vector<string> ans;
-//    for (int i = 0; i < n; i++) {
 //
-//    }
+//    set<vector<string>> set;
+//
 //
 //}
 //
@@ -33,7 +33,22 @@
 //
 //    int t = stoi(inputdata[6]);
 //
-//    theHackathon(n, m, a, b, f, s, t);
+//
+//    vector<pair<string, int>> employee;
+//    vector<pair<string, string>> request;
+//    string name;
+//    int dept;
+//    for (int i = 0; i < n; i++) {
+//        cin >> name >> dept;
+//        employee.emplace_back(name, dept);
+//    }
+//    string x, y;
+//    for (int i = 0; i < m; i++) {
+//        cin >> x >> y;
+//        request.emplace_back(x, y);
+//    }
+//
+//    theHackathon(n, m, a, b, f, s, t, employee, request);
 //
 //    return 0;
 //}

@@ -121,6 +121,8 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.obj: ../DSA/DP/DP_LCS/scs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.obj: ../DSA/DP/DP_LCS/sequence_pattern_matching.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj: ../DSA/DP/DP_LPS/count_palindromic_subsequences.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj: ../DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.obj: ../DSA/DP/DP_LPS/lps.cpp
@@ -173,6 +175,8 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/msis.cpp.obj: ../DSA/DP/TECH_DOSE/msis.
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj: ../DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj: ../DSA/DP/TECH_DOSE/pascal_triangle.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj: ../DSA/DP/TECH_DOSE/total_decoding_messages.cpp
@@ -187,7 +191,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/equal_sum_partition.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack_01.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/min_sum_partition.cpp
 
@@ -205,9 +209,11 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: ../DSA/DP/un
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj: ../DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj: ../DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../DSA/DP/unbounded_knapsack/rod_cutting.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj: ../DSA/EXPONENTATION/matrix_exp.cpp
 
@@ -219,25 +225,51 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: ../DSA/FILE_H
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: ../DSA/FILE_HANDLING/file_handling_FINAL.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj: ../DSA/GRAPHS/Djikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_connected_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj: ../DSA/GRAPHS/bridge_edge_in_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj: ../DSA/GRAPHS/MST_Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: ../DSA/GRAPHS/dfs_using_stack.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj: ../DSA/GRAPHS/MST_Prim2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj: ../DSA/GRAPHS/get_path_bfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj: ../DSA/GRAPHS/MST_kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj: ../DSA/GRAPHS/get_path_dfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj: ../DSA/GRAPHS/graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: ../DSA/GRAPHS/print_all_connected_components.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: ../DSA/GRAPHS_OLD/Djikstras.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim2.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 

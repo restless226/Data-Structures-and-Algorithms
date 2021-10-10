@@ -8,7 +8,7 @@
 //
 //#include <bits/stdc++.h>
 //
-//#define MAX 1001
+//#define MAX 101
 //#define int long long
 //using namespace std;
 //
@@ -27,8 +27,6 @@
 //    for (int i = 0; i < n + 1; i++) {
 //        dp[i] = new int[W + 1];
 //    }
-//
-////    int dp[n + 1][W + 1];
 //
 //    // INITIALIZATION (it corresponds to base condition in RECURSIVE SOLUTION)
 //    // initializing first row and first column with all zeroes
@@ -80,8 +78,12 @@
 //        if (dp[n - 1][W - weights[n - 1]] == -1) {
 //            dp[n - 1][W - weights[n - 1]] = knapsack_01_MEMOIZATION(weights, values, n - 1, W - weights[n - 1]);
 //        }
+//        // memoization block check
+//        if (dp[n - 1][W] == -1) {
+//            dp[n - 1][W] = knapsack_01_MEMOIZATION(weights, values, n - 1, W);
+//        }
 //        // Return the maximum of nth item (included, not included)
-//        return max(values[n - 1] + dp[n - 1][W - weights[n - 1]], dp[n - 1][W - weights[n - 1]]);
+//        return max(values[n - 1] + dp[n - 1][W - weights[n - 1]], dp[n - 1][W]);
 //    } else if (weights[n - 1] > W) {
 //        // memoization block check
 //        if (dp[n - 1][W] == -1) {
@@ -92,16 +94,14 @@
 //}
 //
 //int knapsack_01_RECURSIVE(int weights[], int values[], int n, int W) {
-//    // base condition (it corresponds to "SMALLEST VALID INPUT")
+//    // base condition (Think of the "SMALLEST VALID INPUT")
 //    if (n == 0 || W == 0) {
 //        return 0;
 //    }
-//
 //    // choice diagram code
 //    if (weights[n - 1] <= W) {
-////        return values[n - 1] + knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]);
 //        return max(values[n - 1] + knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]),
-//                   knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]));
+//                   knapsack_01_RECURSIVE(weights, values, n - 1, W));
 //    } else if (weights[n - 1] > W) {
 //        return knapsack_01_RECURSIVE(weights, values, n - 1, W);
 //    }
@@ -154,7 +154,6 @@
 //
 //USING knapsack_01_DP() ->
 //MAXIMUM TOTAL VALUE IS :
-//
 //DP ARRAY BEFORE ITERATION...
 //0 0 0 0 0
 //0 -4995072469926809587 -4995072469926809587 -4995072469926809587 -4995072469926809587

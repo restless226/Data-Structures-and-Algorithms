@@ -5,12 +5,9 @@
 //
 //#include <bits/stdc++.h>
 //
-//#define MAX 1001
+//#define MAX 101
 //#define int long long
 //using namespace std;
-//
-////static int dp[MAX][MAX];    // dp matrix for MEMOIZATION
-//
 //
 //int knapsack_unbounded_DP(int weights[], int values[], int n, int W) {
 //    int dp[n + 1][W + 1];    // dp matrix for MEMOIZATION
@@ -27,8 +24,6 @@
 //        }
 //    }
 //
-//    //    memset(dp[0],0,sizeof(dp[0][W+1]));
-//
 //    // i->n && j->W
 //    for (int i = 1; i < n + 1; ++i) {
 //        for (int j = 1; j < W + 1; ++j) {
@@ -44,10 +39,8 @@
 //    return dp[n][W];
 //}
 //
+//static int dp[MAX][MAX];    // dp matrix for MEMOIZATION
 //int knapsack_unbounded_MEMOIZATION(int weights[], int values[], int n, int W) {
-//    static int dp[MAX][MAX];    // dp matrix for MEMOIZATION
-//    memset(dp, -1, sizeof(dp));   // initializing all entries in dp matrix with -1
-//
 //    // base condition
 //    if (n == 0 || W == 0) {
 //        return 0;
@@ -59,12 +52,22 @@
 //    }
 //
 //    // choice diagram code
-//    if (weights[n - 1] <= W) {
-//        // Return the maximum of (nth item included, not included)
-//        return max(values[n - 1] + knapsack_unbounded_MEMOIZATION(weights, values, n - 1, W - weights[n - 1]),
-//                   knapsack_unbounded_MEMOIZATION(weights, values, n, W - weights[n - 1]));
+//    if (weights[n - 1] <= W) {   // Return the maximum of (nth item included, not included)
+//        // memoization block check
+//        if (dp[n][W - weights[n - 1]] == -1) {
+//            dp[n][W - weights[n - 1]] = knapsack_unbounded_MEMOIZATION(weights, values, n, W - weights[n - 1]);
+//        }
+//        // memoization block check
+//        if (dp[n - 1][W] == -1) {
+//            dp[n - 1][W] = knapsack_unbounded_MEMOIZATION(weights, values, n - 1, W);
+//        }
+//        return max(values[n - 1] + dp[n][W - weights[n - 1]], dp[n][W]);
 //    } else if (weights[n - 1] > W) {
-//        return knapsack_unbounded_MEMOIZATION(weights, values, n - 1, W);
+//        // memoization block check
+//        if (dp[n - 1][W] == -1) {
+//            dp[n - 1][W] = knapsack_unbounded_MEMOIZATION(weights, values, n - 1, W);
+//        }
+//        return dp[n - 1][W];
 //    }
 //}
 //
@@ -77,7 +80,7 @@
 //    // choice diagram code
 //    if (weights[n - 1] <= W) {
 //        return max(values[n - 1] + knapsack_unbounded_RECURSIVE(weights, values, n, W - weights[n - 1]),
-//                   knapsack_unbounded_RECURSIVE(weights, values, n - 1, W - weights[n - 1]));
+//                   knapsack_unbounded_RECURSIVE(weights, values, n - 1, W));
 //    } else if (weights[n - 1] > W) {
 //        return knapsack_unbounded_RECURSIVE(weights, values, n - 1, W);
 //    }
@@ -85,33 +88,27 @@
 //
 //
 //int32_t main() {
-//
 //    int n, W;
 //    cout << "Enter no of items n:\n";
 //    cin >> n;
 //    cout << "Enter Weight of knapsack:\n";
 //    cin >> W;
-//
 //    int weights[n];
 //    int values[n];
-//
 //    cout << "\nEnter costs of n items:\n";
 //    for (int i = 0; i < n; ++i) {
 //        cin >> values[i];
 //    }
-//
 //    cout << "\nEnter costs of n items:\n";
 //    for (int i = 0; i < n; ++i) {
 //        cin >> weights[i];
 //    }
 //
-//
 //    cout << "\nMAXIMUM TOTAL VALUE IS:\n";
 //    cout << "USING knapsack_01_RECURSIVE() -> " << knapsack_unbounded_RECURSIVE(weights, values, n, W) << '\n';
-////    memset(dp, -1, sizeof(dp));   // initializing all entries in dp matrix with -1
+//    memset(dp, -1, sizeof(dp));   // initializing all entries in dp matrix with -1
 //    cout << "USING knapsack_01_MEMOIZATION() -> " << knapsack_unbounded_MEMOIZATION(weights, values, n, W) << '\n';
 //    cout << "USING knapsack_01_DP() -> " << knapsack_unbounded_DP(weights, values, n, W) << '\n';
-//
 //
 //    return 0;
 //}

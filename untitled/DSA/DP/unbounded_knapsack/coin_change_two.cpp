@@ -1,8 +1,16 @@
-//#include <bits/stdc++.h>
+///*
+//PROBLEM STATEMENT:
+//Given a value V and array coins[] of size M,
+//the task is to make the change for V cents,
+//given that you have an infinite supply of each of
+//coins{coins1, coins2, ..., coinsm} valued coins.
+//Find the minimum number of coins to make the change.
+//If not possible to make change then return -1.
+//*/
 //
+//#include <bits/stdc++.h>
 //using namespace std;
 //#define int long long
-//
 //
 //void printArray(int **dp, int n, int sum) {
 //    for (int i = 0; i < n + 1; ++i) {
@@ -19,23 +27,16 @@
 //    for (int i = 0; i < n; ++i) {
 //        coin_sum += coin[i];
 //    }
-//
-////    int dp[n + 1][given_sum + 1];
-//
 //    int **dp = new int *[n + 1];
-//
 //    for (int i = 0; i < n + 1; ++i) {
 //        dp[i] = new int[coin_sum + 1];
 //    }
-//
 //    // INITIALIZATION...
-//
 //    // initialization - for row 0
 //    // with empty coin[] array, mathematically possible that with infinite coins we may reach given_sum after summing up infinitely
 //    for (int j = 0; j < given_sum + 1; j++) {
 //        dp[0][j] = INT_MAX - 1;
 //    }
-//
 //    // initialization - for column 0
 //    // with "only 0 coins" we can produce given_sum = 0
 //    // no of min coins to have given_sum = 0 is 0, always
@@ -43,7 +44,6 @@
 //    for (int i = 0; i < n + 1; i++) {
 //        dp[i][0] = 0;
 //    }
-//
 //    // initialization - for row 1
 //    for (int j = 0; j < given_sum + 1; j++) {
 //        if (j % coin[0] == 0) {
@@ -52,11 +52,8 @@
 //            dp[1][j] = INT_MAX - 1;
 //        }
 //    }
-//
 //    cout << "\nDP MATRIX AFTER INITIALIZATION:\n";
 //    printArray(dp, n, given_sum);
-//
-//
 //    // ITERATIVE DP CODE
 //    for (int i = 2; i < n + 1; i++) {
 //        for (int j = 1; j < given_sum + 1; j++) {
@@ -67,31 +64,22 @@
 //            }
 //        }
 //    }
-//
 //    cout << "\nDP MATRIX AFTER ITERATION:\n";
 //    printArray(dp, n, given_sum);
-//
 //    return dp[n][given_sum];
-//
-//
 //}
 //
 //int32_t main() {
 //    cin.tie(NULL);
 //    cout.tie(NULL);
 //    ios_base::sync_with_stdio(false);
-//
 //    int n, given_sum;
 //    cin >> given_sum >> n;
-//
 //    int coin[n];
-//
 //    for (int i = 0; i < n; ++i) {
 //        cin >> coin[i];
 //    }
-//
 //    cout << "No of ways to make change for N cents:\n " << coin_change_two(coin, n, given_sum) << '\n';
-//
 //    return 0;
 //}
 //

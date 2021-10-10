@@ -1766,31 +1766,31 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough3.cpp -o CMakeFiles\untitled.dir\ROUGH_FILES\rough3.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj: ../DSA/GRAPHS/MST_kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_kruskal.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\MST_kruskal.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_kruskal.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_kruskal.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_kruskal.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj: ../DSA/GRAPHS/MST_Prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim.cpp.s
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
@@ -2000,57 +2000,57 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\unordered_maps.cpp -o CMakeFiles\untitled.dir\DSA\TEMPLATES\unordered_maps.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj: ../DSA/GRAPHS/graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\graph.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\graph.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj: ../DSA/GRAPHS/graph2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\graph2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph2.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph2.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\graph2.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph2.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph2.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\graph2.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\graph2.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph2.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph2.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj: ../DSA/GRAPHS/MST_Prim2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim2.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim2.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim2.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim2.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim2.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\MST_Prim2.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\MST_Prim2.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim2.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim2.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj: ../DSA/GRAPHS/Djikstras.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\Djikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\Djikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: ../DSA/GRAPHS_OLD/Djikstras.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\Djikstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\Djikstras.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\Djikstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\Djikstras.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: ../DSA/DEQUEUE/dequeue.cpp
@@ -2338,57 +2338,57 @@ CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_main.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\heap_main.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\grpahs_use.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\grpahs_use.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\kruskal.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Prim.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Prim.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Prim.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Prim.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Prim.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\Dijikstras.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\GRAPHS_CN\Dijikstras.cpp.s
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
@@ -2637,18 +2637,18 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\knapsack_01.cpp -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\knapsack_01.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack_01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack.cpp > CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack_01.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack_01.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: ../DSA/DP/bounded_knapsack/subset_sum.cpp
@@ -2728,18 +2728,18 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\target_sum.cpp -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\target_sum.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp > CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp.i
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp > CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack_using_DP.cpp.s
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../DSA/DP/unbounded_knapsack/rod_cutting.cpp
@@ -4548,6 +4548,201 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\optimal_strategy_for_game.cpp -o CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\optimal_strategy_for_game.cpp.s
 
+CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj: ../DSA/DP/DP_LPS/count_palindromic_subsequences.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp > CMakeFiles\untitled.dir\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj: ../DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp > CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_connected_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_connected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_connected_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_connected_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_connected_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_connected_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_connected_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\has_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\has_path.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\has_path.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\has_path.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\has_path.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\has_path.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: ../DSA/GRAPHS/dfs_using_stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\dfs_using_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dfs_using_stack.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dfs_using_stack.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\dfs_using_stack.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dfs_using_stack.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\dfs_using_stack.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj: ../DSA/GRAPHS/get_path_dfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_dfs.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_dfs.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_dfs.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_dfs.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj: ../DSA/GRAPHS/get_path_bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_bfs.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_bfs.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_bfs.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_bfs.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\is_graph_connected.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\is_graph_connected.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\is_graph_connected.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\is_graph_connected.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\is_graph_connected.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\is_graph_connected.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: ../DSA/GRAPHS/print_all_connected_components.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_connected_components.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_connected_components.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_connected_components.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_connected_components.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_connected_components.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_connected_components.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_directed_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\mother_vertex.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\mother_vertex.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\mother_vertex.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\mother_vertex.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\mother_vertex.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\mother_vertex.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj: ../DSA/GRAPHS/bridge_edge_in_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bridge_edge_in_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bridge_edge_in_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bridge_edge_in_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\bridge_edge_in_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bridge_edge_in_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\bridge_edge_in_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\possible_paths_between_2_vertices.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\possible_paths_between_2_vertices.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\possible_paths_between_2_vertices.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\possible_paths_between_2_vertices.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\possible_paths_between_2_vertices.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\possible_paths_between_2_vertices.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -4680,8 +4875,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj" \
 "CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj" \
@@ -4698,10 +4893,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj" \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj" \
@@ -4724,10 +4919,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj" \
@@ -4747,14 +4942,14 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj" \
@@ -4893,7 +5088,22 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -5028,8 +5238,8 @@ untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/hea
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/MST_kruskal.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj
@@ -5046,10 +5256,10 @@ untitled.exe: CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp
 untitled.exe: CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/graph.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/graph2.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/MST_Prim2.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/Djikstras.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj
@@ -5072,10 +5282,10 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.
 untitled.exe: CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/grpahs_use.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Prim.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/Dijikstras.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
@@ -5095,14 +5305,14 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack_01.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack_using_DP.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj
@@ -5242,11 +5452,26 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allo
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
