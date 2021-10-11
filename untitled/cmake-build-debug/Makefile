@@ -3247,6 +3247,33 @@ DSA/FILE_HANDLING/file_handling_FINAL.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 .PHONY : DSA/FILE_HANDLING/file_handling_FINAL.cpp.s
 
+DSA/GRAPHS/bfs.obj: DSA/GRAPHS/bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj
+.PHONY : DSA/GRAPHS/bfs.cpp.obj
+
+DSA/GRAPHS/bfs.i: DSA/GRAPHS/bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.i
+.PHONY : DSA/GRAPHS/bfs.cpp.i
+
+DSA/GRAPHS/bfs.s: DSA/GRAPHS/bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.s
+.PHONY : DSA/GRAPHS/bfs.cpp.s
+
 DSA/GRAPHS/bfs_dfs_connected_graph.obj: DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
 
 .PHONY : DSA/GRAPHS/bfs_dfs_connected_graph.obj
@@ -3328,59 +3355,167 @@ DSA/GRAPHS/bridge_edge_in_graph.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.s
 .PHONY : DSA/GRAPHS/bridge_edge_in_graph.cpp.s
 
-DSA/GRAPHS/detect_cycle_in_directed_graph.obj: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
+DSA/GRAPHS/check_bipartite_graph_using_bfs.obj: DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj
 
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.obj
-
-# target to build an object file
-DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
-
-DSA/GRAPHS/detect_cycle_in_directed_graph.i: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
-
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.i
-
-# target to preprocess a source file
-DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.i
-
-DSA/GRAPHS/detect_cycle_in_directed_graph.s: DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
-
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.s
-
-# target to generate assembly for a file
-DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
-.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.s
-
-DSA/GRAPHS/detect_cycle_in_undirected_graph.obj: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
-
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.obj
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.obj
 
 # target to build an object file
-DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
+DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj
 
-DSA/GRAPHS/detect_cycle_in_undirected_graph.i: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
+DSA/GRAPHS/check_bipartite_graph_using_bfs.i: DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.i
 
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.i
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.i
 
 # target to preprocess a source file
-DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.i
+DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.i
 
-DSA/GRAPHS/detect_cycle_in_undirected_graph.s: DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
+DSA/GRAPHS/check_bipartite_graph_using_bfs.s: DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.s
 
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.s
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
-.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.s
+DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.s
+
+DSA/GRAPHS/check_bipartite_graph_using_dfs.obj: DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj
+
+DSA/GRAPHS/check_bipartite_graph_using_dfs.i: DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.i
+
+DSA/GRAPHS/check_bipartite_graph_using_dfs.s: DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj: DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.i: DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.i
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.s: DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.s
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.obj: DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.i: DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.i
+
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.s: DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s
+
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj
+
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.i: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.i
+
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.s: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.s
+
+DSA/GRAPHS/dfs.obj: DSA/GRAPHS/dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj
+.PHONY : DSA/GRAPHS/dfs.cpp.obj
+
+DSA/GRAPHS/dfs.i: DSA/GRAPHS/dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.i
+.PHONY : DSA/GRAPHS/dfs.cpp.i
+
+DSA/GRAPHS/dfs.s: DSA/GRAPHS/dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.s
+.PHONY : DSA/GRAPHS/dfs.cpp.s
 
 DSA/GRAPHS/dfs_using_stack.obj: DSA/GRAPHS/dfs_using_stack.cpp.obj
 
@@ -3409,59 +3544,86 @@ DSA/GRAPHS/dfs_using_stack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.s
 .PHONY : DSA/GRAPHS/dfs_using_stack.cpp.s
 
-DSA/GRAPHS/get_path_bfs.obj: DSA/GRAPHS/get_path_bfs.cpp.obj
+DSA/GRAPHS/find_no_of_islands.obj: DSA/GRAPHS/find_no_of_islands.cpp.obj
 
-.PHONY : DSA/GRAPHS/get_path_bfs.obj
-
-# target to build an object file
-DSA/GRAPHS/get_path_bfs.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj
-.PHONY : DSA/GRAPHS/get_path_bfs.cpp.obj
-
-DSA/GRAPHS/get_path_bfs.i: DSA/GRAPHS/get_path_bfs.cpp.i
-
-.PHONY : DSA/GRAPHS/get_path_bfs.i
-
-# target to preprocess a source file
-DSA/GRAPHS/get_path_bfs.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.i
-.PHONY : DSA/GRAPHS/get_path_bfs.cpp.i
-
-DSA/GRAPHS/get_path_bfs.s: DSA/GRAPHS/get_path_bfs.cpp.s
-
-.PHONY : DSA/GRAPHS/get_path_bfs.s
-
-# target to generate assembly for a file
-DSA/GRAPHS/get_path_bfs.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.s
-.PHONY : DSA/GRAPHS/get_path_bfs.cpp.s
-
-DSA/GRAPHS/get_path_dfs.obj: DSA/GRAPHS/get_path_dfs.cpp.obj
-
-.PHONY : DSA/GRAPHS/get_path_dfs.obj
+.PHONY : DSA/GRAPHS/find_no_of_islands.obj
 
 # target to build an object file
-DSA/GRAPHS/get_path_dfs.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj
-.PHONY : DSA/GRAPHS/get_path_dfs.cpp.obj
+DSA/GRAPHS/find_no_of_islands.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj
+.PHONY : DSA/GRAPHS/find_no_of_islands.cpp.obj
 
-DSA/GRAPHS/get_path_dfs.i: DSA/GRAPHS/get_path_dfs.cpp.i
+DSA/GRAPHS/find_no_of_islands.i: DSA/GRAPHS/find_no_of_islands.cpp.i
 
-.PHONY : DSA/GRAPHS/get_path_dfs.i
+.PHONY : DSA/GRAPHS/find_no_of_islands.i
 
 # target to preprocess a source file
-DSA/GRAPHS/get_path_dfs.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.i
-.PHONY : DSA/GRAPHS/get_path_dfs.cpp.i
+DSA/GRAPHS/find_no_of_islands.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.i
+.PHONY : DSA/GRAPHS/find_no_of_islands.cpp.i
 
-DSA/GRAPHS/get_path_dfs.s: DSA/GRAPHS/get_path_dfs.cpp.s
+DSA/GRAPHS/find_no_of_islands.s: DSA/GRAPHS/find_no_of_islands.cpp.s
 
-.PHONY : DSA/GRAPHS/get_path_dfs.s
+.PHONY : DSA/GRAPHS/find_no_of_islands.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/get_path_dfs.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.s
-.PHONY : DSA/GRAPHS/get_path_dfs.cpp.s
+DSA/GRAPHS/find_no_of_islands.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.s
+.PHONY : DSA/GRAPHS/find_no_of_islands.cpp.s
+
+DSA/GRAPHS/get_path_using_bfs.obj: DSA/GRAPHS/get_path_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/get_path_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/get_path_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/get_path_using_bfs.cpp.obj
+
+DSA/GRAPHS/get_path_using_bfs.i: DSA/GRAPHS/get_path_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/get_path_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/get_path_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/get_path_using_bfs.cpp.i
+
+DSA/GRAPHS/get_path_using_bfs.s: DSA/GRAPHS/get_path_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/get_path_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/get_path_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/get_path_using_bfs.cpp.s
+
+DSA/GRAPHS/get_path_using_dfs.obj: DSA/GRAPHS/get_path_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/get_path_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/get_path_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/get_path_using_dfs.cpp.obj
+
+DSA/GRAPHS/get_path_using_dfs.i: DSA/GRAPHS/get_path_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/get_path_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/get_path_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/get_path_using_dfs.cpp.i
+
+DSA/GRAPHS/get_path_using_dfs.s: DSA/GRAPHS/get_path_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/get_path_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/get_path_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/get_path_using_dfs.cpp.s
 
 DSA/GRAPHS/has_path.obj: DSA/GRAPHS/has_path.cpp.obj
 
@@ -3597,6 +3759,114 @@ DSA/GRAPHS/print_all_connected_components.s: DSA/GRAPHS/print_all_connected_comp
 DSA/GRAPHS/print_all_connected_components.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s
 .PHONY : DSA/GRAPHS/print_all_connected_components.cpp.s
+
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj: DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj
+
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj
+
+# target to build an object file
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj
+
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.i: DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.i
+
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.i
+
+# target to preprocess a source file
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.i
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.i
+
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s: DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s
+
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s
+.PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.obj: DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.i: DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.i
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.s: DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.s
+
+DSA/GRAPHS/topological_sort_using_bfs.obj: DSA/GRAPHS/topological_sort_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/topological_sort_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.cpp.obj
+
+DSA/GRAPHS/topological_sort_using_bfs.i: DSA/GRAPHS/topological_sort_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/topological_sort_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.cpp.i
+
+DSA/GRAPHS/topological_sort_using_bfs.s: DSA/GRAPHS/topological_sort_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/topological_sort_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/topological_sort_using_bfs.cpp.s
+
+DSA/GRAPHS/topological_sort_using_dfs.obj: DSA/GRAPHS/topological_sort_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/topological_sort_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.cpp.obj
+
+DSA/GRAPHS/topological_sort_using_dfs.i: DSA/GRAPHS/topological_sort_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/topological_sort_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.cpp.i
+
+DSA/GRAPHS/topological_sort_using_dfs.s: DSA/GRAPHS/topological_sort_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/topological_sort_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/topological_sort_using_dfs.cpp.s
 
 DSA/GRAPHS_OLD/Djikstras.obj: DSA/GRAPHS_OLD/Djikstras.cpp.obj
 
@@ -4164,6 +4434,33 @@ DSA/GREEDY/min_cost_to_cut_board_into_squares.s: DSA/GREEDY/min_cost_to_cut_boar
 DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s
 .PHONY : DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s
+
+DSA/GREEDY/min_swaps_to_sort.obj: DSA/GREEDY/min_swaps_to_sort.cpp.obj
+
+.PHONY : DSA/GREEDY/min_swaps_to_sort.obj
+
+# target to build an object file
+DSA/GREEDY/min_swaps_to_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj
+.PHONY : DSA/GREEDY/min_swaps_to_sort.cpp.obj
+
+DSA/GREEDY/min_swaps_to_sort.i: DSA/GREEDY/min_swaps_to_sort.cpp.i
+
+.PHONY : DSA/GREEDY/min_swaps_to_sort.i
+
+# target to preprocess a source file
+DSA/GREEDY/min_swaps_to_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.i
+.PHONY : DSA/GREEDY/min_swaps_to_sort.cpp.i
+
+DSA/GREEDY/min_swaps_to_sort.s: DSA/GREEDY/min_swaps_to_sort.cpp.s
+
+.PHONY : DSA/GREEDY/min_swaps_to_sort.s
+
+# target to generate assembly for a file
+DSA/GREEDY/min_swaps_to_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.s
+.PHONY : DSA/GREEDY/min_swaps_to_sort.cpp.s
 
 DSA/GREEDY/minimum_platforms.obj: DSA/GREEDY/minimum_platforms.cpp.obj
 
@@ -10189,6 +10486,9 @@ help:
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.obj
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.i
 	@echo ... DSA/FILE_HANDLING/file_handling_FINAL.s
+	@echo ... DSA/GRAPHS/bfs.obj
+	@echo ... DSA/GRAPHS/bfs.i
+	@echo ... DSA/GRAPHS/bfs.s
 	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.obj
 	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.i
 	@echo ... DSA/GRAPHS/bfs_dfs_connected_graph.s
@@ -10198,21 +10498,36 @@ help:
 	@echo ... DSA/GRAPHS/bridge_edge_in_graph.obj
 	@echo ... DSA/GRAPHS/bridge_edge_in_graph.i
 	@echo ... DSA/GRAPHS/bridge_edge_in_graph.s
-	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.obj
-	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.i
-	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph.s
-	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.obj
-	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.i
-	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph.s
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_bfs.obj
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_bfs.i
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_bfs.s
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.obj
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.i
+	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.s
+	@echo ... DSA/GRAPHS/dfs.obj
+	@echo ... DSA/GRAPHS/dfs.i
+	@echo ... DSA/GRAPHS/dfs.s
 	@echo ... DSA/GRAPHS/dfs_using_stack.obj
 	@echo ... DSA/GRAPHS/dfs_using_stack.i
 	@echo ... DSA/GRAPHS/dfs_using_stack.s
-	@echo ... DSA/GRAPHS/get_path_bfs.obj
-	@echo ... DSA/GRAPHS/get_path_bfs.i
-	@echo ... DSA/GRAPHS/get_path_bfs.s
-	@echo ... DSA/GRAPHS/get_path_dfs.obj
-	@echo ... DSA/GRAPHS/get_path_dfs.i
-	@echo ... DSA/GRAPHS/get_path_dfs.s
+	@echo ... DSA/GRAPHS/find_no_of_islands.obj
+	@echo ... DSA/GRAPHS/find_no_of_islands.i
+	@echo ... DSA/GRAPHS/find_no_of_islands.s
+	@echo ... DSA/GRAPHS/get_path_using_bfs.obj
+	@echo ... DSA/GRAPHS/get_path_using_bfs.i
+	@echo ... DSA/GRAPHS/get_path_using_bfs.s
+	@echo ... DSA/GRAPHS/get_path_using_dfs.obj
+	@echo ... DSA/GRAPHS/get_path_using_dfs.i
+	@echo ... DSA/GRAPHS/get_path_using_dfs.s
 	@echo ... DSA/GRAPHS/has_path.obj
 	@echo ... DSA/GRAPHS/has_path.i
 	@echo ... DSA/GRAPHS/has_path.s
@@ -10228,6 +10543,18 @@ help:
 	@echo ... DSA/GRAPHS/print_all_connected_components.obj
 	@echo ... DSA/GRAPHS/print_all_connected_components.i
 	@echo ... DSA/GRAPHS/print_all_connected_components.s
+	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj
+	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.i
+	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.obj
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.i
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.s
+	@echo ... DSA/GRAPHS/topological_sort_using_bfs.obj
+	@echo ... DSA/GRAPHS/topological_sort_using_bfs.i
+	@echo ... DSA/GRAPHS/topological_sort_using_bfs.s
+	@echo ... DSA/GRAPHS/topological_sort_using_dfs.obj
+	@echo ... DSA/GRAPHS/topological_sort_using_dfs.i
+	@echo ... DSA/GRAPHS/topological_sort_using_dfs.s
 	@echo ... DSA/GRAPHS_OLD/Djikstras.obj
 	@echo ... DSA/GRAPHS_OLD/Djikstras.i
 	@echo ... DSA/GRAPHS_OLD/Djikstras.s
@@ -10291,6 +10618,9 @@ help:
 	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.obj
 	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.i
 	@echo ... DSA/GREEDY/min_cost_to_cut_board_into_squares.s
+	@echo ... DSA/GREEDY/min_swaps_to_sort.obj
+	@echo ... DSA/GREEDY/min_swaps_to_sort.i
+	@echo ... DSA/GREEDY/min_swaps_to_sort.s
 	@echo ... DSA/GREEDY/minimum_platforms.obj
 	@echo ... DSA/GREEDY/minimum_platforms.i
 	@echo ... DSA/GREEDY/minimum_platforms.s

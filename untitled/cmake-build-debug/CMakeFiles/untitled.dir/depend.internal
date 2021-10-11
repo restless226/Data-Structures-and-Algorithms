@@ -225,32 +225,54 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_2.cpp
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_FINAL.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs_dfs_connected_graph.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bridge_edge_in_graph.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dfs_using_stack.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_bfs.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_using_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_using_dfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/has_path.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/is_graph_connected.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/min_swaps_to_sort.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/min_swaps_to_sort.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/mother_vertex.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/possible_paths_between_2_vertices.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_dfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/Djikstras.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj

@@ -13,46 +13,40 @@
 //#define int long long
 //using namespace std;
 //
-//void dfs(vector<int> adj[], int sv, bool visited[]) {
-//    visited[sv] = true;
-//    for (auto &vertex:adj[sv]) {
+//int dfs(vector<int> adj[], bool *visited, int node, int parent,
+//        vector<int> &tin, vector<int> &low, int timer, int c, int d) {
+//    visited[node] = true;
+//    tin[node] = low[node] = timer++;
+//    for (auto &vertex:adj[node]) {
+//        if (vertex == parent) {
+//            continue;
+//        }
 //        if (!visited[vertex]) {
-//            dfs(adj, vertex,visited);
+//            dfs(adj, visited, vertex, node, tin, low, timer, c, d);
+//            low[node] = min(low[node], low[vertex]);
+//            if (low[vertex] > tin[node]
+//                && ((vertex == c && node == d) || (vertex == d && node == c))) {
+//                return 1;
+//            }
+//        } else {
+//            low[node] = min(low[node], tin[vertex]);
 //        }
 //    }
+//    return 0;
 //}
 //
 //int solve(int V, vector<int> adj[], int c, int d) {
-//    bool visited[V];
-//    int included = 0;
-//    int excluded = 0;
+//    bool *visited = new bool[V];
 //    memset(visited, false, sizeof(visited));
+//    vector<int> tin(V, -1);
+//    vector<int> low(V, -1);
+//    int timer = 0;
 //    for (int i = 0; i < V; i++) {
-//        if(!visited[i]){
-//            dfs(adj, i,visited);
-//            included++;
+//        if (dfs(adj, visited, i, -1, tin, low, timer, c, d) == 1) {
+//            return 1;
 //        }
 //    }
-//    for(int i = 0 ; i < adj[c].size() ; i++){
-//        if(adj[c][i] == d){
-//            adj[c].erase(adj[c].begin() + i);
-//            break;
-//        }
-//    }
-//    for(int i = 0 ; i < adj[d].size() ; i++){
-//        if(adj[d][i] == c){
-//            adj[d].erase(adj[d].begin() + i);
-//            break;
-//        }
-//    }
-//    memset(visited, false, sizeof(visited));
-//    for (int i = 0; i < V; i++) {
-//        if(!visited[i]){
-//            dfs(adj, i,visited);
-//            excluded++;
-//        }
-//    }
-//    return included == excluded ? 0 : 1;
+//    return 0;
 //}
 //
 //int32_t main() {
@@ -123,8 +117,5 @@
 //3 6
 //
 //OUTPUT:
-//1
-//0
-//1
-//0
+//
 //*/

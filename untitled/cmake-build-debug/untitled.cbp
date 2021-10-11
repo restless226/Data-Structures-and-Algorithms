@@ -425,6 +425,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_FINAL.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs_dfs_connected_graph.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -434,19 +437,34 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bridge_edge_in_graph.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dfs_using_stack.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_bfs.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_dfs.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_using_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/has_path.cpp">
@@ -462,6 +480,18 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/Djikstras.cpp">
@@ -525,6 +555,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/min_swaps_to_sort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/minimum_platforms.cpp">

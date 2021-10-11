@@ -225,31 +225,53 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: ../DSA/FILE_H
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: ../DSA/FILE_HANDLING/file_handling_FINAL.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj: ../DSA/GRAPHS/bfs.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_connected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj: ../DSA/GRAPHS/bridge_edge_in_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj: ../DSA/GRAPHS/dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: ../DSA/GRAPHS/dfs_using_stack.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_bfs.cpp.obj: ../DSA/GRAPHS/get_path_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj: ../DSA/GRAPHS/find_no_of_islands.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_dfs.cpp.obj: ../DSA/GRAPHS/get_path_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj: ../DSA/GRAPHS/get_path_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj: ../DSA/GRAPHS/get_path_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/min_swaps_to_sort.cpp.obj: ../DSA/GRAPHS/min_swaps_to_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: ../DSA/GRAPHS/print_all_connected_components.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj: ../DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj: ../DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: ../DSA/GRAPHS_OLD/Djikstras.cpp
 

@@ -9,27 +9,6 @@
 //#define int long long
 //using namespace std;
 //
-//bool bfs(vector<int> adj[], int sv, bool *visited) {
-//    queue<pair<int, int>> pendingVertices;
-//    pendingVertices.push({sv, -1});
-//    visited[sv] = true;
-//    while (!pendingVertices.empty()) {
-//        int currentVertex = pendingVertices.front().first;
-//        int previousVertex = pendingVertices.front().second;
-//        pendingVertices.pop();
-//        visited[currentVertex] = true;
-//        for (auto &vertex: adj[currentVertex]) {
-//            if (!visited[vertex]) {
-//                pendingVertices.push({vertex, currentVertex});
-//                visited[vertex] = true;
-//            } else if (previousVertex != vertex) {
-//                return true;
-//            }
-//        }
-//    }
-//    return false;
-//}
-//
 //bool dfs(vector<int> adj[], int sv, bool *visited) {
 //    stack<pair<int, int>> pendingVertices;
 //    pendingVertices.push({sv, -1});

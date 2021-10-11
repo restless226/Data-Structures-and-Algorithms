@@ -173,9 +173,14 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/DP/TECH_DOSE/lap.cpp DSA/DP/TECH_DOSE/total_decoding_messages.cpp DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
         DSA/DP/DP_LPS/count_palindromic_subsequences.cpp DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
         DSA/GRAPHS/bfs_dfs_connected_graph.cpp DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
-        DSA/GRAPHS/has_path.cpp DSA/GRAPHS/dfs_using_stack.cpp DSA/GRAPHS/get_path_dfs.cpp
-        DSA/GRAPHS/get_path_bfs.cpp DSA/GRAPHS/is_graph_connected.cpp DSA/GRAPHS/print_all_connected_components.cpp
-        DSA/GRAPHS/detect_cycle_in_undirected_graph.cpp DSA/GRAPHS/detect_cycle_in_directed_graph.cpp
-        DSA/GRAPHS/mother_vertex.cpp DSA/GRAPHS/bridge_edge_in_graph.cpp DSA/GRAPHS/possible_paths_between_2_vertices.cpp)
+        DSA/GRAPHS/has_path.cpp DSA/GRAPHS/dfs_using_stack.cpp DSA/GRAPHS/get_path_using_dfs.cpp
+        DSA/GRAPHS/get_path_using_bfs.cpp DSA/GRAPHS/is_graph_connected.cpp DSA/GRAPHS/print_all_connected_components.cpp
+        DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
+        DSA/GRAPHS/mother_vertex.cpp DSA/GRAPHS/bridge_edge_in_graph.cpp DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+        DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
+        DSA/GRAPHS/topological_sort_using_dfs.cpp DSA/GRAPHS/bfs.cpp DSA/GRAPHS/dfs.cpp
+        DSA/GRAPHS/topological_sort_using_bfs.cpp DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
+        DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
+        DSA/GRAPHS/find_no_of_islands.cpp DSA/GREEDY/min_swaps_to_sort.cpp)
 
 
