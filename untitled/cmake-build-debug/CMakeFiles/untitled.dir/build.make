@@ -2039,18 +2039,18 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim2.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim2.cpp.s
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: ../DSA/GRAPHS_OLD/Djikstras.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj: ../DSA/GRAPHS_OLD/dijkstras.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\dijkstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\dijkstras.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.i
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\dijkstras.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\dijkstras.cpp.i
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Djikstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Djikstras.cpp.s
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\dijkstras.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\dijkstras.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: ../DSA/DEQUEUE/dequeue.cpp
@@ -4886,6 +4886,97 @@ CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_swaps_to_sort.cpp -o CMakeFiles\untitled.dir\DSA\GREEDY\min_swaps_to_sort.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: ../DSA/GRAPHS/dijkstra.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\dijkstra.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dijkstra.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dijkstra.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\dijkstra.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dijkstra.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\dijkstra.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/kruskal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\kruskal.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\kruskal.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: ../DSA/GRAPHS/kruskal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\kruskal.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\kruskal.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\kruskal.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\kruskal.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: ../DSA/GRAPHS/shortest_source_to_destination_path.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_source_to_destination_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_source_to_destination_path.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_source_to_destination_path.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_source_to_destination_path.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_source_to_destination_path.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_source_to_destination_path.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj: ../DSA/GRAPHS/covid19.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid19.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid19.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid19.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\covid19.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid19.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid19.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj: ../DSA/GRAPHS/covid_spread.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid_spread.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid_spread.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid_spread.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\covid_spread.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid_spread.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid_spread.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: ../DSA/GRAPHS/find_whether_path_exists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_whether_path_exists.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_whether_path_exists.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_whether_path_exists.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\find_whether_path_exists.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_whether_path_exists.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_whether_path_exists.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -5039,7 +5130,7 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj" \
@@ -5257,7 +5348,14 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -5413,7 +5511,7 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj
@@ -5632,11 +5730,18 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_gra
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

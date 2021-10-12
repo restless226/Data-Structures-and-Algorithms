@@ -81,7 +81,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         DSA/TEMPLATES/unordered_maps.cpp
         DSA/GRAPHS_OLD/graph.cpp DSA/GRAPHS_OLD/graph2.cpp DSA/GRAPHS_OLD/MST_Prim2.cpp
-        DSA/GRAPHS_OLD/Djikstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
+        DSA/GRAPHS_OLD/dijkstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp
         DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
@@ -181,6 +181,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/topological_sort_using_dfs.cpp DSA/GRAPHS/bfs.cpp DSA/GRAPHS/dfs.cpp
         DSA/GRAPHS/topological_sort_using_bfs.cpp DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
         DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
-        DSA/GRAPHS/find_no_of_islands.cpp DSA/GREEDY/min_swaps_to_sort.cpp)
+        DSA/GRAPHS/find_no_of_islands.cpp DSA/GREEDY/min_swaps_to_sort.cpp DSA/GRAPHS/dijkstra.cpp DSA/GRAPHS_OLD/kruskal.cpp
+        DSA/GRAPHS/kruskal.cpp DSA/GRAPHS/shortest_source_to_destination_path.cpp DSA/GRAPHS/covid19.cpp
+        DSA/GRAPHS/covid_spread.cpp DSA/GRAPHS/find_whether_path_exists.cpp)
 
 

@@ -237,6 +237,10 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: ../D
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj: ../DSA/GRAPHS/covid19.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj: ../DSA/GRAPHS/covid_spread.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
@@ -247,7 +251,11 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj: ../DSA/GRAPHS/dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: ../DSA/GRAPHS/dfs_using_stack.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: ../DSA/GRAPHS/dijkstra.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj: ../DSA/GRAPHS/find_no_of_islands.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: ../DSA/GRAPHS/find_whether_path_exists.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj: ../DSA/GRAPHS/get_path_using_bfs.cpp
 
@@ -257,7 +265,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/min_swaps_to_sort.cpp.obj: ../DSA/GRAPHS/min_swaps_to_sort.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: ../DSA/GRAPHS/kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
 
@@ -269,11 +277,11 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_w
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj: ../DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: ../DSA/GRAPHS/shortest_source_to_destination_path.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
-
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Djikstras.cpp.obj: ../DSA/GRAPHS_OLD/Djikstras.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp
 
@@ -289,9 +297,13 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj: ../DSA/GRAPHS_OLD/MST_
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj: ../DSA/GRAPHS_OLD/dijkstras.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 
@@ -314,6 +326,8 @@ CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: ../DS
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: ../DSA/GREEDY/min_cost_of_ropes.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: ../DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
+
+CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj: ../DSA/GREEDY/min_swaps_to_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: ../DSA/GREEDY/minimum_platforms.cpp
 
