@@ -4977,6 +4977,71 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_whether_path_exists.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_whether_path_exists.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj: ../DSA/GRAPHS/rotten_oranges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\rotten_oranges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\rotten_oranges.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\rotten_oranges.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\rotten_oranges.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\rotten_oranges.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\rotten_oranges.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj: ../DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: ../DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp > CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp -o CMakeFiles\untitled.dir\DSA\DP\TECH_DOSE\count_paths_with_exactly_k_edges.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -5355,7 +5420,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -5737,11 +5807,16 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

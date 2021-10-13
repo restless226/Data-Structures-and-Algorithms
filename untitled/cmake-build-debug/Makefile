@@ -2194,6 +2194,33 @@ DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s
 .PHONY : DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.s
 
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.obj: DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj
+
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.obj
+
+# target to build an object file
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj
+
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.i: DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i
+
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.i
+
+# target to preprocess a source file
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.i
+
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.s: DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s
+
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.s
+
+# target to generate assembly for a file
+DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s
+.PHONY : DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.s
+
 DSA/DP/TECH_DOSE/friends_pairing.obj: DSA/DP/TECH_DOSE/friends_pairing.cpp.obj
 
 .PHONY : DSA/DP/TECH_DOSE/friends_pairing.obj
@@ -3409,6 +3436,60 @@ DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s
 .PHONY : DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s
 
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.obj: DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
+
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.obj
+
+# target to build an object file
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
+
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.i: DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i
+
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.i
+
+# target to preprocess a source file
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i
+
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.s: DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s
+
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s
+.PHONY : DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.s
+
+DSA/GRAPHS/count_paths_with_exactly_k_edges.obj: DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj
+
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.obj
+
+# target to build an object file
+DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj
+
+DSA/GRAPHS/count_paths_with_exactly_k_edges.i: DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i
+
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.i
+
+# target to preprocess a source file
+DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i
+
+DSA/GRAPHS/count_paths_with_exactly_k_edges.s: DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s
+
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s
+.PHONY : DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s
+
 DSA/GRAPHS/covid19.obj: DSA/GRAPHS/covid19.cpp.obj
 
 .PHONY : DSA/GRAPHS/covid19.obj
@@ -3624,6 +3705,33 @@ DSA/GRAPHS/dijkstra.s: DSA/GRAPHS/dijkstra.cpp.s
 DSA/GRAPHS/dijkstra.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.s
 .PHONY : DSA/GRAPHS/dijkstra.cpp.s
+
+DSA/GRAPHS/distance_of_nearest_cell_having_1.obj: DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj
+
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.obj
+
+# target to build an object file
+DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj
+
+DSA/GRAPHS/distance_of_nearest_cell_having_1.i: DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i
+
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.i
+
+# target to preprocess a source file
+DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i
+
+DSA/GRAPHS/distance_of_nearest_cell_having_1.s: DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s
+
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s
+.PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s
 
 DSA/GRAPHS/find_no_of_islands.obj: DSA/GRAPHS/find_no_of_islands.cpp.obj
 
@@ -3894,6 +4002,33 @@ DSA/GRAPHS/print_all_connected_components.s: DSA/GRAPHS/print_all_connected_comp
 DSA/GRAPHS/print_all_connected_components.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s
 .PHONY : DSA/GRAPHS/print_all_connected_components.cpp.s
+
+DSA/GRAPHS/rotten_oranges.obj: DSA/GRAPHS/rotten_oranges.cpp.obj
+
+.PHONY : DSA/GRAPHS/rotten_oranges.obj
+
+# target to build an object file
+DSA/GRAPHS/rotten_oranges.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj
+.PHONY : DSA/GRAPHS/rotten_oranges.cpp.obj
+
+DSA/GRAPHS/rotten_oranges.i: DSA/GRAPHS/rotten_oranges.cpp.i
+
+.PHONY : DSA/GRAPHS/rotten_oranges.i
+
+# target to preprocess a source file
+DSA/GRAPHS/rotten_oranges.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.i
+.PHONY : DSA/GRAPHS/rotten_oranges.cpp.i
+
+DSA/GRAPHS/rotten_oranges.s: DSA/GRAPHS/rotten_oranges.cpp.s
+
+.PHONY : DSA/GRAPHS/rotten_oranges.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/rotten_oranges.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.s
+.PHONY : DSA/GRAPHS/rotten_oranges.cpp.s
 
 DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj: DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj
 
@@ -10558,6 +10693,9 @@ help:
 	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.obj
 	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.i
 	@echo ... DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.s
+	@echo ... DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.obj
+	@echo ... DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.i
+	@echo ... DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.s
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.obj
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.i
 	@echo ... DSA/DP/TECH_DOSE/friends_pairing.s
@@ -10693,6 +10831,12 @@ help:
 	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.obj
 	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.i
 	@echo ... DSA/GRAPHS/check_bipartite_graph_using_dfs.s
+	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.obj
+	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.i
+	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.s
+	@echo ... DSA/GRAPHS/count_paths_with_exactly_k_edges.obj
+	@echo ... DSA/GRAPHS/count_paths_with_exactly_k_edges.i
+	@echo ... DSA/GRAPHS/count_paths_with_exactly_k_edges.s
 	@echo ... DSA/GRAPHS/covid19.obj
 	@echo ... DSA/GRAPHS/covid19.i
 	@echo ... DSA/GRAPHS/covid19.s
@@ -10717,6 +10861,9 @@ help:
 	@echo ... DSA/GRAPHS/dijkstra.obj
 	@echo ... DSA/GRAPHS/dijkstra.i
 	@echo ... DSA/GRAPHS/dijkstra.s
+	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.obj
+	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.i
+	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.s
 	@echo ... DSA/GRAPHS/find_no_of_islands.obj
 	@echo ... DSA/GRAPHS/find_no_of_islands.i
 	@echo ... DSA/GRAPHS/find_no_of_islands.s
@@ -10747,6 +10894,9 @@ help:
 	@echo ... DSA/GRAPHS/print_all_connected_components.obj
 	@echo ... DSA/GRAPHS/print_all_connected_components.i
 	@echo ... DSA/GRAPHS/print_all_connected_components.s
+	@echo ... DSA/GRAPHS/rotten_oranges.obj
+	@echo ... DSA/GRAPHS/rotten_oranges.i
+	@echo ... DSA/GRAPHS/rotten_oranges.s
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.i
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s

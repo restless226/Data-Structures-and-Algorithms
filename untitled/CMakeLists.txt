@@ -183,6 +183,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
         DSA/GRAPHS/find_no_of_islands.cpp DSA/GREEDY/min_swaps_to_sort.cpp DSA/GRAPHS/dijkstra.cpp DSA/GRAPHS_OLD/kruskal.cpp
         DSA/GRAPHS/kruskal.cpp DSA/GRAPHS/shortest_source_to_destination_path.cpp DSA/GRAPHS/covid19.cpp
-        DSA/GRAPHS/covid_spread.cpp DSA/GRAPHS/find_whether_path_exists.cpp)
+        DSA/GRAPHS/covid_spread.cpp DSA/GRAPHS/find_whether_path_exists.cpp DSA/GRAPHS/rotten_oranges.cpp
+        DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
+        DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp)
 
 

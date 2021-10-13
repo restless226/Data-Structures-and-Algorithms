@@ -308,6 +308,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/friends_pairing.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -443,6 +446,12 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/covid19.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -465,6 +474,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dijkstra.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands.cpp">
@@ -495,6 +507,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/rotten_oranges.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp">
