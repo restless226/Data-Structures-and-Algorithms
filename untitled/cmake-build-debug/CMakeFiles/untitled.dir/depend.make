@@ -3,13 +3,9 @@
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: ../DAA_ASSIGNMENTS/bellman_ford.cpp
 
-CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/file_handling.cpp.obj: ../DAA_ASSIGNMENTS/file_handling.cpp
-
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj: ../DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj: ../DAA_ASSIGNMENTS/knapsack_01.cpp
-
-CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/merge_sort.cpp.obj: ../DAA_ASSIGNMENTS/merge_sort.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj: ../DAA_ASSIGNMENTS/n_queens.cpp
 
@@ -173,6 +169,8 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_product_subarray.cpp.obj: ../DSA/DP
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj: ../DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/min_cost_path.cpp.obj: ../DSA/DP/TECH_DOSE/min_cost_path.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/msis.cpp.obj: ../DSA/DP/TECH_DOSE/msis.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
@@ -227,17 +225,27 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: ../DSA/FILE_H
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: ../DSA/FILE_HANDLING/file_handling_FINAL.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/prim.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj: ../DSA/GRAPHS/articulation_point.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj: ../DSA/GRAPHS/bellman_ford.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj: ../DSA/GRAPHS/bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_connected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj: ../DSA/GRAPHS/bridge_edge_in_graph.cpp
-
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj: ../DSA/GRAPHS/check_bridge_edge_or_not.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: ../DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
 
@@ -261,7 +269,9 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: ../DSA/GRAPHS/dijkstra.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj: ../DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj: ../DSA/GRAPHS/find_no_of_islands.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj: ../DSA/GRAPHS/find_no_of_islands_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj: ../DSA/GRAPHS/find_no_of_islands_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: ../DSA/GRAPHS/find_whether_path_exists.cpp
 
@@ -273,11 +283,21 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj: ../DSA/GRAPHS/kosaraju_tarjan.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: ../DSA/GRAPHS/kruskal.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj: ../DSA/GRAPHS/min_cost_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_bfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_dfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_dfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj: ../DSA/GRAPHS/prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: ../DSA/GRAPHS/print_all_connected_components.cpp
 
@@ -289,31 +309,33 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.o
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: ../DSA/GRAPHS/shortest_source_to_destination_path.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj: ../DSA/GRAPHS/steps_by_knight.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj: ../DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_bfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_dfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Dijikstras.cpp.obj: ../DSA/GRAPHS_CN_OLD/Dijikstras.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_CN_OLD/MST_Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_CN_OLD/MST_kruskal.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Prim.cpp.obj: ../DSA/GRAPHS_CN_OLD/Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj: ../DSA/GRAPHS_OLD/dijkstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph.cpp.obj: ../DSA/GRAPHS_CN_OLD/graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph2.cpp.obj: ../DSA/GRAPHS_CN_OLD/graph2.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj: ../DSA/GRAPHS_CN_OLD/grpahs_use.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_CN_OLD/kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 

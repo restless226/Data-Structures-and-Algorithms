@@ -69,7 +69,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-        ROUGH_FILES/rough3.cpp DSA/GRAPHS_OLD/MST_kruskal.cpp DSA/GRAPHS_OLD/MST_Prim.cpp
+        ROUGH_FILES/rough3.cpp DSA/GRAPHS_CN_OLD/MST_kruskal.cpp DSA/GRAPHS_CN_OLD/MST_Prim.cpp
         DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
         DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
         DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
@@ -80,8 +80,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         DSA/TEMPLATES/unordered_maps.cpp
-        DSA/GRAPHS_OLD/graph.cpp DSA/GRAPHS_OLD/graph2.cpp DSA/GRAPHS_OLD/MST_Prim2.cpp
-        DSA/GRAPHS_OLD/dijkstras.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
+        DSA/GRAPHS_CN_OLD/graph.cpp DSA/GRAPHS_CN_OLD/graph2.cpp DSA/GRAPHS/GRAPHS_CN/prim.cpp
+        DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp
         DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
@@ -94,14 +94,14 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/TREES/BST_CN/BST_use.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.h
         DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp DSA/TREES/TBT/TBT.h DSA/HEAP/heap.h
         DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
-        DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
-        DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
+        DSA/GRAPHS_CN_OLD/grpahs_use.cpp DSA/GRAPHS_CN_OLD/kruskal.cpp DSA/GRAPHS_CN_OLD/Prim.cpp
+        DSA/GRAPHS_CN_OLD/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
         DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
         DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
         DSA/STACK/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
         DSA/FILE_HANDLING/file_handling_2.cpp DSA/FILE_HANDLING/file_handling_FINAL.cpp
         DSA/DP/DP_CN/fib.cpp DSA/DP/DP_CN/min_steps.cpp DSA/DP/DP_CN/min_count.cpp
-        DAA_ASSIGNMENTS/file_handling.cpp DAA_ASSIGNMENTS/merge_sort.cpp DAA_ASSIGNMENTS/n_queens.cpp DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
+        DAA_ASSIGNMENTS/n_queens.cpp DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
         DSA/BACKTRACKING/n_queens.cpp DSA/BACKTRACKING/rat_in_a_maze.cpp
         DSA/BINARY_SEARCH/aggressive_cows.cpp DAA_ASSIGNMENTS/knapsack_01.cpp
         DSA/DP/bounded_knapsack/knapsack.cpp DSA/DP/bounded_knapsack/subset_sum.cpp DSA/DP/bounded_knapsack/equal_sum_partition.cpp
@@ -176,15 +176,20 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/has_path.cpp DSA/GRAPHS/dfs_using_stack.cpp DSA/GRAPHS/get_path_using_dfs.cpp
         DSA/GRAPHS/get_path_using_bfs.cpp DSA/GRAPHS/is_graph_connected.cpp DSA/GRAPHS/print_all_connected_components.cpp
         DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
-        DSA/GRAPHS/mother_vertex.cpp DSA/GRAPHS/bridge_edge_in_graph.cpp DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+        DSA/GRAPHS/mother_vertex.cpp DSA/GRAPHS/check_bridge_edge_or_not.cpp DSA/GRAPHS/possible_paths_between_2_vertices.cpp
         DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
         DSA/GRAPHS/topological_sort_using_dfs.cpp DSA/GRAPHS/bfs.cpp DSA/GRAPHS/dfs.cpp
         DSA/GRAPHS/topological_sort_using_bfs.cpp DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
         DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
-        DSA/GRAPHS/find_no_of_islands.cpp DSA/GREEDY/min_swaps_to_sort.cpp DSA/GRAPHS/dijkstra.cpp DSA/GRAPHS_OLD/kruskal.cpp
+        DSA/GRAPHS/find_no_of_islands_dfs.cpp DSA/GREEDY/min_swaps_to_sort.cpp DSA/GRAPHS/dijkstra.cpp DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
         DSA/GRAPHS/kruskal.cpp DSA/GRAPHS/shortest_source_to_destination_path.cpp DSA/GRAPHS/covid19.cpp
         DSA/GRAPHS/covid_spread.cpp DSA/GRAPHS/find_whether_path_exists.cpp DSA/GRAPHS/rotten_oranges.cpp
         DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
-        DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp)
+        DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp
+        DSA/GRAPHS/articulation_point.cpp DSA/GRAPHS/kosaraju_tarjan.cpp DSA/GRAPHS/steps_by_knight.cpp
+        DSA/GRAPHS/bellman_ford.cpp DSA/GRAPHS/prim.cpp DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
+        DSA/GRAPHS/find_no_of_islands_bfs.cpp DSA/GRAPHS/min_cost_path.cpp DSA/DP/TECH_DOSE/min_cost_path.cpp
+        DSA/GRAPHS/x_total_shapes_dfs.cpp DSA/GRAPHS/x_total_shapes_bfs.cpp DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp
+        DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp)
 
 

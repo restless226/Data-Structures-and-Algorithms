@@ -3,14 +3,10 @@
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/bellman_ford.cpp
-CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/file_handling.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/file_handling.cpp
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/knapsack_01.cpp
-CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/merge_sort.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/merge_sort.cpp
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/n_queens.cpp
 CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj
@@ -173,6 +169,8 @@ CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_product_subarray.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_product_subarray.cpp
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp
+CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/min_cost_path.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/min_cost_path.cpp
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/msis.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/DP/TECH_DOSE/msis.cpp
 CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj
@@ -227,18 +225,28 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_2.cpp
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/FILE_HANDLING/file_handling_FINAL.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/articulation_point.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bellman_ford.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs_dfs_connected_graph.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/bridge_edge_in_graph.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/bridge_edge_in_graph.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bridge_edge_or_not.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj
@@ -261,8 +269,10 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/dijkstra.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_no_of_islands_dfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_whether_path_exists.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj
@@ -273,12 +283,22 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/has_path.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/is_graph_connected.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/kosaraju_tarjan.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/min_cost_path.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/mother_vertex.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/possible_paths_between_2_vertices.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/prerequisite_tasks_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/prerequisite_tasks_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/prim.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj
@@ -289,32 +309,34 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.o
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_source_to_destination_path.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/steps_by_knight.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_bfs.cpp
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_dfs.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/GRAPHS_CN/Dijikstras.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/GRAPHS_CN/Prim.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/GRAPHS_CN/grpahs_use.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/GRAPHS_CN/kruskal.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/MST_Prim.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim2.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/MST_Prim2.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/MST_kruskal.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/dijkstras.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/dijkstras.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/graph.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/graph2.cpp
-CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_OLD/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/x_total_shapes_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/x_total_shapes_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Dijikstras.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/Dijikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_Prim.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/MST_Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_kruskal.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/MST_kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Prim.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph2.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/graph2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/grpahs_use.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/kruskal.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS_CN_OLD/kruskal.cpp
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/activity_selection.cpp
 CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj

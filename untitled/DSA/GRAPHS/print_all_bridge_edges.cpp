@@ -1,9 +1,8 @@
 ///*
 //PROBLEM STATEMENT:
-//Given an undirected graph of V vertices and E edges and another edge (c-d),
-//the task is to find if the given edge is a bridge in graph,
+//Given an undirected graph of V vertices and E edges
+//the task is to find all bridge edges in graph,
 //i.e., removing the edge disconnects the graph.
-//
 //Expected Time Complexity: O(V + E).
 //Expected Auxiliary Space: O(V).
 //*/
@@ -13,40 +12,37 @@
 //#define int long long
 //using namespace std;
 //
-//int dfs(vector<int> adj[], bool *visited, int node, int parent,
-//        vector<int> &tin, vector<int> &low, int timer, int c, int d) {
+//void dfs(vector<int> adj[], bool *visited, int node, int parent, vector<int> &tin,
+//         vector<int> &low, int timer, vector<pair<int, int>> &ans) {
 //    visited[node] = true;
 //    tin[node] = low[node] = timer++;
 //    for (auto &vertex:adj[node]) {
-//        if (vertex == parent) {
-//            continue;
-//        }
+//        if (vertex == parent) continue;
 //        if (!visited[vertex]) {
-//            dfs(adj, visited, vertex, node, tin, low, timer, c, d);
+//            dfs(adj, visited, vertex, node, tin, low, timer, ans);
 //            low[node] = min(low[node], low[vertex]);
-//            if (low[vertex] > tin[node]
-//                && ((vertex == c && node == d) || (vertex == d && node == c))) {
-//                return 1;
+//            if (low[vertex] > tin[node]) {
+//                ans.emplace_back(node, vertex);
 //            }
 //        } else {
 //            low[node] = min(low[node], tin[vertex]);
 //        }
 //    }
-//    return 0;
 //}
 //
-//int solve(int V, vector<int> adj[], int c, int d) {
+//vector<pair<int, int>> solve(int V, vector<int> adj[]) {
 //    bool *visited = new bool[V];
 //    memset(visited, false, sizeof(visited));
 //    vector<int> tin(V, -1);
 //    vector<int> low(V, -1);
+//    vector<pair<int, int>> ans;
 //    int timer = 0;
 //    for (int i = 0; i < V; i++) {
-//        if (dfs(adj, visited, i, -1, tin, low, timer, c, d) == 1) {
-//            return 1;
+//        if (!visited[i]) {
+//            dfs(adj, visited, i, -1, tin, low, timer, ans);
 //        }
 //    }
-//    return 0;
+//    return ans;
 //}
 //
 //int32_t main() {
@@ -66,11 +62,9 @@
 //            adj[u].push_back(v);
 //            adj[v].push_back(u);
 //        }
-//
-//        int c, d;
-//        cin >> c >> d;
-//
-//        cout << solve(V, adj, c, d) << "\n";
+//        vector<pair<int, int>> ans = solve(V, adj);
+//        for (auto &itr:ans) cout << itr.first << " " << itr.second << '\n';
+//        cout << "\n";
 //    }
 //    return 0;
 //}
@@ -83,7 +77,6 @@
 //0 1
 //1 2
 //2 3
-//1 2
 //5
 //5
 //1 0
@@ -91,7 +84,6 @@
 //0 2
 //0 3
 //0 4
-//0 2
 //5
 //5
 //1 0
@@ -99,7 +91,6 @@
 //0 2
 //0 3
 //0 4
-//0 3
 //9
 //12
 //0 2
@@ -114,8 +105,17 @@
 //7 8
 //8 6
 //8 2
-//3 6
 //
 //OUTPUT:
+//2 3
+//1 2
+//0 1
 //
+//0 3
+//0 4
+//
+//0 3
+//0 4
+//
+//2 4
 //*/

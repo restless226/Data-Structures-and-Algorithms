@@ -20,7 +20,7 @@
 //};
 //
 //bool cmp(Edge e1, Edge e2) {
-//    return e1.w <= e2.w ? true : false;
+//    return e1.w < e2.w;
 //}
 //
 //int findParent(int vertex, vector<int> parent) {
@@ -55,10 +55,16 @@
 //}
 //
 //int solve(int V, vector<vector<int>> adj[]) {
+//    vector<vector<int>> graph(V, vector<int>(V, -1));
 //    vector<Edge> input;
 //    for (int i = 0; i < V; i++) {
-//        for (int j = 0; j < adj[i].size(); j++) {
-//            input.push_back({i, adj[i][j][0], adj[i][j][1]});
+//        for (auto &adjacent:adj[i]) {
+//            graph[i][adjacent[0]] = adjacent[1];
+//        }
+//    }
+//    for (int i = 0; i < V; i++) {
+//        for (int j = i; j < V; j++) {
+//            if (graph[i][j] != -1) input.push_back({i, j, graph[i][j]});
 //        }
 //    }
 //    sort(input.begin(), input.end(), cmp);
@@ -71,14 +77,14 @@
 //    }
 //    int cost = 0;
 //    vector<Edge> output;
-//    for (int currentEdge = 0; currentEdge < input.size(); currentEdge += 2) {
-//        int sourceParent = findParent(input[currentEdge].u, parent);
-//        int destParent = findParent(input[currentEdge].v, parent);
+//    for (auto &currentEdge : input) {
+//        int sourceParent = findParent(currentEdge.u, parent);
+//        int destParent = findParent(currentEdge.v, parent);
 //        // checking whether addition of edge will introduce a cycle or not
 //        if (sourceParent != destParent) {
-//            cost += input[currentEdge].w;
-//            output.push_back(input[currentEdge]);
-//            union_by_rank(input[currentEdge].u, input[currentEdge].v, parent, rank);
+//            cost += currentEdge.w;
+//            output.push_back(currentEdge);
+//            union_by_rank(currentEdge.u, currentEdge.v, parent, rank);
 //        }
 //    }
 //    cout << "\nOUTPUT ARRAY...\n";
@@ -148,41 +154,34 @@
 //2 3 10
 //
 //OUTPUT:
-//0 2 1
+//INPUT ARRAY...
 //0 2 1
 //1 2 3
-//1 2 3
-//0 1 5
 //0 1 5
 //
+//
+//OUTPUT ARRAY...
 //0 2 1
 //1 2 3
 //
 //4
 //
-//1 3 1
+//
+//INPUT ARRAY...
 //1 3 1
 //0 1 2
-//0 1 2
-//0 3 3
 //0 3 3
 //0 2 4
-//0 2 4
-//4 5 5
 //4 5 5
 //2 3 6
-//2 3 6
-//3 5 7
 //3 5 7
 //1 2 8
-//1 2 8
-//2 4 9
 //2 4 9
 //2 5 10
-//2 5 10
-//3 4 11
 //3 4 11
 //
+//
+//OUTPUT ARRAY...
 //1 3 1
 //0 1 2
 //0 2 4
@@ -190,4 +189,43 @@
 //3 5 7
 //
 //19
+//
+//
+//INPUT ARRAY...
+//1 3 3
+//0 1 3
+//4 5 6
+//2 4 6
+//3 6 8
+//2 6 9
+//1 5 10
+//
+//
+//OUTPUT ARRAY...
+//1 3 3
+//0 1 3
+//4 5 6
+//2 4 6
+//3 6 8
+//2 6 9
+//
+//35
+//
+//
+//INPUT ARRAY...
+//0 5 2
+//0 4 2
+//1 3 5
+//0 3 9
+//2 3 10
+//
+//
+//OUTPUT ARRAY...
+//0 5 2
+//0 4 2
+//1 3 5
+//0 3 9
+//2 3 10
+//
+//28
 //*/

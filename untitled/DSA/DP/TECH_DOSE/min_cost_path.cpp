@@ -17,28 +17,27 @@
 //
 //int solve(vector<vector<int>> &grid) {
 //    int n = grid.size();
-//    vector<vector<int>> distance(n, vector<int>(n, INT_MAX));
-//    priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>,
-//            greater<pair<int, pair<int, int>>>> pq;
-//    pq.push({grid[0][0], {0, 0}});
+//    vector<vector<int>> dp(n + 1, vector<int>(n + 1, INT_MAX));
+//    dp[0][0] = grid[0][0];
 //    int dx[] = {1, -1, 0, 0};
 //    int dy[] = {0, 0, 1, -1};
+//    priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>,
+//    greater<pair<int, pair<int, int>>>> pq;
+//    pq.push({grid[0][0], {0, 0}});
 //    while (!pq.empty()) {
-//        int w = pq.top().first;
 //        int x = pq.top().second.first;
 //        int y = pq.top().second.second;
 //        pq.pop();
 //        for (int i = 0; i < 4; i++) {
-//            if (isValid(x + dx[i], y + dy[i], n)) {
-//                if (w + grid[x + dx[i]][y + dy[i]] < distance[x + dx[i]][y + dy[i]]) {
-//                    distance[x + dx[i]][y + dy[i]] = w + grid[x + dx[i]][y + dy[i]];
-//                    pq.push({distance[x + dx[i]][y + dy[i]], {x + dx[i], y + dy[i]}});
-//                }
-//                if (x + dx[i] == n - 1 && y + dy[i] == n - 1) return distance[x + dx[i]][y + dy[i]];
+//            if (isValid(x + dx[i], y + dy[i], n) &&
+//                (dp[x][y] + grid[x + dx[i]][y + dy[i]] < dp[x + dx[i]][y + dy[i]])) {
+//                dp[x + dx[i]][y + dy[i]] = dp[x][y] + grid[x + dx[i]][y + dy[i]];
+//                pq.push({dp[x + dx[i]][y + dy[i]], {x + dx[i], y + dy[i]}});
 //            }
+//
 //        }
 //    }
-//    return 0;
+//    return dp[n - 1][n - 1];
 //}
 //
 //int32_t main() {
