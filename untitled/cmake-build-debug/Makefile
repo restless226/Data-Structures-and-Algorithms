@@ -3922,6 +3922,60 @@ DSA/GRAPHS/find_whether_path_exists.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s
 .PHONY : DSA/GRAPHS/find_whether_path_exists.cpp.s
 
+DSA/GRAPHS/flood_fill_using_bfs.obj: DSA/GRAPHS/flood_fill_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/flood_fill_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.cpp.obj
+
+DSA/GRAPHS/flood_fill_using_bfs.i: DSA/GRAPHS/flood_fill_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/flood_fill_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.cpp.i
+
+DSA/GRAPHS/flood_fill_using_bfs.s: DSA/GRAPHS/flood_fill_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/flood_fill_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/flood_fill_using_bfs.cpp.s
+
+DSA/GRAPHS/flood_fill_using_dfs.obj: DSA/GRAPHS/flood_fill_using_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/flood_fill_using_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.cpp.obj
+
+DSA/GRAPHS/flood_fill_using_dfs.i: DSA/GRAPHS/flood_fill_using_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/flood_fill_using_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.i
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.cpp.i
+
+DSA/GRAPHS/flood_fill_using_dfs.s: DSA/GRAPHS/flood_fill_using_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/flood_fill_using_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.s
+.PHONY : DSA/GRAPHS/flood_fill_using_dfs.cpp.s
+
 DSA/GRAPHS/get_path_using_bfs.obj: DSA/GRAPHS/get_path_using_bfs.cpp.obj
 
 .PHONY : DSA/GRAPHS/get_path_using_bfs.obj
@@ -4462,6 +4516,33 @@ DSA/GRAPHS/topological_sort_using_dfs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.s
 .PHONY : DSA/GRAPHS/topological_sort_using_dfs.cpp.s
 
+DSA/GRAPHS/transitive_closure_of_graph.obj: DSA/GRAPHS/transitive_closure_of_graph.cpp.obj
+
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.obj
+
+# target to build an object file
+DSA/GRAPHS/transitive_closure_of_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.cpp.obj
+
+DSA/GRAPHS/transitive_closure_of_graph.i: DSA/GRAPHS/transitive_closure_of_graph.cpp.i
+
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.i
+
+# target to preprocess a source file
+DSA/GRAPHS/transitive_closure_of_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.i
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.cpp.i
+
+DSA/GRAPHS/transitive_closure_of_graph.s: DSA/GRAPHS/transitive_closure_of_graph.cpp.s
+
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/transitive_closure_of_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.s
+.PHONY : DSA/GRAPHS/transitive_closure_of_graph.cpp.s
+
 DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj: DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj
 
 .PHONY : DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj
@@ -4488,6 +4569,60 @@ DSA/GRAPHS/unit_area_of_largest_region_of_ones.s: DSA/GRAPHS/unit_area_of_larges
 DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s
 .PHONY : DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s
+
+DSA/GRAPHS/word_ladder_I.obj: DSA/GRAPHS/word_ladder_I.cpp.obj
+
+.PHONY : DSA/GRAPHS/word_ladder_I.obj
+
+# target to build an object file
+DSA/GRAPHS/word_ladder_I.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj
+.PHONY : DSA/GRAPHS/word_ladder_I.cpp.obj
+
+DSA/GRAPHS/word_ladder_I.i: DSA/GRAPHS/word_ladder_I.cpp.i
+
+.PHONY : DSA/GRAPHS/word_ladder_I.i
+
+# target to preprocess a source file
+DSA/GRAPHS/word_ladder_I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.i
+.PHONY : DSA/GRAPHS/word_ladder_I.cpp.i
+
+DSA/GRAPHS/word_ladder_I.s: DSA/GRAPHS/word_ladder_I.cpp.s
+
+.PHONY : DSA/GRAPHS/word_ladder_I.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/word_ladder_I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.s
+.PHONY : DSA/GRAPHS/word_ladder_I.cpp.s
+
+DSA/GRAPHS/word_search_dfs.obj: DSA/GRAPHS/word_search_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/word_search_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/word_search_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj
+.PHONY : DSA/GRAPHS/word_search_dfs.cpp.obj
+
+DSA/GRAPHS/word_search_dfs.i: DSA/GRAPHS/word_search_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/word_search_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/word_search_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.i
+.PHONY : DSA/GRAPHS/word_search_dfs.cpp.i
+
+DSA/GRAPHS/word_search_dfs.s: DSA/GRAPHS/word_search_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/word_search_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/word_search_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.s
+.PHONY : DSA/GRAPHS/word_search_dfs.cpp.s
 
 DSA/GRAPHS/x_total_shapes_bfs.obj: DSA/GRAPHS/x_total_shapes_bfs.cpp.obj
 
@@ -11182,6 +11317,12 @@ help:
 	@echo ... DSA/GRAPHS/find_whether_path_exists.obj
 	@echo ... DSA/GRAPHS/find_whether_path_exists.i
 	@echo ... DSA/GRAPHS/find_whether_path_exists.s
+	@echo ... DSA/GRAPHS/flood_fill_using_bfs.obj
+	@echo ... DSA/GRAPHS/flood_fill_using_bfs.i
+	@echo ... DSA/GRAPHS/flood_fill_using_bfs.s
+	@echo ... DSA/GRAPHS/flood_fill_using_dfs.obj
+	@echo ... DSA/GRAPHS/flood_fill_using_dfs.i
+	@echo ... DSA/GRAPHS/flood_fill_using_dfs.s
 	@echo ... DSA/GRAPHS/get_path_using_bfs.obj
 	@echo ... DSA/GRAPHS/get_path_using_bfs.i
 	@echo ... DSA/GRAPHS/get_path_using_bfs.s
@@ -11242,9 +11383,18 @@ help:
 	@echo ... DSA/GRAPHS/topological_sort_using_dfs.obj
 	@echo ... DSA/GRAPHS/topological_sort_using_dfs.i
 	@echo ... DSA/GRAPHS/topological_sort_using_dfs.s
+	@echo ... DSA/GRAPHS/transitive_closure_of_graph.obj
+	@echo ... DSA/GRAPHS/transitive_closure_of_graph.i
+	@echo ... DSA/GRAPHS/transitive_closure_of_graph.s
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.i
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.s
+	@echo ... DSA/GRAPHS/word_ladder_I.obj
+	@echo ... DSA/GRAPHS/word_ladder_I.i
+	@echo ... DSA/GRAPHS/word_ladder_I.s
+	@echo ... DSA/GRAPHS/word_search_dfs.obj
+	@echo ... DSA/GRAPHS/word_search_dfs.i
+	@echo ... DSA/GRAPHS/word_search_dfs.s
 	@echo ... DSA/GRAPHS/x_total_shapes_bfs.obj
 	@echo ... DSA/GRAPHS/x_total_shapes_bfs.i
 	@echo ... DSA/GRAPHS/x_total_shapes_bfs.s

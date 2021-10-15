@@ -275,6 +275,10 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj: ../DSA/GRAPHS
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: ../DSA/GRAPHS/find_whether_path_exists.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj: ../DSA/GRAPHS/flood_fill_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj: ../DSA/GRAPHS/flood_fill_using_dfs.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj: ../DSA/GRAPHS/get_path_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj: ../DSA/GRAPHS/get_path_using_dfs.cpp
@@ -293,9 +297,9 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_v
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_bfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_bfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_dfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_dfs.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj: ../DSA/GRAPHS/prim.cpp
 
@@ -315,7 +319,13 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GR
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj: ../DSA/GRAPHS/transitive_closure_of_graph.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj: ../DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj: ../DSA/GRAPHS/word_ladder_I.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj: ../DSA/GRAPHS/word_search_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_bfs.cpp
 

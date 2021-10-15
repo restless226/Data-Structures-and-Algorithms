@@ -500,6 +500,12 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/find_whether_path_exists.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/flood_fill_using_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/flood_fill_using_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/get_path_using_bfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -560,7 +566,16 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/topological_sort_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/transitive_closure_of_graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/word_ladder_I.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/word_search_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/x_total_shapes_bfs.cpp">
