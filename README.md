@@ -1,4 +1,5 @@
 # CLion-Projects
-This repository solutions of DSA problems in cpp which are sufficient for interview preparation
-alongwith problem statements, input, output and comments wherever required.
+This repository solutions of DSA problems in C++ alongwith problem statements, 
+input & output of sample testcases and comments wherever required which are sufficient for interview preparation.
+
 
