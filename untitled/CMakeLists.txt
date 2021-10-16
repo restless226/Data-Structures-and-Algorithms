@@ -191,6 +191,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/find_no_of_islands_bfs.cpp DSA/GRAPHS/min_cost_path.cpp DSA/DP/TECH_DOSE/min_cost_path.cpp
         DSA/GRAPHS/x_total_shapes_dfs.cpp DSA/GRAPHS/x_total_shapes_bfs.cpp DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp
         DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp DSA/GRAPHS/flood_fill_using_dfs.cpp DSA/GRAPHS/flood_fill_using_bfs.cpp
-        DSA/GRAPHS/word_search_dfs.cpp DSA/GRAPHS/transitive_closure_of_graph.cpp DSA/GRAPHS/word_ladder_I.cpp)
+        DSA/GRAPHS/word_search_dfs.cpp DSA/GRAPHS/transitive_closure_of_graph.cpp DSA/GRAPHS/word_ladder_I.cpp
+        DSA/GRAPHS/replace_O's_with_X's_dfs.cpp DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp DSA/GRAPHS/replace_O's_with_X's_bfs.cpp
+        )
 
 

@@ -545,6 +545,15 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/replace_O&apos;s_with_X&apos;s_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/replace_O&apos;s_with_X&apos;s_dfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/replace_O&apos;s_with_X&apos;s_dfs_alternative.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/rotten_oranges.cpp">
 			<Option target="untitled"/>
 		</Unit>

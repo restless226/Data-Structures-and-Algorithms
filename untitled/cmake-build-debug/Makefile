@@ -4327,6 +4327,87 @@ DSA/GRAPHS/print_all_connected_components.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s
 .PHONY : DSA/GRAPHS/print_all_connected_components.cpp.s
 
+DSA/GRAPHS/replace_O's_with_X's_bfs.obj: DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj
+
+DSA/GRAPHS/replace_O's_with_X's_bfs.i: DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i
+
+DSA/GRAPHS/replace_O's_with_X's_bfs.s: DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s
+
+DSA/GRAPHS/replace_O's_with_X's_dfs.obj: DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.obj
+
+# target to build an object file
+DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj
+
+DSA/GRAPHS/replace_O's_with_X's_dfs.i: DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i
+
+DSA/GRAPHS/replace_O's_with_X's_dfs.s: DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s
+
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.obj: DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.obj
+
+# target to build an object file
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj
+
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.i: DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.i
+
+# target to preprocess a source file
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i
+
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.s: DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s
+
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s"
+.PHONY : DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s
+
 DSA/GRAPHS/rotten_oranges.obj: DSA/GRAPHS/rotten_oranges.cpp.obj
 
 .PHONY : DSA/GRAPHS/rotten_oranges.obj
@@ -11362,6 +11443,15 @@ help:
 	@echo ... DSA/GRAPHS/print_all_connected_components.obj
 	@echo ... DSA/GRAPHS/print_all_connected_components.i
 	@echo ... DSA/GRAPHS/print_all_connected_components.s
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_bfs.obj
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_bfs.i
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_bfs.s
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs.obj
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs.i
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs.s
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.obj
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.i
+	@echo ... DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.s
 	@echo ... DSA/GRAPHS/rotten_oranges.obj
 	@echo ... DSA/GRAPHS/rotten_oranges.i
 	@echo ... DSA/GRAPHS/rotten_oranges.s

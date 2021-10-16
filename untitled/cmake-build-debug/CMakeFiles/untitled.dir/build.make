@@ -5250,6 +5250,45 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_ladder_I.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\word_ladder_I.cpp.s
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_dfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp" > "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp.i"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp" -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp.s"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp" > "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp.i"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp" -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp.s"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp" > "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp.i"
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp" -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp.s"
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -5649,7 +5688,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6052,11 +6094,14 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
