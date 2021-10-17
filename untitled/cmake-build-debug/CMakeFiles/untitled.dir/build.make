@@ -5289,6 +5289,71 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp" -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp.s"
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj: ../DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj: ../DSA/GRAPHS/no_of_provinces.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\no_of_provinces.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\no_of_provinces.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\no_of_provinces.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\no_of_provinces.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\no_of_provinces.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\no_of_provinces.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj: ../DSA/GRAPHS/critical_connections.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\critical_connections.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\critical_connections.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\critical_connections.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\critical_connections.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\critical_connections.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\critical_connections.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj: ../DSA/GRAPHS/floyd_warshall.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\floyd_warshall.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\floyd_warshall.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\floyd_warshall.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\floyd_warshall.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\floyd_warshall.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\floyd_warshall.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj: ../DSA/GRAPHS/snake_and_ladder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\snake_and_ladder.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\snake_and_ladder.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\snake_and_ladder.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\snake_and_ladder.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\snake_and_ladder.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\snake_and_ladder.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -5691,7 +5756,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6097,11 +6167,16 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

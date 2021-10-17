@@ -3652,6 +3652,33 @@ DSA/GRAPHS/covid_spread.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.s
 .PHONY : DSA/GRAPHS/covid_spread.cpp.s
 
+DSA/GRAPHS/critical_connections.obj: DSA/GRAPHS/critical_connections.cpp.obj
+
+.PHONY : DSA/GRAPHS/critical_connections.obj
+
+# target to build an object file
+DSA/GRAPHS/critical_connections.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj
+.PHONY : DSA/GRAPHS/critical_connections.cpp.obj
+
+DSA/GRAPHS/critical_connections.i: DSA/GRAPHS/critical_connections.cpp.i
+
+.PHONY : DSA/GRAPHS/critical_connections.i
+
+# target to preprocess a source file
+DSA/GRAPHS/critical_connections.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.i
+.PHONY : DSA/GRAPHS/critical_connections.cpp.i
+
+DSA/GRAPHS/critical_connections.s: DSA/GRAPHS/critical_connections.cpp.s
+
+.PHONY : DSA/GRAPHS/critical_connections.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/critical_connections.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.s
+.PHONY : DSA/GRAPHS/critical_connections.cpp.s
+
 DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj: DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj
 
 .PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj
@@ -3841,6 +3868,33 @@ DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s
 .PHONY : DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s
 
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.obj: DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj
+
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.obj
+
+# target to build an object file
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj
+
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.i: DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i
+
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.i
+
+# target to preprocess a source file
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i
+
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.s: DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s
+
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s
+.PHONY : DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.s
+
 DSA/GRAPHS/find_no_of_islands_bfs.obj: DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj
 
 .PHONY : DSA/GRAPHS/find_no_of_islands_bfs.obj
@@ -3975,6 +4029,33 @@ DSA/GRAPHS/flood_fill_using_dfs.s: DSA/GRAPHS/flood_fill_using_dfs.cpp.s
 DSA/GRAPHS/flood_fill_using_dfs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.s
 .PHONY : DSA/GRAPHS/flood_fill_using_dfs.cpp.s
+
+DSA/GRAPHS/floyd_warshall.obj: DSA/GRAPHS/floyd_warshall.cpp.obj
+
+.PHONY : DSA/GRAPHS/floyd_warshall.obj
+
+# target to build an object file
+DSA/GRAPHS/floyd_warshall.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj
+.PHONY : DSA/GRAPHS/floyd_warshall.cpp.obj
+
+DSA/GRAPHS/floyd_warshall.i: DSA/GRAPHS/floyd_warshall.cpp.i
+
+.PHONY : DSA/GRAPHS/floyd_warshall.i
+
+# target to preprocess a source file
+DSA/GRAPHS/floyd_warshall.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.i
+.PHONY : DSA/GRAPHS/floyd_warshall.cpp.i
+
+DSA/GRAPHS/floyd_warshall.s: DSA/GRAPHS/floyd_warshall.cpp.s
+
+.PHONY : DSA/GRAPHS/floyd_warshall.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/floyd_warshall.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.s
+.PHONY : DSA/GRAPHS/floyd_warshall.cpp.s
 
 DSA/GRAPHS/get_path_using_bfs.obj: DSA/GRAPHS/get_path_using_bfs.cpp.obj
 
@@ -4191,6 +4272,33 @@ DSA/GRAPHS/mother_vertex.s: DSA/GRAPHS/mother_vertex.cpp.s
 DSA/GRAPHS/mother_vertex.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.s
 .PHONY : DSA/GRAPHS/mother_vertex.cpp.s
+
+DSA/GRAPHS/no_of_provinces.obj: DSA/GRAPHS/no_of_provinces.cpp.obj
+
+.PHONY : DSA/GRAPHS/no_of_provinces.obj
+
+# target to build an object file
+DSA/GRAPHS/no_of_provinces.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj
+.PHONY : DSA/GRAPHS/no_of_provinces.cpp.obj
+
+DSA/GRAPHS/no_of_provinces.i: DSA/GRAPHS/no_of_provinces.cpp.i
+
+.PHONY : DSA/GRAPHS/no_of_provinces.i
+
+# target to preprocess a source file
+DSA/GRAPHS/no_of_provinces.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.i
+.PHONY : DSA/GRAPHS/no_of_provinces.cpp.i
+
+DSA/GRAPHS/no_of_provinces.s: DSA/GRAPHS/no_of_provinces.cpp.s
+
+.PHONY : DSA/GRAPHS/no_of_provinces.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/no_of_provinces.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.s
+.PHONY : DSA/GRAPHS/no_of_provinces.cpp.s
 
 DSA/GRAPHS/possible_paths_between_2_vertices.obj: DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj
 
@@ -4515,6 +4623,33 @@ DSA/GRAPHS/shortest_source_to_destination_path.s: DSA/GRAPHS/shortest_source_to_
 DSA/GRAPHS/shortest_source_to_destination_path.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.s
 .PHONY : DSA/GRAPHS/shortest_source_to_destination_path.cpp.s
+
+DSA/GRAPHS/snake_and_ladder.obj: DSA/GRAPHS/snake_and_ladder.cpp.obj
+
+.PHONY : DSA/GRAPHS/snake_and_ladder.obj
+
+# target to build an object file
+DSA/GRAPHS/snake_and_ladder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj
+.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.obj
+
+DSA/GRAPHS/snake_and_ladder.i: DSA/GRAPHS/snake_and_ladder.cpp.i
+
+.PHONY : DSA/GRAPHS/snake_and_ladder.i
+
+# target to preprocess a source file
+DSA/GRAPHS/snake_and_ladder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.i
+.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.i
+
+DSA/GRAPHS/snake_and_ladder.s: DSA/GRAPHS/snake_and_ladder.cpp.s
+
+.PHONY : DSA/GRAPHS/snake_and_ladder.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/snake_and_ladder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.s
+.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.s
 
 DSA/GRAPHS/steps_by_knight.obj: DSA/GRAPHS/steps_by_knight.cpp.obj
 
@@ -11368,6 +11503,9 @@ help:
 	@echo ... DSA/GRAPHS/covid_spread.obj
 	@echo ... DSA/GRAPHS/covid_spread.i
 	@echo ... DSA/GRAPHS/covid_spread.s
+	@echo ... DSA/GRAPHS/critical_connections.obj
+	@echo ... DSA/GRAPHS/critical_connections.i
+	@echo ... DSA/GRAPHS/critical_connections.s
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.obj
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.i
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.s
@@ -11389,6 +11527,9 @@ help:
 	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.obj
 	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.i
 	@echo ... DSA/GRAPHS/distance_of_nearest_cell_having_1.s
+	@echo ... DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.obj
+	@echo ... DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.i
+	@echo ... DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.s
 	@echo ... DSA/GRAPHS/find_no_of_islands_bfs.obj
 	@echo ... DSA/GRAPHS/find_no_of_islands_bfs.i
 	@echo ... DSA/GRAPHS/find_no_of_islands_bfs.s
@@ -11404,6 +11545,9 @@ help:
 	@echo ... DSA/GRAPHS/flood_fill_using_dfs.obj
 	@echo ... DSA/GRAPHS/flood_fill_using_dfs.i
 	@echo ... DSA/GRAPHS/flood_fill_using_dfs.s
+	@echo ... DSA/GRAPHS/floyd_warshall.obj
+	@echo ... DSA/GRAPHS/floyd_warshall.i
+	@echo ... DSA/GRAPHS/floyd_warshall.s
 	@echo ... DSA/GRAPHS/get_path_using_bfs.obj
 	@echo ... DSA/GRAPHS/get_path_using_bfs.i
 	@echo ... DSA/GRAPHS/get_path_using_bfs.s
@@ -11428,6 +11572,9 @@ help:
 	@echo ... DSA/GRAPHS/mother_vertex.obj
 	@echo ... DSA/GRAPHS/mother_vertex.i
 	@echo ... DSA/GRAPHS/mother_vertex.s
+	@echo ... DSA/GRAPHS/no_of_provinces.obj
+	@echo ... DSA/GRAPHS/no_of_provinces.i
+	@echo ... DSA/GRAPHS/no_of_provinces.s
 	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.obj
 	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.i
 	@echo ... DSA/GRAPHS/possible_paths_between_2_vertices.s
@@ -11464,6 +11611,9 @@ help:
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.obj
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.i
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.s
+	@echo ... DSA/GRAPHS/snake_and_ladder.obj
+	@echo ... DSA/GRAPHS/snake_and_ladder.i
+	@echo ... DSA/GRAPHS/snake_and_ladder.s
 	@echo ... DSA/GRAPHS/steps_by_knight.obj
 	@echo ... DSA/GRAPHS/steps_by_knight.i
 	@echo ... DSA/GRAPHS/steps_by_knight.s
