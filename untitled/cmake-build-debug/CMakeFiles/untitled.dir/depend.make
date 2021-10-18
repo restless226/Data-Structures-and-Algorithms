@@ -231,6 +231,8 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAP
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/prim.cpp
 
+CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj: ../DSA/GRAPHS/alien_dictionary.cpp
+
 CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj: ../DSA/GRAPHS/articulation_point.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj: ../DSA/GRAPHS/bellman_ford.cpp
@@ -246,6 +248,8 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: ../D
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj: ../DSA/GRAPHS/check_bridge_edge_or_not.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj: ../DSA/GRAPHS/circle_of_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: ../DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
 
@@ -327,7 +331,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.o
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: ../DSA/GRAPHS/shortest_source_to_destination_path.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj: ../DSA/GRAPHS/snake_and_ladder.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj: ../DSA/GRAPHS/snake_and_ladder_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj: ../DSA/GRAPHS/steps_by_knight.cpp
 

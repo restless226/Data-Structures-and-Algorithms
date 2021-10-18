@@ -3328,6 +3328,33 @@ DSA/GRAPHS/GRAPHS_CN/prim.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.s
 .PHONY : DSA/GRAPHS/GRAPHS_CN/prim.cpp.s
 
+DSA/GRAPHS/alien_dictionary.obj: DSA/GRAPHS/alien_dictionary.cpp.obj
+
+.PHONY : DSA/GRAPHS/alien_dictionary.obj
+
+# target to build an object file
+DSA/GRAPHS/alien_dictionary.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj
+.PHONY : DSA/GRAPHS/alien_dictionary.cpp.obj
+
+DSA/GRAPHS/alien_dictionary.i: DSA/GRAPHS/alien_dictionary.cpp.i
+
+.PHONY : DSA/GRAPHS/alien_dictionary.i
+
+# target to preprocess a source file
+DSA/GRAPHS/alien_dictionary.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.i
+.PHONY : DSA/GRAPHS/alien_dictionary.cpp.i
+
+DSA/GRAPHS/alien_dictionary.s: DSA/GRAPHS/alien_dictionary.cpp.s
+
+.PHONY : DSA/GRAPHS/alien_dictionary.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/alien_dictionary.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.s
+.PHONY : DSA/GRAPHS/alien_dictionary.cpp.s
+
 DSA/GRAPHS/articulation_point.obj: DSA/GRAPHS/articulation_point.cpp.obj
 
 .PHONY : DSA/GRAPHS/articulation_point.obj
@@ -3543,6 +3570,33 @@ DSA/GRAPHS/check_bridge_edge_or_not.s: DSA/GRAPHS/check_bridge_edge_or_not.cpp.s
 DSA/GRAPHS/check_bridge_edge_or_not.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.s
 .PHONY : DSA/GRAPHS/check_bridge_edge_or_not.cpp.s
+
+DSA/GRAPHS/circle_of_strings.obj: DSA/GRAPHS/circle_of_strings.cpp.obj
+
+.PHONY : DSA/GRAPHS/circle_of_strings.obj
+
+# target to build an object file
+DSA/GRAPHS/circle_of_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj
+.PHONY : DSA/GRAPHS/circle_of_strings.cpp.obj
+
+DSA/GRAPHS/circle_of_strings.i: DSA/GRAPHS/circle_of_strings.cpp.i
+
+.PHONY : DSA/GRAPHS/circle_of_strings.i
+
+# target to preprocess a source file
+DSA/GRAPHS/circle_of_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.i
+.PHONY : DSA/GRAPHS/circle_of_strings.cpp.i
+
+DSA/GRAPHS/circle_of_strings.s: DSA/GRAPHS/circle_of_strings.cpp.s
+
+.PHONY : DSA/GRAPHS/circle_of_strings.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/circle_of_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.s
+.PHONY : DSA/GRAPHS/circle_of_strings.cpp.s
 
 DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.obj: DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj
 
@@ -4624,32 +4678,32 @@ DSA/GRAPHS/shortest_source_to_destination_path.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.s
 .PHONY : DSA/GRAPHS/shortest_source_to_destination_path.cpp.s
 
-DSA/GRAPHS/snake_and_ladder.obj: DSA/GRAPHS/snake_and_ladder.cpp.obj
+DSA/GRAPHS/snake_and_ladder_bfs.obj: DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj
 
-.PHONY : DSA/GRAPHS/snake_and_ladder.obj
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.obj
 
 # target to build an object file
-DSA/GRAPHS/snake_and_ladder.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.obj
-.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.obj
+DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj
 
-DSA/GRAPHS/snake_and_ladder.i: DSA/GRAPHS/snake_and_ladder.cpp.i
+DSA/GRAPHS/snake_and_ladder_bfs.i: DSA/GRAPHS/snake_and_ladder_bfs.cpp.i
 
-.PHONY : DSA/GRAPHS/snake_and_ladder.i
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.i
 
 # target to preprocess a source file
-DSA/GRAPHS/snake_and_ladder.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.i
-.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.i
+DSA/GRAPHS/snake_and_ladder_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.i
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.cpp.i
 
-DSA/GRAPHS/snake_and_ladder.s: DSA/GRAPHS/snake_and_ladder.cpp.s
+DSA/GRAPHS/snake_and_ladder_bfs.s: DSA/GRAPHS/snake_and_ladder_bfs.cpp.s
 
-.PHONY : DSA/GRAPHS/snake_and_ladder.s
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.s
 
 # target to generate assembly for a file
-DSA/GRAPHS/snake_and_ladder.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder.cpp.s
-.PHONY : DSA/GRAPHS/snake_and_ladder.cpp.s
+DSA/GRAPHS/snake_and_ladder_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.s
+.PHONY : DSA/GRAPHS/snake_and_ladder_bfs.cpp.s
 
 DSA/GRAPHS/steps_by_knight.obj: DSA/GRAPHS/steps_by_knight.cpp.obj
 
@@ -11467,6 +11521,9 @@ help:
 	@echo ... DSA/GRAPHS/GRAPHS_CN/prim.obj
 	@echo ... DSA/GRAPHS/GRAPHS_CN/prim.i
 	@echo ... DSA/GRAPHS/GRAPHS_CN/prim.s
+	@echo ... DSA/GRAPHS/alien_dictionary.obj
+	@echo ... DSA/GRAPHS/alien_dictionary.i
+	@echo ... DSA/GRAPHS/alien_dictionary.s
 	@echo ... DSA/GRAPHS/articulation_point.obj
 	@echo ... DSA/GRAPHS/articulation_point.i
 	@echo ... DSA/GRAPHS/articulation_point.s
@@ -11491,6 +11548,9 @@ help:
 	@echo ... DSA/GRAPHS/check_bridge_edge_or_not.obj
 	@echo ... DSA/GRAPHS/check_bridge_edge_or_not.i
 	@echo ... DSA/GRAPHS/check_bridge_edge_or_not.s
+	@echo ... DSA/GRAPHS/circle_of_strings.obj
+	@echo ... DSA/GRAPHS/circle_of_strings.i
+	@echo ... DSA/GRAPHS/circle_of_strings.s
 	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.obj
 	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.i
 	@echo ... DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.s
@@ -11611,9 +11671,9 @@ help:
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.obj
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.i
 	@echo ... DSA/GRAPHS/shortest_source_to_destination_path.s
-	@echo ... DSA/GRAPHS/snake_and_ladder.obj
-	@echo ... DSA/GRAPHS/snake_and_ladder.i
-	@echo ... DSA/GRAPHS/snake_and_ladder.s
+	@echo ... DSA/GRAPHS/snake_and_ladder_bfs.obj
+	@echo ... DSA/GRAPHS/snake_and_ladder_bfs.i
+	@echo ... DSA/GRAPHS/snake_and_ladder_bfs.s
 	@echo ... DSA/GRAPHS/steps_by_knight.obj
 	@echo ... DSA/GRAPHS/steps_by_knight.i
 	@echo ... DSA/GRAPHS/steps_by_knight.s

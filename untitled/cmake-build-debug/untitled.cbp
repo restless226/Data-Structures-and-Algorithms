@@ -434,6 +434,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/GRAPHS_CN/prim.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/alien_dictionary.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/articulation_point.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -456,6 +459,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/check_bridge_edge_or_not.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/circle_of_strings.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp">
@@ -578,7 +584,7 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_source_to_destination_path.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/snake_and_ladder.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/snake_and_ladder_bfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/steps_by_knight.cpp">

@@ -194,6 +194,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/word_search_dfs.cpp DSA/GRAPHS/transitive_closure_of_graph.cpp DSA/GRAPHS/word_ladder_I.cpp
         DSA/GRAPHS/replace_O's_with_X's_dfs.cpp DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp DSA/GRAPHS/replace_O's_with_X's_bfs.cpp
         DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp DSA/GRAPHS/no_of_provinces.cpp DSA/GRAPHS/critical_connections.cpp
-        DSA/GRAPHS/floyd_warshall.cpp DSA/GRAPHS/snake_and_ladder.cpp)
+        DSA/GRAPHS/floyd_warshall.cpp DSA/GRAPHS/snake_and_ladder_bfs.cpp DSA/GRAPHS/alien_dictionary.cpp
+        DSA/GRAPHS/circle_of_strings.cpp)
 
 
