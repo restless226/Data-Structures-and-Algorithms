@@ -11,11 +11,12 @@
 //*/
 //
 //#include <bits/stdc++.h>
+//
 //#define int long long
 //using namespace std;
 //const int mod = 1000000007;
 //
-//void solve() {
+//vector<vector<int>> solve(int n, int p, vector<int> &a, vector<int> &b, vector<int> &d) {
 //
 //}
 //
@@ -26,7 +27,17 @@
 //    int t;
 //    cin >> t;
 //    while (t--) {
-//        solve();
+//        int n, p;
+//        cin >> n >> p;
+//        vector<int> a(p), b(p), d(p);
+//        for (int i = 0; i < p; i++) {
+//            cin >> a[i] >> b[i] >> d[i];
+//        }
+//        vector<vector<int>> answer = solve(n, p, a, b, d);
+//        cout << answer.size() << endl;
+//        for (auto i:answer) {
+//            cout << i[0] << " " << i[1] << " " << i[2] << endl;
+//        }
 //    }
 //    return 0;
 //}
