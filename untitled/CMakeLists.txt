@@ -92,8 +92,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp
         DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp DSA/TREES/BST_CN/BST.h
         DSA/TREES/BST_CN/BST_use.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.h
-        DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp DSA/TREES/TBT/TBT.h DSA/HEAP/heap.h
-        DSA/HEAP/heap_use.cpp DSA/HEAP/heap_main.cpp
+        DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp DSA/TREES/TBT/TBT.h DSA/HEAP_OLD/heap.h
+        DSA/HEAP_OLD/heap_use.cpp DSA/HEAP_OLD/heap_main.cpp
         DSA/GRAPHS_CN_OLD/grpahs_use.cpp DSA/GRAPHS_CN_OLD/kruskal.cpp DSA/GRAPHS_CN_OLD/Prim.cpp
         DSA/GRAPHS_CN_OLD/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
         DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
@@ -195,6 +195,12 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/replace_O's_with_X's_dfs.cpp DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp DSA/GRAPHS/replace_O's_with_X's_bfs.cpp
         DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp DSA/GRAPHS/no_of_provinces.cpp DSA/GRAPHS/critical_connections.cpp
         DSA/GRAPHS/floyd_warshall.cpp DSA/GRAPHS/snake_and_ladder_bfs.cpp DSA/GRAPHS/alien_dictionary.cpp
-        DSA/GRAPHS/circle_of_strings.cpp)
+        DSA/GRAPHS/circle_of_strings.cpp DSA/HEAP/kth_smallest_element.cpp DSA/HEAP/k_largest_elements.cpp
+        DSA/HEAP/k_sorted_array.cpp DSA/HEAP/nearly_sorted_algorithm.cpp DSA/HEAP/k_closest_elements.cpp
+        DSA/HEAP/top_k_frequent_elements.cpp DSA/HEAP/frequency_sort.cpp DSA/HEAP/kth_smallest_element_in_matrix.cpp
+        DSA/HEAP/k_closest_points_to_origin.cpp DSA/HEAP/min_cost_of_ropes.cpp DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
+        DSA/HEAP/kth_largest_element_in_a_stream.cpp DSA/HEAP/adding_array_elements.cpp DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
+        DSA/HEAP/maximize_the_array.cpp DSA/HEAP/merge_k_sorted_arrays.cpp DSA/HEAP/min_sum_formed_by_digits.cpp
+        DSA/HEAP/game_with_string.cpp DSA/HEAP/merge_two_binary_max_heaps.cpp)
 
 

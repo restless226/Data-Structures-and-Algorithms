@@ -5677,59 +5677,572 @@ DSA/GREEDY/water_the_plants.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.s
 .PHONY : DSA/GREEDY/water_the_plants.cpp.s
 
-DSA/HEAP/heap_main.obj: DSA/HEAP/heap_main.cpp.obj
+DSA/HEAP/adding_array_elements.obj: DSA/HEAP/adding_array_elements.cpp.obj
 
-.PHONY : DSA/HEAP/heap_main.obj
-
-# target to build an object file
-DSA/HEAP/heap_main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj
-.PHONY : DSA/HEAP/heap_main.cpp.obj
-
-DSA/HEAP/heap_main.i: DSA/HEAP/heap_main.cpp.i
-
-.PHONY : DSA/HEAP/heap_main.i
-
-# target to preprocess a source file
-DSA/HEAP/heap_main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.i
-.PHONY : DSA/HEAP/heap_main.cpp.i
-
-DSA/HEAP/heap_main.s: DSA/HEAP/heap_main.cpp.s
-
-.PHONY : DSA/HEAP/heap_main.s
-
-# target to generate assembly for a file
-DSA/HEAP/heap_main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.s
-.PHONY : DSA/HEAP/heap_main.cpp.s
-
-DSA/HEAP/heap_use.obj: DSA/HEAP/heap_use.cpp.obj
-
-.PHONY : DSA/HEAP/heap_use.obj
+.PHONY : DSA/HEAP/adding_array_elements.obj
 
 # target to build an object file
-DSA/HEAP/heap_use.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj
-.PHONY : DSA/HEAP/heap_use.cpp.obj
+DSA/HEAP/adding_array_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj
+.PHONY : DSA/HEAP/adding_array_elements.cpp.obj
 
-DSA/HEAP/heap_use.i: DSA/HEAP/heap_use.cpp.i
+DSA/HEAP/adding_array_elements.i: DSA/HEAP/adding_array_elements.cpp.i
 
-.PHONY : DSA/HEAP/heap_use.i
+.PHONY : DSA/HEAP/adding_array_elements.i
 
 # target to preprocess a source file
-DSA/HEAP/heap_use.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.i
-.PHONY : DSA/HEAP/heap_use.cpp.i
+DSA/HEAP/adding_array_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.i
+.PHONY : DSA/HEAP/adding_array_elements.cpp.i
 
-DSA/HEAP/heap_use.s: DSA/HEAP/heap_use.cpp.s
+DSA/HEAP/adding_array_elements.s: DSA/HEAP/adding_array_elements.cpp.s
 
-.PHONY : DSA/HEAP/heap_use.s
+.PHONY : DSA/HEAP/adding_array_elements.s
 
 # target to generate assembly for a file
-DSA/HEAP/heap_use.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.s
-.PHONY : DSA/HEAP/heap_use.cpp.s
+DSA/HEAP/adding_array_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.s
+.PHONY : DSA/HEAP/adding_array_elements.cpp.s
+
+DSA/HEAP/frequency_sort.obj: DSA/HEAP/frequency_sort.cpp.obj
+
+.PHONY : DSA/HEAP/frequency_sort.obj
+
+# target to build an object file
+DSA/HEAP/frequency_sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj
+.PHONY : DSA/HEAP/frequency_sort.cpp.obj
+
+DSA/HEAP/frequency_sort.i: DSA/HEAP/frequency_sort.cpp.i
+
+.PHONY : DSA/HEAP/frequency_sort.i
+
+# target to preprocess a source file
+DSA/HEAP/frequency_sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.i
+.PHONY : DSA/HEAP/frequency_sort.cpp.i
+
+DSA/HEAP/frequency_sort.s: DSA/HEAP/frequency_sort.cpp.s
+
+.PHONY : DSA/HEAP/frequency_sort.s
+
+# target to generate assembly for a file
+DSA/HEAP/frequency_sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.s
+.PHONY : DSA/HEAP/frequency_sort.cpp.s
+
+DSA/HEAP/game_with_string.obj: DSA/HEAP/game_with_string.cpp.obj
+
+.PHONY : DSA/HEAP/game_with_string.obj
+
+# target to build an object file
+DSA/HEAP/game_with_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj
+.PHONY : DSA/HEAP/game_with_string.cpp.obj
+
+DSA/HEAP/game_with_string.i: DSA/HEAP/game_with_string.cpp.i
+
+.PHONY : DSA/HEAP/game_with_string.i
+
+# target to preprocess a source file
+DSA/HEAP/game_with_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.i
+.PHONY : DSA/HEAP/game_with_string.cpp.i
+
+DSA/HEAP/game_with_string.s: DSA/HEAP/game_with_string.cpp.s
+
+.PHONY : DSA/HEAP/game_with_string.s
+
+# target to generate assembly for a file
+DSA/HEAP/game_with_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.s
+.PHONY : DSA/HEAP/game_with_string.cpp.s
+
+DSA/HEAP/k_closest_elements.obj: DSA/HEAP/k_closest_elements.cpp.obj
+
+.PHONY : DSA/HEAP/k_closest_elements.obj
+
+# target to build an object file
+DSA/HEAP/k_closest_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj
+.PHONY : DSA/HEAP/k_closest_elements.cpp.obj
+
+DSA/HEAP/k_closest_elements.i: DSA/HEAP/k_closest_elements.cpp.i
+
+.PHONY : DSA/HEAP/k_closest_elements.i
+
+# target to preprocess a source file
+DSA/HEAP/k_closest_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.i
+.PHONY : DSA/HEAP/k_closest_elements.cpp.i
+
+DSA/HEAP/k_closest_elements.s: DSA/HEAP/k_closest_elements.cpp.s
+
+.PHONY : DSA/HEAP/k_closest_elements.s
+
+# target to generate assembly for a file
+DSA/HEAP/k_closest_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.s
+.PHONY : DSA/HEAP/k_closest_elements.cpp.s
+
+DSA/HEAP/k_closest_points_to_origin.obj: DSA/HEAP/k_closest_points_to_origin.cpp.obj
+
+.PHONY : DSA/HEAP/k_closest_points_to_origin.obj
+
+# target to build an object file
+DSA/HEAP/k_closest_points_to_origin.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj
+.PHONY : DSA/HEAP/k_closest_points_to_origin.cpp.obj
+
+DSA/HEAP/k_closest_points_to_origin.i: DSA/HEAP/k_closest_points_to_origin.cpp.i
+
+.PHONY : DSA/HEAP/k_closest_points_to_origin.i
+
+# target to preprocess a source file
+DSA/HEAP/k_closest_points_to_origin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.i
+.PHONY : DSA/HEAP/k_closest_points_to_origin.cpp.i
+
+DSA/HEAP/k_closest_points_to_origin.s: DSA/HEAP/k_closest_points_to_origin.cpp.s
+
+.PHONY : DSA/HEAP/k_closest_points_to_origin.s
+
+# target to generate assembly for a file
+DSA/HEAP/k_closest_points_to_origin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.s
+.PHONY : DSA/HEAP/k_closest_points_to_origin.cpp.s
+
+DSA/HEAP/k_largest_elements.obj: DSA/HEAP/k_largest_elements.cpp.obj
+
+.PHONY : DSA/HEAP/k_largest_elements.obj
+
+# target to build an object file
+DSA/HEAP/k_largest_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj
+.PHONY : DSA/HEAP/k_largest_elements.cpp.obj
+
+DSA/HEAP/k_largest_elements.i: DSA/HEAP/k_largest_elements.cpp.i
+
+.PHONY : DSA/HEAP/k_largest_elements.i
+
+# target to preprocess a source file
+DSA/HEAP/k_largest_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.i
+.PHONY : DSA/HEAP/k_largest_elements.cpp.i
+
+DSA/HEAP/k_largest_elements.s: DSA/HEAP/k_largest_elements.cpp.s
+
+.PHONY : DSA/HEAP/k_largest_elements.s
+
+# target to generate assembly for a file
+DSA/HEAP/k_largest_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.s
+.PHONY : DSA/HEAP/k_largest_elements.cpp.s
+
+DSA/HEAP/k_sorted_array.obj: DSA/HEAP/k_sorted_array.cpp.obj
+
+.PHONY : DSA/HEAP/k_sorted_array.obj
+
+# target to build an object file
+DSA/HEAP/k_sorted_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj
+.PHONY : DSA/HEAP/k_sorted_array.cpp.obj
+
+DSA/HEAP/k_sorted_array.i: DSA/HEAP/k_sorted_array.cpp.i
+
+.PHONY : DSA/HEAP/k_sorted_array.i
+
+# target to preprocess a source file
+DSA/HEAP/k_sorted_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.i
+.PHONY : DSA/HEAP/k_sorted_array.cpp.i
+
+DSA/HEAP/k_sorted_array.s: DSA/HEAP/k_sorted_array.cpp.s
+
+.PHONY : DSA/HEAP/k_sorted_array.s
+
+# target to generate assembly for a file
+DSA/HEAP/k_sorted_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.s
+.PHONY : DSA/HEAP/k_sorted_array.cpp.s
+
+DSA/HEAP/kth_largest_element_in_a_stream.obj: DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
+
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.obj
+
+# target to build an object file
+DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
+
+DSA/HEAP/kth_largest_element_in_a_stream.i: DSA/HEAP/kth_largest_element_in_a_stream.cpp.i
+
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.i
+
+# target to preprocess a source file
+DSA/HEAP/kth_largest_element_in_a_stream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.i
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.cpp.i
+
+DSA/HEAP/kth_largest_element_in_a_stream.s: DSA/HEAP/kth_largest_element_in_a_stream.cpp.s
+
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.s
+
+# target to generate assembly for a file
+DSA/HEAP/kth_largest_element_in_a_stream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.s
+.PHONY : DSA/HEAP/kth_largest_element_in_a_stream.cpp.s
+
+DSA/HEAP/kth_smallest_element.obj: DSA/HEAP/kth_smallest_element.cpp.obj
+
+.PHONY : DSA/HEAP/kth_smallest_element.obj
+
+# target to build an object file
+DSA/HEAP/kth_smallest_element.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj
+.PHONY : DSA/HEAP/kth_smallest_element.cpp.obj
+
+DSA/HEAP/kth_smallest_element.i: DSA/HEAP/kth_smallest_element.cpp.i
+
+.PHONY : DSA/HEAP/kth_smallest_element.i
+
+# target to preprocess a source file
+DSA/HEAP/kth_smallest_element.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.i
+.PHONY : DSA/HEAP/kth_smallest_element.cpp.i
+
+DSA/HEAP/kth_smallest_element.s: DSA/HEAP/kth_smallest_element.cpp.s
+
+.PHONY : DSA/HEAP/kth_smallest_element.s
+
+# target to generate assembly for a file
+DSA/HEAP/kth_smallest_element.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.s
+.PHONY : DSA/HEAP/kth_smallest_element.cpp.s
+
+DSA/HEAP/kth_smallest_element_in_matrix.obj: DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj
+
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.obj
+
+# target to build an object file
+DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj
+
+DSA/HEAP/kth_smallest_element_in_matrix.i: DSA/HEAP/kth_smallest_element_in_matrix.cpp.i
+
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.i
+
+# target to preprocess a source file
+DSA/HEAP/kth_smallest_element_in_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.i
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.cpp.i
+
+DSA/HEAP/kth_smallest_element_in_matrix.s: DSA/HEAP/kth_smallest_element_in_matrix.cpp.s
+
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.s
+
+# target to generate assembly for a file
+DSA/HEAP/kth_smallest_element_in_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.s
+.PHONY : DSA/HEAP/kth_smallest_element_in_matrix.cpp.s
+
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.obj: DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj
+
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.obj
+
+# target to build an object file
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj
+
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.i: DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i
+
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.i
+
+# target to preprocess a source file
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i
+
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.s: DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s
+
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.s
+
+# target to generate assembly for a file
+DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s
+.PHONY : DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s
+
+DSA/HEAP/maximize_the_array.obj: DSA/HEAP/maximize_the_array.cpp.obj
+
+.PHONY : DSA/HEAP/maximize_the_array.obj
+
+# target to build an object file
+DSA/HEAP/maximize_the_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj
+.PHONY : DSA/HEAP/maximize_the_array.cpp.obj
+
+DSA/HEAP/maximize_the_array.i: DSA/HEAP/maximize_the_array.cpp.i
+
+.PHONY : DSA/HEAP/maximize_the_array.i
+
+# target to preprocess a source file
+DSA/HEAP/maximize_the_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.i
+.PHONY : DSA/HEAP/maximize_the_array.cpp.i
+
+DSA/HEAP/maximize_the_array.s: DSA/HEAP/maximize_the_array.cpp.s
+
+.PHONY : DSA/HEAP/maximize_the_array.s
+
+# target to generate assembly for a file
+DSA/HEAP/maximize_the_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.s
+.PHONY : DSA/HEAP/maximize_the_array.cpp.s
+
+DSA/HEAP/merge_k_sorted_arrays.obj: DSA/HEAP/merge_k_sorted_arrays.cpp.obj
+
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.obj
+
+# target to build an object file
+DSA/HEAP/merge_k_sorted_arrays.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.cpp.obj
+
+DSA/HEAP/merge_k_sorted_arrays.i: DSA/HEAP/merge_k_sorted_arrays.cpp.i
+
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.i
+
+# target to preprocess a source file
+DSA/HEAP/merge_k_sorted_arrays.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.i
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.cpp.i
+
+DSA/HEAP/merge_k_sorted_arrays.s: DSA/HEAP/merge_k_sorted_arrays.cpp.s
+
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.s
+
+# target to generate assembly for a file
+DSA/HEAP/merge_k_sorted_arrays.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.s
+.PHONY : DSA/HEAP/merge_k_sorted_arrays.cpp.s
+
+DSA/HEAP/merge_two_binary_max_heaps.obj: DSA/HEAP/merge_two_binary_max_heaps.cpp.obj
+
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.obj
+
+# target to build an object file
+DSA/HEAP/merge_two_binary_max_heaps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.cpp.obj
+
+DSA/HEAP/merge_two_binary_max_heaps.i: DSA/HEAP/merge_two_binary_max_heaps.cpp.i
+
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.i
+
+# target to preprocess a source file
+DSA/HEAP/merge_two_binary_max_heaps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.i
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.cpp.i
+
+DSA/HEAP/merge_two_binary_max_heaps.s: DSA/HEAP/merge_two_binary_max_heaps.cpp.s
+
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.s
+
+# target to generate assembly for a file
+DSA/HEAP/merge_two_binary_max_heaps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.s
+.PHONY : DSA/HEAP/merge_two_binary_max_heaps.cpp.s
+
+DSA/HEAP/min_cost_of_ropes.obj: DSA/HEAP/min_cost_of_ropes.cpp.obj
+
+.PHONY : DSA/HEAP/min_cost_of_ropes.obj
+
+# target to build an object file
+DSA/HEAP/min_cost_of_ropes.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj
+.PHONY : DSA/HEAP/min_cost_of_ropes.cpp.obj
+
+DSA/HEAP/min_cost_of_ropes.i: DSA/HEAP/min_cost_of_ropes.cpp.i
+
+.PHONY : DSA/HEAP/min_cost_of_ropes.i
+
+# target to preprocess a source file
+DSA/HEAP/min_cost_of_ropes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.i
+.PHONY : DSA/HEAP/min_cost_of_ropes.cpp.i
+
+DSA/HEAP/min_cost_of_ropes.s: DSA/HEAP/min_cost_of_ropes.cpp.s
+
+.PHONY : DSA/HEAP/min_cost_of_ropes.s
+
+# target to generate assembly for a file
+DSA/HEAP/min_cost_of_ropes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.s
+.PHONY : DSA/HEAP/min_cost_of_ropes.cpp.s
+
+DSA/HEAP/min_sum_formed_by_digits.obj: DSA/HEAP/min_sum_formed_by_digits.cpp.obj
+
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.obj
+
+# target to build an object file
+DSA/HEAP/min_sum_formed_by_digits.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.cpp.obj
+
+DSA/HEAP/min_sum_formed_by_digits.i: DSA/HEAP/min_sum_formed_by_digits.cpp.i
+
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.i
+
+# target to preprocess a source file
+DSA/HEAP/min_sum_formed_by_digits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.i
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.cpp.i
+
+DSA/HEAP/min_sum_formed_by_digits.s: DSA/HEAP/min_sum_formed_by_digits.cpp.s
+
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.s
+
+# target to generate assembly for a file
+DSA/HEAP/min_sum_formed_by_digits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.s
+.PHONY : DSA/HEAP/min_sum_formed_by_digits.cpp.s
+
+DSA/HEAP/nearly_sorted_algorithm.obj: DSA/HEAP/nearly_sorted_algorithm.cpp.obj
+
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.obj
+
+# target to build an object file
+DSA/HEAP/nearly_sorted_algorithm.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.cpp.obj
+
+DSA/HEAP/nearly_sorted_algorithm.i: DSA/HEAP/nearly_sorted_algorithm.cpp.i
+
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.i
+
+# target to preprocess a source file
+DSA/HEAP/nearly_sorted_algorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.i
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.cpp.i
+
+DSA/HEAP/nearly_sorted_algorithm.s: DSA/HEAP/nearly_sorted_algorithm.cpp.s
+
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.s
+
+# target to generate assembly for a file
+DSA/HEAP/nearly_sorted_algorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.s
+.PHONY : DSA/HEAP/nearly_sorted_algorithm.cpp.s
+
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.obj: DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj
+
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.obj
+
+# target to build an object file
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj
+
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.i: DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i
+
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.i
+
+# target to preprocess a source file
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i
+
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.s: DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s
+
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.s
+
+# target to generate assembly for a file
+DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s
+.PHONY : DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s
+
+DSA/HEAP/top_k_frequent_elements.obj: DSA/HEAP/top_k_frequent_elements.cpp.obj
+
+.PHONY : DSA/HEAP/top_k_frequent_elements.obj
+
+# target to build an object file
+DSA/HEAP/top_k_frequent_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj
+.PHONY : DSA/HEAP/top_k_frequent_elements.cpp.obj
+
+DSA/HEAP/top_k_frequent_elements.i: DSA/HEAP/top_k_frequent_elements.cpp.i
+
+.PHONY : DSA/HEAP/top_k_frequent_elements.i
+
+# target to preprocess a source file
+DSA/HEAP/top_k_frequent_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.i
+.PHONY : DSA/HEAP/top_k_frequent_elements.cpp.i
+
+DSA/HEAP/top_k_frequent_elements.s: DSA/HEAP/top_k_frequent_elements.cpp.s
+
+.PHONY : DSA/HEAP/top_k_frequent_elements.s
+
+# target to generate assembly for a file
+DSA/HEAP/top_k_frequent_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.s
+.PHONY : DSA/HEAP/top_k_frequent_elements.cpp.s
+
+DSA/HEAP_OLD/heap_main.obj: DSA/HEAP_OLD/heap_main.cpp.obj
+
+.PHONY : DSA/HEAP_OLD/heap_main.obj
+
+# target to build an object file
+DSA/HEAP_OLD/heap_main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj
+.PHONY : DSA/HEAP_OLD/heap_main.cpp.obj
+
+DSA/HEAP_OLD/heap_main.i: DSA/HEAP_OLD/heap_main.cpp.i
+
+.PHONY : DSA/HEAP_OLD/heap_main.i
+
+# target to preprocess a source file
+DSA/HEAP_OLD/heap_main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.i
+.PHONY : DSA/HEAP_OLD/heap_main.cpp.i
+
+DSA/HEAP_OLD/heap_main.s: DSA/HEAP_OLD/heap_main.cpp.s
+
+.PHONY : DSA/HEAP_OLD/heap_main.s
+
+# target to generate assembly for a file
+DSA/HEAP_OLD/heap_main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.s
+.PHONY : DSA/HEAP_OLD/heap_main.cpp.s
+
+DSA/HEAP_OLD/heap_use.obj: DSA/HEAP_OLD/heap_use.cpp.obj
+
+.PHONY : DSA/HEAP_OLD/heap_use.obj
+
+# target to build an object file
+DSA/HEAP_OLD/heap_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj
+.PHONY : DSA/HEAP_OLD/heap_use.cpp.obj
+
+DSA/HEAP_OLD/heap_use.i: DSA/HEAP_OLD/heap_use.cpp.i
+
+.PHONY : DSA/HEAP_OLD/heap_use.i
+
+# target to preprocess a source file
+DSA/HEAP_OLD/heap_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.i
+.PHONY : DSA/HEAP_OLD/heap_use.cpp.i
+
+DSA/HEAP_OLD/heap_use.s: DSA/HEAP_OLD/heap_use.cpp.s
+
+.PHONY : DSA/HEAP_OLD/heap_use.s
+
+# target to generate assembly for a file
+DSA/HEAP_OLD/heap_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.s
+.PHONY : DSA/HEAP_OLD/heap_use.cpp.s
 
 DSA/LINKED_LIST/Circular_LL/Circular_LL.obj: DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
 
@@ -11782,12 +12295,69 @@ help:
 	@echo ... DSA/GREEDY/water_the_plants.obj
 	@echo ... DSA/GREEDY/water_the_plants.i
 	@echo ... DSA/GREEDY/water_the_plants.s
-	@echo ... DSA/HEAP/heap_main.obj
-	@echo ... DSA/HEAP/heap_main.i
-	@echo ... DSA/HEAP/heap_main.s
-	@echo ... DSA/HEAP/heap_use.obj
-	@echo ... DSA/HEAP/heap_use.i
-	@echo ... DSA/HEAP/heap_use.s
+	@echo ... DSA/HEAP/adding_array_elements.obj
+	@echo ... DSA/HEAP/adding_array_elements.i
+	@echo ... DSA/HEAP/adding_array_elements.s
+	@echo ... DSA/HEAP/frequency_sort.obj
+	@echo ... DSA/HEAP/frequency_sort.i
+	@echo ... DSA/HEAP/frequency_sort.s
+	@echo ... DSA/HEAP/game_with_string.obj
+	@echo ... DSA/HEAP/game_with_string.i
+	@echo ... DSA/HEAP/game_with_string.s
+	@echo ... DSA/HEAP/k_closest_elements.obj
+	@echo ... DSA/HEAP/k_closest_elements.i
+	@echo ... DSA/HEAP/k_closest_elements.s
+	@echo ... DSA/HEAP/k_closest_points_to_origin.obj
+	@echo ... DSA/HEAP/k_closest_points_to_origin.i
+	@echo ... DSA/HEAP/k_closest_points_to_origin.s
+	@echo ... DSA/HEAP/k_largest_elements.obj
+	@echo ... DSA/HEAP/k_largest_elements.i
+	@echo ... DSA/HEAP/k_largest_elements.s
+	@echo ... DSA/HEAP/k_sorted_array.obj
+	@echo ... DSA/HEAP/k_sorted_array.i
+	@echo ... DSA/HEAP/k_sorted_array.s
+	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.obj
+	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.i
+	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.s
+	@echo ... DSA/HEAP/kth_smallest_element.obj
+	@echo ... DSA/HEAP/kth_smallest_element.i
+	@echo ... DSA/HEAP/kth_smallest_element.s
+	@echo ... DSA/HEAP/kth_smallest_element_in_matrix.obj
+	@echo ... DSA/HEAP/kth_smallest_element_in_matrix.i
+	@echo ... DSA/HEAP/kth_smallest_element_in_matrix.s
+	@echo ... DSA/HEAP/max_distinct_elements_after_removing_k_elements.obj
+	@echo ... DSA/HEAP/max_distinct_elements_after_removing_k_elements.i
+	@echo ... DSA/HEAP/max_distinct_elements_after_removing_k_elements.s
+	@echo ... DSA/HEAP/maximize_the_array.obj
+	@echo ... DSA/HEAP/maximize_the_array.i
+	@echo ... DSA/HEAP/maximize_the_array.s
+	@echo ... DSA/HEAP/merge_k_sorted_arrays.obj
+	@echo ... DSA/HEAP/merge_k_sorted_arrays.i
+	@echo ... DSA/HEAP/merge_k_sorted_arrays.s
+	@echo ... DSA/HEAP/merge_two_binary_max_heaps.obj
+	@echo ... DSA/HEAP/merge_two_binary_max_heaps.i
+	@echo ... DSA/HEAP/merge_two_binary_max_heaps.s
+	@echo ... DSA/HEAP/min_cost_of_ropes.obj
+	@echo ... DSA/HEAP/min_cost_of_ropes.i
+	@echo ... DSA/HEAP/min_cost_of_ropes.s
+	@echo ... DSA/HEAP/min_sum_formed_by_digits.obj
+	@echo ... DSA/HEAP/min_sum_formed_by_digits.i
+	@echo ... DSA/HEAP/min_sum_formed_by_digits.s
+	@echo ... DSA/HEAP/nearly_sorted_algorithm.obj
+	@echo ... DSA/HEAP/nearly_sorted_algorithm.i
+	@echo ... DSA/HEAP/nearly_sorted_algorithm.s
+	@echo ... DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.obj
+	@echo ... DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.i
+	@echo ... DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.s
+	@echo ... DSA/HEAP/top_k_frequent_elements.obj
+	@echo ... DSA/HEAP/top_k_frequent_elements.i
+	@echo ... DSA/HEAP/top_k_frequent_elements.s
+	@echo ... DSA/HEAP_OLD/heap_main.obj
+	@echo ... DSA/HEAP_OLD/heap_main.i
+	@echo ... DSA/HEAP_OLD/heap_main.s
+	@echo ... DSA/HEAP_OLD/heap_use.obj
+	@echo ... DSA/HEAP_OLD/heap_use.i
+	@echo ... DSA/HEAP_OLD/heap_use.s
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.obj
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.i
 	@echo ... DSA/LINKED_LIST/Circular_LL/Circular_LL.s

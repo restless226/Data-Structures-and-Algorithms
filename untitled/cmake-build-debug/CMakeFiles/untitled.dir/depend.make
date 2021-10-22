@@ -405,9 +405,47 @@ CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: ../DSA/GREEDY/surv
 
 CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj: ../DSA/GREEDY/water_the_plants.cpp
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj: ../DSA/HEAP/adding_array_elements.cpp
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj: ../DSA/HEAP/heap_use.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: ../DSA/HEAP/frequency_sort.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: ../DSA/HEAP/game_with_string.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: ../DSA/HEAP/k_closest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: ../DSA/HEAP/k_closest_points_to_origin.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj: ../DSA/HEAP/k_largest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: ../DSA/HEAP/k_sorted_array.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: ../DSA/HEAP/kth_largest_element_in_a_stream.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: ../DSA/HEAP/kth_smallest_element.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj: ../DSA/HEAP/kth_smallest_element_in_matrix.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: ../DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj: ../DSA/HEAP/maximize_the_array.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj: ../DSA/HEAP/merge_k_sorted_arrays.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj: ../DSA/HEAP/merge_two_binary_max_heaps.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: ../DSA/HEAP/min_cost_of_ropes.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: ../DSA/HEAP/min_sum_formed_by_digits.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: ../DSA/HEAP/nearly_sorted_algorithm.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: ../DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj: ../DSA/HEAP/top_k_frequent_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj: ../DSA/HEAP_OLD/heap_main.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj: ../DSA/HEAP_OLD/heap_use.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj: ../DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
 

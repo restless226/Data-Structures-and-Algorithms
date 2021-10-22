@@ -2312,31 +2312,31 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\LinkedList_CN\LL_main.cpp -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\LinkedList_CN\LL_main.cpp.s
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj: ../DSA/HEAP/heap_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\heap_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_use.cpp
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj: ../DSA/HEAP_OLD/heap_use.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_use.cpp
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_use.cpp > CMakeFiles\untitled.dir\DSA\HEAP\heap_use.cpp.i
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_use.cpp > CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_use.cpp.i
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_use.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\heap_use.cpp.s
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_use.cpp -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_use.cpp.s
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj: ../DSA/HEAP/heap_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\heap_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_main.cpp
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj: ../DSA/HEAP_OLD/heap_main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_main.cpp
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_main.cpp > CMakeFiles\untitled.dir\DSA\HEAP\heap_main.cpp.i
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_main.cpp > CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_main.cpp.i
 
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_main.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\heap_main.cpp.s
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_main.cpp -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_main.cpp.s
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj: ../DSA/GRAPHS_CN_OLD/grpahs_use.cpp
@@ -5380,6 +5380,253 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\circle_of_strings.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\circle_of_strings.cpp.s
 
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: ../DSA/HEAP/kth_smallest_element.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element.cpp > CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj: ../DSA/HEAP/k_largest_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_largest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_largest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_largest_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\k_largest_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_largest_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\k_largest_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: ../DSA/HEAP/k_sorted_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_sorted_array.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_sorted_array.cpp > CMakeFiles\untitled.dir\DSA\HEAP\k_sorted_array.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_sorted_array.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\k_sorted_array.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: ../DSA/HEAP/nearly_sorted_algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\nearly_sorted_algorithm.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\nearly_sorted_algorithm.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\nearly_sorted_algorithm.cpp > CMakeFiles\untitled.dir\DSA\HEAP\nearly_sorted_algorithm.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\nearly_sorted_algorithm.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\nearly_sorted_algorithm.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: ../DSA/HEAP/k_closest_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\k_closest_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj: ../DSA/HEAP/top_k_frequent_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\top_k_frequent_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\top_k_frequent_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\top_k_frequent_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\top_k_frequent_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\top_k_frequent_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\top_k_frequent_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: ../DSA/HEAP/frequency_sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\frequency_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\frequency_sort.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\frequency_sort.cpp > CMakeFiles\untitled.dir\DSA\HEAP\frequency_sort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\frequency_sort.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\frequency_sort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj: ../DSA/HEAP/kth_smallest_element_in_matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element_in_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element_in_matrix.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element_in_matrix.cpp > CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element_in_matrix.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element_in_matrix.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element_in_matrix.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: ../DSA/HEAP/k_closest_points_to_origin.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_points_to_origin.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_points_to_origin.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_points_to_origin.cpp > CMakeFiles\untitled.dir\DSA\HEAP\k_closest_points_to_origin.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_points_to_origin.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_points_to_origin.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: ../DSA/HEAP/min_cost_of_ropes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\min_cost_of_ropes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_cost_of_ropes.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_cost_of_ropes.cpp > CMakeFiles\untitled.dir\DSA\HEAP\min_cost_of_ropes.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_cost_of_ropes.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\min_cost_of_ropes.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: ../DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: ../DSA/HEAP/kth_largest_element_in_a_stream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\kth_largest_element_in_a_stream.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_largest_element_in_a_stream.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_largest_element_in_a_stream.cpp > CMakeFiles\untitled.dir\DSA\HEAP\kth_largest_element_in_a_stream.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_largest_element_in_a_stream.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\kth_largest_element_in_a_stream.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj: ../DSA/HEAP/adding_array_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\adding_array_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\adding_array_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\adding_array_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\adding_array_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\adding_array_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\adding_array_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: ../DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp > CMakeFiles\untitled.dir\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj: ../DSA/HEAP/maximize_the_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\maximize_the_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\maximize_the_array.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\maximize_the_array.cpp > CMakeFiles\untitled.dir\DSA\HEAP\maximize_the_array.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\maximize_the_array.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\maximize_the_array.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj: ../DSA/HEAP/merge_k_sorted_arrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\merge_k_sorted_arrays.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_k_sorted_arrays.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_k_sorted_arrays.cpp > CMakeFiles\untitled.dir\DSA\HEAP\merge_k_sorted_arrays.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_k_sorted_arrays.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\merge_k_sorted_arrays.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: ../DSA/HEAP/min_sum_formed_by_digits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\min_sum_formed_by_digits.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_sum_formed_by_digits.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_sum_formed_by_digits.cpp > CMakeFiles\untitled.dir\DSA\HEAP\min_sum_formed_by_digits.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_sum_formed_by_digits.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\min_sum_formed_by_digits.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: ../DSA/HEAP/game_with_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\game_with_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\game_with_string.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\game_with_string.cpp > CMakeFiles\untitled.dir\DSA\HEAP\game_with_string.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\game_with_string.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\game_with_string.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj: ../DSA/HEAP/merge_two_binary_max_heaps.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\merge_two_binary_max_heaps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_two_binary_max_heaps.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_two_binary_max_heaps.cpp > CMakeFiles\untitled.dir\DSA\HEAP\merge_two_binary_max_heaps.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_two_binary_max_heaps.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\merge_two_binary_max_heaps.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -5554,8 +5801,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/kruskal.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Prim.cpp.obj" \
@@ -5789,7 +6036,26 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -5966,8 +6232,8 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main
 untitled.exe: CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/kruskal.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Prim.cpp.obj
@@ -6202,11 +6468,30 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

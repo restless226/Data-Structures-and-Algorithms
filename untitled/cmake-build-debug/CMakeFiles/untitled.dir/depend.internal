@@ -405,10 +405,48 @@ CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/survive_on_island.cpp
 CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/GREEDY/water_the_plants.cpp
-CMakeFiles/untitled.dir/DSA/HEAP/heap_main.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_main.cpp
-CMakeFiles/untitled.dir/DSA/HEAP/heap_use.cpp.obj
- C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/heap_use.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/adding_array_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/frequency_sort.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/game_with_string.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_closest_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_closest_points_to_origin.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_largest_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_sorted_array.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/kth_largest_element_in_a_stream.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/kth_smallest_element.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/kth_smallest_element_in_matrix.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/maximize_the_array.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/merge_k_sorted_arrays.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/merge_two_binary_max_heaps.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/min_cost_of_ropes.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/min_sum_formed_by_digits.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/nearly_sorted_algorithm.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/top_k_frequent_elements.cpp
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP_OLD/heap_main.cpp
+CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/HEAP_OLD/heap_use.cpp
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj
