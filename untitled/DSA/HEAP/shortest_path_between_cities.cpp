@@ -16,7 +16,13 @@
 //const int mod = 1000000007;
 //
 //int solve(int x, int y) {
-//
+//    int count = 0;
+//    while (x != y) {
+//        if (x > y) x = x / 2;
+//        else y = y / 2;
+//        count++;
+//    }
+//    return count;
 //}
 //
 //int32_t main() {
@@ -35,8 +41,9 @@
 //
 ///*
 //INPUT:
-//
+//1
+//2 6
 //
 //OUTPUT:
-//
+//3
 //*/

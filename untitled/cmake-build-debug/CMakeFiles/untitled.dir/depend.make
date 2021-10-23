@@ -63,43 +63,91 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../DSA/
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_all_possible_paths.cpp.obj: ../DSA/DP/DP_CN/count_all_possible_paths.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj: ../DSA/DP/DP_EXTRAS/bell_numbers.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_no_of_substrings.cpp.obj: ../DSA/DP/DP_CN/count_no_of_substrings.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.obj: ../DSA/DP/DP_EXTRAS/box_stacking.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp.obj: ../DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.obj: ../DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/distinct_occurrences.cpp.obj: ../DSA/DP/DP_CN/distinct_occurrences.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.obj: ../DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/fib.cpp.obj: ../DSA/DP/DP_CN/fib.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.obj: ../DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/get_min_squares.cpp.obj: ../DSA/DP/DP_CN/get_min_squares.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/gold_mine.cpp.obj: ../DSA/DP/DP_CN/gold_mine.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.obj: ../DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/loot_houses.cpp.obj: ../DSA/DP/DP_CN/loot_houses.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.obj: ../DSA/DP/DP_EXTRAS/distinct_occurrences.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/lus.cpp.obj: ../DSA/DP/DP_CN/lus.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.obj: ../DSA/DP/DP_EXTRAS/fib.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/max_cost_path.cpp.obj: ../DSA/DP/DP_CN/max_cost_path.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.obj: ../DSA/DP/DP_EXTRAS/friends_pairing.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp.obj: ../DSA/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.obj: ../DSA/DP/DP_EXTRAS/get_min_squares.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/min_cost_path.cpp.obj: ../DSA/DP/DP_CN/min_cost_path.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.obj: ../DSA/DP/DP_EXTRAS/gold_mine.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/min_count.cpp.obj: ../DSA/DP/DP_CN/min_count.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.obj: ../DSA/DP/DP_EXTRAS/interleaved_strings.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/min_no_of_jumps.cpp.obj: ../DSA/DP/DP_CN/min_no_of_jumps.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.obj: ../DSA/DP/DP_EXTRAS/lap.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/min_steps.cpp.obj: ../DSA/DP/DP_CN/min_steps.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.obj: ../DSA/DP/DP_EXTRAS/las.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/min_steps_to_dest.cpp.obj: ../DSA/DP/DP_CN/min_steps_to_dest.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.obj: ../DSA/DP/DP_EXTRAS/lbs.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/print_all_ss_of_a_string.cpp.obj: ../DSA/DP/DP_CN/print_all_ss_of_a_string.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.obj: ../DSA/DP/DP_EXTRAS/lcis.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/string_ss.cpp.obj: ../DSA/DP/DP_CN/string_ss.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.obj: ../DSA/DP/DP_EXTRAS/lis.cpp
 
-CMakeFiles/untitled.dir/DSA/DP/DP_CN/sus.cpp.obj: ../DSA/DP/DP_CN/sus.cpp
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj: ../DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj: ../DSA/DP/DP_EXTRAS/loot_houses.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj: ../DSA/DP/DP_EXTRAS/lus.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj: ../DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.obj: ../DSA/DP/DP_EXTRAS/max_chain_length.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.obj: ../DSA/DP/DP_EXTRAS/max_cost_path.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.obj: ../DSA/DP/DP_EXTRAS/max_product_subarray.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.obj: ../DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.obj: ../DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.obj: ../DSA/DP/DP_EXTRAS/min_cost_path.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj: ../DSA/DP/DP_EXTRAS/min_cost_path_2.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj: ../DSA/DP/DP_EXTRAS/min_count.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj: ../DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj: ../DSA/DP/DP_EXTRAS/min_steps.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj: ../DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj: ../DSA/DP/DP_EXTRAS/msis.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.obj: ../DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj: ../DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj: ../DSA/DP/DP_EXTRAS/pascal_triangle.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj: ../DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj: ../DSA/DP/DP_EXTRAS/string_ss.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj: ../DSA/DP/DP_EXTRAS/sus.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj: ../DSA/DP/DP_EXTRAS/total_decoding_messages.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.obj: ../DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.obj: ../DSA/DP/DP_EXTRAS/word_break.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.obj: ../DSA/DP/DP_LCS/edit_distance.cpp
 
@@ -136,54 +184,6 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.obj: ../DSA/DP/DP_MCM/mcm.cpp
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../DSA/DP/DP_MCM/palindromic_partitioning.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.obj: ../DSA/DP/DP_MCM/scrambled_string.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/bell_numbers.cpp.obj: ../DSA/DP/TECH_DOSE/bell_numbers.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/box_stacking.cpp.obj: ../DSA/DP/TECH_DOSE/box_stacking.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp.obj: ../DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/friends_pairing.cpp.obj: ../DSA/DP/TECH_DOSE/friends_pairing.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/interleaved_strings.cpp.obj: ../DSA/DP/TECH_DOSE/interleaved_strings.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lap.cpp.obj: ../DSA/DP/TECH_DOSE/lap.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/las.cpp.obj: ../DSA/DP/TECH_DOSE/las.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lbs.cpp.obj: ../DSA/DP/TECH_DOSE/lbs.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lcis.cpp.obj: ../DSA/DP/TECH_DOSE/lcis.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/lis.cpp.obj: ../DSA/DP/TECH_DOSE/lis.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/longest_subsequence_-1.cpp.obj: ../DSA/DP/TECH_DOSE/longest_subsequence_-1.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp.obj: ../DSA/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_chain_length.cpp.obj: ../DSA/DP/TECH_DOSE/max_chain_length.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_product_subarray.cpp.obj: ../DSA/DP/TECH_DOSE/max_product_subarray.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp.obj: ../DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/min_cost_path.cpp.obj: ../DSA/DP/TECH_DOSE/min_cost_path.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/msis.cpp.obj: ../DSA/DP/TECH_DOSE/msis.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp.obj: ../DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp.obj: ../DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/pascal_triangle.cpp.obj: ../DSA/DP/TECH_DOSE/pascal_triangle.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/total_decoding_messages.cpp.obj: ../DSA/DP/TECH_DOSE/total_decoding_messages.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp.obj: ../DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp
-
-CMakeFiles/untitled.dir/DSA/DP/TECH_DOSE/word_break.cpp.obj: ../DSA/DP/TECH_DOSE/word_break.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp
 
@@ -351,21 +351,21 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj: ../DSA/GRAPHS/x_t
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_dfs.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Dijikstras.cpp.obj: ../DSA/GRAPHS_CN_OLD/Dijikstras.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/Dijikstras.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_CN_OLD/MST_Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_CN_OLD/MST_kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/Prim.cpp.obj: ../DSA/GRAPHS_CN_OLD/Prim.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.obj: ../DSA/GRAPHS_OLD/Prim.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph.cpp.obj: ../DSA/GRAPHS_CN_OLD/graph.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/graph2.cpp.obj: ../DSA/GRAPHS_CN_OLD/graph2.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/grpahs_use.cpp.obj: ../DSA/GRAPHS_CN_OLD/grpahs_use.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.obj: ../DSA/GRAPHS_OLD/grpahs_use.cpp
 
-CMakeFiles/untitled.dir/DSA/GRAPHS_CN_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_CN_OLD/kruskal.cpp
+CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
 
@@ -411,6 +411,8 @@ CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: ../DSA/HEAP/frequency_s
 
 CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: ../DSA/HEAP/game_with_string.cpp
 
+CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj: ../DSA/HEAP/heap_sort.cpp
+
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: ../DSA/HEAP/k_closest_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: ../DSA/HEAP/k_closest_points_to_origin.cpp
@@ -422,8 +424,6 @@ CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: ../DSA/HEAP/k_sorted_ar
 CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: ../DSA/HEAP/kth_largest_element_in_a_stream.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: ../DSA/HEAP/kth_smallest_element.cpp
-
-CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element_in_matrix.cpp.obj: ../DSA/HEAP/kth_smallest_element_in_matrix.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: ../DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
 
@@ -438,6 +438,10 @@ CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: ../DSA/HEAP/min_cost
 CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: ../DSA/HEAP/min_sum_formed_by_digits.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: ../DSA/HEAP/nearly_sorted_algorithm.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj: ../DSA/HEAP/rearrange_characters.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj: ../DSA/HEAP/shortest_path_between_cities.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: ../DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
 

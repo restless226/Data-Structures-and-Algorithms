@@ -69,7 +69,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
         DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-        ROUGH_FILES/rough3.cpp DSA/GRAPHS_CN_OLD/MST_kruskal.cpp DSA/GRAPHS_CN_OLD/MST_Prim.cpp
+        ROUGH_FILES/rough3.cpp DSA/GRAPHS_OLD/MST_kruskal.cpp DSA/GRAPHS_OLD/MST_Prim.cpp
         DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
         DSA_ASSIGNMENTS/assignment_7/mst_header.h DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
         DSA_ASSIGNMENTS/assignment_8/dijk_header.h DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
@@ -80,7 +80,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/max_loot.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         DSA/TEMPLATES/unordered_maps.cpp
-        DSA/GRAPHS_CN_OLD/graph.cpp DSA/GRAPHS_CN_OLD/graph2.cpp DSA/GRAPHS/GRAPHS_CN/prim.cpp
+        DSA/GRAPHS_OLD/graph.cpp DSA/GRAPHS_OLD/graph2.cpp DSA/GRAPHS/GRAPHS_CN/prim.cpp
         DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
         DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp
@@ -94,13 +94,13 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/TREES/BST_CN/BST_use.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp DSA/LINKED_LIST/LinkedList_CN/LL_node.h
         DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp DSA/TREES/TBT/TBT.h DSA/HEAP_OLD/heap.h
         DSA/HEAP_OLD/heap_use.cpp DSA/HEAP_OLD/heap_main.cpp
-        DSA/GRAPHS_CN_OLD/grpahs_use.cpp DSA/GRAPHS_CN_OLD/kruskal.cpp DSA/GRAPHS_CN_OLD/Prim.cpp
-        DSA/GRAPHS_CN_OLD/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
+        DSA/GRAPHS_OLD/grpahs_use.cpp DSA/GRAPHS_OLD/kruskal.cpp DSA/GRAPHS_OLD/Prim.cpp
+        DSA/GRAPHS_OLD/Dijikstras.cpp DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
         DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
         DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp DSA/STACK/EXP_TREE/exp_tree_impl.cpp DSA/STACK/EXP_TREE/exp_tree.h
         DSA/STACK/EXP_TREE/exp_tree.h DSA/FILE_HANDLING/file_handling.cpp
         DSA/FILE_HANDLING/file_handling_2.cpp DSA/FILE_HANDLING/file_handling_FINAL.cpp
-        DSA/DP/DP_CN/fib.cpp DSA/DP/DP_CN/min_steps.cpp DSA/DP/DP_CN/min_count.cpp
+        DSA/DP/DP_EXTRAS/fib.cpp DSA/DP/DP_EXTRAS/min_steps.cpp DSA/DP/DP_EXTRAS/min_count.cpp
         DAA_ASSIGNMENTS/n_queens.cpp DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
         DSA/BACKTRACKING/n_queens.cpp DSA/BACKTRACKING/rat_in_a_maze.cpp
         DSA/BINARY_SEARCH/aggressive_cows.cpp DAA_ASSIGNMENTS/knapsack_01.cpp
@@ -116,29 +116,29 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp DSA/DP/DP_MCM/mcm.cpp
         DSA/DP/DP_LCS/edit_distance.cpp DSA/DP/DP_MCM/palindromic_partitioning.cpp
         DSA/DP/DP_MCM/boolean_parenthesization.cpp DSA/DP/DP_MCM/egg_dropping.cpp
-        DSA/DP/DP_MCM/scrambled_string.cpp DSA/DP/DP_CN/get_min_squares.cpp DSA/DP/DP_CN/min_cost_path.cpp
-        DSA/DP/DP_CN/max_cost_path.cpp DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
+        DSA/DP/DP_MCM/scrambled_string.cpp DSA/DP/DP_EXTRAS/get_min_squares.cpp DSA/DP/DP_EXTRAS/min_cost_path_2.cpp
+        DSA/DP/DP_EXTRAS/max_cost_path.cpp DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
         DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
         DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
         DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
         DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
         DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp
-        DSA/DP/TECH_DOSE/lis.cpp DSA/DP/DP_CN/loot_houses.cpp DSA/DP/DP_CN/max_square_matrix_with_all_zeroes.cpp
-        DSA/DP/DP_CN/sus.cpp DSA/DP/DP_CN/lus.cpp DSA/STACK/ngr.cpp
+        DSA/DP/DP_EXTRAS/lis.cpp DSA/DP/DP_EXTRAS/loot_houses.cpp DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp
+        DSA/DP/DP_EXTRAS/sus.cpp DSA/DP/DP_EXTRAS/lus.cpp DSA/STACK/ngr.cpp
         DSA/STACK/ngl.cpp DSA/STACK/nsl.cpp
         DSA/STACK/nsr.cpp DSA/STACK/stock_span.cpp
         DSA/STACK/mah.cpp DSA/STACK/mar.cpp DSA/STACK/rwt.cpp
         DSA/STACK/celebrity.cpp DSA/DP/DP_LCS/lcs_of_3_strings.cpp
-        DSA/DP/DP_CN/print_all_ss_of_a_string.cpp DSA/DP/DP_CN/string_ss.cpp DSA/DP/DP_CN/count_all_possible_paths.cpp
-        DSA/DP/DP_CN/gold_mine.cpp DSA/DP/DP_CN/count_ways_to_reach_nth_stair.cpp
-        DSA/DP/DP_CN/min_steps_to_dest.cpp DSA/DP/DP_CN/distinct_occurrences.cpp
-        DSA/DP/DP_CN/min_no_of_jumps.cpp DSA/DP/DP_CN/count_no_of_substrings.cpp
-        DSA/DP/TECH_DOSE/interleaved_strings.cpp DSA/DP/TECH_DOSE/msis.cpp
-        DSA/DP/TECH_DOSE/box_stacking.cpp DSA/DP/TECH_DOSE/las.cpp DSA/DP/TECH_DOSE/max_chain_length.cpp
-        DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp DSA/DP/TECH_DOSE/bell_numbers.cpp
-        DSA/DP/TECH_DOSE/friends_pairing.cpp DSA/DP/TECH_DOSE/no_of_distinct_ss.cpp
-        DSA/DP/TECH_DOSE/wildcard_pattern_matching.cpp DSA/DP/TECH_DOSE/word_break.cpp
-        DSA/DP/TECH_DOSE/max_product_subarray.cpp DSA/DP/TECH_DOSE/longest_subsequence_-1.cpp
+        DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp DSA/DP/DP_EXTRAS/string_ss.cpp DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp
+        DSA/DP/DP_EXTRAS/gold_mine.cpp DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp
+        DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp DSA/DP/DP_EXTRAS/distinct_occurrences.cpp
+        DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp
+        DSA/DP/DP_EXTRAS/interleaved_strings.cpp DSA/DP/DP_EXTRAS/msis.cpp
+        DSA/DP/DP_EXTRAS/box_stacking.cpp DSA/DP/DP_EXTRAS/las.cpp DSA/DP/DP_EXTRAS/max_chain_length.cpp
+        DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp DSA/DP/DP_EXTRAS/bell_numbers.cpp
+        DSA/DP/DP_EXTRAS/friends_pairing.cpp DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp
+        DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp DSA/DP/DP_EXTRAS/word_break.cpp
+        DSA/DP/DP_EXTRAS/max_product_subarray.cpp DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp
         DSA/BINARY_SEARCH/bs.cpp DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
         DSA/BINARY_SEARCH/first_and_last_occurrence.cpp DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
         DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
@@ -148,16 +148,16 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/BINARY_SEARCH/peak_element.cpp DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
         DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp
         DSA/BINARY_SEARCH/smallest_factorial_no.cpp DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
-        DSA/BINARY_SEARCH/find_nth_root.cpp DSA/DP/TECH_DOSE/max_sum_bitonic_subsequence.cpp DSA/DP/TECH_DOSE/max_bitonic_subarray_sum.cpp
-        DSA/DP/TECH_DOSE/lbs.cpp DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
-        DSA/RECURSION/sort_array.cpp DSA/DP/TECH_DOSE/lcis.cpp DSA/RECURSION/sort_stack.cpp
+        DSA/BINARY_SEARCH/find_nth_root.cpp DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp
+        DSA/DP/DP_EXTRAS/lbs.cpp DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
+        DSA/RECURSION/sort_array.cpp DSA/DP/DP_EXTRAS/lcis.cpp DSA/RECURSION/sort_stack.cpp
         DSA/RECURSION/delete_middle_element_of_stack.cpp DSA/RECURSION/reverse_stack.cpp
         DSA/RECURSION/kth_symbol_in_grammar.cpp DSA/RECURSION/power_set.cpp DSA/RECURSION/unique_subsets.cpp
         DSA/RECURSION/permutation_with_spaces.cpp DSA/RECURSION/permutation_with_case_change.cpp
         DSA/RECURSION/letter_case_permutation.cpp DSA/RECURSION/generate_all_balanced_paranthesis.cpp
         DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
         DSA/RECURSION/josephus_problem.cpp DSA/RECURSION/string_permutations.cpp
-        DSA/RECURSION/pascal_triangle.cpp DSA/DP/TECH_DOSE/pascal_triangle.cpp
+        DSA/RECURSION/pascal_triangle.cpp DSA/DP/DP_EXTRAS/pascal_triangle.cpp
         DSA/RECURSION/lucky_numbers.cpp DSA/RECURSION/all_unique_permutations_of_array.cpp
         DSA/RECURSION/handshakes.cpp DSA/GREEDY/fractional_knapsack.cpp DSA/GREEDY/job_sequencing.cpp
         DSA/GREEDY/n_meetings_in_one_room.cpp DSA/GREEDY/minimum_platforms.cpp
@@ -169,8 +169,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GREEDY/water_the_plants.cpp DSA/GREEDY/coin_piles.cpp DAA_ASSIGNMENTS/bellman_ford.cpp
         DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp DSA/RECURSION/combination_sum.cpp
         DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp
-        ROUGH_FILES/rough6.cpp DSA/DP/TECH_DOSE/consecutive_ones_not_allowed.cpp
-        DSA/DP/TECH_DOSE/lap.cpp DSA/DP/TECH_DOSE/total_decoding_messages.cpp DSA/DP/TECH_DOSE/optimal_strategy_for_game.cpp
+        ROUGH_FILES/rough6.cpp DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp
+        DSA/DP/DP_EXTRAS/lap.cpp DSA/DP/DP_EXTRAS/total_decoding_messages.cpp DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp
         DSA/DP/DP_LPS/count_palindromic_subsequences.cpp DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
         DSA/GRAPHS/bfs_dfs_connected_graph.cpp DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
         DSA/GRAPHS/has_path.cpp DSA/GRAPHS/dfs_using_stack.cpp DSA/GRAPHS/get_path_using_dfs.cpp
@@ -185,10 +185,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/kruskal.cpp DSA/GRAPHS/shortest_source_to_destination_path.cpp DSA/GRAPHS/covid19.cpp
         DSA/GRAPHS/covid_spread.cpp DSA/GRAPHS/find_whether_path_exists.cpp DSA/GRAPHS/rotten_oranges.cpp
         DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
-        DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp DSA/DP/TECH_DOSE/count_paths_with_exactly_k_edges.cpp
+        DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp
         DSA/GRAPHS/articulation_point.cpp DSA/GRAPHS/kosaraju_tarjan.cpp DSA/GRAPHS/steps_by_knight.cpp
         DSA/GRAPHS/bellman_ford.cpp DSA/GRAPHS/prim.cpp DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
-        DSA/GRAPHS/find_no_of_islands_bfs.cpp DSA/GRAPHS/min_cost_path.cpp DSA/DP/TECH_DOSE/min_cost_path.cpp
+        DSA/GRAPHS/find_no_of_islands_bfs.cpp DSA/GRAPHS/min_cost_path.cpp DSA/DP/DP_EXTRAS/min_cost_path.cpp
         DSA/GRAPHS/x_total_shapes_dfs.cpp DSA/GRAPHS/x_total_shapes_bfs.cpp DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp
         DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp DSA/GRAPHS/flood_fill_using_dfs.cpp DSA/GRAPHS/flood_fill_using_bfs.cpp
         DSA/GRAPHS/word_search_dfs.cpp DSA/GRAPHS/transitive_closure_of_graph.cpp DSA/GRAPHS/word_ladder_I.cpp
@@ -197,10 +197,11 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/GRAPHS/floyd_warshall.cpp DSA/GRAPHS/snake_and_ladder_bfs.cpp DSA/GRAPHS/alien_dictionary.cpp
         DSA/GRAPHS/circle_of_strings.cpp DSA/HEAP/kth_smallest_element.cpp DSA/HEAP/k_largest_elements.cpp
         DSA/HEAP/k_sorted_array.cpp DSA/HEAP/nearly_sorted_algorithm.cpp DSA/HEAP/k_closest_elements.cpp
-        DSA/HEAP/top_k_frequent_elements.cpp DSA/HEAP/frequency_sort.cpp DSA/HEAP/kth_smallest_element_in_matrix.cpp
+        DSA/HEAP/top_k_frequent_elements.cpp DSA/HEAP/frequency_sort.cpp
         DSA/HEAP/k_closest_points_to_origin.cpp DSA/HEAP/min_cost_of_ropes.cpp DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
         DSA/HEAP/kth_largest_element_in_a_stream.cpp DSA/HEAP/adding_array_elements.cpp DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
         DSA/HEAP/maximize_the_array.cpp DSA/HEAP/merge_k_sorted_arrays.cpp DSA/HEAP/min_sum_formed_by_digits.cpp
-        DSA/HEAP/game_with_string.cpp DSA/HEAP/merge_two_binary_max_heaps.cpp)
+        DSA/HEAP/game_with_string.cpp DSA/HEAP/merge_two_binary_max_heaps.cpp DSA/HEAP/shortest_path_between_cities.cpp
+        DSA/HEAP/rearrange_characters.cpp DSA/HEAP/heap_sort.cpp)
 
 

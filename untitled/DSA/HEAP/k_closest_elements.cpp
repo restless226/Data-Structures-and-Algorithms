@@ -16,16 +16,44 @@
 //const int mod = 1000000007;
 //typedef pair<int, int> pii;
 //
-//vector<int> solve(vector<int> &arr, int n, int k, int x) {
-//    int lindex = -1, rindex = n;
-//    vector<int> ans;
-//    int low = 0, high = n - 1;
-//    while (low <= high) {
-//        int mid = low + (high - low) / 2;
-//        if(arr[mid]==x){
-//            lindex=max()
-//        }
+//struct cmp {
+//public:
+//    int operator()(pii &p1, pii &p2) {
+//        if (p1.first < p2.first) return true;
+//        else if (p1.first > p2.first) return false;
+//        else return (p1.second > p2.second) ? true : false;
 //    }
+//};
+//
+//vector<int> solve(vector<int> &arr, int n, int k, int x) {
+//    priority_queue<pii, vector<pii>, cmp> mxh;
+//    int check = binary_search(arr.begin(), arr.end(), x);
+//    int min_size;
+//    vector<int> ans;
+//    if (check) {
+//        min_size = 1;
+//        k = k + 1;
+//    } else {
+//        min_size = 0;
+//    }
+//    int i = 0;
+//    while (i < k) {
+//        mxh.push({abs(arr[i] - x), i});
+//        i++;
+//    }
+//    while (i < n) {
+//        mxh.push({abs(arr[i] - x), i});
+//        mxh.pop();
+//        i++;
+//
+//    }
+//    while (mxh.size() > min_size) {
+//        int top = mxh.top().second;
+//        ans.push_back(arr[top]);
+//        mxh.pop();
+//    }
+//    reverse(ans.begin(), ans.end());
+//    return ans;
 //}
 //
 //int32_t main() {
@@ -65,5 +93,7 @@
 //3 7
 //
 //OUTPUT:
-//
+//39 30 42 45
+//3 6 2
+//8 6 9
 //*/

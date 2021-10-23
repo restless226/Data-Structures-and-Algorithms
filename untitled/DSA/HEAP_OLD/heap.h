@@ -1,23 +1,19 @@
 ////
 //// Created by rapen on 18-04-2021.
 ////
-//
 //#ifndef UNTITLED_HEAP_H
 //#define UNTITLED_HEAP_H
 //
 //class MinHeap {
 //public:
-//
-//    int *heap_arr_ptr;  // pointer to array of elements in heap
+//    int *harr;  // pointer to array of elements in heap
 //    int capacity;       // max possible size of min heap
 //    int heap_size;      // current size(no of elements) in min heap
-//
 //    MinHeap(int capacity) {
 //        this->capacity = capacity;
 //        heap_size = 0;
-//        heap_arr_ptr = new int[capacity];
+//        harr = new int[capacity];
 //    }
-//
 //
 //    int getMin();   // get min value in heap (root node in this case)
 //
@@ -42,8 +38,6 @@
 //    void heapSort();
 //
 //    void heapifyForHeapSort(int size, int index);
-//
 //};
-//
 //
 //#endif //UNTITLED_HEAP_H

@@ -1,26 +1,20 @@
 //#include "iostream"
+//#include "heap.h"
 //
 //using namespace std;
 //
-//#include "heap.h"
-//
 //int main() {
-//
 //    int size;
 //    cout << "Enter size of heap:" << endl;
 //    cin >> size;
-//
 //    if (size <= 0) {
 //        cout << "[WARNING] Heap size is always greater than 0" << endl;
 //        cout << "Pls enter size of heap again:" << endl;
 //        cin >> size;
 //    }
-//
 //    MinHeap object(size);
-//
 //    int choice;
 //    int val;
-//
 //    while (true) {
 //        cout << "Enter your choice:\n";
 //        cout << "Press:" << endl;
@@ -33,28 +27,23 @@
 //                "\n6. To display height of heap "
 //                "\n7. To print all heap values"
 //                "\n8. To perform heap sort on array\n";
-//
 //        cin >> choice;
-//
 //        switch (choice) {
 //            case 1:
 //                cout << "Enter value to insert:" << endl;
 //                cin >> val;
-//
 //                object.insertKey(val);
 //                cout << '\n' << '\n';
 //                break;
 //            case 2:
 //                cout << "Enter value to search:" << endl;
 //                cin >> val;
-//
 //                cout << object.linearSearch(val) << '\n';
 //                cout << '\n';
 //                break;
 //            case 3:
 //                cout << "Enter value to delete:" << endl;
 //                cin >> val;
-//
 //                object.deleteKey(val);
 //                cout << '\n' << '\n';
 //                break;
@@ -87,9 +76,7 @@
 //            default:
 //                cout << "Enter a valid choice... :(\n\n";
 //                break;
-//
 //        }
-//
 //    }
 //}
 //

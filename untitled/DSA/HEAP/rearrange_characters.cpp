@@ -15,7 +15,34 @@
 //const int mod = 1000000007;
 //
 //string solve(string &str) {
-//
+//    int n = str.length();
+//    unordered_map<char, int> mp;
+//    priority_queue<pair<int, char>> mxh;
+//    for (char &c:str) {
+//        mp[c]++;
+//        if (mp[c] > (n + 1) / 2) return "-1";
+//    }
+//    for (auto &itr:mp) {
+//        mxh.push({itr.second, itr.first});
+//    }
+//    string ans(n, ' ');
+//    auto top = mxh.top();
+//    mxh.pop();
+//    int index = 0;
+//    while (top.first--) {
+//        ans[index] = top.second;
+//        index += 2;
+//    }
+//    while (!mxh.empty()) {
+//        top = mxh.top();
+//        mxh.pop();
+//        while (top.first--) {
+//            index = (index >= n) ? 1 : index;
+//            ans[index] = top.second;
+//            index += 2;
+//        }
+//    }
+//    return ans;
 //}
 //
 //int32_t main() {
@@ -27,50 +54,22 @@
 //    while (t--) {
 //        string str;
 //        cin >> str;
-//        string str1 = solve(str);
-//        int flag = 1;
-//        int c[26] = {0};
-//        for (int i = 0; i < str.length(); i++)
-//            c[str[i] - 'a'] += 1;
-//        int f = 0;
-//        int x = (str.length() + 1) / 2;
-//        for (int i = 0; i < 26; i++) {
-//            if (c[i] > x)
-//                f = 1;
-//        }
-//        if (f) {
-//            if (str1 == "-1")
-//                cout << 0 << endl;
-//            else
-//                cout << 1 << endl;
-//        } else {
-//            int a[26] = {0};
-//            int b[26] = {0};
-//            for (char i : str)
-//                a[i - 'a'] += 1;
-//            for (char i : str1)
-//                b[i - 'a'] += 1;
-//            for (int i = 0; i < 26; i++)
-//                if (a[i] != b[i])
-//                    flag = 0;
-//            for (int i = 0; i < str1.length(); i++) {
-//                if (i > 0)
-//                    if (str1[i - 1] == str1[i])
-//                        flag = 0;
-//            }
-//            if (flag == 1) cout << "1\n";
-//            else cout << "0\n";
-//        }
+//        cout << solve(str) << '\n';
 //    }
 //    return 0;
 //}
 //
 ///*
 //INPUT:
-//2
+//4
+//aaab
+//aaabb
 //geeksforgeeks
 //bbbbb
 //
 //OUTPUT:
-//
+//-1
+//ababa
+//ekegegersosfk
+//-1
 //*/
