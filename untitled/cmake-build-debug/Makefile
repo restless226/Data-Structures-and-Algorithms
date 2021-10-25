@@ -8377,6 +8377,60 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
+DSA/STRINGS/count_and_say.obj: DSA/STRINGS/count_and_say.cpp.obj
+
+.PHONY : DSA/STRINGS/count_and_say.obj
+
+# target to build an object file
+DSA/STRINGS/count_and_say.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj
+.PHONY : DSA/STRINGS/count_and_say.cpp.obj
+
+DSA/STRINGS/count_and_say.i: DSA/STRINGS/count_and_say.cpp.i
+
+.PHONY : DSA/STRINGS/count_and_say.i
+
+# target to preprocess a source file
+DSA/STRINGS/count_and_say.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.i
+.PHONY : DSA/STRINGS/count_and_say.cpp.i
+
+DSA/STRINGS/count_and_say.s: DSA/STRINGS/count_and_say.cpp.s
+
+.PHONY : DSA/STRINGS/count_and_say.s
+
+# target to generate assembly for a file
+DSA/STRINGS/count_and_say.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s
+.PHONY : DSA/STRINGS/count_and_say.cpp.s
+
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj: DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
+
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
+
+# target to build an object file
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
+
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i: DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i
+
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i
+
+# target to preprocess a source file
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i"
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i
+
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s: DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s
+
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s
+
+# target to generate assembly for a file
+DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
+.PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s
+
 DSA/TEMPLATES/function_templates.obj: DSA/TEMPLATES/function_templates.cpp.obj
 
 .PHONY : DSA/TEMPLATES/function_templates.obj
@@ -12649,6 +12703,12 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
+	@echo ... DSA/STRINGS/count_and_say.obj
+	@echo ... DSA/STRINGS/count_and_say.i
+	@echo ... DSA/STRINGS/count_and_say.s
+	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
+	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i
+	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s
 	@echo ... DSA/TEMPLATES/function_templates.obj
 	@echo ... DSA/TEMPLATES/function_templates.i
 	@echo ... DSA/TEMPLATES/function_templates.s

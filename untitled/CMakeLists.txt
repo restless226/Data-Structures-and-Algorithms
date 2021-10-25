@@ -202,6 +202,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/HEAP/kth_largest_element_in_a_stream.cpp DSA/HEAP/adding_array_elements.cpp DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
         DSA/HEAP/maximize_the_array.cpp DSA/HEAP/merge_k_sorted_arrays.cpp DSA/HEAP/min_sum_formed_by_digits.cpp
         DSA/HEAP/game_with_string.cpp DSA/HEAP/merge_two_binary_max_heaps.cpp DSA/HEAP/shortest_path_between_cities.cpp
-        DSA/HEAP/rearrange_characters.cpp DSA/HEAP/heap_sort.cpp)
+        DSA/HEAP/rearrange_characters.cpp DSA/HEAP/heap_sort.cpp DSA/STRINGS/count_and_say.cpp
+        DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp)
 
 

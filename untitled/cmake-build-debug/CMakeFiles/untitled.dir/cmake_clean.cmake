@@ -304,6 +304,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj"
+  "CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj"
+  "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj"

@@ -5653,6 +5653,32 @@ CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_sort.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\heap_sort.cpp.s
 
+CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\count_and_say.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_and_say.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_and_say.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\count_and_say.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_and_say.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\count_and_say.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp"
+
+CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp" > "CMakeFiles\untitled.dir\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp.i"
+
+CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp" -o "CMakeFiles\untitled.dir\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -6083,7 +6109,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6517,11 +6545,13 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.ob
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

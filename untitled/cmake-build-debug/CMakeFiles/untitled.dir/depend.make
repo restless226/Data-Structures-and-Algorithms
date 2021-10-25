@@ -553,6 +553,10 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
