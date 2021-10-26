@@ -1600,6 +1600,33 @@ DSA/DP/DP_EXTRAS/loot_houses.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.s
 .PHONY : DSA/DP/DP_EXTRAS/loot_houses.cpp.s
 
+DSA/DP/DP_EXTRAS/lrs.obj: DSA/DP/DP_EXTRAS/lrs.cpp.obj
+
+.PHONY : DSA/DP/DP_EXTRAS/lrs.obj
+
+# target to build an object file
+DSA/DP/DP_EXTRAS/lrs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj
+.PHONY : DSA/DP/DP_EXTRAS/lrs.cpp.obj
+
+DSA/DP/DP_EXTRAS/lrs.i: DSA/DP/DP_EXTRAS/lrs.cpp.i
+
+.PHONY : DSA/DP/DP_EXTRAS/lrs.i
+
+# target to preprocess a source file
+DSA/DP/DP_EXTRAS/lrs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.i
+.PHONY : DSA/DP/DP_EXTRAS/lrs.cpp.i
+
+DSA/DP/DP_EXTRAS/lrs.s: DSA/DP/DP_EXTRAS/lrs.cpp.s
+
+.PHONY : DSA/DP/DP_EXTRAS/lrs.s
+
+# target to generate assembly for a file
+DSA/DP/DP_EXTRAS/lrs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.s
+.PHONY : DSA/DP/DP_EXTRAS/lrs.cpp.s
+
 DSA/DP/DP_EXTRAS/lus.obj: DSA/DP/DP_EXTRAS/lus.cpp.obj
 
 .PHONY : DSA/DP/DP_EXTRAS/lus.obj
@@ -8404,6 +8431,114 @@ DSA/STRINGS/count_and_say.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s
 .PHONY : DSA/STRINGS/count_and_say.cpp.s
 
+DSA/STRINGS/count_the_reversals.obj: DSA/STRINGS/count_the_reversals.cpp.obj
+
+.PHONY : DSA/STRINGS/count_the_reversals.obj
+
+# target to build an object file
+DSA/STRINGS/count_the_reversals.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj
+.PHONY : DSA/STRINGS/count_the_reversals.cpp.obj
+
+DSA/STRINGS/count_the_reversals.i: DSA/STRINGS/count_the_reversals.cpp.i
+
+.PHONY : DSA/STRINGS/count_the_reversals.i
+
+# target to preprocess a source file
+DSA/STRINGS/count_the_reversals.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.i
+.PHONY : DSA/STRINGS/count_the_reversals.cpp.i
+
+DSA/STRINGS/count_the_reversals.s: DSA/STRINGS/count_the_reversals.cpp.s
+
+.PHONY : DSA/STRINGS/count_the_reversals.s
+
+# target to generate assembly for a file
+DSA/STRINGS/count_the_reversals.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s
+.PHONY : DSA/STRINGS/count_the_reversals.cpp.s
+
+DSA/STRINGS/longest_palindromic_substring.obj: DSA/STRINGS/longest_palindromic_substring.cpp.obj
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring.obj
+
+# target to build an object file
+DSA/STRINGS/longest_palindromic_substring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj
+.PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.obj
+
+DSA/STRINGS/longest_palindromic_substring.i: DSA/STRINGS/longest_palindromic_substring.cpp.i
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring.i
+
+# target to preprocess a source file
+DSA/STRINGS/longest_palindromic_substring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.i
+.PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.i
+
+DSA/STRINGS/longest_palindromic_substring.s: DSA/STRINGS/longest_palindromic_substring.cpp.s
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring.s
+
+# target to generate assembly for a file
+DSA/STRINGS/longest_palindromic_substring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s
+.PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.s
+
+DSA/STRINGS/next_permutation.obj: DSA/STRINGS/next_permutation.cpp.obj
+
+.PHONY : DSA/STRINGS/next_permutation.obj
+
+# target to build an object file
+DSA/STRINGS/next_permutation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj
+.PHONY : DSA/STRINGS/next_permutation.cpp.obj
+
+DSA/STRINGS/next_permutation.i: DSA/STRINGS/next_permutation.cpp.i
+
+.PHONY : DSA/STRINGS/next_permutation.i
+
+# target to preprocess a source file
+DSA/STRINGS/next_permutation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.i
+.PHONY : DSA/STRINGS/next_permutation.cpp.i
+
+DSA/STRINGS/next_permutation.s: DSA/STRINGS/next_permutation.cpp.s
+
+.PHONY : DSA/STRINGS/next_permutation.s
+
+# target to generate assembly for a file
+DSA/STRINGS/next_permutation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.s
+.PHONY : DSA/STRINGS/next_permutation.cpp.s
+
+DSA/STRINGS/parenthesis_checker.obj: DSA/STRINGS/parenthesis_checker.cpp.obj
+
+.PHONY : DSA/STRINGS/parenthesis_checker.obj
+
+# target to build an object file
+DSA/STRINGS/parenthesis_checker.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj
+.PHONY : DSA/STRINGS/parenthesis_checker.cpp.obj
+
+DSA/STRINGS/parenthesis_checker.i: DSA/STRINGS/parenthesis_checker.cpp.i
+
+.PHONY : DSA/STRINGS/parenthesis_checker.i
+
+# target to preprocess a source file
+DSA/STRINGS/parenthesis_checker.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.i
+.PHONY : DSA/STRINGS/parenthesis_checker.cpp.i
+
+DSA/STRINGS/parenthesis_checker.s: DSA/STRINGS/parenthesis_checker.cpp.s
+
+.PHONY : DSA/STRINGS/parenthesis_checker.s
+
+# target to generate assembly for a file
+DSA/STRINGS/parenthesis_checker.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.s
+.PHONY : DSA/STRINGS/parenthesis_checker.cpp.s
+
 DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj: DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
 
 .PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
@@ -11950,6 +12085,9 @@ help:
 	@echo ... DSA/DP/DP_EXTRAS/loot_houses.obj
 	@echo ... DSA/DP/DP_EXTRAS/loot_houses.i
 	@echo ... DSA/DP/DP_EXTRAS/loot_houses.s
+	@echo ... DSA/DP/DP_EXTRAS/lrs.obj
+	@echo ... DSA/DP/DP_EXTRAS/lrs.i
+	@echo ... DSA/DP/DP_EXTRAS/lrs.s
 	@echo ... DSA/DP/DP_EXTRAS/lus.obj
 	@echo ... DSA/DP/DP_EXTRAS/lus.i
 	@echo ... DSA/DP/DP_EXTRAS/lus.s
@@ -12706,6 +12844,18 @@ help:
 	@echo ... DSA/STRINGS/count_and_say.obj
 	@echo ... DSA/STRINGS/count_and_say.i
 	@echo ... DSA/STRINGS/count_and_say.s
+	@echo ... DSA/STRINGS/count_the_reversals.obj
+	@echo ... DSA/STRINGS/count_the_reversals.i
+	@echo ... DSA/STRINGS/count_the_reversals.s
+	@echo ... DSA/STRINGS/longest_palindromic_substring.obj
+	@echo ... DSA/STRINGS/longest_palindromic_substring.i
+	@echo ... DSA/STRINGS/longest_palindromic_substring.s
+	@echo ... DSA/STRINGS/next_permutation.obj
+	@echo ... DSA/STRINGS/next_permutation.i
+	@echo ... DSA/STRINGS/next_permutation.s
+	@echo ... DSA/STRINGS/parenthesis_checker.obj
+	@echo ... DSA/STRINGS/parenthesis_checker.i
+	@echo ... DSA/STRINGS/parenthesis_checker.s
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s

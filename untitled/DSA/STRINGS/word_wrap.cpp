@@ -6,7 +6,7 @@
 //When line breaks are inserted there is a possibility that extra spaces are present in each line.
 //The extra spaces include spaces put at the end of every line except the last one.
 //You have to minimize the following total cost where total cost = Sum of cost of all lines,
-//where cost of line is = (Number of extra spaces in the line)2.
+//where cost of line is = (Number of extra spaces in the line)^2.
 //*/
 //
 //#include <bits/stdc++.h>
@@ -15,7 +15,7 @@
 //using namespace std;
 //const int mod = 1000000007;
 //
-//int solve(vector<int> nums, int n, int k) {
+//int solve(vector<int> &nums, int n, int k) {
 //
 //}
 //

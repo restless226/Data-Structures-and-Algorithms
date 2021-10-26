@@ -242,6 +242,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/loot_houses.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/lrs.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/lus.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1017,6 +1020,18 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_and_say.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_the_reversals.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/next_permutation.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/parenthesis_checker.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/split_binary_string_into_substrings_of_0&apos;s_and_1&apos;s.cpp">

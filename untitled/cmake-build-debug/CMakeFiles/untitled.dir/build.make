@@ -5679,6 +5679,71 @@ CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_a
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp" -o "CMakeFiles\untitled.dir\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
 
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj: ../DSA/DP/DP_EXTRAS/lrs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lrs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lrs.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lrs.cpp > CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lrs.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lrs.cpp -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lrs.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: ../DSA/STRINGS/parenthesis_checker.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\parenthesis_checker.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\parenthesis_checker.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\parenthesis_checker.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\parenthesis_checker.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\parenthesis_checker.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\parenthesis_checker.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: ../DSA/STRINGS/next_permutation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\next_permutation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\next_permutation.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\next_permutation.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\next_permutation.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\next_permutation.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\next_permutation.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: ../DSA/STRINGS/count_the_reversals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\count_the_reversals.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_the_reversals.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_the_reversals.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\count_the_reversals.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_the_reversals.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\count_the_reversals.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -6111,7 +6176,12 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6547,11 +6617,16 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

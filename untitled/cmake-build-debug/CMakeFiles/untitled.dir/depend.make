@@ -103,6 +103,8 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj: ../DSA/
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj: ../DSA/DP/DP_EXTRAS/loot_houses.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj: ../DSA/DP/DP_EXTRAS/lrs.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj: ../DSA/DP/DP_EXTRAS/lus.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj: ../DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp
@@ -554,6 +556,14 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: ../DSA/STRINGS/count_the_reversals.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: ../DSA/STRINGS/next_permutation.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: ../DSA/STRINGS/parenthesis_checker.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
 
