@@ -205,6 +205,10 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/HEAP/rearrange_characters.cpp DSA/HEAP/heap_sort.cpp DSA/STRINGS/count_and_say.cpp
         DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp DSA/STRINGS/longest_palindromic_substring.cpp
         DSA/DP/DP_EXTRAS/lrs.cpp DSA/STRINGS/parenthesis_checker.cpp DSA/STRINGS/next_permutation.cpp
-        DSA/STRINGS/count_the_reversals.cpp)
+        DSA/STRINGS/count_the_reversals.cpp DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp DSA/STRINGS/isomorphic_strings.cpp
+        DSA/STRINGS/reversing_equation.cpp DSA/STRINGS/min_no_of_flips.cpp DSA/STRINGS/min_indexed_character.cpp
+        DSA/STRINGS/anagrams.cpp DSA/STRINGS/winner_of_election.cpp DSA/STRINGS/multiply_two_strings.cpp
+        DSA/STRINGS/print_anagrams_together.cpp DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
+        DSA/STRINGS/implement_atoi.cpp DSA/STRINGS/run_length_encding.cpp)
 
 

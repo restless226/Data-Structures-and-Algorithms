@@ -555,17 +555,41 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: ../DSA/STRINGS/anagrams.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: ../DSA/STRINGS/count_the_reversals.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj: ../DSA/STRINGS/implement_atoi.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj: ../DSA/STRINGS/isomorphic_strings.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj: ../DSA/STRINGS/min_indexed_character.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj: ../DSA/STRINGS/min_no_of_flips.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj: ../DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj: ../DSA/STRINGS/multiply_two_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: ../DSA/STRINGS/next_permutation.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: ../DSA/STRINGS/parenthesis_checker.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj: ../DSA/STRINGS/print_anagrams_together.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj: ../DSA/STRINGS/reversing_equation.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj: ../DSA/STRINGS/run_length_encding.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj: ../DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj: ../DSA/STRINGS/winner_of_election.cpp
 
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 

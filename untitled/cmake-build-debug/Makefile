@@ -8404,6 +8404,33 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
+DSA/STRINGS/anagrams.obj: DSA/STRINGS/anagrams.cpp.obj
+
+.PHONY : DSA/STRINGS/anagrams.obj
+
+# target to build an object file
+DSA/STRINGS/anagrams.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj
+.PHONY : DSA/STRINGS/anagrams.cpp.obj
+
+DSA/STRINGS/anagrams.i: DSA/STRINGS/anagrams.cpp.i
+
+.PHONY : DSA/STRINGS/anagrams.i
+
+# target to preprocess a source file
+DSA/STRINGS/anagrams.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.i
+.PHONY : DSA/STRINGS/anagrams.cpp.i
+
+DSA/STRINGS/anagrams.s: DSA/STRINGS/anagrams.cpp.s
+
+.PHONY : DSA/STRINGS/anagrams.s
+
+# target to generate assembly for a file
+DSA/STRINGS/anagrams.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.s
+.PHONY : DSA/STRINGS/anagrams.cpp.s
+
 DSA/STRINGS/count_and_say.obj: DSA/STRINGS/count_and_say.cpp.obj
 
 .PHONY : DSA/STRINGS/count_and_say.obj
@@ -8458,6 +8485,60 @@ DSA/STRINGS/count_the_reversals.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s
 .PHONY : DSA/STRINGS/count_the_reversals.cpp.s
 
+DSA/STRINGS/implement_atoi.obj: DSA/STRINGS/implement_atoi.cpp.obj
+
+.PHONY : DSA/STRINGS/implement_atoi.obj
+
+# target to build an object file
+DSA/STRINGS/implement_atoi.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj
+.PHONY : DSA/STRINGS/implement_atoi.cpp.obj
+
+DSA/STRINGS/implement_atoi.i: DSA/STRINGS/implement_atoi.cpp.i
+
+.PHONY : DSA/STRINGS/implement_atoi.i
+
+# target to preprocess a source file
+DSA/STRINGS/implement_atoi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.i
+.PHONY : DSA/STRINGS/implement_atoi.cpp.i
+
+DSA/STRINGS/implement_atoi.s: DSA/STRINGS/implement_atoi.cpp.s
+
+.PHONY : DSA/STRINGS/implement_atoi.s
+
+# target to generate assembly for a file
+DSA/STRINGS/implement_atoi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.s
+.PHONY : DSA/STRINGS/implement_atoi.cpp.s
+
+DSA/STRINGS/isomorphic_strings.obj: DSA/STRINGS/isomorphic_strings.cpp.obj
+
+.PHONY : DSA/STRINGS/isomorphic_strings.obj
+
+# target to build an object file
+DSA/STRINGS/isomorphic_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj
+.PHONY : DSA/STRINGS/isomorphic_strings.cpp.obj
+
+DSA/STRINGS/isomorphic_strings.i: DSA/STRINGS/isomorphic_strings.cpp.i
+
+.PHONY : DSA/STRINGS/isomorphic_strings.i
+
+# target to preprocess a source file
+DSA/STRINGS/isomorphic_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.i
+.PHONY : DSA/STRINGS/isomorphic_strings.cpp.i
+
+DSA/STRINGS/isomorphic_strings.s: DSA/STRINGS/isomorphic_strings.cpp.s
+
+.PHONY : DSA/STRINGS/isomorphic_strings.s
+
+# target to generate assembly for a file
+DSA/STRINGS/isomorphic_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.s
+.PHONY : DSA/STRINGS/isomorphic_strings.cpp.s
+
 DSA/STRINGS/longest_palindromic_substring.obj: DSA/STRINGS/longest_palindromic_substring.cpp.obj
 
 .PHONY : DSA/STRINGS/longest_palindromic_substring.obj
@@ -8484,6 +8565,114 @@ DSA/STRINGS/longest_palindromic_substring.s: DSA/STRINGS/longest_palindromic_sub
 DSA/STRINGS/longest_palindromic_substring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s
 .PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.s
+
+DSA/STRINGS/min_indexed_character.obj: DSA/STRINGS/min_indexed_character.cpp.obj
+
+.PHONY : DSA/STRINGS/min_indexed_character.obj
+
+# target to build an object file
+DSA/STRINGS/min_indexed_character.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj
+.PHONY : DSA/STRINGS/min_indexed_character.cpp.obj
+
+DSA/STRINGS/min_indexed_character.i: DSA/STRINGS/min_indexed_character.cpp.i
+
+.PHONY : DSA/STRINGS/min_indexed_character.i
+
+# target to preprocess a source file
+DSA/STRINGS/min_indexed_character.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.i
+.PHONY : DSA/STRINGS/min_indexed_character.cpp.i
+
+DSA/STRINGS/min_indexed_character.s: DSA/STRINGS/min_indexed_character.cpp.s
+
+.PHONY : DSA/STRINGS/min_indexed_character.s
+
+# target to generate assembly for a file
+DSA/STRINGS/min_indexed_character.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.s
+.PHONY : DSA/STRINGS/min_indexed_character.cpp.s
+
+DSA/STRINGS/min_no_of_flips.obj: DSA/STRINGS/min_no_of_flips.cpp.obj
+
+.PHONY : DSA/STRINGS/min_no_of_flips.obj
+
+# target to build an object file
+DSA/STRINGS/min_no_of_flips.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj
+.PHONY : DSA/STRINGS/min_no_of_flips.cpp.obj
+
+DSA/STRINGS/min_no_of_flips.i: DSA/STRINGS/min_no_of_flips.cpp.i
+
+.PHONY : DSA/STRINGS/min_no_of_flips.i
+
+# target to preprocess a source file
+DSA/STRINGS/min_no_of_flips.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.i
+.PHONY : DSA/STRINGS/min_no_of_flips.cpp.i
+
+DSA/STRINGS/min_no_of_flips.s: DSA/STRINGS/min_no_of_flips.cpp.s
+
+.PHONY : DSA/STRINGS/min_no_of_flips.s
+
+# target to generate assembly for a file
+DSA/STRINGS/min_no_of_flips.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.s
+.PHONY : DSA/STRINGS/min_no_of_flips.cpp.s
+
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.obj: DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj
+
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.obj
+
+# target to build an object file
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj
+
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.i: DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.i
+
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.i
+
+# target to preprocess a source file
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.i
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.i
+
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.s: DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.s
+
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.s
+
+# target to generate assembly for a file
+DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.s
+.PHONY : DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.s
+
+DSA/STRINGS/multiply_two_strings.obj: DSA/STRINGS/multiply_two_strings.cpp.obj
+
+.PHONY : DSA/STRINGS/multiply_two_strings.obj
+
+# target to build an object file
+DSA/STRINGS/multiply_two_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj
+.PHONY : DSA/STRINGS/multiply_two_strings.cpp.obj
+
+DSA/STRINGS/multiply_two_strings.i: DSA/STRINGS/multiply_two_strings.cpp.i
+
+.PHONY : DSA/STRINGS/multiply_two_strings.i
+
+# target to preprocess a source file
+DSA/STRINGS/multiply_two_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.i
+.PHONY : DSA/STRINGS/multiply_two_strings.cpp.i
+
+DSA/STRINGS/multiply_two_strings.s: DSA/STRINGS/multiply_two_strings.cpp.s
+
+.PHONY : DSA/STRINGS/multiply_two_strings.s
+
+# target to generate assembly for a file
+DSA/STRINGS/multiply_two_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.s
+.PHONY : DSA/STRINGS/multiply_two_strings.cpp.s
 
 DSA/STRINGS/next_permutation.obj: DSA/STRINGS/next_permutation.cpp.obj
 
@@ -8539,6 +8728,87 @@ DSA/STRINGS/parenthesis_checker.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.s
 .PHONY : DSA/STRINGS/parenthesis_checker.cpp.s
 
+DSA/STRINGS/print_anagrams_together.obj: DSA/STRINGS/print_anagrams_together.cpp.obj
+
+.PHONY : DSA/STRINGS/print_anagrams_together.obj
+
+# target to build an object file
+DSA/STRINGS/print_anagrams_together.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj
+.PHONY : DSA/STRINGS/print_anagrams_together.cpp.obj
+
+DSA/STRINGS/print_anagrams_together.i: DSA/STRINGS/print_anagrams_together.cpp.i
+
+.PHONY : DSA/STRINGS/print_anagrams_together.i
+
+# target to preprocess a source file
+DSA/STRINGS/print_anagrams_together.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.i
+.PHONY : DSA/STRINGS/print_anagrams_together.cpp.i
+
+DSA/STRINGS/print_anagrams_together.s: DSA/STRINGS/print_anagrams_together.cpp.s
+
+.PHONY : DSA/STRINGS/print_anagrams_together.s
+
+# target to generate assembly for a file
+DSA/STRINGS/print_anagrams_together.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.s
+.PHONY : DSA/STRINGS/print_anagrams_together.cpp.s
+
+DSA/STRINGS/reversing_equation.obj: DSA/STRINGS/reversing_equation.cpp.obj
+
+.PHONY : DSA/STRINGS/reversing_equation.obj
+
+# target to build an object file
+DSA/STRINGS/reversing_equation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj
+.PHONY : DSA/STRINGS/reversing_equation.cpp.obj
+
+DSA/STRINGS/reversing_equation.i: DSA/STRINGS/reversing_equation.cpp.i
+
+.PHONY : DSA/STRINGS/reversing_equation.i
+
+# target to preprocess a source file
+DSA/STRINGS/reversing_equation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.i
+.PHONY : DSA/STRINGS/reversing_equation.cpp.i
+
+DSA/STRINGS/reversing_equation.s: DSA/STRINGS/reversing_equation.cpp.s
+
+.PHONY : DSA/STRINGS/reversing_equation.s
+
+# target to generate assembly for a file
+DSA/STRINGS/reversing_equation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.s
+.PHONY : DSA/STRINGS/reversing_equation.cpp.s
+
+DSA/STRINGS/run_length_encding.obj: DSA/STRINGS/run_length_encding.cpp.obj
+
+.PHONY : DSA/STRINGS/run_length_encding.obj
+
+# target to build an object file
+DSA/STRINGS/run_length_encding.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj
+.PHONY : DSA/STRINGS/run_length_encding.cpp.obj
+
+DSA/STRINGS/run_length_encding.i: DSA/STRINGS/run_length_encding.cpp.i
+
+.PHONY : DSA/STRINGS/run_length_encding.i
+
+# target to preprocess a source file
+DSA/STRINGS/run_length_encding.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.i
+.PHONY : DSA/STRINGS/run_length_encding.cpp.i
+
+DSA/STRINGS/run_length_encding.s: DSA/STRINGS/run_length_encding.cpp.s
+
+.PHONY : DSA/STRINGS/run_length_encding.s
+
+# target to generate assembly for a file
+DSA/STRINGS/run_length_encding.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.s
+.PHONY : DSA/STRINGS/run_length_encding.cpp.s
+
 DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj: DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
 
 .PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
@@ -8565,6 +8835,60 @@ DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s: DSA/STRINGS/sp
 DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
 .PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s
+
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj: DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
+
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj
+
+# target to build an object file
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
+
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.i: DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.i
+
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.i
+
+# target to preprocess a source file
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.i
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.i
+
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s: DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s
+
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s
+
+# target to generate assembly for a file
+DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s
+.PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s
+
+DSA/STRINGS/winner_of_election.obj: DSA/STRINGS/winner_of_election.cpp.obj
+
+.PHONY : DSA/STRINGS/winner_of_election.obj
+
+# target to build an object file
+DSA/STRINGS/winner_of_election.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj
+.PHONY : DSA/STRINGS/winner_of_election.cpp.obj
+
+DSA/STRINGS/winner_of_election.i: DSA/STRINGS/winner_of_election.cpp.i
+
+.PHONY : DSA/STRINGS/winner_of_election.i
+
+# target to preprocess a source file
+DSA/STRINGS/winner_of_election.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.i
+.PHONY : DSA/STRINGS/winner_of_election.cpp.i
+
+DSA/STRINGS/winner_of_election.s: DSA/STRINGS/winner_of_election.cpp.s
+
+.PHONY : DSA/STRINGS/winner_of_election.s
+
+# target to generate assembly for a file
+DSA/STRINGS/winner_of_election.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.s
+.PHONY : DSA/STRINGS/winner_of_election.cpp.s
 
 DSA/TEMPLATES/function_templates.obj: DSA/TEMPLATES/function_templates.cpp.obj
 
@@ -12841,24 +13165,60 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
+	@echo ... DSA/STRINGS/anagrams.obj
+	@echo ... DSA/STRINGS/anagrams.i
+	@echo ... DSA/STRINGS/anagrams.s
 	@echo ... DSA/STRINGS/count_and_say.obj
 	@echo ... DSA/STRINGS/count_and_say.i
 	@echo ... DSA/STRINGS/count_and_say.s
 	@echo ... DSA/STRINGS/count_the_reversals.obj
 	@echo ... DSA/STRINGS/count_the_reversals.i
 	@echo ... DSA/STRINGS/count_the_reversals.s
+	@echo ... DSA/STRINGS/implement_atoi.obj
+	@echo ... DSA/STRINGS/implement_atoi.i
+	@echo ... DSA/STRINGS/implement_atoi.s
+	@echo ... DSA/STRINGS/isomorphic_strings.obj
+	@echo ... DSA/STRINGS/isomorphic_strings.i
+	@echo ... DSA/STRINGS/isomorphic_strings.s
 	@echo ... DSA/STRINGS/longest_palindromic_substring.obj
 	@echo ... DSA/STRINGS/longest_palindromic_substring.i
 	@echo ... DSA/STRINGS/longest_palindromic_substring.s
+	@echo ... DSA/STRINGS/min_indexed_character.obj
+	@echo ... DSA/STRINGS/min_indexed_character.i
+	@echo ... DSA/STRINGS/min_indexed_character.s
+	@echo ... DSA/STRINGS/min_no_of_flips.obj
+	@echo ... DSA/STRINGS/min_no_of_flips.i
+	@echo ... DSA/STRINGS/min_no_of_flips.s
+	@echo ... DSA/STRINGS/minimum_swaps_for_bracket_balancing.obj
+	@echo ... DSA/STRINGS/minimum_swaps_for_bracket_balancing.i
+	@echo ... DSA/STRINGS/minimum_swaps_for_bracket_balancing.s
+	@echo ... DSA/STRINGS/multiply_two_strings.obj
+	@echo ... DSA/STRINGS/multiply_two_strings.i
+	@echo ... DSA/STRINGS/multiply_two_strings.s
 	@echo ... DSA/STRINGS/next_permutation.obj
 	@echo ... DSA/STRINGS/next_permutation.i
 	@echo ... DSA/STRINGS/next_permutation.s
 	@echo ... DSA/STRINGS/parenthesis_checker.obj
 	@echo ... DSA/STRINGS/parenthesis_checker.i
 	@echo ... DSA/STRINGS/parenthesis_checker.s
+	@echo ... DSA/STRINGS/print_anagrams_together.obj
+	@echo ... DSA/STRINGS/print_anagrams_together.i
+	@echo ... DSA/STRINGS/print_anagrams_together.s
+	@echo ... DSA/STRINGS/reversing_equation.obj
+	@echo ... DSA/STRINGS/reversing_equation.i
+	@echo ... DSA/STRINGS/reversing_equation.s
+	@echo ... DSA/STRINGS/run_length_encding.obj
+	@echo ... DSA/STRINGS/run_length_encding.i
+	@echo ... DSA/STRINGS/run_length_encding.s
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s
+	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj
+	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.i
+	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s
+	@echo ... DSA/STRINGS/winner_of_election.obj
+	@echo ... DSA/STRINGS/winner_of_election.i
+	@echo ... DSA/STRINGS/winner_of_election.s
 	@echo ... DSA/TEMPLATES/function_templates.obj
 	@echo ... DSA/TEMPLATES/function_templates.i
 	@echo ... DSA/TEMPLATES/function_templates.s

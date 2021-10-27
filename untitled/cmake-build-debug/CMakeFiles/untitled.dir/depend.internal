@@ -555,18 +555,42 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/sets.cpp
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/anagrams.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_and_say.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_the_reversals.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/implement_atoi.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/isomorphic_strings.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/min_indexed_character.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/min_no_of_flips.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/multiply_two_strings.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/next_permutation.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/parenthesis_checker.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/print_anagrams_together.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/reversing_equation.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/run_length_encding.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/winner_of_election.cpp
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj
