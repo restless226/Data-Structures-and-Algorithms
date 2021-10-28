@@ -1022,10 +1022,19 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/anagrams.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/case_specific_sorting.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_and_say.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_the_reversals.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/find_string_in_grid.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/implement_atoi.cpp">
@@ -1034,7 +1043,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/isomorphic_strings.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/k_anagrams.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/match_specific_pattern.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/min_indexed_character.cpp">
@@ -1058,6 +1073,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/print_anagrams_together.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/replace_by_X.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/reversing_equation.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1065,6 +1083,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/split_binary_string_into_substrings_of_0&apos;s_and_1&apos;s.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/string_ignorance.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp">

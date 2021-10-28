@@ -557,16 +557,26 @@ CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/anagrams.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/case_specific_sorting.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_and_say.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/count_the_reversals.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/find_string_in_grid.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/implement_atoi.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/isomorphic_strings.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/k_anagrams.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/match_specific_pattern.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/min_indexed_character.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj
@@ -581,12 +591,16 @@ CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/parenthesis_checker.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/print_anagrams_together.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/replace_by_X.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/reversing_equation.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/run_length_encding.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/string_ignorance.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj

@@ -557,15 +557,25 @@ CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: ../DSA/STRINGS/anagrams.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj: ../DSA/STRINGS/case_specific_sorting.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj: ../DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: ../DSA/STRINGS/count_the_reversals.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj: ../DSA/STRINGS/find_string_in_grid.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj: ../DSA/STRINGS/implement_atoi.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj: ../DSA/STRINGS/isomorphic_strings.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj: ../DSA/STRINGS/k_anagrams.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj: ../DSA/STRINGS/match_specific_pattern.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj: ../DSA/STRINGS/min_indexed_character.cpp
 
@@ -581,11 +591,15 @@ CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: ../DSA/STRINGS/
 
 CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj: ../DSA/STRINGS/print_anagrams_together.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj: ../DSA/STRINGS/replace_by_X.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj: ../DSA/STRINGS/reversing_equation.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj: ../DSA/STRINGS/run_length_encding.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj: ../DSA/STRINGS/string_ignorance.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj: ../DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
 

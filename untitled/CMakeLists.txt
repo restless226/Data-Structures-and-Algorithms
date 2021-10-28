@@ -209,6 +209,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/STRINGS/reversing_equation.cpp DSA/STRINGS/min_no_of_flips.cpp DSA/STRINGS/min_indexed_character.cpp
         DSA/STRINGS/anagrams.cpp DSA/STRINGS/winner_of_election.cpp DSA/STRINGS/multiply_two_strings.cpp
         DSA/STRINGS/print_anagrams_together.cpp DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
-        DSA/STRINGS/implement_atoi.cpp DSA/STRINGS/run_length_encding.cpp)
+        DSA/STRINGS/implement_atoi.cpp DSA/STRINGS/run_length_encding.cpp DSA/STRINGS/k_anagrams.cpp
+        DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp DSA/STRINGS/find_string_in_grid.cpp
+        DSA/STRINGS/case_specific_sorting.cpp DSA/STRINGS/string_ignorance.cpp DSA/STRINGS/replace_by_X.cpp
+        DSA/STRINGS/match_specific_pattern.cpp)
 
 

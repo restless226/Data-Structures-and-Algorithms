@@ -8431,6 +8431,33 @@ DSA/STRINGS/anagrams.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.s
 .PHONY : DSA/STRINGS/anagrams.cpp.s
 
+DSA/STRINGS/case_specific_sorting.obj: DSA/STRINGS/case_specific_sorting.cpp.obj
+
+.PHONY : DSA/STRINGS/case_specific_sorting.obj
+
+# target to build an object file
+DSA/STRINGS/case_specific_sorting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj
+.PHONY : DSA/STRINGS/case_specific_sorting.cpp.obj
+
+DSA/STRINGS/case_specific_sorting.i: DSA/STRINGS/case_specific_sorting.cpp.i
+
+.PHONY : DSA/STRINGS/case_specific_sorting.i
+
+# target to preprocess a source file
+DSA/STRINGS/case_specific_sorting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.i
+.PHONY : DSA/STRINGS/case_specific_sorting.cpp.i
+
+DSA/STRINGS/case_specific_sorting.s: DSA/STRINGS/case_specific_sorting.cpp.s
+
+.PHONY : DSA/STRINGS/case_specific_sorting.s
+
+# target to generate assembly for a file
+DSA/STRINGS/case_specific_sorting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.s
+.PHONY : DSA/STRINGS/case_specific_sorting.cpp.s
+
 DSA/STRINGS/count_and_say.obj: DSA/STRINGS/count_and_say.cpp.obj
 
 .PHONY : DSA/STRINGS/count_and_say.obj
@@ -8458,6 +8485,33 @@ DSA/STRINGS/count_and_say.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s
 .PHONY : DSA/STRINGS/count_and_say.cpp.s
 
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.obj: DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj
+
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.obj
+
+# target to build an object file
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj
+
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.i: DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.i
+
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.i
+
+# target to preprocess a source file
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.i
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.i
+
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.s: DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.s
+
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.s
+
+# target to generate assembly for a file
+DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.s
+.PHONY : DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.s
+
 DSA/STRINGS/count_the_reversals.obj: DSA/STRINGS/count_the_reversals.cpp.obj
 
 .PHONY : DSA/STRINGS/count_the_reversals.obj
@@ -8484,6 +8538,33 @@ DSA/STRINGS/count_the_reversals.s: DSA/STRINGS/count_the_reversals.cpp.s
 DSA/STRINGS/count_the_reversals.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s
 .PHONY : DSA/STRINGS/count_the_reversals.cpp.s
+
+DSA/STRINGS/find_string_in_grid.obj: DSA/STRINGS/find_string_in_grid.cpp.obj
+
+.PHONY : DSA/STRINGS/find_string_in_grid.obj
+
+# target to build an object file
+DSA/STRINGS/find_string_in_grid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj
+.PHONY : DSA/STRINGS/find_string_in_grid.cpp.obj
+
+DSA/STRINGS/find_string_in_grid.i: DSA/STRINGS/find_string_in_grid.cpp.i
+
+.PHONY : DSA/STRINGS/find_string_in_grid.i
+
+# target to preprocess a source file
+DSA/STRINGS/find_string_in_grid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.i
+.PHONY : DSA/STRINGS/find_string_in_grid.cpp.i
+
+DSA/STRINGS/find_string_in_grid.s: DSA/STRINGS/find_string_in_grid.cpp.s
+
+.PHONY : DSA/STRINGS/find_string_in_grid.s
+
+# target to generate assembly for a file
+DSA/STRINGS/find_string_in_grid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.s
+.PHONY : DSA/STRINGS/find_string_in_grid.cpp.s
 
 DSA/STRINGS/implement_atoi.obj: DSA/STRINGS/implement_atoi.cpp.obj
 
@@ -8539,6 +8620,33 @@ DSA/STRINGS/isomorphic_strings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.s
 .PHONY : DSA/STRINGS/isomorphic_strings.cpp.s
 
+DSA/STRINGS/k_anagrams.obj: DSA/STRINGS/k_anagrams.cpp.obj
+
+.PHONY : DSA/STRINGS/k_anagrams.obj
+
+# target to build an object file
+DSA/STRINGS/k_anagrams.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj
+.PHONY : DSA/STRINGS/k_anagrams.cpp.obj
+
+DSA/STRINGS/k_anagrams.i: DSA/STRINGS/k_anagrams.cpp.i
+
+.PHONY : DSA/STRINGS/k_anagrams.i
+
+# target to preprocess a source file
+DSA/STRINGS/k_anagrams.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.i
+.PHONY : DSA/STRINGS/k_anagrams.cpp.i
+
+DSA/STRINGS/k_anagrams.s: DSA/STRINGS/k_anagrams.cpp.s
+
+.PHONY : DSA/STRINGS/k_anagrams.s
+
+# target to generate assembly for a file
+DSA/STRINGS/k_anagrams.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.s
+.PHONY : DSA/STRINGS/k_anagrams.cpp.s
+
 DSA/STRINGS/longest_palindromic_substring.obj: DSA/STRINGS/longest_palindromic_substring.cpp.obj
 
 .PHONY : DSA/STRINGS/longest_palindromic_substring.obj
@@ -8565,6 +8673,33 @@ DSA/STRINGS/longest_palindromic_substring.s: DSA/STRINGS/longest_palindromic_sub
 DSA/STRINGS/longest_palindromic_substring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s
 .PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.s
+
+DSA/STRINGS/match_specific_pattern.obj: DSA/STRINGS/match_specific_pattern.cpp.obj
+
+.PHONY : DSA/STRINGS/match_specific_pattern.obj
+
+# target to build an object file
+DSA/STRINGS/match_specific_pattern.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj
+.PHONY : DSA/STRINGS/match_specific_pattern.cpp.obj
+
+DSA/STRINGS/match_specific_pattern.i: DSA/STRINGS/match_specific_pattern.cpp.i
+
+.PHONY : DSA/STRINGS/match_specific_pattern.i
+
+# target to preprocess a source file
+DSA/STRINGS/match_specific_pattern.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.i
+.PHONY : DSA/STRINGS/match_specific_pattern.cpp.i
+
+DSA/STRINGS/match_specific_pattern.s: DSA/STRINGS/match_specific_pattern.cpp.s
+
+.PHONY : DSA/STRINGS/match_specific_pattern.s
+
+# target to generate assembly for a file
+DSA/STRINGS/match_specific_pattern.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.s
+.PHONY : DSA/STRINGS/match_specific_pattern.cpp.s
 
 DSA/STRINGS/min_indexed_character.obj: DSA/STRINGS/min_indexed_character.cpp.obj
 
@@ -8755,6 +8890,33 @@ DSA/STRINGS/print_anagrams_together.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.s
 .PHONY : DSA/STRINGS/print_anagrams_together.cpp.s
 
+DSA/STRINGS/replace_by_X.obj: DSA/STRINGS/replace_by_X.cpp.obj
+
+.PHONY : DSA/STRINGS/replace_by_X.obj
+
+# target to build an object file
+DSA/STRINGS/replace_by_X.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj
+.PHONY : DSA/STRINGS/replace_by_X.cpp.obj
+
+DSA/STRINGS/replace_by_X.i: DSA/STRINGS/replace_by_X.cpp.i
+
+.PHONY : DSA/STRINGS/replace_by_X.i
+
+# target to preprocess a source file
+DSA/STRINGS/replace_by_X.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.i
+.PHONY : DSA/STRINGS/replace_by_X.cpp.i
+
+DSA/STRINGS/replace_by_X.s: DSA/STRINGS/replace_by_X.cpp.s
+
+.PHONY : DSA/STRINGS/replace_by_X.s
+
+# target to generate assembly for a file
+DSA/STRINGS/replace_by_X.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.s
+.PHONY : DSA/STRINGS/replace_by_X.cpp.s
+
 DSA/STRINGS/reversing_equation.obj: DSA/STRINGS/reversing_equation.cpp.obj
 
 .PHONY : DSA/STRINGS/reversing_equation.obj
@@ -8835,6 +8997,33 @@ DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s: DSA/STRINGS/sp
 DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make "CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s"
 .PHONY : DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.s
+
+DSA/STRINGS/string_ignorance.obj: DSA/STRINGS/string_ignorance.cpp.obj
+
+.PHONY : DSA/STRINGS/string_ignorance.obj
+
+# target to build an object file
+DSA/STRINGS/string_ignorance.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj
+.PHONY : DSA/STRINGS/string_ignorance.cpp.obj
+
+DSA/STRINGS/string_ignorance.i: DSA/STRINGS/string_ignorance.cpp.i
+
+.PHONY : DSA/STRINGS/string_ignorance.i
+
+# target to preprocess a source file
+DSA/STRINGS/string_ignorance.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.i
+.PHONY : DSA/STRINGS/string_ignorance.cpp.i
+
+DSA/STRINGS/string_ignorance.s: DSA/STRINGS/string_ignorance.cpp.s
+
+.PHONY : DSA/STRINGS/string_ignorance.s
+
+# target to generate assembly for a file
+DSA/STRINGS/string_ignorance.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.s
+.PHONY : DSA/STRINGS/string_ignorance.cpp.s
 
 DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj: DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
 
@@ -13168,21 +13357,36 @@ help:
 	@echo ... DSA/STRINGS/anagrams.obj
 	@echo ... DSA/STRINGS/anagrams.i
 	@echo ... DSA/STRINGS/anagrams.s
+	@echo ... DSA/STRINGS/case_specific_sorting.obj
+	@echo ... DSA/STRINGS/case_specific_sorting.i
+	@echo ... DSA/STRINGS/case_specific_sorting.s
 	@echo ... DSA/STRINGS/count_and_say.obj
 	@echo ... DSA/STRINGS/count_and_say.i
 	@echo ... DSA/STRINGS/count_and_say.s
+	@echo ... DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.obj
+	@echo ... DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.i
+	@echo ... DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.s
 	@echo ... DSA/STRINGS/count_the_reversals.obj
 	@echo ... DSA/STRINGS/count_the_reversals.i
 	@echo ... DSA/STRINGS/count_the_reversals.s
+	@echo ... DSA/STRINGS/find_string_in_grid.obj
+	@echo ... DSA/STRINGS/find_string_in_grid.i
+	@echo ... DSA/STRINGS/find_string_in_grid.s
 	@echo ... DSA/STRINGS/implement_atoi.obj
 	@echo ... DSA/STRINGS/implement_atoi.i
 	@echo ... DSA/STRINGS/implement_atoi.s
 	@echo ... DSA/STRINGS/isomorphic_strings.obj
 	@echo ... DSA/STRINGS/isomorphic_strings.i
 	@echo ... DSA/STRINGS/isomorphic_strings.s
+	@echo ... DSA/STRINGS/k_anagrams.obj
+	@echo ... DSA/STRINGS/k_anagrams.i
+	@echo ... DSA/STRINGS/k_anagrams.s
 	@echo ... DSA/STRINGS/longest_palindromic_substring.obj
 	@echo ... DSA/STRINGS/longest_palindromic_substring.i
 	@echo ... DSA/STRINGS/longest_palindromic_substring.s
+	@echo ... DSA/STRINGS/match_specific_pattern.obj
+	@echo ... DSA/STRINGS/match_specific_pattern.i
+	@echo ... DSA/STRINGS/match_specific_pattern.s
 	@echo ... DSA/STRINGS/min_indexed_character.obj
 	@echo ... DSA/STRINGS/min_indexed_character.i
 	@echo ... DSA/STRINGS/min_indexed_character.s
@@ -13204,6 +13408,9 @@ help:
 	@echo ... DSA/STRINGS/print_anagrams_together.obj
 	@echo ... DSA/STRINGS/print_anagrams_together.i
 	@echo ... DSA/STRINGS/print_anagrams_together.s
+	@echo ... DSA/STRINGS/replace_by_X.obj
+	@echo ... DSA/STRINGS/replace_by_X.i
+	@echo ... DSA/STRINGS/replace_by_X.s
 	@echo ... DSA/STRINGS/reversing_equation.obj
 	@echo ... DSA/STRINGS/reversing_equation.i
 	@echo ... DSA/STRINGS/reversing_equation.s
@@ -13213,6 +13420,9 @@ help:
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.obj
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.i
 	@echo ... DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.s
+	@echo ... DSA/STRINGS/string_ignorance.obj
+	@echo ... DSA/STRINGS/string_ignorance.i
+	@echo ... DSA/STRINGS/string_ignorance.s
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.i
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s
