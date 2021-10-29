@@ -5991,6 +5991,84 @@ CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\match_specific_pattern.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\match_specific_pattern.cpp.s
 
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj: ../DSA/STRINGS/longest_common_prefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_common_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_common_prefix.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_common_prefix.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\longest_common_prefix.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_common_prefix.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_common_prefix.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp > CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj: ../DSA/STRINGS/validate_ip_address.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\validate_ip_address.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\validate_ip_address.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\validate_ip_address.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\validate_ip_address.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\validate_ip_address.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\validate_ip_address.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: ../DSA/STRINGS/add_binary_strings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\add_binary_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\add_binary_strings.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\add_binary_strings.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\add_binary_strings.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\add_binary_strings.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\add_binary_strings.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj: ../DSA/STRINGS/sum_of_two_large_numbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\sum_of_two_large_numbers.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\sum_of_two_large_numbers.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\sum_of_two_large_numbers.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\sum_of_two_large_numbers.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\sum_of_two_large_numbers.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\sum_of_two_large_numbers.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj: ../DSA/STRINGS/longest_even_length_substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_even_length_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_even_length_substring.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_even_length_substring.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\longest_even_length_substring.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_even_length_substring.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_even_length_substring.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -6447,7 +6525,13 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6907,11 +6991,17 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

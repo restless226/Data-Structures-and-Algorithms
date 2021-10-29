@@ -13,8 +13,18 @@
 //using namespace std;
 //const int mod = 1000000007;
 //
+//typedef pair<char, char> pcc;
+//
+//pcc multiply(char &c1, char &c2, char &carry) {
+//    int product = (c1 - 48) * (c2 - 48) + (carry - 48);
+//    if (product < 10) return {product + 48, '0'};
+//    string temp = to_string(product);
+//    return {temp[1], temp[0]};
+//}
+//
 //string solve(string &s1, string &s2) {
-//    int ans = 0;
+//    string ans;
+//    char sum, carry = '0';
 //    int power1 = 0;
 //    for (int i = s1.size() - 1; i >= 0; i--) {
 //        int power2 = 0;
@@ -27,8 +37,8 @@
 //        }
 //        power1++;
 //    }
-//    if ((s1[0] == '-' && s2[0] == '-') || (s1[0] != '-' && s2[0] != '-')) return to_string(ans);
-//    else return '-' + to_string(ans);
+//    if ((s1[0] == '-' && s2[0] == '-') || (s1[0] != '-' && s2[0] != '-')) return ans;
+//    else return '-' + ans;
 //}
 //
 //int32_t main() {

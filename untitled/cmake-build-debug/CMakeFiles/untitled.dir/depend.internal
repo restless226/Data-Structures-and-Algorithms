@@ -539,6 +539,8 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj
@@ -555,6 +557,8 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/sets.cpp
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/add_binary_strings.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/anagrams.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj
@@ -573,6 +577,10 @@ CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/isomorphic_strings.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/k_anagrams.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_common_prefix.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_even_length_substring.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj
@@ -603,6 +611,10 @@ CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/string_ignorance.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/sum_of_two_large_numbers.cpp
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj
+ C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/validate_ip_address.cpp
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj
  C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/winner_of_election.cpp
 CMakeFiles/untitled.dir/DSA/Stack/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj

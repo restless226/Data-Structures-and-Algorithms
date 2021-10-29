@@ -539,6 +539,8 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj: ..
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp
 
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp
+
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj: ../DSA/STL/Lists.cpp
@@ -554,6 +556,8 @@ CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj: ../DSA/STL/priority_queu
 CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: ../DSA/STRINGS/add_binary_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: ../DSA/STRINGS/anagrams.cpp
 
@@ -572,6 +576,10 @@ CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj: ../DSA/STRINGS/imple
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj: ../DSA/STRINGS/isomorphic_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj: ../DSA/STRINGS/k_anagrams.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj: ../DSA/STRINGS/longest_common_prefix.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj: ../DSA/STRINGS/longest_even_length_substring.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
 
@@ -602,6 +610,10 @@ CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_a
 CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj: ../DSA/STRINGS/string_ignorance.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj: ../DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj: ../DSA/STRINGS/sum_of_two_large_numbers.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj: ../DSA/STRINGS/validate_ip_address.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj: ../DSA/STRINGS/winner_of_election.cpp
 

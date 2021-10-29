@@ -21,7 +21,20 @@
 //const int mod = 1000000007;
 //
 //int solve(string &s) {
-//
+//    int ans = 0;
+//    int l, r, lsum, rsum;
+//    int n = s.size();
+//    for (int i = 0; i < n - 1; i++) {
+//        l = i, r = i + 1, lsum = 0, rsum = 0;
+//        while (l >= 0 && r <= n - 1) {
+//            lsum += s[l] - '0';
+//            rsum += s[r] - '0';
+//            if (lsum == rsum) ans = max(ans, r - l + 1);
+//            l--;
+//            r++;
+//        }
+//    }
+//    return ans;
 //}
 //
 //int32_t main() {
@@ -33,7 +46,7 @@
 //    while (t--) {
 //        string s;
 //        cin >> s;
-//        cout<<solve(s)<<'\n';
+//        cout << solve(s) << '\n';
 //    }
 //    return 0;
 //}
@@ -45,5 +58,6 @@
 //1234123
 //
 //OUTPUT:
-//
+//6
+//4
 //*/

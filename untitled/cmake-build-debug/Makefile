@@ -7621,6 +7621,33 @@ DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.s
 .PHONY : DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.s
 
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.obj: DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.obj
+
+# target to build an object file
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj
+
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.i: DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.i
+
+# target to preprocess a source file
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i
+
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.s: DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.s
+
+# target to generate assembly for a file
+DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s
+
 DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj: DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
 
 .PHONY : DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
@@ -8404,6 +8431,33 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
+DSA/STRINGS/add_binary_strings.obj: DSA/STRINGS/add_binary_strings.cpp.obj
+
+.PHONY : DSA/STRINGS/add_binary_strings.obj
+
+# target to build an object file
+DSA/STRINGS/add_binary_strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj
+.PHONY : DSA/STRINGS/add_binary_strings.cpp.obj
+
+DSA/STRINGS/add_binary_strings.i: DSA/STRINGS/add_binary_strings.cpp.i
+
+.PHONY : DSA/STRINGS/add_binary_strings.i
+
+# target to preprocess a source file
+DSA/STRINGS/add_binary_strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.i
+.PHONY : DSA/STRINGS/add_binary_strings.cpp.i
+
+DSA/STRINGS/add_binary_strings.s: DSA/STRINGS/add_binary_strings.cpp.s
+
+.PHONY : DSA/STRINGS/add_binary_strings.s
+
+# target to generate assembly for a file
+DSA/STRINGS/add_binary_strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.s
+.PHONY : DSA/STRINGS/add_binary_strings.cpp.s
+
 DSA/STRINGS/anagrams.obj: DSA/STRINGS/anagrams.cpp.obj
 
 .PHONY : DSA/STRINGS/anagrams.obj
@@ -8646,6 +8700,60 @@ DSA/STRINGS/k_anagrams.s: DSA/STRINGS/k_anagrams.cpp.s
 DSA/STRINGS/k_anagrams.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.s
 .PHONY : DSA/STRINGS/k_anagrams.cpp.s
+
+DSA/STRINGS/longest_common_prefix.obj: DSA/STRINGS/longest_common_prefix.cpp.obj
+
+.PHONY : DSA/STRINGS/longest_common_prefix.obj
+
+# target to build an object file
+DSA/STRINGS/longest_common_prefix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj
+.PHONY : DSA/STRINGS/longest_common_prefix.cpp.obj
+
+DSA/STRINGS/longest_common_prefix.i: DSA/STRINGS/longest_common_prefix.cpp.i
+
+.PHONY : DSA/STRINGS/longest_common_prefix.i
+
+# target to preprocess a source file
+DSA/STRINGS/longest_common_prefix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.i
+.PHONY : DSA/STRINGS/longest_common_prefix.cpp.i
+
+DSA/STRINGS/longest_common_prefix.s: DSA/STRINGS/longest_common_prefix.cpp.s
+
+.PHONY : DSA/STRINGS/longest_common_prefix.s
+
+# target to generate assembly for a file
+DSA/STRINGS/longest_common_prefix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.s
+.PHONY : DSA/STRINGS/longest_common_prefix.cpp.s
+
+DSA/STRINGS/longest_even_length_substring.obj: DSA/STRINGS/longest_even_length_substring.cpp.obj
+
+.PHONY : DSA/STRINGS/longest_even_length_substring.obj
+
+# target to build an object file
+DSA/STRINGS/longest_even_length_substring.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj
+.PHONY : DSA/STRINGS/longest_even_length_substring.cpp.obj
+
+DSA/STRINGS/longest_even_length_substring.i: DSA/STRINGS/longest_even_length_substring.cpp.i
+
+.PHONY : DSA/STRINGS/longest_even_length_substring.i
+
+# target to preprocess a source file
+DSA/STRINGS/longest_even_length_substring.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.i
+.PHONY : DSA/STRINGS/longest_even_length_substring.cpp.i
+
+DSA/STRINGS/longest_even_length_substring.s: DSA/STRINGS/longest_even_length_substring.cpp.s
+
+.PHONY : DSA/STRINGS/longest_even_length_substring.s
+
+# target to generate assembly for a file
+DSA/STRINGS/longest_even_length_substring.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s
+.PHONY : DSA/STRINGS/longest_even_length_substring.cpp.s
 
 DSA/STRINGS/longest_palindromic_substring.obj: DSA/STRINGS/longest_palindromic_substring.cpp.obj
 
@@ -9051,6 +9159,60 @@ DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s: DSA/STRINGS/sub
 DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s
 .PHONY : DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.s
+
+DSA/STRINGS/sum_of_two_large_numbers.obj: DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
+
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.obj
+
+# target to build an object file
+DSA/STRINGS/sum_of_two_large_numbers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
+
+DSA/STRINGS/sum_of_two_large_numbers.i: DSA/STRINGS/sum_of_two_large_numbers.cpp.i
+
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.i
+
+# target to preprocess a source file
+DSA/STRINGS/sum_of_two_large_numbers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.i
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.cpp.i
+
+DSA/STRINGS/sum_of_two_large_numbers.s: DSA/STRINGS/sum_of_two_large_numbers.cpp.s
+
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.s
+
+# target to generate assembly for a file
+DSA/STRINGS/sum_of_two_large_numbers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.s
+.PHONY : DSA/STRINGS/sum_of_two_large_numbers.cpp.s
+
+DSA/STRINGS/validate_ip_address.obj: DSA/STRINGS/validate_ip_address.cpp.obj
+
+.PHONY : DSA/STRINGS/validate_ip_address.obj
+
+# target to build an object file
+DSA/STRINGS/validate_ip_address.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj
+.PHONY : DSA/STRINGS/validate_ip_address.cpp.obj
+
+DSA/STRINGS/validate_ip_address.i: DSA/STRINGS/validate_ip_address.cpp.i
+
+.PHONY : DSA/STRINGS/validate_ip_address.i
+
+# target to preprocess a source file
+DSA/STRINGS/validate_ip_address.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.i
+.PHONY : DSA/STRINGS/validate_ip_address.cpp.i
+
+DSA/STRINGS/validate_ip_address.s: DSA/STRINGS/validate_ip_address.cpp.s
+
+.PHONY : DSA/STRINGS/validate_ip_address.s
+
+# target to generate assembly for a file
+DSA/STRINGS/validate_ip_address.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.s
+.PHONY : DSA/STRINGS/validate_ip_address.cpp.s
 
 DSA/STRINGS/winner_of_election.obj: DSA/STRINGS/winner_of_election.cpp.obj
 
@@ -13267,6 +13429,9 @@ help:
 	@echo ... DSA/SLIDING_WINDOW/VSSW/pick_toys.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/pick_toys.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/pick_toys.s
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.obj
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.i
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.s
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
@@ -13354,6 +13519,9 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
+	@echo ... DSA/STRINGS/add_binary_strings.obj
+	@echo ... DSA/STRINGS/add_binary_strings.i
+	@echo ... DSA/STRINGS/add_binary_strings.s
 	@echo ... DSA/STRINGS/anagrams.obj
 	@echo ... DSA/STRINGS/anagrams.i
 	@echo ... DSA/STRINGS/anagrams.s
@@ -13381,6 +13549,12 @@ help:
 	@echo ... DSA/STRINGS/k_anagrams.obj
 	@echo ... DSA/STRINGS/k_anagrams.i
 	@echo ... DSA/STRINGS/k_anagrams.s
+	@echo ... DSA/STRINGS/longest_common_prefix.obj
+	@echo ... DSA/STRINGS/longest_common_prefix.i
+	@echo ... DSA/STRINGS/longest_common_prefix.s
+	@echo ... DSA/STRINGS/longest_even_length_substring.obj
+	@echo ... DSA/STRINGS/longest_even_length_substring.i
+	@echo ... DSA/STRINGS/longest_even_length_substring.s
 	@echo ... DSA/STRINGS/longest_palindromic_substring.obj
 	@echo ... DSA/STRINGS/longest_palindromic_substring.i
 	@echo ... DSA/STRINGS/longest_palindromic_substring.s
@@ -13426,6 +13600,12 @@ help:
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.obj
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.i
 	@echo ... DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.s
+	@echo ... DSA/STRINGS/sum_of_two_large_numbers.obj
+	@echo ... DSA/STRINGS/sum_of_two_large_numbers.i
+	@echo ... DSA/STRINGS/sum_of_two_large_numbers.s
+	@echo ... DSA/STRINGS/validate_ip_address.obj
+	@echo ... DSA/STRINGS/validate_ip_address.i
+	@echo ... DSA/STRINGS/validate_ip_address.s
 	@echo ... DSA/STRINGS/winner_of_election.obj
 	@echo ... DSA/STRINGS/winner_of_election.i
 	@echo ... DSA/STRINGS/winner_of_election.s

@@ -212,6 +212,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/STRINGS/implement_atoi.cpp DSA/STRINGS/run_length_encding.cpp DSA/STRINGS/k_anagrams.cpp
         DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp DSA/STRINGS/find_string_in_grid.cpp
         DSA/STRINGS/case_specific_sorting.cpp DSA/STRINGS/string_ignorance.cpp DSA/STRINGS/replace_by_X.cpp
-        DSA/STRINGS/match_specific_pattern.cpp)
+        DSA/STRINGS/match_specific_pattern.cpp DSA/STRINGS/longest_common_prefix.cpp DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp
+        DSA/STRINGS/validate_ip_address.cpp DSA/STRINGS/add_binary_strings.cpp DSA/STRINGS/sum_of_two_large_numbers.cpp
+        DSA/STRINGS/longest_even_length_substring.cpp)
 
 

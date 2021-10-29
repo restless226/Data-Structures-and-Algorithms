@@ -923,6 +923,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1019,6 +1022,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STL/vectors_tut.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/add_binary_strings.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/anagrams.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1044,6 +1050,12 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/k_anagrams.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_common_prefix.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_even_length_substring.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp">
@@ -1089,6 +1101,12 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/sum_of_two_large_numbers.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/validate_ip_address.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/winner_of_election.cpp">

@@ -1,26 +1,28 @@
-//class Solution {
-//public:
-//    vector<int> printKClosest(vector<int> arr, int n, int k, int x) {
-//        // code here
-//        priority_queue <pair<int, int>> pq;
+//#include <bits/stdc++.h>
 //
-//        for (int i = 0; i < n; i++) {
-//            if (pq.size() < k and arr[i] != x) {
-//                pq.push(make_pair(abs(arr[i] - x), i));
-//            } else {
-//                if (abs(arr[i] - x) <= pq.top().first and arr[i] != x) {
-//                    pq.pop();
-//                    pq.push(make_pair(abs(arr[i] - x), i));
-//                }
-//            }
-//        }
-//        vector<int> ans;
+//#define int long long int
+//using namespace std;
+//const int mod = 1000000007;
 //
-//        while (!pq.empty()) {
-//            // cout <<pq.top().second<<endl;
-//            ans.insert(ans.begin(), arr[pq.top().second]);
-//            pq.pop();
-//        }
-//        return ans;
+//int solve() {
+//    int n, k;
+//    cin >> n >> k;
+//    if (n == 1) return 0;
+//    else if (n == 2) return 1;
+//    float power = log2(k);
+//    int steps = ceil(power) + 1;
+//    steps += ceil((n - (int) pow(2, power + 1)) / k);
+//    return steps;
+//}
+//
+//int32_t main() {
+//    cin.tie(nullptr);
+//    cout.tie(nullptr);
+//    ios_base::sync_with_stdio(false);
+//    int t;
+//    cin >> t;
+//    while (t--) {
+//        cout << solve() << '\n';
 //    }
-//};
+//    return 0;
+//}
