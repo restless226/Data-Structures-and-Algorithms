@@ -6069,6 +6069,45 @@ CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_even_length_substring.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_even_length_substring.cpp.s
 
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj: ../DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj: ../DSA/STRINGS/Pattern_Searching/kmp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\kmp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\kmp.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\kmp.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\kmp.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\kmp.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\kmp.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj: ../DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -6531,7 +6570,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6997,11 +7039,14 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

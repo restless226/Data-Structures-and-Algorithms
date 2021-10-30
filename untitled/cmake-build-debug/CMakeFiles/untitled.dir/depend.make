@@ -557,6 +557,12 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
 
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj: ../DSA/STRINGS/Pattern_Searching/kmp.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj: ../DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj: ../DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp
+
 CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: ../DSA/STRINGS/add_binary_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: ../DSA/STRINGS/anagrams.cpp

@@ -8431,6 +8431,87 @@ DSA/STL/vectors_tut.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s
 .PHONY : DSA/STL/vectors_tut.cpp.s
 
+DSA/STRINGS/Pattern_Searching/kmp.obj: DSA/STRINGS/Pattern_Searching/kmp.cpp.obj
+
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.obj
+
+# target to build an object file
+DSA/STRINGS/Pattern_Searching/kmp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.cpp.obj
+
+DSA/STRINGS/Pattern_Searching/kmp.i: DSA/STRINGS/Pattern_Searching/kmp.cpp.i
+
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.i
+
+# target to preprocess a source file
+DSA/STRINGS/Pattern_Searching/kmp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.i
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.cpp.i
+
+DSA/STRINGS/Pattern_Searching/kmp.s: DSA/STRINGS/Pattern_Searching/kmp.cpp.s
+
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.s
+
+# target to generate assembly for a file
+DSA/STRINGS/Pattern_Searching/kmp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.s
+.PHONY : DSA/STRINGS/Pattern_Searching/kmp.cpp.s
+
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.obj: DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj
+
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.obj
+
+# target to build an object file
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj
+
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.i: DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i
+
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.i
+
+# target to preprocess a source file
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i
+
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.s: DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s
+
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.s
+
+# target to generate assembly for a file
+DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s
+.PHONY : DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.s
+
+DSA/STRINGS/Pattern_Searching/subsequence_matching.obj: DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj
+
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.obj
+
+# target to build an object file
+DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj
+
+DSA/STRINGS/Pattern_Searching/subsequence_matching.i: DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i
+
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.i
+
+# target to preprocess a source file
+DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i
+
+DSA/STRINGS/Pattern_Searching/subsequence_matching.s: DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s
+
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.s
+
+# target to generate assembly for a file
+DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s
+.PHONY : DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s
+
 DSA/STRINGS/add_binary_strings.obj: DSA/STRINGS/add_binary_strings.cpp.obj
 
 .PHONY : DSA/STRINGS/add_binary_strings.obj
@@ -13519,6 +13600,15 @@ help:
 	@echo ... DSA/STL/vectors_tut.obj
 	@echo ... DSA/STL/vectors_tut.i
 	@echo ... DSA/STL/vectors_tut.s
+	@echo ... DSA/STRINGS/Pattern_Searching/kmp.obj
+	@echo ... DSA/STRINGS/Pattern_Searching/kmp.i
+	@echo ... DSA/STRINGS/Pattern_Searching/kmp.s
+	@echo ... DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.obj
+	@echo ... DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.i
+	@echo ... DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.s
+	@echo ... DSA/STRINGS/Pattern_Searching/subsequence_matching.obj
+	@echo ... DSA/STRINGS/Pattern_Searching/subsequence_matching.i
+	@echo ... DSA/STRINGS/Pattern_Searching/subsequence_matching.s
 	@echo ... DSA/STRINGS/add_binary_strings.obj
 	@echo ... DSA/STRINGS/add_binary_strings.i
 	@echo ... DSA/STRINGS/add_binary_strings.s
