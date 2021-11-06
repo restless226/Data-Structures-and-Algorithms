@@ -216,6 +216,6 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/STRINGS/validate_ip_address.cpp DSA/STRINGS/add_binary_strings.cpp DSA/STRINGS/sum_of_two_large_numbers.cpp
         DSA/STRINGS/longest_even_length_substring.cpp DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp
         DSA/STRINGS/Pattern_Searching/kmp.cpp DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp
-        DSA/STRINGS/Pattern_Searching/robin-karp.cpp)
+        DSA/STRINGS/Pattern_Searching/robin-karp.cpp DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp)
 
 

@@ -141,6 +141,8 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj: ../DSA/DP/DP_E
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj: ../DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp
 
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj: ../DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp
+
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj: ../DSA/DP/DP_EXTRAS/string_ss.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj: ../DSA/DP/DP_EXTRAS/sus.cpp

@@ -2113,6 +2113,33 @@ DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.s
 .PHONY : DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.s
 
+DSA/DP/DP_EXTRAS/strictly_increasing_array.obj: DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj
+
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.obj
+
+# target to build an object file
+DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj
+
+DSA/DP/DP_EXTRAS/strictly_increasing_array.i: DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.i
+
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.i
+
+# target to preprocess a source file
+DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.i
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.i
+
+DSA/DP/DP_EXTRAS/strictly_increasing_array.s: DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.s
+
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.s
+
+# target to generate assembly for a file
+DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.s
+.PHONY : DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.s
+
 DSA/DP/DP_EXTRAS/string_ss.obj: DSA/DP/DP_EXTRAS/string_ss.cpp.obj
 
 .PHONY : DSA/DP/DP_EXTRAS/string_ss.obj
@@ -12925,6 +12952,9 @@ help:
 	@echo ... DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.obj
 	@echo ... DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.i
 	@echo ... DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.s
+	@echo ... DSA/DP/DP_EXTRAS/strictly_increasing_array.obj
+	@echo ... DSA/DP/DP_EXTRAS/strictly_increasing_array.i
+	@echo ... DSA/DP/DP_EXTRAS/strictly_increasing_array.s
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.obj
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.i
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.s

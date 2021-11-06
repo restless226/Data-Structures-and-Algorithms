@@ -72,6 +72,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj"
+  "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj"
   "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj"
