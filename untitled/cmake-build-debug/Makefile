@@ -1924,6 +1924,33 @@ DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.s
 .PHONY : DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.s
 
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.obj: DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj
+
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.obj
+
+# target to build an object file
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj
+
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.i: DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.i
+
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.i
+
+# target to preprocess a source file
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.i
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.i
+
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.s: DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.s
+
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.s
+
+# target to generate assembly for a file
+DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.s
+.PHONY : DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.s
+
 DSA/DP/DP_EXTRAS/min_steps.obj: DSA/DP/DP_EXTRAS/min_steps.cpp.obj
 
 .PHONY : DSA/DP/DP_EXTRAS/min_steps.obj
@@ -12931,6 +12958,9 @@ help:
 	@echo ... DSA/DP/DP_EXTRAS/min_no_of_jumps.obj
 	@echo ... DSA/DP/DP_EXTRAS/min_no_of_jumps.i
 	@echo ... DSA/DP/DP_EXTRAS/min_no_of_jumps.s
+	@echo ... DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.obj
+	@echo ... DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.i
+	@echo ... DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.s
 	@echo ... DSA/DP/DP_EXTRAS/min_steps.obj
 	@echo ... DSA/DP/DP_EXTRAS/min_steps.i
 	@echo ... DSA/DP/DP_EXTRAS/min_steps.s

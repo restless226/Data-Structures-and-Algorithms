@@ -67,6 +67,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_count.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_steps.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/msis.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj"
