@@ -6147,6 +6147,45 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_ar
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_operations_to_convert_array_A_to_array_B.cpp -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_operations_to_convert_array_A_to_array_B.cpp.s
 
+CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj: ../DSA/TRIE/trie_insert_and_search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\trie_insert_and_search.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_insert_and_search.cpp
+
+CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_insert_and_search.cpp > CMakeFiles\untitled.dir\DSA\TRIE\trie_insert_and_search.cpp.i
+
+CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_insert_and_search.cpp -o CMakeFiles\untitled.dir\DSA\TRIE\trie_insert_and_search.cpp.s
+
+CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj: ../DSA/TRIE/trie_delete.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\trie_delete.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_delete.cpp
+
+CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_delete.cpp > CMakeFiles\untitled.dir\DSA\TRIE\trie_delete.cpp.i
+
+CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_delete.cpp -o CMakeFiles\untitled.dir\DSA\TRIE\trie_delete.cpp.s
+
+CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj: ../DSA/TRIE/count_no_of_strings_with_given_prefix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp
+
+CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp > CMakeFiles\untitled.dir\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp.i
+
+CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp -o CMakeFiles\untitled.dir\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/test.cpp.obj" \
@@ -6615,7 +6654,10 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj"
+"CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -7087,11 +7129,14 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_pref
 untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

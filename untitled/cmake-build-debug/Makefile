@@ -9808,6 +9808,87 @@ DSA/TREES/sorting_algorithms/selectionSort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.s
 .PHONY : DSA/TREES/sorting_algorithms/selectionSort.cpp.s
 
+DSA/TRIE/count_no_of_strings_with_given_prefix.obj: DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj
+
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.obj
+
+# target to build an object file
+DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj
+
+DSA/TRIE/count_no_of_strings_with_given_prefix.i: DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i
+
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.i
+
+# target to preprocess a source file
+DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i
+
+DSA/TRIE/count_no_of_strings_with_given_prefix.s: DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s
+
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.s
+
+# target to generate assembly for a file
+DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s
+.PHONY : DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s
+
+DSA/TRIE/trie_delete.obj: DSA/TRIE/trie_delete.cpp.obj
+
+.PHONY : DSA/TRIE/trie_delete.obj
+
+# target to build an object file
+DSA/TRIE/trie_delete.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj
+.PHONY : DSA/TRIE/trie_delete.cpp.obj
+
+DSA/TRIE/trie_delete.i: DSA/TRIE/trie_delete.cpp.i
+
+.PHONY : DSA/TRIE/trie_delete.i
+
+# target to preprocess a source file
+DSA/TRIE/trie_delete.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.i
+.PHONY : DSA/TRIE/trie_delete.cpp.i
+
+DSA/TRIE/trie_delete.s: DSA/TRIE/trie_delete.cpp.s
+
+.PHONY : DSA/TRIE/trie_delete.s
+
+# target to generate assembly for a file
+DSA/TRIE/trie_delete.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.s
+.PHONY : DSA/TRIE/trie_delete.cpp.s
+
+DSA/TRIE/trie_insert_and_search.obj: DSA/TRIE/trie_insert_and_search.cpp.obj
+
+.PHONY : DSA/TRIE/trie_insert_and_search.obj
+
+# target to build an object file
+DSA/TRIE/trie_insert_and_search.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj
+.PHONY : DSA/TRIE/trie_insert_and_search.cpp.obj
+
+DSA/TRIE/trie_insert_and_search.i: DSA/TRIE/trie_insert_and_search.cpp.i
+
+.PHONY : DSA/TRIE/trie_insert_and_search.i
+
+# target to preprocess a source file
+DSA/TRIE/trie_insert_and_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.i
+.PHONY : DSA/TRIE/trie_insert_and_search.cpp.i
+
+DSA/TRIE/trie_insert_and_search.s: DSA/TRIE/trie_insert_and_search.cpp.s
+
+.PHONY : DSA/TRIE/trie_insert_and_search.s
+
+# target to generate assembly for a file
+DSA/TRIE/trie_insert_and_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.s
+.PHONY : DSA/TRIE/trie_insert_and_search.cpp.s
+
 DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj: DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj
 
 .PHONY : DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj
@@ -13834,6 +13915,15 @@ help:
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.obj
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.i
 	@echo ... DSA/TREES/sorting_algorithms/selectionSort.s
+	@echo ... DSA/TRIE/count_no_of_strings_with_given_prefix.obj
+	@echo ... DSA/TRIE/count_no_of_strings_with_given_prefix.i
+	@echo ... DSA/TRIE/count_no_of_strings_with_given_prefix.s
+	@echo ... DSA/TRIE/trie_delete.obj
+	@echo ... DSA/TRIE/trie_delete.i
+	@echo ... DSA/TRIE/trie_delete.s
+	@echo ... DSA/TRIE/trie_insert_and_search.obj
+	@echo ... DSA/TRIE/trie_insert_and_search.i
+	@echo ... DSA/TRIE/trie_insert_and_search.s
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.obj
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.i
 	@echo ... DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.s

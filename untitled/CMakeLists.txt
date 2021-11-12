@@ -217,6 +217,7 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/STRINGS/longest_even_length_substring.cpp DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp
         DSA/STRINGS/Pattern_Searching/kmp.cpp DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp
         DSA/STRINGS/Pattern_Searching/robin-karp.cpp DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp
-        DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp)
+        DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp DSA/TRIE/trie_insert_and_search.cpp
+        DSA/TRIE/trie_delete.cpp DSA/TRIE/count_no_of_strings_with_given_prefix.cpp)
 
 
