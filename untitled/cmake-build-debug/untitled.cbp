@@ -92,6 +92,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/n_queens.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/tsp.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/DM_lists.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -168,6 +171,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/smallest_factorial_no.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/ternary_search.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp">
@@ -606,6 +612,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/transitive_closure_of_graph.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/tsp.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp">

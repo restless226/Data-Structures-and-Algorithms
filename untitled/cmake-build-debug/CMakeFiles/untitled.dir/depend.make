@@ -9,6 +9,8 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj: ../DAA_ASSIGNMENTS/
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj: ../DAA_ASSIGNMENTS/n_queens.cpp
 
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj: ../DAA_ASSIGNMENTS/tsp.cpp
+
 CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj: ../DM/DM_lists.cpp
 
 CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj: ../DM/linear_searrch.cpp
@@ -60,6 +62,8 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: ../DS
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../DSA/BINARY_SEARCH/smallest_factorial_no.cpp
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj: ../DSA/BINARY_SEARCH/ternary_search.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp
 
@@ -346,6 +350,8 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GR
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj: ../DSA/GRAPHS/transitive_closure_of_graph.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj: ../DSA/GRAPHS/tsp.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj: ../DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
 

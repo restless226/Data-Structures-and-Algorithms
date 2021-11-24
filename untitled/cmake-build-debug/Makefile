@@ -250,6 +250,33 @@ DAA_ASSIGNMENTS/n_queens.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.s
 .PHONY : DAA_ASSIGNMENTS/n_queens.cpp.s
 
+DAA_ASSIGNMENTS/tsp.obj: DAA_ASSIGNMENTS/tsp.cpp.obj
+
+.PHONY : DAA_ASSIGNMENTS/tsp.obj
+
+# target to build an object file
+DAA_ASSIGNMENTS/tsp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj
+.PHONY : DAA_ASSIGNMENTS/tsp.cpp.obj
+
+DAA_ASSIGNMENTS/tsp.i: DAA_ASSIGNMENTS/tsp.cpp.i
+
+.PHONY : DAA_ASSIGNMENTS/tsp.i
+
+# target to preprocess a source file
+DAA_ASSIGNMENTS/tsp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.i
+.PHONY : DAA_ASSIGNMENTS/tsp.cpp.i
+
+DAA_ASSIGNMENTS/tsp.s: DAA_ASSIGNMENTS/tsp.cpp.s
+
+.PHONY : DAA_ASSIGNMENTS/tsp.s
+
+# target to generate assembly for a file
+DAA_ASSIGNMENTS/tsp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.s
+.PHONY : DAA_ASSIGNMENTS/tsp.cpp.s
+
 DM/DM_lists.obj: DM/DM_lists.cpp.obj
 
 .PHONY : DM/DM_lists.obj
@@ -951,6 +978,33 @@ DSA/BINARY_SEARCH/smallest_factorial_no.s: DSA/BINARY_SEARCH/smallest_factorial_
 DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
 .PHONY : DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s
+
+DSA/BINARY_SEARCH/ternary_search.obj: DSA/BINARY_SEARCH/ternary_search.cpp.obj
+
+.PHONY : DSA/BINARY_SEARCH/ternary_search.obj
+
+# target to build an object file
+DSA/BINARY_SEARCH/ternary_search.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj
+.PHONY : DSA/BINARY_SEARCH/ternary_search.cpp.obj
+
+DSA/BINARY_SEARCH/ternary_search.i: DSA/BINARY_SEARCH/ternary_search.cpp.i
+
+.PHONY : DSA/BINARY_SEARCH/ternary_search.i
+
+# target to preprocess a source file
+DSA/BINARY_SEARCH/ternary_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.i
+.PHONY : DSA/BINARY_SEARCH/ternary_search.cpp.i
+
+DSA/BINARY_SEARCH/ternary_search.s: DSA/BINARY_SEARCH/ternary_search.cpp.s
+
+.PHONY : DSA/BINARY_SEARCH/ternary_search.s
+
+# target to generate assembly for a file
+DSA/BINARY_SEARCH/ternary_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.s
+.PHONY : DSA/BINARY_SEARCH/ternary_search.cpp.s
 
 DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj: DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj
 
@@ -4893,6 +4947,33 @@ DSA/GRAPHS/transitive_closure_of_graph.s: DSA/GRAPHS/transitive_closure_of_graph
 DSA/GRAPHS/transitive_closure_of_graph.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.s
 .PHONY : DSA/GRAPHS/transitive_closure_of_graph.cpp.s
+
+DSA/GRAPHS/tsp.obj: DSA/GRAPHS/tsp.cpp.obj
+
+.PHONY : DSA/GRAPHS/tsp.obj
+
+# target to build an object file
+DSA/GRAPHS/tsp.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj
+.PHONY : DSA/GRAPHS/tsp.cpp.obj
+
+DSA/GRAPHS/tsp.i: DSA/GRAPHS/tsp.cpp.i
+
+.PHONY : DSA/GRAPHS/tsp.i
+
+# target to preprocess a source file
+DSA/GRAPHS/tsp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.i
+.PHONY : DSA/GRAPHS/tsp.cpp.i
+
+DSA/GRAPHS/tsp.s: DSA/GRAPHS/tsp.cpp.s
+
+.PHONY : DSA/GRAPHS/tsp.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/tsp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.s
+.PHONY : DSA/GRAPHS/tsp.cpp.s
 
 DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj: DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj
 
@@ -12880,6 +12961,9 @@ help:
 	@echo ... DAA_ASSIGNMENTS/n_queens.obj
 	@echo ... DAA_ASSIGNMENTS/n_queens.i
 	@echo ... DAA_ASSIGNMENTS/n_queens.s
+	@echo ... DAA_ASSIGNMENTS/tsp.obj
+	@echo ... DAA_ASSIGNMENTS/tsp.i
+	@echo ... DAA_ASSIGNMENTS/tsp.s
 	@echo ... DM/DM_lists.obj
 	@echo ... DM/DM_lists.i
 	@echo ... DM/DM_lists.s
@@ -12958,6 +13042,9 @@ help:
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.obj
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.i
 	@echo ... DSA/BINARY_SEARCH/smallest_factorial_no.s
+	@echo ... DSA/BINARY_SEARCH/ternary_search.obj
+	@echo ... DSA/BINARY_SEARCH/ternary_search.i
+	@echo ... DSA/BINARY_SEARCH/ternary_search.s
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.i
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.s
@@ -13396,6 +13483,9 @@ help:
 	@echo ... DSA/GRAPHS/transitive_closure_of_graph.obj
 	@echo ... DSA/GRAPHS/transitive_closure_of_graph.i
 	@echo ... DSA/GRAPHS/transitive_closure_of_graph.s
+	@echo ... DSA/GRAPHS/tsp.obj
+	@echo ... DSA/GRAPHS/tsp.i
+	@echo ... DSA/GRAPHS/tsp.s
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.i
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.s
