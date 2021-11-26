@@ -10,7 +10,6 @@
 //#define int long long
 //using namespace std;
 //
-//
 //int board[MAX][MAX];    // Global array to hold elements of chess board
 //int solutions = 0;
 //
@@ -28,31 +27,26 @@
 //bool isPossible(int n, int row, int column) {
 //    // we have to check: upper left diagonal, upper right diagonal, upper column elements;
 //    // checking of other directions is not required as we are moving downwards row by row
-//
 //    // checking for upper column elements
 //    for (int i = row - 1; i >= 0; i--) {
 //        if (board[i][column] == 1) {
 //            return false;
 //        }
 //    }
-//
 //    // checking for upper left diagonal elements
 //    for (int i = row - 1, j = column - 1; i >= 0 && j >= 0; i--, j--) {
 //        if (board[i][j] == 1) {
 //            return false;
 //        }
 //    }
-//
 //    // checking for upper right diagonal elements
 //    for (int i = row - 1, j = column + 1; i >= 0 && j < n; i--, j++) {
 //        if (board[i][j] == 1) {
 //            return false;
 //        }
 //    }
-//
 //    // As we did not get any indices for which "board[i][j]==1" hence it is a safe position to insert
 //    return true;
-//
 //}
 //
 //void nQueenHelper(int n, int row) {
@@ -61,7 +55,6 @@
 //        printArray(n);
 //        return;
 //    }
-//
 //    // Place at all possible positions and move to smaller problem
 //    for (int j = 0; j < n; ++j) {
 //        // check is it possible to insert in arr[row][j] or not
@@ -73,7 +66,6 @@
 //    }
 //}
 //
-//
 //void placeNQueens(int n) {
 //    memset(board, 0, sizeof(board));
 //    // Starting with row 0
@@ -82,22 +74,17 @@
 //
 //int32_t main() {
 //    int t, n;
-//
 //    cout << "Enter no of test cases:" << '\n';
 //    cin >> t;
-//
 //    while (t--) {
 //        cout << "Enter size n of nxn board:" << '\n';
 //        cin >> n;
-//
 //        placeNQueens(n);
-//
 //        if (solutions == 0) {
 //            cout << "\nNO POSSIBLE SOLUTION FOR n=" << n << '\n';
 //        }
 //        cout << '\n';
 //    }
-//
 //    return 0;
 //}
 //
