@@ -18,8 +18,27 @@
 //using namespace std;
 //const int mod = 1000000007;
 //
-//int solve(int arr[], int n) {
+//int dp[1003][1003];
 //
+//int money(int arr[], int n, int i, int j) {
+//    if (i > j) return dp[i][j] = 0;
+//    if (dp[i][j] != -1) return dp[i][j];
+//    if (dp[i + 2][j] == -1) {
+//        dp[i + 2][j] = money(arr, n, i + 2, j);
+//    }
+//    if (dp[i + 1][j - 1] == -1) {
+//        dp[i + 1][j - 1] = money(arr, n, i + 1, j - 1);
+//    }
+//    if (dp[i][j - 2] == -1) {
+//        dp[i][j - 2] = money(arr, n, i, j - 2);
+//    }
+//    return dp[i][j] = max(arr[i] + min(dp[i + 2][j], dp[i + 1][j - 1]),
+//                          arr[j] + min(dp[i + 1][j - 1], dp[i][j - 2]));
+//}
+//
+//int solve(int arr[], int n) {
+//    memset(dp, -1, sizeof(dp));
+//    return money(arr, n, 0, n - 1);
 //}
 //
 //int32_t main() {
@@ -41,8 +60,13 @@
 //
 ///*
 //INPUT:
-//
+//2
+//4
+//5 3 7 10
+//4
+//8 15 3 7
 //
 //OUTPUT:
-//
+//15
+//22
 //*/
