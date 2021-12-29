@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/bellman_ford.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
+  "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/exam.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/knapsack_01.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj"
   "C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/n_queens.cpp" "C:/Users/rapen/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj"

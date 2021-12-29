@@ -1,15 +1,20 @@
-///*
-//Name: Rohit Pendse
-//Roll no: 33358
-//Subject: DAA_ASSIGNMENTS Lab Assignment 1
-//Problem Statement:
-//Write a menu driven C++ program to implement 0/1 knapsack using dynamic programming.
+///*LP-1 :: DAA :: Assignment No. 01 - Knapsack Problem
+//
+//Date of Performance: 24/08/2021		 Date of Submission: 23/09/2021
+//
+//Name : Rohit Pendse
+//Roll No. : 33358
+//Class : TE11
+//Batch : L11
+//Subject : Laboratory Practice-I : Design and Analysis of Algorithm
+//
+//Problem statement :: Write a program to implement Fractional knapsack using Greedy algorithm and 0/1 knapsack using dynamic programming. Show that Greedy strategy does not necessarily yield an optimal solution over a dynamic programming approach.
 //*/
 //
 //#include <bits/stdc++.h>
 //
 //#define MAX 1001
-//#define int long long
+//#define int long long int
 //using namespace std;
 //
 //void printArray(int **dp, int n, int W) {
@@ -27,12 +32,8 @@
 //    for (int i = 0; i < n + 1; i++) {
 //        dp[i] = new int[W + 1];
 //    }
-//
-////    int dp[n + 1][W + 1];
-//
 //    // INITIALIZATION (it corresponds to base condition in RECURSIVE SOLUTION)
 //    // initializing first row and first column with all zeroes
-//
 //    // i->n && j->W
 //    for (int i = 0; i < n + 1; ++i) {
 //        for (int j = 0; j < W + 1; ++j) {
@@ -41,11 +42,9 @@
 //            }
 //        }
 //    }
-//
 //    cout << "\nDP ARRAY BEFORE ITERATION...\n";
 //    printArray(dp, n, W);
-//
-//    // ITERATIVE DP
+//    // ITERATION
 //    for (int i = 1; i < n + 1; ++i) {
 //        for (int j = 1; j < W + 1; ++j) {
 //            if (weights[i - 1] <= j) {
@@ -55,69 +54,61 @@
 //            }
 //        }
 //    }
-//
 //    cout << "\nDP ARRAY AFTER ITERATION...\n";
 //    printArray(dp, n, W);
-//
 //    return dp[n][W];
 //}
 //
-//static int dp[MAX][MAX];    // dp matrix for MEMOIZATION
+//int dp[MAX][MAX];    // dp matrix for MEMOIZATION
 //int knapsack_01_MEMOIZATION(int weights[], int values[], int n, int W) {
 //    // base condition
-//    if (n == 0 || W == 0) {
-//        return 0;
-//    }
-//
+//    if (n == 0 || W == 0) return 0;
 //    // memoization block check
-//    if (dp[n][W] != -1) {
-//        return dp[n][W];
-//    }
-//
+//    if (dp[n][W] != -1) return dp[n][W];
 //    // choice diagram code
 //    if (weights[n - 1] <= W) {
 //        // memoization block check
 //        if (dp[n - 1][W - weights[n - 1]] == -1) {
 //            dp[n - 1][W - weights[n - 1]] = knapsack_01_MEMOIZATION(weights, values, n - 1, W - weights[n - 1]);
 //        }
+//        if (dp[n - 1][W] == -1) {
+//            dp[n - 1][W] = knapsack_01_MEMOIZATION(weights, values, n - 1, W);
+//        }
 //        // Return the maximum of nth item (included, not included)
-//        return max(values[n - 1] + dp[n - 1][W - weights[n - 1]], dp[n - 1][W - weights[n - 1]]);
+//        return dp[n][W] = max(values[n - 1] + dp[n - 1][W - weights[n - 1]], dp[n - 1][W]);
 //    } else if (weights[n - 1] > W) {
 //        // memoization block check
 //        if (dp[n - 1][W] == -1) {
 //            dp[n - 1][W] = knapsack_01_MEMOIZATION(weights, values, n - 1, W);
 //        }
-//        return dp[n - 1][W];
+//        return dp[n][W] = dp[n - 1][W];
 //    }
 //}
 //
 //int knapsack_01_RECURSIVE(int weights[], int values[], int n, int W) {
 //    // base condition (it corresponds to "SMALLEST VALID INPUT")
-//    if (n == 0 || W == 0) {
-//        return 0;
-//    }
-//
+//    if (n == 0 || W == 0) return 0;
 //    // choice diagram code
 //    if (weights[n - 1] <= W) {
-////        return values[n - 1] + knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]);
 //        return max(values[n - 1] + knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]),
-//                   knapsack_01_RECURSIVE(weights, values, n - 1, W - weights[n - 1]));
+//                   knapsack_01_RECURSIVE(weights, values, n - 1, W));
 //    } else if (weights[n - 1] > W) {
 //        return knapsack_01_RECURSIVE(weights, values, n - 1, W);
 //    }
 //}
 //
 //int32_t main() {
-//
 //    int t;
 //    cin >> t;
 //    while (t--) {
 //        int n, W;
+//        cout << "Enter no of items:";
 //        cin >> n;
+//        cout << "\nEnter weight of Knapsack:";
 //        cin >> W;
 //        int weights[n];
 //        int values[n];
-//
+//        cout << "\nEnter space separated entries for values and weights:\n";
 //        for (int i = 0; i < n; ++i) {
 //            cin >> values[i] >> weights[i];
 //        }

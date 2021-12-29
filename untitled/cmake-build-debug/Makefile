@@ -169,6 +169,33 @@ DAA_ASSIGNMENTS/bellman_ford.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.s
 .PHONY : DAA_ASSIGNMENTS/bellman_ford.cpp.s
 
+DAA_ASSIGNMENTS/exam.obj: DAA_ASSIGNMENTS/exam.cpp.obj
+
+.PHONY : DAA_ASSIGNMENTS/exam.obj
+
+# target to build an object file
+DAA_ASSIGNMENTS/exam.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj
+.PHONY : DAA_ASSIGNMENTS/exam.cpp.obj
+
+DAA_ASSIGNMENTS/exam.i: DAA_ASSIGNMENTS/exam.cpp.i
+
+.PHONY : DAA_ASSIGNMENTS/exam.i
+
+# target to preprocess a source file
+DAA_ASSIGNMENTS/exam.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.i
+.PHONY : DAA_ASSIGNMENTS/exam.cpp.i
+
+DAA_ASSIGNMENTS/exam.s: DAA_ASSIGNMENTS/exam.cpp.s
+
+.PHONY : DAA_ASSIGNMENTS/exam.s
+
+# target to generate assembly for a file
+DAA_ASSIGNMENTS/exam.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.s
+.PHONY : DAA_ASSIGNMENTS/exam.cpp.s
+
 DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.obj: DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj
 
 .PHONY : DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.obj
@@ -12952,6 +12979,9 @@ help:
 	@echo ... DAA_ASSIGNMENTS/bellman_ford.obj
 	@echo ... DAA_ASSIGNMENTS/bellman_ford.i
 	@echo ... DAA_ASSIGNMENTS/bellman_ford.s
+	@echo ... DAA_ASSIGNMENTS/exam.obj
+	@echo ... DAA_ASSIGNMENTS/exam.i
+	@echo ... DAA_ASSIGNMENTS/exam.s
 	@echo ... DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.obj
 	@echo ... DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.i
 	@echo ... DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.s

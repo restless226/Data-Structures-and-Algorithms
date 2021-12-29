@@ -11,44 +11,41 @@
 //Optimised Time Complexity: 2^n*n
 //*/
 //
-//#include <bits/stdc++.h>
+//#include<bits/stdc++.h>
 //
-//#define int long long int
 //using namespace std;
-//const int mod = 1000000007;
+//#define long long int
 //
-//int VISITED_ALL;
-//int dp[1025][11];
+//vector<pair<string, int>> paths;
 //
-//// mask => set of cities, pos => stating city from which we can visit connected cities
-//int tsp(int mask, int pos, vector<vector<int>> &cost, int n) {
-//    // base case
-//    if (mask == VISITED_ALL) return cost[mask][pos];
-//    // Memoized block check
-//    if (dp[mask][pos] != -1) {
-//        return dp[mask][pos];
+//int solve(vector<vector<int>> &cost, int currentCity, int depth, vector<bool> &visited) {
+//    const int n = cost.size();
+//    if (depth == n) {
+//        return cost[currentCity][0];
 //    }
 //    int ans = INT_MAX;
-//    // Go to an unvisited city from pos
+//    string path;
+//    visited[currentCity] = true;
+//    path +=  to_string(currentCity);
 //    for (int city = 0; city < n; city++) {
-//        if ((mask & (1 << city)) == 0) {
-//            int curr_ans = cost[pos][city] +
-//                           tsp(mask | (1 << city), city, cost, n);
-//            ans = min(ans, curr_ans);
+//        if (!visited[city]) {
+//            visited[city] = true;
+//            path += to_string(city);
+//            ans = min(ans, cost[currentCity][city] + solve(cost, city, depth + 1, visited));
+//            visited[city] = false;
 //        }
+//        paths.push_back({path, ans});
 //    }
-//    return dp[mask][pos] = ans;
+//    visited[currentCity] = false;
+//    return ans;
 //}
 //
-//int solve(vector<vector<int>> &cost, int n) {
-//    VISITED_ALL = ((1 << n) - 1);
-//    // INITIALIZING DP MATRIX
-//    memset(dp, -1, sizeof(dp));
-//    // It returns minimum weight hamiltonian path cost
-//    return tsp(1, 0, cost, n);
+//int tsp(vector<vector<int>> cost) {
+//    vector<bool> visited(cost.size(), false);
+//    return solve(cost, 0, 1, visited);
 //}
 //
-//int32_t main() {
+//int main() {
 //    cin.tie(nullptr);
 //    cout.tie(nullptr);
 //    ios_base::sync_with_stdio(false);
@@ -63,14 +60,26 @@
 //                cin >> cost[i][j];
 //            }
 //        }
-//        cout << solve(cost, n) << '\n';
+//        int minCost = tsp(cost);
+//        string path;
+//        for (auto &itr: paths) {
+//            if (itr.second == minCost) {
+//                path = itr.first;
+//                break;
+//            }
+//        }
+//        cout << "min cost path: ";
+//        for (auto &c: path) cout << c << "->";
+//        cout << "0\n";
+//        cout << "min cost: " << minCost << '\n' << '\n';
 //    }
 //    return 0;
 //}
 //
+//
 ///*
 //INPUT:
-//3
+//4
 //2
 //0 111
 //112 0
@@ -83,9 +92,22 @@
 //20 0 30 34
 //42 30 0 10
 //25 34 10 0
+//4
+//0 4 1 3
+//4 0 2 1
+//1 2 0 5
+//3 1 5 0
 //
 //OUTPUT:
-//223
-//3000
-//85
+//min cost path: 0->1->0
+//min cost: 223
+//
+//min cost path: 0->1->2->0
+//min cost: 3000
+//
+//min cost path: 0->1->2->3->0
+//min cost: 85
+//
+//min cost path: 0->1->2->3->0
+//min cost: 7
 //*/

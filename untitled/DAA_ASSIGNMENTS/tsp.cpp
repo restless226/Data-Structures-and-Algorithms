@@ -129,7 +129,7 @@
 //    vector<pair<int, int>> v;
 //    // create a root node and calculate its cost.
 //    // The TSP starts from the first city, i.e., node 0
-//    Node *root = newNode(costMatrix, v, 0, -1, 0);
+//    Node *root = newNode(costMatrix, v, 0, 0, 0);
 //    // get the lower bound of the path starting at node 0
 //    root->cost = calculateCost(root->reducedMatrix);
 //    // Add root to the list of live nodes
@@ -173,21 +173,14 @@
 //}
 //
 //int32_t main() {
-//    cin.tie(nullptr);
-//    cout.tie(nullptr);
-//    ios_base::sync_with_stdio(false);
-//    int t;
-//    cin >> t;
-//    while (t--) {
-//        cout << "\nENTER INPUT ENTRIES IN COST MATRIX OF 5X5: " << '\n';
-//        int costMatrix[N][N];
-//        for (int i = 0; i < 5; i++) {
-//            for (int j = 0; j < 5; j++) {
-//                cin >> costMatrix[i][j];
-//            }
+//    cout << "\nENTER INPUT ENTRIES IN COST MATRIX OF 5X5: " << '\n';
+//    int costMatrix[N][N];
+//    for (int i = 0; i < 5; i++) {
+//        for (int j = 0; j < 5; j++) {
+//            cin >> costMatrix[i][j];
 //        }
-//        cout << "\n\nTotal cost is " << solve(costMatrix) << '\n';
 //    }
+//    cout << "\n\nTotal cost is " << solve(costMatrix) << '\n';
 //    return 0;
 //}
 //

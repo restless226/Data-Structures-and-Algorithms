@@ -73,8 +73,8 @@
 //    cin >> edges;
 //
 //    for (int i = 0; i < edges; i++) {
-//        cout << "\nEdge " << i + 1 << " : ";
-//        cout << "\nEnter source vertex : ";
+//        cout << "Edge " << i + 1 << " : ";
+//        cout << "Enter source vertex : ";
 //        cin >> edge_list[i].source;
 //        cout << "Enter destination vertex : ";
 //        cin >> edge_list[i].destination;
@@ -187,4 +187,34 @@
 //5			0
 //6			4
 //7			0
+//
+//
+//TESTCASE 3 OUTPUT:
+//Enter the number of vertices:4
+// Enter the source vertex of the graph:1
+//
+//Enter no of edges:4
+//
+//Edge 1 :
+//Enter source vertex :1
+// Enter destination vertex :2
+// Enter weight :5
+//
+//Edge 2 :
+//Enter source vertex :2
+// Enter destination vertex :3
+// Enter weight :1
+//
+//Edge 3 :
+//Enter source vertex :3
+// Enter destination vertex :4
+// Enter weight :2
+//
+//Edge 4 :
+//Enter source vertex :4
+// Enter destination vertex :2
+// Enter weight :-4
+//
+//
+//[WARNING] Negative weight cycle exists
 //*/

@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
+  "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj"
   "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj"
   "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj"
   "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj"
