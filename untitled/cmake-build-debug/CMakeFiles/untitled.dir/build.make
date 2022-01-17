@@ -271,35 +271,9 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s: cmake_
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\arrays_practice\ass1_again.cpp -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\arrays_practice\ass1_again.cpp.s
 
-CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj: ../DM/linear_searrch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DM\linear_searrch.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DM\linear_searrch.cpp
-
-CMakeFiles/untitled.dir/DM/linear_searrch.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DM/linear_searrch.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DM\linear_searrch.cpp > CMakeFiles\untitled.dir\DM\linear_searrch.cpp.i
-
-CMakeFiles/untitled.dir/DM/linear_searrch.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DM/linear_searrch.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DM\linear_searrch.cpp -o CMakeFiles\untitled.dir\DM\linear_searrch.cpp.s
-
-CMakeFiles/untitled.dir/DM/occurances.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DM/occurances.cpp.obj: ../DM/occurances.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/DM/occurances.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DM\occurances.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DM\occurances.cpp
-
-CMakeFiles/untitled.dir/DM/occurances.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DM/occurances.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DM\occurances.cpp > CMakeFiles\untitled.dir\DM\occurances.cpp.i
-
-CMakeFiles/untitled.dir/DM/occurances.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DM/occurances.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DM\occurances.cpp -o CMakeFiles\untitled.dir\DM\occurances.cpp.s
-
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_3_queue\circular_queue_2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_3_queue\circular_queue_2.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.i: cmake_force
@@ -312,7 +286,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_3_queue\queue_final.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_3_queue\queue_final.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.i: cmake_force
@@ -323,22 +297,9 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s: cm
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_3_queue\queue_final.cpp -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_3_queue\queue_final.cpp.s
 
-CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj: ../DM/DM_lists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DM\DM_lists.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DM\DM_lists.cpp
-
-CMakeFiles/untitled.dir/DM/DM_lists.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DM/DM_lists.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DM\DM_lists.cpp > CMakeFiles\untitled.dir\DM\DM_lists.cpp.i
-
-CMakeFiles/untitled.dir/DM/DM_lists.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DM/DM_lists.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DM\DM_lists.cpp -o CMakeFiles\untitled.dir\DM\DM_lists.cpp.s
-
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj: ../DSA/STL/vectors_tut.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\vectors_tut.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\vectors_tut.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.i: cmake_force
@@ -351,7 +312,7 @@ CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj: ../DSA/TEMPLATES/templates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TEMPLATES\templates.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\templates.cpp
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.i: cmake_force
@@ -364,7 +325,7 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj: ../DSA/TREES/sorting_algorithms/selectionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\sorting_algorithms\selectionSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\sorting_algorithms\selectionSort.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.i: cmake_force
@@ -377,7 +338,7 @@ CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj: ../DSA/TREES/sorting_algorithms/BubbleSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\sorting_algorithms\BubbleSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\sorting_algorithms\BubbleSort.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.i: cmake_force
@@ -390,7 +351,7 @@ CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/BubbleSort.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj: ../DSA/TREES/sorting_algorithms/InsertionSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\sorting_algorithms\InsertionSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\sorting_algorithms\InsertionSort.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.i: cmake_force
@@ -403,7 +364,7 @@ CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/InsertionSort.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj: ../DSA/TREES/sorting_algorithms/MergeSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\sorting_algorithms\MergeSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\sorting_algorithms\MergeSort.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.i: cmake_force
@@ -416,7 +377,7 @@ CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/MergeSort.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj: ../DSA/TREES/sorting_algorithms/QuickSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\sorting_algorithms\QuickSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\sorting_algorithms\QuickSort.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.i: cmake_force
@@ -429,7 +390,7 @@ CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/QuickSort.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.obj: ../DSA/QUEUE/queue_again/queue_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\QUEUE\queue_again\queue_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\QUEUE\queue_again\queue_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.i: cmake_force
@@ -442,7 +403,7 @@ CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.obj: ../DSA/QUEUE/queue_again/queue_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\QUEUE\queue_again\queue_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\QUEUE\queue_again\queue_main.cpp
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.i: cmake_force
@@ -455,7 +416,7 @@ CMakeFiles/untitled.dir/DSA/QUEUE/queue_again/queue_main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj: ../DSA/LINKED_LIST/Single_LL/List_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Single_LL\List_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Single_LL\List_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.i: cmake_force
@@ -468,7 +429,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/List_impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj: ../DSA/LINKED_LIST/Single_LL/list_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Single_LL\list_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Single_LL\list_main.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.i: cmake_force
@@ -481,7 +442,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/list_main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.obj: ../DSA/STACK/stack_2/stack_again.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\stack_2\stack_again.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\stack_2\stack_again.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.i: cmake_force
@@ -494,7 +455,7 @@ CMakeFiles/untitled.dir/DSA/STACK/stack_2/stack_again.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj: ../DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Single_LL\LinkedList_again\LL._again.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Single_LL\LinkedList_again\LL._again.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp.i: cmake_force
@@ -507,7 +468,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL._again.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj: ../DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Single_LL\LinkedList_again\LL_Final_code.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Single_LL\LinkedList_again\LL_Final_code.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code.cpp.i: cmake_force
@@ -520,7 +481,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Single_LL/LinkedList_again/LL_Final_code
 
 CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj: ../OLD/HackerRank/display_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\display_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\display_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.i: cmake_force
@@ -533,7 +494,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/display_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj: ../OLD/HackerRank/insert_at_tail.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\insert_at_tail.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\insert_at_tail.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.i: cmake_force
@@ -546,7 +507,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj: ../OLD/HackerRank/insert_at_head.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\insert_at_head.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\insert_at_head.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.i: cmake_force
@@ -559,7 +520,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_head.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj: ../OLD/HackerRank/insert_at_middle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\insert_at_middle.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\insert_at_middle.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.i: cmake_force
@@ -572,7 +533,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj: ../OLD/HackerRank/delete_a_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\delete_a_node.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\delete_a_node.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.i: cmake_force
@@ -585,7 +546,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/delete_a_node.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj: ../OLD/HackerRank/get_node_value.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\get_node_value.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\get_node_value.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.i: cmake_force
@@ -598,7 +559,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/get_node_value.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj: ../OLD/HackerRank/reverse_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\HackerRank\reverse_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\HackerRank\reverse_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.i: cmake_force
@@ -611,7 +572,7 @@ CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj: ../OLD/GFG/LL/count_nodes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\count_nodes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\count_nodes.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.i: cmake_force
@@ -624,7 +585,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/count_nodes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj: ../OLD/GFG/LL/delete_without_head_pointer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\delete_without_head_pointer.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\delete_without_head_pointer.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.i: cmake_force
@@ -637,7 +598,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/delete_without_head_pointer.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj: ../OLD/GFG/LL/occurance_in_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\occurance_in_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\occurance_in_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.i: cmake_force
@@ -650,7 +611,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/occurance_in_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj: ../DSA/LINKED_LIST/Double_LL/double_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Double_LL\double_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Double_LL\double_LL.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.i: cmake_force
@@ -663,7 +624,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Double_LL/double_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj: ../OLD/GFG/LL/LL_length_even_or_odd.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\LL_length_even_or_odd.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\LL_length_even_or_odd.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.i: cmake_force
@@ -676,7 +637,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/LL_length_even_or_odd.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj: ../OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\Count_Pairs_whose_sum_is_equal_to_X.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\Count_Pairs_whose_sum_is_equal_to_X.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.i: cmake_force
@@ -689,7 +650,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/Count_Pairs_whose_sum_is_equal_to_X.cpp.s: cm
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj: ../OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\Add_two_numbers_represented_by_Linked_List.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\Add_two_numbers_represented_by_Linked_List.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cpp.i: cmake_force
@@ -702,7 +663,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/Add_two_numbers_represented_by_Linked_List.cp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj: ../OLD/GFG/LL/Identical_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\Identical_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\Identical_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.i: cmake_force
@@ -715,7 +676,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/Identical_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj: ../OLD/GFG/LL/delete_alternate_nodes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\delete_alternate_nodes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\delete_alternate_nodes.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.i: cmake_force
@@ -728,7 +689,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/delete_alternate_nodes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj: ../OLD/GFG/LL/Add_1_to_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\Add_1_to_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\Add_1_to_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.i: cmake_force
@@ -741,7 +702,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/Add_1_to_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj: ../DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\Circular_LL\Circular_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\Circular_LL\Circular_LL.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.i: cmake_force
@@ -754,7 +715,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/Circular_LL/Circular_LL.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj: ../OLD/GFG/LL/decimal_eq_of_binary_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\decimal_eq_of_binary_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\decimal_eq_of_binary_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.i: cmake_force
@@ -767,7 +728,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/decimal_eq_of_binary_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj: ../OLD/GFG/LL/subtraction_in_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\subtraction_in_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\subtraction_in_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.i: cmake_force
@@ -780,7 +741,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/subtraction_in_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.obj: ../DSA/QUEUE/queue_code.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\QUEUE\queue_code.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\QUEUE\queue_code.cpp
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.i: cmake_force
@@ -793,7 +754,7 @@ CMakeFiles/untitled.dir/DSA/QUEUE/queue_code.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.obj: ../DSA/QUEUE/circular_queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\QUEUE\circular_queue.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\QUEUE\circular_queue.cpp
 
 CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.i: cmake_force
@@ -806,7 +767,7 @@ CMakeFiles/untitled.dir/DSA/QUEUE/circular_queue.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj: ../OLD/GFG/Queue/queue_using_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\queue_using_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\queue_using_array.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.i: cmake_force
@@ -819,7 +780,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj: ../OLD/GFG/LL/find_middle_of_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\find_middle_of_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\find_middle_of_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.i: cmake_force
@@ -832,7 +793,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/find_middle_of_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj: ../OLD/GFG/LL/insert_in_middle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\insert_in_middle.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\insert_in_middle.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.i: cmake_force
@@ -845,7 +806,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/insert_in_middle.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj: ../OLD/GFG/LL/node_at_given_index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\node_at_given_index.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\node_at_given_index.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.i: cmake_force
@@ -858,7 +819,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/node_at_given_index.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj: ../OLD/GFG/Queue/queue_push_and_pop.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\queue_push_and_pop.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\queue_push_and_pop.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.i: cmake_force
@@ -871,7 +832,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_push_and_pop.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj: ../OLD/GFG/Queue/STL_queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\STL_queue.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\STL_queue.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.i: cmake_force
@@ -884,7 +845,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/STL_queue.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj: ../OLD/GFG/Queue/queue_reversal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\queue_reversal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\queue_reversal.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.i: cmake_force
@@ -897,7 +858,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_reversal.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj: ../OLD/GFG/Arrays/fighting_darkness.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Arrays\fighting_darkness.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Arrays\fighting_darkness.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.i: cmake_force
@@ -910,7 +871,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Arrays/fighting_darkness.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj: ../OLD/GFG/Arrays/check_array_equality.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Arrays\check_array_equality.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Arrays\check_array_equality.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.i: cmake_force
@@ -923,7 +884,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Arrays/check_array_equality.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj: ../OLD/GFG/Arrays/rotate_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Arrays\rotate_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Arrays\rotate_array.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.i: cmake_force
@@ -936,7 +897,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Arrays/rotate_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj: ../OLD/GFG/Queue/queue_using_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\queue_using_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\queue_using_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.i: cmake_force
@@ -949,7 +910,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj: ../OLD/GFG/LL/sum_of_last_n_nodes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\sum_of_last_n_nodes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\sum_of_last_n_nodes.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.i: cmake_force
@@ -962,7 +923,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/sum_of_last_n_nodes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj: ../OLD/GFG/LL/LL_insertion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\LL_insertion.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\LL_insertion.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.i: cmake_force
@@ -975,7 +936,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/LL_insertion.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.obj: ../DSA/STACK/Stack/stack_code.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\stack_code.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\stack_code.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.i: cmake_force
@@ -988,7 +949,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_code.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.obj: ../DSA/QUEUE/queue_using_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\QUEUE\queue_using_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\QUEUE\queue_using_LL.cpp
 
 CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.i: cmake_force
@@ -1001,7 +962,7 @@ CMakeFiles/untitled.dir/DSA/QUEUE/queue_using_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj: ../OLD/GFG/Queue/queue_using_two_stacks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\queue_using_two_stacks.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\queue_using_two_stacks.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.i: cmake_force
@@ -1014,7 +975,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/queue_using_two_stacks.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj: ../OLD/GFG/LL/Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\Stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\Stack.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.i: cmake_force
@@ -1027,7 +988,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/Stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj: ../OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\linked_list_of_strings_forms_a_palindrome.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\linked_list_of_strings_forms_a_palindrome.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp.i: cmake_force
@@ -1040,7 +1001,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/linked_list_of_strings_forms_a_palindrome.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj: ../OLD/GFG/LL/compare_two_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\compare_two_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\compare_two_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.i: cmake_force
@@ -1053,7 +1014,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/compare_two_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj: ../OLD/GFG/LL/sort_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\LL\sort_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\LL\sort_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.i: cmake_force
@@ -1066,7 +1027,7 @@ CMakeFiles/untitled.dir/OLD/GFG/LL/sort_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.obj: ../DSA/STACK/Stack/stack_using_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\stack_using_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\stack_using_LL.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.i: cmake_force
@@ -1079,7 +1040,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/stack_using_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\Expression_conversions\infix_to_postfix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\Expression_conversions\infix_to_postfix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.cpp.i: cmake_force
@@ -1092,7 +1053,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_postfix.
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\Expression_conversions\infix_to_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\Expression_conversions\infix_to_prefix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.cpp.i: cmake_force
@@ -1105,7 +1066,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/infix_to_prefix.c
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\Expression_conversions\postfix_to_infix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\Expression_conversions\postfix_to_infix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.cpp.i: cmake_force
@@ -1118,7 +1079,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/postfix_to_infix.
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj: ../DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\Stack\Expression_conversions\prefix_to_infix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\Stack\Expression_conversions\prefix_to_infix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.cpp.i: cmake_force
@@ -1131,7 +1092,7 @@ CMakeFiles/untitled.dir/DSA/STACK/Stack/Expression_conversions/prefix_to_infix.c
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\DSAL_mock\DSA_mock_test.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\DSAL_mock\DSA_mock_test.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.i: cmake_force
@@ -1144,7 +1105,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/DSA_mock_test.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.obj: ../ROUGH_FILES/rough2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough2.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.i: cmake_force
@@ -1157,7 +1118,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough2.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\DSAL_mock\impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\DSAL_mock\impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.i: cmake_force
@@ -1170,7 +1131,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj: ../DSA_ASSIGNMENTS/DSAL_mock/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\DSAL_mock\main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\DSAL_mock\main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.i: cmake_force
@@ -1183,7 +1144,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/DSAL_mock/main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj: ../OLD/GFG/Stack/stack_designer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\stack_designer.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\stack_designer.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.i: cmake_force
@@ -1196,7 +1157,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_designer.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj: ../OLD/GFG/Stack/stack_using_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\stack_using_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\stack_using_array.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.i: cmake_force
@@ -1209,7 +1170,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj: ../OLD/GFG/Stack/pairwise_consecutive_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\pairwise_consecutive_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\pairwise_consecutive_elements.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.i: cmake_force
@@ -1222,7 +1183,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/pairwise_consecutive_elements.cpp.s: cmake
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj: ../OLD/GFG/Stack/immediate_smaller_element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\immediate_smaller_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\immediate_smaller_element.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.i: cmake_force
@@ -1235,7 +1196,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/immediate_smaller_element.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj: ../OLD/GFG/Stack/remove_repeated_digits.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\remove_repeated_digits.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\remove_repeated_digits.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.i: cmake_force
@@ -1248,7 +1209,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/remove_repeated_digits.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj: ../OLD/GFG/Stack/delete_middle_element_of_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\delete_middle_element_of_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\delete_middle_element_of_stack.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.i: cmake_force
@@ -1261,7 +1222,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/delete_middle_element_of_stack.cpp.s: cmak
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj: ../OLD/GFG/Stack/stack_using_LL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\stack_using_LL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\stack_using_LL.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.i: cmake_force
@@ -1274,7 +1235,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_LL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj: ../OLD/GFG/Stack/valid_substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\valid_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\valid_substring.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.i: cmake_force
@@ -1287,7 +1248,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/valid_substring.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj: ../OLD/GFG/Stack/special_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\special_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\special_stack.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.i: cmake_force
@@ -1300,7 +1261,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/special_stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj: ../OLD/GFG/Stack/print_bracket_no.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\print_bracket_no.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\print_bracket_no.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.i: cmake_force
@@ -1313,7 +1274,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/print_bracket_no.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj: ../OLD/GFG/Stack/sorting_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\sorting_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\sorting_stack.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.i: cmake_force
@@ -1326,7 +1287,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/sorting_stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj: ../OLD/GFG/Stack/get_min_at_pop.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\get_min_at_pop.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\get_min_at_pop.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.i: cmake_force
@@ -1339,7 +1300,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/get_min_at_pop.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj: ../OLD/GFG/Stack/impl_two_stacks_in_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\impl_two_stacks_in_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\impl_two_stacks_in_array.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.i: cmake_force
@@ -1352,7 +1313,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/impl_two_stacks_in_array.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj: ../OLD/GFG/Queue/generate_binary_no.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Queue\generate_binary_no.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Queue\generate_binary_no.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.i: cmake_force
@@ -1365,7 +1326,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Queue/generate_binary_no.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj: ../OLD/GFG/Stack/reverse_a_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\reverse_a_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\reverse_a_string.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.i: cmake_force
@@ -1378,7 +1339,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/reverse_a_string.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj: ../OLD/GFG/Stack/stack_using_two_queues.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\Stack\stack_using_two_queues.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\Stack\stack_using_two_queues.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.i: cmake_force
@@ -1391,7 +1352,7 @@ CMakeFiles/untitled.dir/OLD/GFG/Stack/stack_using_two_queues.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj: ../DSA/TREES/BST/BST_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\BST\BST_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\BST\BST_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.i: cmake_force
@@ -1404,7 +1365,7 @@ CMakeFiles/untitled.dir/DSA/TREES/BST/BST_impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj: ../OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\OLD\GFG\searching\Count_zeros_in_a_sorted_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\OLD\GFG\searching\Count_zeros_in_a_sorted_matrix.cpp
 
 CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.i: cmake_force
@@ -1417,7 +1378,7 @@ CMakeFiles/untitled.dir/OLD/GFG/searching/Count_zeros_in_a_sorted_matrix.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.obj: ../DSA/TEMPLATES/templates2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TEMPLATES\templates2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\templates2.cpp
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.i: cmake_force
@@ -1430,7 +1391,7 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/templates2.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj: ../DSA/TEMPLATES/function_templates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TEMPLATES\function_templates.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\function_templates.cpp
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.i: cmake_force
@@ -1443,7 +1404,7 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/function_templates.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj: ../DSA/TEMPLATES/overloading_templates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TEMPLATES\overloading_templates.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\overloading_templates.cpp
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.i: cmake_force
@@ -1456,7 +1417,7 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/overloading_templates.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj: ../DSA/STL/Lists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\Lists.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\Lists.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.i: cmake_force
@@ -1469,7 +1430,7 @@ CMakeFiles/untitled.dir/DSA/STL/Lists.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/maps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/maps.cpp.obj: ../DSA/STL/maps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/maps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/maps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\maps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\maps.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/maps.cpp.i: cmake_force
@@ -1482,7 +1443,7 @@ CMakeFiles/untitled.dir/DSA/STL/maps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj: ../DSA/STL/function_objects.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\function_objects.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\function_objects.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.i: cmake_force
@@ -1495,7 +1456,7 @@ CMakeFiles/untitled.dir/DSA/STL/function_objects.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_3_queue\main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_3_queue\main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.i: cmake_force
@@ -1508,7 +1469,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/main.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_3_queue\impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_3_queue\impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.i: cmake_force
@@ -1521,7 +1482,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/impl.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_2_stack\mainFile.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_2_stack\mainFile.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.i: cmake_force
@@ -1534,7 +1495,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/mainFile.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_2_stack\stack_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_2_stack\stack_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.i: cmake_force
@@ -1547,7 +1508,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_impl.cpp.s: cma
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_4_exp_tree\Assignment4.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_4_exp_tree\Assignment4.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.i: cmake_force
@@ -1560,7 +1521,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/Assignment4.cpp.s:
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_4_exp_tree\ExpressionImplementation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_4_exp_tree\ExpressionImplementation.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplementation.cpp.i: cmake_force
@@ -1573,7 +1534,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/ExpressionImplemen
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_4_exp_tree\StackImplementation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_4_exp_tree\StackImplementation.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementation.cpp.i: cmake_force
@@ -1586,7 +1547,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/StackImplementatio
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_4_exp_tree\TreeExpressionImplementation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_4_exp_tree\TreeExpressionImplementation.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImplementation.cpp.i: cmake_force
@@ -1599,7 +1560,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/TreeExpressionImpl
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_5_BST\BST.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_5_BST\BST.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.i: cmake_force
@@ -1612,7 +1573,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_5_BST\BST_Main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_5_BST\BST_Main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.i: cmake_force
@@ -1625,7 +1586,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_Main.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_2_stack\stack_final.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_2_stack\stack_final.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.i: cmake_force
@@ -1638,7 +1599,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_2_stack/stack_final.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_4_exp_tree\exp_tree_final.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_4_exp_tree\exp_tree_final.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp.i: cmake_force
@@ -1651,7 +1612,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_4_exp_tree/exp_tree_final.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj: ../DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_5_BST\BST_final.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_5_BST\BST_final.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.i: cmake_force
@@ -1664,7 +1625,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_5_BST/BST_final.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_7\assignment_7.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_7\assignment_7.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.i: cmake_force
@@ -1677,7 +1638,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/assignment_7.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_8\assignment_8.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_8\assignment_8.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.i: cmake_force
@@ -1690,7 +1651,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/assignment_8.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_6_TBT\tbt_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_6_TBT\tbt_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.i: cmake_force
@@ -1703,7 +1664,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_impl.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_6_TBT\tbt_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_6_TBT\tbt_main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.i: cmake_force
@@ -1716,7 +1677,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/tbt_main.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_9_heap_sort\heap_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_9_heap_sort\heap_main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.i: cmake_force
@@ -1729,7 +1690,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_main.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_9_heap_sort\heap_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_9_heap_sort\heap_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.i: cmake_force
@@ -1742,7 +1703,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/heap_impl.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj: ../DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_9_heap_sort\HEAP.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_9_heap_sort\HEAP.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.i: cmake_force
@@ -1755,7 +1716,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_9_heap_sort/HEAP.cpp.s: cmake
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj: ../ROUGH_FILES/rough3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough3.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough3.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.i: cmake_force
@@ -1768,7 +1729,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough3.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj: ../DSA/GRAPHS_OLD/MST_kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.i: cmake_force
@@ -1781,7 +1742,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_kruskal.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj: ../DSA/GRAPHS_OLD/MST_Prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\MST_Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\MST_Prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.i: cmake_force
@@ -1794,7 +1755,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/MST_Prim.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_10\assignment_10.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_10\assignment_10.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.i: cmake_force
@@ -1807,7 +1768,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/assignment_10.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_7\mst_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_7\mst_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.i: cmake_force
@@ -1820,7 +1781,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_7/mst_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_7\mst_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_7\mst_main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.i: cmake_force
@@ -1833,7 +1794,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_7/mst_main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_8\dijk_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_8\dijk_impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.i: cmake_force
@@ -1846,7 +1807,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_impl.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_8\dijk_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_8\dijk_main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.i: cmake_force
@@ -1859,7 +1820,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_8/dijk_main.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_10\impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_10\impl.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.i: cmake_force
@@ -1872,7 +1833,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj: ../DSA_ASSIGNMENTS/assignment_10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_10\main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_10\main.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.i: cmake_force
@@ -1885,7 +1846,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_10/main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.obj: ../DSA/STL/hashing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\hashing.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\hashing.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.i: cmake_force
@@ -1898,7 +1859,7 @@ CMakeFiles/untitled.dir/DSA/STL/hashing.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj: ../DSA/STL/sets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/sets.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\sets.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\sets.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/sets.cpp.i: cmake_force
@@ -1911,7 +1872,7 @@ CMakeFiles/untitled.dir/DSA/STL/sets.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj: ../DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA_ASSIGNMENTS\assignment_6_TBT\TBT_FINAL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA_ASSIGNMENTS\assignment_6_TBT\TBT_FINAL.cpp
 
 CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.i: cmake_force
@@ -1924,7 +1885,7 @@ CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_6_TBT/TBT_FINAL.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.obj: ../ROUGH_FILES/rough4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough4.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough4.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.i: cmake_force
@@ -1937,7 +1898,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough4.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.obj: ../ROUGH_FILES/rough5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough5.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough5.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.i: cmake_force
@@ -1950,7 +1911,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough5.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj: ../algorithmic_toolbox/week3/money_change.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\algorithmic_toolbox\week3\money_change.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\algorithmic_toolbox\week3\money_change.cpp
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.i: cmake_force
@@ -1963,7 +1924,7 @@ CMakeFiles/untitled.dir/algorithmic_toolbox/week3/money_change.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj: ../algorithmic_toolbox/week3/max_loot.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\algorithmic_toolbox\week3\max_loot.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\algorithmic_toolbox\week3\max_loot.cpp
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.i: cmake_force
@@ -1976,7 +1937,7 @@ CMakeFiles/untitled.dir/algorithmic_toolbox/week3/max_loot.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj: ../algorithmic_toolbox/week3/car_fueling.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\algorithmic_toolbox\week3\car_fueling.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\algorithmic_toolbox\week3\car_fueling.cpp
 
 CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.i: cmake_force
@@ -1989,7 +1950,7 @@ CMakeFiles/untitled.dir/algorithmic_toolbox/week3/car_fueling.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj: ../DSA/TEMPLATES/unordered_maps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TEMPLATES\unordered_maps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TEMPLATES\unordered_maps.cpp
 
 CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.i: cmake_force
@@ -2002,7 +1963,7 @@ CMakeFiles/untitled.dir/DSA/TEMPLATES/unordered_maps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj: ../DSA/GRAPHS_OLD/graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.i: cmake_force
@@ -2015,7 +1976,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj: ../DSA/GRAPHS_OLD/graph2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\graph2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\graph2.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.i: cmake_force
@@ -2028,7 +1989,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.i: cmake_force
@@ -2041,7 +2002,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\dijkstra.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\dijkstra.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.i: cmake_force
@@ -2052,48 +2013,48 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\dijkstra.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\dijkstra.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj: ../DSA/DEQUEUE/dequeue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUEUE\dequeue.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\dequeue.cpp
+CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj: ../DSA/DEQUE/deque3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUE\deque3.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque3.cpp
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\dequeue.cpp > CMakeFiles\untitled.dir\DSA\DEQUEUE\dequeue.cpp.i
+CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque3.cpp > CMakeFiles\untitled.dir\DSA\DEQUE\deque3.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\dequeue.cpp -o CMakeFiles\untitled.dir\DSA\DEQUEUE\dequeue.cpp.s
+CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque3.cpp -o CMakeFiles\untitled.dir\DSA\DEQUE\deque3.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj: ../DSA/DEQUEUE/deque2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUEUE\deque2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque2.cpp
+CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj: ../DSA/DEQUE/deque1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUE\deque1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque1.cpp
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque2.cpp > CMakeFiles\untitled.dir\DSA\DEQUEUE\deque2.cpp.i
+CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque1.cpp > CMakeFiles\untitled.dir\DSA\DEQUE\deque1.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque2.cpp -o CMakeFiles\untitled.dir\DSA\DEQUEUE\deque2.cpp.s
+CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque1.cpp -o CMakeFiles\untitled.dir\DSA\DEQUE\deque1.cpp.s
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj: ../DSA/DEQUEUE/deque3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj"
-	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUEUE\deque3.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque3.cpp
+CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj: ../DSA/DEQUE/deque2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DEQUE\deque2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque2.cpp
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.i"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque3.cpp > CMakeFiles\untitled.dir\DSA\DEQUEUE\deque3.cpp.i
+CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque2.cpp > CMakeFiles\untitled.dir\DSA\DEQUE\deque2.cpp.i
 
-CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.s"
-	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUEUE\deque3.cpp -o CMakeFiles\untitled.dir\DSA\DEQUEUE\deque3.cpp.s
+CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DEQUE\deque2.cpp -o CMakeFiles\untitled.dir\DSA\DEQUE\deque2.cpp.s
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj: ../DSA/EXPONENTATION/mod_exp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\EXPONENTATION\mod_exp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\EXPONENTATION\mod_exp.cpp
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.i: cmake_force
@@ -2106,7 +2067,7 @@ CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj: ../DSA/EXPONENTATION/matrix_exp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\EXPONENTATION\matrix_exp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\EXPONENTATION\matrix_exp.cpp
 
 CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.i: cmake_force
@@ -2119,7 +2080,7 @@ CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj: ../DSA/STL/priority_queue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STL\priority_queue.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STL\priority_queue.cpp
 
 CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.i: cmake_force
@@ -2132,7 +2093,7 @@ CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj: ../ROUGH_FILES/rough1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough1.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.i: cmake_force
@@ -2145,7 +2106,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.obj: ../DSA/RECURSION/fib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\fib.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\fib.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.i: cmake_force
@@ -2158,7 +2119,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/fib.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.obj: ../DSA/RECURSION/is_array_sorted.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\is_array_sorted.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\is_array_sorted.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.i: cmake_force
@@ -2171,7 +2132,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/is_array_sorted.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.obj: ../DSA/RECURSION/first_index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\first_index.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\first_index.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.i: cmake_force
@@ -2184,7 +2145,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/first_index.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.obj: ../DSA/RECURSION/last_index.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\last_index.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\last_index.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.i: cmake_force
@@ -2197,7 +2158,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/last_index.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.obj: ../DSA/RECURSION/all_indices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\all_indices.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\all_indices.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.i: cmake_force
@@ -2210,7 +2171,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/all_indices.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.obj: ../DSA/RECURSION/find_char_arr_length.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\find_char_arr_length.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\find_char_arr_length.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.i: cmake_force
@@ -2223,7 +2184,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/find_char_arr_length.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj: ../DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\FSSW\max_sum_subarray_size_k.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\FSSW\max_sum_subarray_size_k.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.i: cmake_force
@@ -2236,7 +2197,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_sum_subarray_size_k.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj: ../DSA/TREES/Trees_CN/tree_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\Trees_CN\tree_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\Trees_CN\tree_use.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.i: cmake_force
@@ -2249,7 +2210,7 @@ CMakeFiles/untitled.dir/DSA/TREES/Trees_CN/tree_use.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj: ../DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\Binary_Trees_CN\binary_tree_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\Binary_Trees_CN\binary_tree_use.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.i: cmake_force
@@ -2262,7 +2223,7 @@ CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj: ../DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\Binary_Trees_CN\binary_tree_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\Binary_Trees_CN\binary_tree_main.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.i: cmake_force
@@ -2275,7 +2236,7 @@ CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_main.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj: ../DSA/TREES/BST_CN/BST_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\BST_CN\BST_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\BST_CN\BST_use.cpp
 
 CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.i: cmake_force
@@ -2288,7 +2249,7 @@ CMakeFiles/untitled.dir/DSA/TREES/BST_CN/BST_use.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj: ../DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\LinkedList_CN\LL_node.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\LinkedList_CN\LL_node.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.i: cmake_force
@@ -2301,7 +2262,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_node.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj: ../DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building CXX object CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\LINKED_LIST\LinkedList_CN\LL_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\LINKED_LIST\LinkedList_CN\LL_main.cpp
 
 CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.i: cmake_force
@@ -2314,7 +2275,7 @@ CMakeFiles/untitled.dir/DSA/LINKED_LIST/LinkedList_CN/LL_main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj: ../DSA/HEAP_OLD/heap_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_use.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.i: cmake_force
@@ -2327,7 +2288,7 @@ CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_use.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj: ../DSA/HEAP_OLD/heap_main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP_OLD\heap_main.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP_OLD\heap_main.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.i: cmake_force
@@ -2340,7 +2301,7 @@ CMakeFiles/untitled.dir/DSA/HEAP_OLD/heap_main.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.obj: ../DSA/GRAPHS_OLD/grpahs_use.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\grpahs_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\grpahs_use.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.i: cmake_force
@@ -2353,7 +2314,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/grpahs_use.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj: ../DSA/GRAPHS_OLD/kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.i: cmake_force
@@ -2366,7 +2327,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/kruskal.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.obj: ../DSA/GRAPHS_OLD/Prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.i: cmake_force
@@ -2379,7 +2340,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Prim.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.obj: ../DSA/GRAPHS_OLD/Dijikstras.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS_OLD\Dijikstras.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS_OLD\Dijikstras.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.i: cmake_force
@@ -2392,7 +2353,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/Dijikstras.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_postfix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_postfix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.i: cmake_force
@@ -2405,7 +2366,7 @@ CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_postfix.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj: ../DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\EXP_CONVERSIONS_AGAIN\infix_to_prefix.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.i: cmake_force
@@ -2418,7 +2379,7 @@ CMakeFiles/untitled.dir/DSA/STACK/EXP_CONVERSIONS_AGAIN/infix_to_prefix.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\merge_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.i: cmake_force
@@ -2431,7 +2392,7 @@ CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING_AGAIN\quick_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.i: cmake_force
@@ -2444,7 +2405,7 @@ CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/quick_sort.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj: ../DSA/STACK/EXP_TREE/exp_tree_impl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\EXP_TREE\exp_tree_impl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\EXP_TREE\exp_tree_impl.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.i: cmake_force
@@ -2457,7 +2418,7 @@ CMakeFiles/untitled.dir/DSA/STACK/EXP_TREE/exp_tree_impl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj: ../DSA/FILE_HANDLING/file_handling.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\FILE_HANDLING\file_handling.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\FILE_HANDLING\file_handling.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.i: cmake_force
@@ -2470,7 +2431,7 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj: ../DSA/FILE_HANDLING/file_handling_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\FILE_HANDLING\file_handling_2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\FILE_HANDLING\file_handling_2.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.i: cmake_force
@@ -2483,7 +2444,7 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_2.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj: ../DSA/FILE_HANDLING/file_handling_FINAL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\FILE_HANDLING\file_handling_FINAL.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\FILE_HANDLING\file_handling_FINAL.cpp
 
 CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.i: cmake_force
@@ -2496,7 +2457,7 @@ CMakeFiles/untitled.dir/DSA/FILE_HANDLING/file_handling_FINAL.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.obj: ../DSA/DP/DP_EXTRAS/fib.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\fib.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\fib.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.i: cmake_force
@@ -2509,7 +2470,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/fib.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj: ../DSA/DP/DP_EXTRAS/min_steps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_steps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_steps.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.i: cmake_force
@@ -2522,7 +2483,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj: ../DSA/DP/DP_EXTRAS/min_count.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_count.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_count.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.i: cmake_force
@@ -2535,7 +2496,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_count.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj: ../DAA_ASSIGNMENTS/n_queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\n_queens.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\n_queens.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.i: cmake_force
@@ -2548,7 +2509,7 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/n_queens.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj: ../DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\fractional_knapsack_using_greedy.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\fractional_knapsack_using_greedy.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.i: cmake_force
@@ -2561,7 +2522,7 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj: ../DSA/BACKTRACKING/n_queens.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building CXX object CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BACKTRACKING\n_queens.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BACKTRACKING\n_queens.cpp
 
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.i: cmake_force
@@ -2574,7 +2535,7 @@ CMakeFiles/untitled.dir/DSA/BACKTRACKING/n_queens.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj: ../DSA/BACKTRACKING/rat_in_a_maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building CXX object CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BACKTRACKING\rat_in_a_maze.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BACKTRACKING\rat_in_a_maze.cpp
 
 CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.i: cmake_force
@@ -2587,7 +2548,7 @@ CMakeFiles/untitled.dir/DSA/BACKTRACKING/rat_in_a_maze.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj: ../DSA/BINARY_SEARCH/aggressive_cows.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\aggressive_cows.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\aggressive_cows.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.i: cmake_force
@@ -2600,7 +2561,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/aggressive_cows.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj: ../DAA_ASSIGNMENTS/knapsack_01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\knapsack_01.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\knapsack_01.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.i: cmake_force
@@ -2613,7 +2574,7 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj: ../DSA/DP/bounded_knapsack/knapsack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.i: cmake_force
@@ -2626,7 +2587,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/knapsack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj: ../DSA/DP/bounded_knapsack/subset_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\subset_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\subset_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.i: cmake_force
@@ -2639,7 +2600,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/equal_sum_partition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\equal_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\equal_sum_partition.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.i: cmake_force
@@ -2652,7 +2613,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/equal_sum_partition.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj: ../DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_subsets_sum_with_given_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum.cpp.i: cmake_force
@@ -2665,7 +2626,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_subsets_sum_with_given_sum
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj: ../DSA/DP/bounded_knapsack/min_sum_partition.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\min_sum_partition.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\min_sum_partition.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.i: cmake_force
@@ -2678,7 +2639,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/min_sum_partition.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj: ../DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\count_no_of_subsets_with_given_difference.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_difference.cpp.i: cmake_force
@@ -2691,7 +2652,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/count_no_of_subsets_with_given_d
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj: ../DSA/DP/bounded_knapsack/target_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\target_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\target_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.i: cmake_force
@@ -2704,7 +2665,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/target_sum.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj: ../DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\unbounded_knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.i: cmake_force
@@ -2717,7 +2678,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/unbounded_knapsack.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj: ../DSA/DP/unbounded_knapsack/rod_cutting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\rod_cutting.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\rod_cutting.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.i: cmake_force
@@ -2730,7 +2691,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/rod_cutting.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj: ../DSA/DP/unbounded_knapsack/coin_change_one.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\coin_change_one.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\coin_change_one.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.i: cmake_force
@@ -2743,7 +2704,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_one.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj: ../DSA/DP/unbounded_knapsack/coin_change_two.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\coin_change_two.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\coin_change_two.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.i: cmake_force
@@ -2756,7 +2717,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/coin_change_two.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.obj: ../DSA/DP/DP_LCS/lcs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\lcs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\lcs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.i: cmake_force
@@ -2769,7 +2730,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.obj: ../DSA/DP/DP_LCS/longest_common_substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\longest_common_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\longest_common_substring.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.i: cmake_force
@@ -2782,7 +2743,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/longest_common_substring.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.obj: ../DSA/DP/DP_LCS/scs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\scs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\scs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.i: cmake_force
@@ -2795,7 +2756,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/scs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj: ../DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\min_no_of_insertions_deletions_to_convert_a_to_b.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\min_no_of_insertions_deletions_to_convert_a_to_b.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_a_to_b.cpp.i: cmake_force
@@ -2808,7 +2769,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/min_no_of_insertions_deletions_to_convert_
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.obj: ../DSA/DP/DP_LPS/lps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\lps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\lps.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.i: cmake_force
@@ -2821,7 +2782,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LPS/lps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj: ../DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\min_deletions_to_make_palindrome.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\min_deletions_to_make_palindrome.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.i: cmake_force
@@ -2834,7 +2795,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_deletions_to_make_palindrome.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.obj: ../DSA/DP/DP_LCS/lrs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\lrs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\lrs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.i: cmake_force
@@ -2847,7 +2808,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lrs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.obj: ../DSA/DP/DP_LCS/sequence_pattern_matching.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\sequence_pattern_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\sequence_pattern_matching.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.i: cmake_force
@@ -2860,7 +2821,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/sequence_pattern_matching.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj: ../DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\min_insertions_to_form_palindrome.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\min_insertions_to_form_palindrome.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.i: cmake_force
@@ -2873,7 +2834,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LPS/min_insertions_to_form_palindrome.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.obj: ../DSA/DP/DP_MCM/mcm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\mcm.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\mcm.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.i: cmake_force
@@ -2886,7 +2847,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/mcm.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.obj: ../DSA/DP/DP_LCS/edit_distance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\edit_distance.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\edit_distance.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.i: cmake_force
@@ -2899,7 +2860,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/edit_distance.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.obj: ../DSA/DP/DP_MCM/palindromic_partitioning.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\palindromic_partitioning.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\palindromic_partitioning.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.i: cmake_force
@@ -2912,7 +2873,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/palindromic_partitioning.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.obj: ../DSA/DP/DP_MCM/boolean_parenthesization.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\boolean_parenthesization.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\boolean_parenthesization.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.i: cmake_force
@@ -2925,7 +2886,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.obj: ../DSA/DP/DP_MCM/egg_dropping.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\egg_dropping.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\egg_dropping.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.i: cmake_force
@@ -2938,7 +2899,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/egg_dropping.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.obj: ../DSA/DP/DP_MCM/scrambled_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\scrambled_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\scrambled_string.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.i: cmake_force
@@ -2951,7 +2912,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_MCM/scrambled_string.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.obj: ../DSA/DP/DP_EXTRAS/get_min_squares.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\get_min_squares.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\get_min_squares.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.i: cmake_force
@@ -2964,7 +2925,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/get_min_squares.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj: ../DSA/DP/DP_EXTRAS/min_cost_path_2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_cost_path_2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_cost_path_2.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.i: cmake_force
@@ -2977,7 +2938,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path_2.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.obj: ../DSA/DP/DP_EXTRAS/max_cost_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_cost_path.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.i: cmake_force
@@ -2990,7 +2951,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_cost_path.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj: ../DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\FSSW\first_-ve_no_in_every_window_size_k.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\FSSW\first_-ve_no_in_every_window_size_k.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_size_k.cpp.i: cmake_force
@@ -3003,7 +2964,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/first_-ve_no_in_every_window_siz
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj: ../DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\FSSW\count_occurrance_of_anagrams.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\FSSW\count_occurrance_of_anagrams.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp.i: cmake_force
@@ -3016,7 +2977,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/count_occurrance_of_anagrams.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj: ../DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\FSSW\max_of_all_subarrays_of_size_k.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\FSSW\max_of_all_subarrays_of_size_k.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.cpp.i: cmake_force
@@ -3029,7 +2990,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/FSSW/max_of_all_subarrays_of_size_k.c
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\largest_subarray_of_sum_K.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.i: cmake_force
@@ -3042,7 +3003,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/largest_subarray_of_sum_K.cpp.s:
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\subarray_with_given_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.i: cmake_force
@@ -3055,7 +3016,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\longest_substring_with_K_unique_characters.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_characters.cpp.i: cmake_force
@@ -3068,7 +3029,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_with_K_unique_
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\longest_substring_without_repeating_characters.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeating_characters.cpp.i: cmake_force
@@ -3081,7 +3042,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/longest_substring_without_repeat
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\pick_toys.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\pick_toys.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.i: cmake_force
@@ -3094,7 +3055,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/pick_toys.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\min_window_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\min_window_substring.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.i: cmake_force
@@ -3107,7 +3068,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/min_window_substring.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.obj: ../DSA/DP/DP_EXTRAS/lis.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lis.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.i: cmake_force
@@ -3120,7 +3081,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lis.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj: ../DSA/DP/DP_EXTRAS/loot_houses.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\loot_houses.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\loot_houses.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.i: cmake_force
@@ -3133,7 +3094,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/loot_houses.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.obj: ../DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_square_matrix_with_all_zeroes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_square_matrix_with_all_zeroes.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.i: cmake_force
@@ -3146,7 +3107,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_square_matrix_with_all_zeroes.cpp.s
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj: ../DSA/DP/DP_EXTRAS/sus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\sus.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\sus.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.i: cmake_force
@@ -3159,7 +3120,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/sus.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj: ../DSA/DP/DP_EXTRAS/lus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lus.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lus.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.i: cmake_force
@@ -3172,7 +3133,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lus.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.obj: ../DSA/STACK/ngr.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\ngr.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\ngr.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.i: cmake_force
@@ -3185,7 +3146,7 @@ CMakeFiles/untitled.dir/DSA/STACK/ngr.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.obj: ../DSA/STACK/ngl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\ngl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\ngl.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.i: cmake_force
@@ -3198,7 +3159,7 @@ CMakeFiles/untitled.dir/DSA/STACK/ngl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.obj: ../DSA/STACK/nsl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\nsl.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\nsl.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.i: cmake_force
@@ -3211,7 +3172,7 @@ CMakeFiles/untitled.dir/DSA/STACK/nsl.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.obj: ../DSA/STACK/nsr.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\nsr.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\nsr.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.i: cmake_force
@@ -3224,7 +3185,7 @@ CMakeFiles/untitled.dir/DSA/STACK/nsr.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.obj: ../DSA/STACK/stock_span.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\stock_span.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\stock_span.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.i: cmake_force
@@ -3237,7 +3198,7 @@ CMakeFiles/untitled.dir/DSA/STACK/stock_span.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.obj: ../DSA/STACK/mah.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\mah.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\mah.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.i: cmake_force
@@ -3250,7 +3211,7 @@ CMakeFiles/untitled.dir/DSA/STACK/mah.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.obj: ../DSA/STACK/mar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\mar.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\mar.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.i: cmake_force
@@ -3263,7 +3224,7 @@ CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.obj: ../DSA/STACK/rwt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\rwt.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\rwt.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.i: cmake_force
@@ -3276,7 +3237,7 @@ CMakeFiles/untitled.dir/DSA/STACK/rwt.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.obj: ../DSA/STACK/celebrity.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\celebrity.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\celebrity.cpp
 
 CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.i: cmake_force
@@ -3289,7 +3250,7 @@ CMakeFiles/untitled.dir/DSA/STACK/celebrity.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.obj: ../DSA/DP/DP_LCS/lcs_of_3_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LCS\lcs_of_3_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LCS\lcs_of_3_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.i: cmake_force
@@ -3302,7 +3263,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LCS/lcs_of_3_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj: ../DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\print_all_ss_of_a_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\print_all_ss_of_a_string.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.i: cmake_force
@@ -3315,7 +3276,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/print_all_ss_of_a_string.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj: ../DSA/DP/DP_EXTRAS/string_ss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\string_ss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\string_ss.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.i: cmake_force
@@ -3328,7 +3289,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.obj: ../DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\count_all_possible_paths.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\count_all_possible_paths.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.i: cmake_force
@@ -3341,7 +3302,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_all_possible_paths.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.obj: ../DSA/DP/DP_EXTRAS/gold_mine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\gold_mine.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\gold_mine.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.i: cmake_force
@@ -3354,7 +3315,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/gold_mine.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.obj: ../DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\count_ways_to_reach_nth_stair.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\count_ways_to_reach_nth_stair.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.i: cmake_force
@@ -3367,7 +3328,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_ways_to_reach_nth_stair.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj: ../DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_steps_to_dest.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_steps_to_dest.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.i: cmake_force
@@ -3380,7 +3341,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_steps_to_dest.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.obj: ../DSA/DP/DP_EXTRAS/distinct_occurrences.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\distinct_occurrences.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\distinct_occurrences.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.i: cmake_force
@@ -3393,7 +3354,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/distinct_occurrences.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj: ../DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_no_of_jumps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_no_of_jumps.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.i: cmake_force
@@ -3406,7 +3367,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_no_of_jumps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.obj: ../DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\count_no_of_substrings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\count_no_of_substrings.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.i: cmake_force
@@ -3419,7 +3380,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_no_of_substrings.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.obj: ../DSA/DP/DP_EXTRAS/interleaved_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\interleaved_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\interleaved_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.i: cmake_force
@@ -3432,7 +3393,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/interleaved_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj: ../DSA/DP/DP_EXTRAS/msis.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\msis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\msis.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.i: cmake_force
@@ -3445,7 +3406,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/msis.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.obj: ../DSA/DP/DP_EXTRAS/box_stacking.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\box_stacking.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\box_stacking.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.i: cmake_force
@@ -3458,7 +3419,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/box_stacking.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.obj: ../DSA/DP/DP_EXTRAS/las.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\las.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\las.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.i: cmake_force
@@ -3471,7 +3432,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/las.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.obj: ../DSA/DP/DP_EXTRAS/max_chain_length.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_chain_length.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_chain_length.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.i: cmake_force
@@ -3484,7 +3445,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_chain_length.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj: ../DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\longest_palindrome_in_a_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\longest_palindrome_in_a_string.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.i: cmake_force
@@ -3497,7 +3458,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LPS/longest_palindrome_in_a_string.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj: ../DSA/DP/DP_EXTRAS/bell_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\bell_numbers.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\bell_numbers.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.i: cmake_force
@@ -3510,7 +3471,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/bell_numbers.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.obj: ../DSA/DP/DP_EXTRAS/friends_pairing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\friends_pairing.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\friends_pairing.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.i: cmake_force
@@ -3523,7 +3484,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/friends_pairing.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.obj: ../DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\no_of_distinct_ss.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\no_of_distinct_ss.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.i: cmake_force
@@ -3536,7 +3497,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/no_of_distinct_ss.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.obj: ../DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\wildcard_pattern_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\wildcard_pattern_matching.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.i: cmake_force
@@ -3549,7 +3510,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/wildcard_pattern_matching.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.obj: ../DSA/DP/DP_EXTRAS/word_break.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\word_break.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\word_break.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.i: cmake_force
@@ -3562,7 +3523,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/word_break.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.obj: ../DSA/DP/DP_EXTRAS/max_product_subarray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_product_subarray.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_product_subarray.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.i: cmake_force
@@ -3575,7 +3536,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_product_subarray.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj: ../DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\longest_subsequence_-1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\longest_subsequence_-1.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.i: cmake_force
@@ -3588,7 +3549,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/longest_subsequence_-1.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.obj: ../DSA/BINARY_SEARCH/bs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\bs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\bs.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.i: cmake_force
@@ -3601,7 +3562,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\bs_on_reverse_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\bs_on_reverse_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.i: cmake_force
@@ -3614,7 +3575,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/bs_on_reverse_sorted_array.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.obj: ../DSA/BINARY_SEARCH/first_and_last_occurrence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\first_and_last_occurrence.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\first_and_last_occurrence.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.i: cmake_force
@@ -3627,7 +3588,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/first_and_last_occurrence.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\count_of_an_element_in_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\count_of_an_element_in_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cpp.i: cmake_force
@@ -3640,7 +3601,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/count_of_an_element_in_sorted_array.cp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj: ../DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\no_of_times_a_sorted_array_is_rotated.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\no_of_times_a_sorted_array_is_rotated.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.i: cmake_force
@@ -3653,7 +3614,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\find_an_element_in_rotated_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\find_an_element_in_rotated_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_array.cpp.i: cmake_force
@@ -3666,7 +3627,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_an_element_in_rotated_sorted_arra
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\min_element_in_rotated_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\min_element_in_rotated_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cpp.i: cmake_force
@@ -3679,7 +3640,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_element_in_rotated_sorted_array.cp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\searching_in_nearly_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\searching_in_nearly_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.i: cmake_force
@@ -3692,7 +3653,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/searching_in_nearly_sorted_array.cpp.s
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\floor_in_a_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\floor_in_a_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.i: cmake_force
@@ -3705,7 +3666,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\cell_in_a_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\cell_in_a_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.i: cmake_force
@@ -3718,7 +3679,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/cell_in_a_sorted_array.cpp.s: cmake_fo
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.obj: ../DSA/BINARY_SEARCH/next_alphabetical_element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\next_alphabetical_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\next_alphabetical_element.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.i: cmake_force
@@ -3731,7 +3692,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/next_alphabetical_element.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\min_diff_element_in_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\min_diff_element_in_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.i: cmake_force
@@ -3744,7 +3705,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/min_diff_element_in_sorted_array.cpp.s
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.obj: ../DSA/BINARY_SEARCH/peak_element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\peak_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\peak_element.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.i: cmake_force
@@ -3757,7 +3718,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/peak_element.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj: ../DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\find_max_element_in_bitonic_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.i: cmake_force
@@ -3770,7 +3731,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_max_element_in_bitonic_array.cpp.
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj: ../DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\search_in_sorted_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\search_in_sorted_matrix.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.i: cmake_force
@@ -3783,7 +3744,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/search_in_sorted_matrix.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj: ../DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\allocate_min_no_of_pages.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\allocate_min_no_of_pages.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.i: cmake_force
@@ -3796,7 +3757,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/allocate_min_no_of_pages.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj: ../DSA/BINARY_SEARCH/smallest_factorial_no.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\smallest_factorial_no.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\smallest_factorial_no.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.i: cmake_force
@@ -3809,7 +3770,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/smallest_factorial_no.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj: ../DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\median_in_row_wise_sorted_matrix.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.i: cmake_force
@@ -3822,7 +3783,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.s
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.obj: ../DSA/BINARY_SEARCH/find_nth_root.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\find_nth_root.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\find_nth_root.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.i: cmake_force
@@ -3835,7 +3796,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/find_nth_root.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.obj: ../DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_sum_bitonic_subsequence.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_sum_bitonic_subsequence.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.i: cmake_force
@@ -3848,7 +3809,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_sum_bitonic_subsequence.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj: ../DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\max_bitonic_subarray_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\max_bitonic_subarray_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.i: cmake_force
@@ -3861,7 +3822,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/max_bitonic_subarray_sum.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.obj: ../DSA/DP/DP_EXTRAS/lbs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lbs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lbs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.i: cmake_force
@@ -3874,7 +3835,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lbs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj: ../DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\capacity_to_ship_packages_within_d_days.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_days.cpp.i: cmake_force
@@ -3887,7 +3848,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/capacity_to_ship_packages_within_d_day
 
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.obj: ../DSA/RECURSION/sort_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\sort_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\sort_array.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.i: cmake_force
@@ -3900,7 +3861,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/sort_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.obj: ../DSA/DP/DP_EXTRAS/lcis.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lcis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lcis.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.i: cmake_force
@@ -3913,7 +3874,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lcis.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.obj: ../DSA/RECURSION/sort_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\sort_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\sort_stack.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.i: cmake_force
@@ -3926,7 +3887,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/sort_stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.obj: ../DSA/RECURSION/delete_middle_element_of_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\delete_middle_element_of_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\delete_middle_element_of_stack.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.i: cmake_force
@@ -3939,7 +3900,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/delete_middle_element_of_stack.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.obj: ../DSA/RECURSION/reverse_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\reverse_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\reverse_stack.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.i: cmake_force
@@ -3952,7 +3913,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/reverse_stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.obj: ../DSA/RECURSION/kth_symbol_in_grammar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\kth_symbol_in_grammar.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\kth_symbol_in_grammar.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.i: cmake_force
@@ -3965,7 +3926,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/kth_symbol_in_grammar.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.obj: ../DSA/RECURSION/power_set.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\power_set.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\power_set.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.i: cmake_force
@@ -3978,7 +3939,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/power_set.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.obj: ../DSA/RECURSION/unique_subsets.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\unique_subsets.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\unique_subsets.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.i: cmake_force
@@ -3991,7 +3952,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/unique_subsets.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.obj: ../DSA/RECURSION/permutation_with_spaces.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\permutation_with_spaces.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\permutation_with_spaces.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.i: cmake_force
@@ -4004,7 +3965,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_spaces.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.obj: ../DSA/RECURSION/permutation_with_case_change.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\permutation_with_case_change.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\permutation_with_case_change.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.i: cmake_force
@@ -4017,7 +3978,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/permutation_with_case_change.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.obj: ../DSA/RECURSION/letter_case_permutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\letter_case_permutation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\letter_case_permutation.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.i: cmake_force
@@ -4030,7 +3991,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/letter_case_permutation.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.obj: ../DSA/RECURSION/generate_all_balanced_paranthesis.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\generate_all_balanced_paranthesis.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\generate_all_balanced_paranthesis.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.i: cmake_force
@@ -4043,7 +4004,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/generate_all_balanced_paranthesis.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj: ../DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_for_all_prefixes.cpp.i: cmake_force
@@ -4056,7 +4017,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/binary_nos_having_more_equal_1s_than_0s_fo
 
 CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj: ../DSA/RECURSION/josephus_problem.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\josephus_problem.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\josephus_problem.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.i: cmake_force
@@ -4069,7 +4030,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/josephus_problem.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj: ../DSA/RECURSION/string_permutations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\string_permutations.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\string_permutations.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.i: cmake_force
@@ -4082,7 +4043,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/string_permutations.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj: ../DSA/RECURSION/pascal_triangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\pascal_triangle.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\pascal_triangle.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.i: cmake_force
@@ -4095,7 +4056,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/pascal_triangle.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj: ../DSA/DP/DP_EXTRAS/pascal_triangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\pascal_triangle.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\pascal_triangle.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.i: cmake_force
@@ -4108,7 +4069,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/pascal_triangle.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj: ../DSA/RECURSION/lucky_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\lucky_numbers.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\lucky_numbers.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.i: cmake_force
@@ -4121,7 +4082,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/lucky_numbers.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj: ../DSA/RECURSION/all_unique_permutations_of_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\all_unique_permutations_of_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\all_unique_permutations_of_array.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.i: cmake_force
@@ -4134,7 +4095,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/all_unique_permutations_of_array.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj: ../DSA/RECURSION/handshakes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\handshakes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\handshakes.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.i: cmake_force
@@ -4147,7 +4108,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/handshakes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj: ../DSA/GREEDY/fractional_knapsack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\fractional_knapsack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\fractional_knapsack.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.i: cmake_force
@@ -4160,7 +4121,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/fractional_knapsack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj: ../DSA/GREEDY/job_sequencing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\job_sequencing.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\job_sequencing.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.i: cmake_force
@@ -4173,7 +4134,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/job_sequencing.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj: ../DSA/GREEDY/n_meetings_in_one_room.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\n_meetings_in_one_room.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\n_meetings_in_one_room.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.i: cmake_force
@@ -4186,7 +4147,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/n_meetings_in_one_room.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj: ../DSA/GREEDY/minimum_platforms.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\minimum_platforms.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\minimum_platforms.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.i: cmake_force
@@ -4199,7 +4160,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/minimum_platforms.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj: ../DSA/GREEDY/activity_selection.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\activity_selection.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\activity_selection.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.i: cmake_force
@@ -4212,7 +4173,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/activity_selection.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj: ../DSA/GREEDY/jump_game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\jump_game.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\jump_game.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.i: cmake_force
@@ -4225,7 +4186,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/jump_game.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj: ../DSA/DP/unbounded_knapsack/min_coin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\min_coin.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\min_coin.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.i: cmake_force
@@ -4238,7 +4199,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_coin.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj: ../DSA/GREEDY/choose_and_swap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\choose_and_swap.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\choose_and_swap.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.i: cmake_force
@@ -4251,7 +4212,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/choose_and_swap.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj: ../DSA/GREEDY/stock_buy_and_sell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\stock_buy_and_sell.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\stock_buy_and_sell.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.i: cmake_force
@@ -4264,7 +4225,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/stock_buy_and_sell.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj: ../DSA/GREEDY/police_and_thieves.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\police_and_thieves.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\police_and_thieves.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.i: cmake_force
@@ -4277,7 +4238,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/police_and_thieves.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj: ../DSA/GREEDY/shop_in_candy_store.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\shop_in_candy_store.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\shop_in_candy_store.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.i: cmake_force
@@ -4290,7 +4251,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/shop_in_candy_store.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj: ../DSA/GREEDY/maximize_sum_after_k_negations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\maximize_sum_after_k_negations.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\maximize_sum_after_k_negations.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.i: cmake_force
@@ -4303,7 +4264,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/maximize_sum_after_k_negations.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj: ../DSA/GREEDY/buy_maximum_stocks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\buy_maximum_stocks.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\buy_maximum_stocks.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.i: cmake_force
@@ -4316,7 +4277,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/buy_maximum_stocks.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj: ../DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_to_cut_board_into_squares.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.i: cmake_force
@@ -4329,7 +4290,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_to_cut_board_into_squares.cpp.s: cma
 
 CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj: ../DSA/GREEDY/survive_on_island.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\survive_on_island.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\survive_on_island.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.i: cmake_force
@@ -4342,7 +4303,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/survive_on_island.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj: ../DSA/GREEDY/min_cost_of_ropes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\min_cost_of_ropes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_cost_of_ropes.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.i: cmake_force
@@ -4355,7 +4316,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/min_cost_of_ropes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj: ../DSA/GREEDY/max_equal_sum_of_three_stacks.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\max_equal_sum_of_three_stacks.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.i: cmake_force
@@ -4368,7 +4329,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/max_equal_sum_of_three_stacks.cpp.s: cmake_fo
 
 CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj: ../DSA/GREEDY/water_the_plants.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\water_the_plants.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\water_the_plants.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.i: cmake_force
@@ -4381,7 +4342,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/water_the_plants.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj: ../DSA/GREEDY/coin_piles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\coin_piles.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\coin_piles.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.i: cmake_force
@@ -4394,7 +4355,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/coin_piles.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: ../DAA_ASSIGNMENTS/bellman_ford.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\bellman_ford.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\bellman_ford.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.i: cmake_force
@@ -4407,7 +4368,7 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj: ../DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\unique_element_in_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.i: cmake_force
@@ -4420,7 +4381,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.obj: ../DSA/RECURSION/combination_sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\RECURSION\combination_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\RECURSION\combination_sum.cpp
 
 CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.i: cmake_force
@@ -4433,7 +4394,7 @@ CMakeFiles/untitled.dir/DSA/RECURSION/combination_sum.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj: ../DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\bounded_knapsack\subset_sum_divisible_by_m.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\bounded_knapsack\subset_sum_divisible_by_m.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.i: cmake_force
@@ -4446,7 +4407,7 @@ CMakeFiles/untitled.dir/DSA/DP/bounded_knapsack/subset_sum_divisible_by_m.cpp.s:
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj: ../DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\min_cost_to_fill_given_weight_in_bag.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\min_cost_to_fill_given_weight_in_bag.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_in_bag.cpp.i: cmake_force
@@ -4459,7 +4420,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/min_cost_to_fill_given_weight_
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.obj: ../ROUGH_FILES/rough6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\ROUGH_FILES\rough6.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\ROUGH_FILES\rough6.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.i: cmake_force
@@ -4472,7 +4433,7 @@ CMakeFiles/untitled.dir/ROUGH_FILES/rough6.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.obj: ../DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\consecutive_ones_not_allowed.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\consecutive_ones_not_allowed.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.i: cmake_force
@@ -4485,7 +4446,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/consecutive_ones_not_allowed.cpp.s: cma
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.obj: ../DSA/DP/DP_EXTRAS/lap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lap.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lap.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.i: cmake_force
@@ -4498,7 +4459,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lap.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj: ../DSA/DP/DP_EXTRAS/total_decoding_messages.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\total_decoding_messages.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\total_decoding_messages.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.i: cmake_force
@@ -4511,7 +4472,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/total_decoding_messages.cpp.s: cmake_fo
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj: ../DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\optimal_strategy_for_game.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\optimal_strategy_for_game.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.i: cmake_force
@@ -4524,7 +4485,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/optimal_strategy_for_game.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj: ../DSA/DP/DP_LPS/count_palindromic_subsequences.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_LPS\count_palindromic_subsequences.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.i: cmake_force
@@ -4537,7 +4498,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_LPS/count_palindromic_subsequences.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj: ../DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\unbounded_knapsack\no_of_ways_to_sum_to_N.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.i: cmake_force
@@ -4550,7 +4511,7 @@ CMakeFiles/untitled.dir/DSA/DP/unbounded_knapsack/no_of_ways_to_sum_to_N.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_connected_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_342) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_connected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_connected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.i: cmake_force
@@ -4563,7 +4524,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_connected_graph.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj: ../DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_343) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs_dfs_disconnected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.i: cmake_force
@@ -4576,7 +4537,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/bfs_dfs_disconnected_graph.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj: ../DSA/GRAPHS/has_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_344) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\has_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\has_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.i: cmake_force
@@ -4589,7 +4550,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/has_path.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj: ../DSA/GRAPHS/dfs_using_stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_345) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\dfs_using_stack.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dfs_using_stack.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.i: cmake_force
@@ -4602,7 +4563,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dfs_using_stack.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj: ../DSA/GRAPHS/get_path_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_346) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.i: cmake_force
@@ -4615,7 +4576,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj: ../DSA/GRAPHS/get_path_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_347) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\get_path_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\get_path_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.i: cmake_force
@@ -4628,7 +4589,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/get_path_using_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj: ../DSA/GRAPHS/is_graph_connected.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_348) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\is_graph_connected.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\is_graph_connected.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.i: cmake_force
@@ -4641,7 +4602,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/is_graph_connected.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj: ../DSA/GRAPHS/print_all_connected_components.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_349) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_connected_components.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_connected_components.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.i: cmake_force
@@ -4654,7 +4615,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_connected_components.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_350) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.i: cmake_force
@@ -4667,7 +4628,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_351) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_directed_graph_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_directed_graph_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.i: cmake_force
@@ -4680,7 +4641,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj: ../DSA/GRAPHS/mother_vertex.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_352) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\mother_vertex.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\mother_vertex.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.i: cmake_force
@@ -4693,7 +4654,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/mother_vertex.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj: ../DSA/GRAPHS/check_bridge_edge_or_not.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_353) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\check_bridge_edge_or_not.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\check_bridge_edge_or_not.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.i: cmake_force
@@ -4706,7 +4667,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/check_bridge_edge_or_not.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj: ../DSA/GRAPHS/possible_paths_between_2_vertices.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_354) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\possible_paths_between_2_vertices.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\possible_paths_between_2_vertices.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.i: cmake_force
@@ -4719,7 +4680,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/possible_paths_between_2_vertices.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_355) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\check_bipartite_graph_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\check_bipartite_graph_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.i: cmake_force
@@ -4732,7 +4693,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_dfs.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_356) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\check_bipartite_graph_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\check_bipartite_graph_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.i: cmake_force
@@ -4745,7 +4706,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/check_bipartite_graph_using_bfs.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_357) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\topological_sort_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\topological_sort_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.i: cmake_force
@@ -4758,7 +4719,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj: ../DSA/GRAPHS/bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_358) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.i: cmake_force
@@ -4771,7 +4732,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj: ../DSA/GRAPHS/dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_359) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.i: cmake_force
@@ -4784,7 +4745,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj: ../DSA/GRAPHS/topological_sort_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\topological_sort_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\topological_sort_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.i: cmake_force
@@ -4797,7 +4758,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/topological_sort_using_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_directed_graph_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_directed_graph_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.i: cmake_force
@@ -4810,7 +4771,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_bfs.cpp.
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj: ../DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_path_in_undirected_graph_with_unit_weights.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_path_in_undirected_graph_with_unit_weights.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.i: cmake_force
@@ -4823,7 +4784,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_w
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj: ../DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_path_in_weighted_dag_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_path_in_weighted_dag_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.i: cmake_force
@@ -4836,7 +4797,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.s
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj: ../DSA/GRAPHS/find_no_of_islands_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_no_of_islands_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_no_of_islands_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.i: cmake_force
@@ -4849,7 +4810,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj: ../DSA/GREEDY/min_swaps_to_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GREEDY\min_swaps_to_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GREEDY\min_swaps_to_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.i: cmake_force
@@ -4862,7 +4823,7 @@ CMakeFiles/untitled.dir/DSA/GREEDY/min_swaps_to_sort.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj: ../DSA/GRAPHS/dijkstra.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\dijkstra.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\dijkstra.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.i: cmake_force
@@ -4875,7 +4836,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/dijkstra.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj: ../DSA/GRAPHS/GRAPHS_CN/kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\GRAPHS_CN\kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.i: cmake_force
@@ -4888,7 +4849,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/kruskal.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj: ../DSA/GRAPHS/kruskal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\kruskal.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\kruskal.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.i: cmake_force
@@ -4901,7 +4862,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj: ../DSA/GRAPHS/shortest_source_to_destination_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_source_to_destination_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_source_to_destination_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.i: cmake_force
@@ -4914,7 +4875,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_source_to_destination_path.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj: ../DSA/GRAPHS/covid19.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid19.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid19.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.i: cmake_force
@@ -4927,7 +4888,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/covid19.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj: ../DSA/GRAPHS/covid_spread.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\covid_spread.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\covid_spread.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.i: cmake_force
@@ -4940,7 +4901,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/covid_spread.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj: ../DSA/GRAPHS/find_whether_path_exists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_whether_path_exists.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_whether_path_exists.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.i: cmake_force
@@ -4953,7 +4914,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/find_whether_path_exists.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj: ../DSA/GRAPHS/rotten_oranges.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\rotten_oranges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\rotten_oranges.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.i: cmake_force
@@ -4966,7 +4927,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/rotten_oranges.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj: ../DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\distance_of_nearest_cell_having_1.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.i: cmake_force
@@ -4979,7 +4940,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/distance_of_nearest_cell_having_1.cpp.s: cmak
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj: ../DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_from_s_to_d_in_directed_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp.i: cmake_force
@@ -4992,7 +4953,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_from_s_to_d_in_directed_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\count_paths_with_exactly_k_edges.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.i: cmake_force
@@ -5005,7 +4966,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/count_paths_with_exactly_k_edges.cpp.s: cmake
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.obj: ../DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\count_paths_with_exactly_k_edges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\count_paths_with_exactly_k_edges.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.i: cmake_force
@@ -5018,7 +4979,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/count_paths_with_exactly_k_edges.cpp.s:
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj: ../DSA/GRAPHS/articulation_point.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\articulation_point.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\articulation_point.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.i: cmake_force
@@ -5031,7 +4992,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/articulation_point.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj: ../DSA/GRAPHS/kosaraju_tarjan.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\kosaraju_tarjan.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\kosaraju_tarjan.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.i: cmake_force
@@ -5044,7 +5005,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/kosaraju_tarjan.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj: ../DSA/GRAPHS/steps_by_knight.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\steps_by_knight.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\steps_by_knight.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.i: cmake_force
@@ -5057,7 +5018,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/steps_by_knight.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj: ../DSA/GRAPHS/bellman_ford.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\bellman_ford.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\bellman_ford.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.i: cmake_force
@@ -5070,7 +5031,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/bellman_ford.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj: ../DSA/GRAPHS/prim.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\prim.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\prim.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.i: cmake_force
@@ -5083,7 +5044,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj: ../DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\unit_area_of_largest_region_of_ones.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\unit_area_of_largest_region_of_ones.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.i: cmake_force
@@ -5096,7 +5057,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj: ../DSA/GRAPHS/find_no_of_islands_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\find_no_of_islands_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\find_no_of_islands_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.i: cmake_force
@@ -5109,7 +5070,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/find_no_of_islands_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj: ../DSA/GRAPHS/min_cost_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\min_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\min_cost_path.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.i: cmake_force
@@ -5122,7 +5083,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/min_cost_path.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.obj: ../DSA/DP/DP_EXTRAS/min_cost_path.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_cost_path.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_cost_path.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.i: cmake_force
@@ -5135,7 +5096,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_cost_path.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\x_total_shapes_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\x_total_shapes_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.i: cmake_force
@@ -5148,7 +5109,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj: ../DSA/GRAPHS/x_total_shapes_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\x_total_shapes_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\x_total_shapes_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.i: cmake_force
@@ -5161,7 +5122,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/x_total_shapes_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\prerequisite_tasks_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\prerequisite_tasks_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.i: cmake_force
@@ -5174,7 +5135,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_dfs.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.obj: ../DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\prerequisite_tasks_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\prerequisite_tasks_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.i: cmake_force
@@ -5187,7 +5148,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/prerequisite_tasks_using_bfs.cpp.s: cmake_for
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj: ../DSA/GRAPHS/flood_fill_using_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\flood_fill_using_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\flood_fill_using_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.i: cmake_force
@@ -5200,7 +5161,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj: ../DSA/GRAPHS/flood_fill_using_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\flood_fill_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\flood_fill_using_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.i: cmake_force
@@ -5213,7 +5174,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/flood_fill_using_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj: ../DSA/GRAPHS/word_search_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\word_search_dfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_search_dfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.i: cmake_force
@@ -5226,7 +5187,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/word_search_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj: ../DSA/GRAPHS/transitive_closure_of_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\transitive_closure_of_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\transitive_closure_of_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.i: cmake_force
@@ -5239,7 +5200,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/transitive_closure_of_graph.cpp.s: cmake_forc
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj: ../DSA/GRAPHS/word_ladder_I.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\word_ladder_I.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_ladder_I.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.i: cmake_force
@@ -5252,7 +5213,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/word_ladder_I.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_dfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs.cpp"
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.i: cmake_force
@@ -5265,7 +5226,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_dfs_alternative.cpp"
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.i: cmake_force
@@ -5278,7 +5239,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_dfs_alternative.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj: ../DSA/GRAPHS/replace_O's_with_X's_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\replace_O's_with_X's_bfs.cpp"
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.i: cmake_force
@@ -5291,7 +5252,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/replace_O's_with_X's_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj: ../DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\eulerian_circuit_and_path_in_undirected_graph.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph.cpp.i: cmake_force
@@ -5304,7 +5265,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/eulerian_circuit_and_path_in_undirected_graph
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj: ../DSA/GRAPHS/no_of_provinces.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\no_of_provinces.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\no_of_provinces.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.i: cmake_force
@@ -5317,7 +5278,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/no_of_provinces.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj: ../DSA/GRAPHS/critical_connections.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\critical_connections.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\critical_connections.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.i: cmake_force
@@ -5330,7 +5291,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/critical_connections.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj: ../DSA/GRAPHS/floyd_warshall.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\floyd_warshall.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\floyd_warshall.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.i: cmake_force
@@ -5343,7 +5304,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/floyd_warshall.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj: ../DSA/GRAPHS/snake_and_ladder_bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\snake_and_ladder_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\snake_and_ladder_bfs.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.i: cmake_force
@@ -5356,7 +5317,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/snake_and_ladder_bfs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj: ../DSA/GRAPHS/alien_dictionary.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\alien_dictionary.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\alien_dictionary.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.i: cmake_force
@@ -5369,7 +5330,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/alien_dictionary.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj: ../DSA/GRAPHS/circle_of_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\circle_of_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\circle_of_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.i: cmake_force
@@ -5382,7 +5343,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/circle_of_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj: ../DSA/HEAP/kth_smallest_element.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\kth_smallest_element.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_smallest_element.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.i: cmake_force
@@ -5395,7 +5356,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/kth_smallest_element.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj: ../DSA/HEAP/k_largest_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_largest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_largest_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.i: cmake_force
@@ -5408,7 +5369,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/k_largest_elements.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj: ../DSA/HEAP/k_sorted_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_sorted_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_sorted_array.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.i: cmake_force
@@ -5421,7 +5382,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj: ../DSA/HEAP/nearly_sorted_algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\nearly_sorted_algorithm.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\nearly_sorted_algorithm.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.i: cmake_force
@@ -5434,7 +5395,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/nearly_sorted_algorithm.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj: ../DSA/HEAP/k_closest_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.i: cmake_force
@@ -5447,7 +5408,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/k_closest_elements.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj: ../DSA/HEAP/top_k_frequent_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\top_k_frequent_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\top_k_frequent_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.i: cmake_force
@@ -5460,7 +5421,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/top_k_frequent_elements.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj: ../DSA/HEAP/frequency_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\frequency_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\frequency_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.i: cmake_force
@@ -5473,7 +5434,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/frequency_sort.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj: ../DSA/HEAP/k_closest_points_to_origin.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_closest_points_to_origin.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_closest_points_to_origin.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.i: cmake_force
@@ -5486,7 +5447,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/k_closest_points_to_origin.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj: ../DSA/HEAP/min_cost_of_ropes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\min_cost_of_ropes.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_cost_of_ropes.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.i: cmake_force
@@ -5499,7 +5460,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/min_cost_of_ropes.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj: ../DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_elements.cpp.i: cmake_force
@@ -5512,7 +5473,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/sum_of_elements_between_k1th_and_k2th_smallest_
 
 CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj: ../DSA/HEAP/kth_largest_element_in_a_stream.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\kth_largest_element_in_a_stream.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\kth_largest_element_in_a_stream.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.i: cmake_force
@@ -5525,7 +5486,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/kth_largest_element_in_a_stream.cpp.s: cmake_fo
 
 CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj: ../DSA/HEAP/adding_array_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\adding_array_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\adding_array_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.i: cmake_force
@@ -5538,7 +5499,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/adding_array_elements.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj: ../DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\max_distinct_elements_after_removing_k_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements.cpp.i: cmake_force
@@ -5551,7 +5512,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/max_distinct_elements_after_removing_k_elements
 
 CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj: ../DSA/HEAP/maximize_the_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\maximize_the_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\maximize_the_array.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.i: cmake_force
@@ -5564,7 +5525,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/maximize_the_array.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj: ../DSA/HEAP/merge_k_sorted_arrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\merge_k_sorted_arrays.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_k_sorted_arrays.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.i: cmake_force
@@ -5577,7 +5538,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/merge_k_sorted_arrays.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj: ../DSA/HEAP/min_sum_formed_by_digits.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\min_sum_formed_by_digits.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\min_sum_formed_by_digits.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.i: cmake_force
@@ -5590,7 +5551,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/min_sum_formed_by_digits.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj: ../DSA/HEAP/game_with_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\game_with_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\game_with_string.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.i: cmake_force
@@ -5603,7 +5564,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/game_with_string.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj: ../DSA/HEAP/merge_two_binary_max_heaps.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\merge_two_binary_max_heaps.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\merge_two_binary_max_heaps.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.i: cmake_force
@@ -5616,7 +5577,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/merge_two_binary_max_heaps.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj: ../DSA/HEAP/shortest_path_between_cities.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\shortest_path_between_cities.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\shortest_path_between_cities.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.i: cmake_force
@@ -5629,7 +5590,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/shortest_path_between_cities.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj: ../DSA/HEAP/rearrange_characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\rearrange_characters.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\rearrange_characters.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.i: cmake_force
@@ -5642,7 +5603,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/rearrange_characters.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj: ../DSA/HEAP/heap_sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\heap_sort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\heap_sort.cpp
 
 CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.i: cmake_force
@@ -5655,7 +5616,7 @@ CMakeFiles/untitled.dir/DSA/HEAP/heap_sort.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj: ../DSA/STRINGS/count_and_say.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\count_and_say.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_and_say.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.i: cmake_force
@@ -5668,7 +5629,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/count_and_say.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj: ../DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\untitled.dir\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp.obj" -c "C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\split_binary_string_into_substrings_of_0's_and_1's.cpp"
 
 CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_and_1's.cpp.i: cmake_force
@@ -5681,7 +5642,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/split_binary_string_into_substrings_of_0's_a
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.i: cmake_force
@@ -5694,7 +5655,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj: ../DSA/DP/DP_EXTRAS/lrs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\lrs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\lrs.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.i: cmake_force
@@ -5707,7 +5668,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/lrs.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj: ../DSA/STRINGS/parenthesis_checker.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\parenthesis_checker.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\parenthesis_checker.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.i: cmake_force
@@ -5720,7 +5681,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/parenthesis_checker.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj: ../DSA/STRINGS/next_permutation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\next_permutation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\next_permutation.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.i: cmake_force
@@ -5733,7 +5694,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/next_permutation.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj: ../DSA/STRINGS/count_the_reversals.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\count_the_reversals.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_the_reversals.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.i: cmake_force
@@ -5746,7 +5707,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/count_the_reversals.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj: ../DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\minimum_swaps_for_bracket_balancing.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\minimum_swaps_for_bracket_balancing.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.i: cmake_force
@@ -5759,7 +5720,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/minimum_swaps_for_bracket_balancing.cpp.s: c
 
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj: ../DSA/STRINGS/isomorphic_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\isomorphic_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\isomorphic_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.i: cmake_force
@@ -5772,7 +5733,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/isomorphic_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj: ../DSA/STRINGS/reversing_equation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\reversing_equation.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\reversing_equation.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.i: cmake_force
@@ -5785,7 +5746,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj: ../DSA/STRINGS/min_no_of_flips.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\min_no_of_flips.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\min_no_of_flips.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.i: cmake_force
@@ -5798,7 +5759,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/min_no_of_flips.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj: ../DSA/STRINGS/min_indexed_character.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\min_indexed_character.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\min_indexed_character.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.i: cmake_force
@@ -5811,7 +5772,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/min_indexed_character.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj: ../DSA/STRINGS/anagrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\anagrams.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\anagrams.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.i: cmake_force
@@ -5824,7 +5785,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/anagrams.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj: ../DSA/STRINGS/winner_of_election.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\winner_of_election.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\winner_of_election.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.i: cmake_force
@@ -5837,7 +5798,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj: ../DSA/STRINGS/multiply_two_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\multiply_two_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\multiply_two_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.i: cmake_force
@@ -5850,7 +5811,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/multiply_two_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj: ../DSA/STRINGS/print_anagrams_together.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\print_anagrams_together.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\print_anagrams_together.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.i: cmake_force
@@ -5863,7 +5824,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/print_anagrams_together.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj: ../DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\substrings_of_length_k_with_k-1_distinct_elements.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\substrings_of_length_k_with_k-1_distinct_elements.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_elements.cpp.i: cmake_force
@@ -5876,7 +5837,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/substrings_of_length_k_with_k-1_distinct_ele
 
 CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj: ../DSA/STRINGS/implement_atoi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\implement_atoi.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\implement_atoi.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.i: cmake_force
@@ -5889,7 +5850,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj: ../DSA/STRINGS/run_length_encding.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\run_length_encding.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\run_length_encding.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.i: cmake_force
@@ -5902,7 +5863,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/run_length_encding.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj: ../DSA/STRINGS/k_anagrams.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\k_anagrams.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\k_anagrams.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.i: cmake_force
@@ -5915,7 +5876,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/k_anagrams.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj: ../DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\count_occurences_of_given_word_in_2-d_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\count_occurences_of_given_word_in_2-d_array.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.cpp.i: cmake_force
@@ -5928,7 +5889,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/count_occurences_of_given_word_in_2-d_array.
 
 CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj: ../DSA/STRINGS/find_string_in_grid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\find_string_in_grid.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\find_string_in_grid.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.i: cmake_force
@@ -5941,7 +5902,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj: ../DSA/STRINGS/case_specific_sorting.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\case_specific_sorting.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\case_specific_sorting.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.i: cmake_force
@@ -5954,7 +5915,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/case_specific_sorting.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj: ../DSA/STRINGS/string_ignorance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\string_ignorance.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\string_ignorance.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.i: cmake_force
@@ -5967,7 +5928,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/string_ignorance.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj: ../DSA/STRINGS/replace_by_X.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\replace_by_X.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\replace_by_X.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.i: cmake_force
@@ -5980,7 +5941,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/replace_by_X.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj: ../DSA/STRINGS/match_specific_pattern.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\match_specific_pattern.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\match_specific_pattern.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.i: cmake_force
@@ -5993,7 +5954,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/match_specific_pattern.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj: ../DSA/STRINGS/longest_common_prefix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_common_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_common_prefix.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.i: cmake_force
@@ -6006,7 +5967,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/longest_common_prefix.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_distinct_window.cpp
 
 CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.i: cmake_force
@@ -6019,7 +5980,7 @@ CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s: 
 
 CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj: ../DSA/STRINGS/validate_ip_address.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\validate_ip_address.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\validate_ip_address.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.i: cmake_force
@@ -6032,7 +5993,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/validate_ip_address.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj: ../DSA/STRINGS/add_binary_strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\add_binary_strings.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\add_binary_strings.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.i: cmake_force
@@ -6045,7 +6006,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/add_binary_strings.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj: ../DSA/STRINGS/sum_of_two_large_numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\sum_of_two_large_numbers.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\sum_of_two_large_numbers.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.i: cmake_force
@@ -6058,7 +6019,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/sum_of_two_large_numbers.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj: ../DSA/STRINGS/longest_even_length_substring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_even_length_substring.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_even_length_substring.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.i: cmake_force
@@ -6071,7 +6032,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/longest_even_length_substring.cpp.s: cmake_f
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj: ../DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\subsequence_matching.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.i: cmake_force
@@ -6084,7 +6045,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/subsequence_matching.cpp.s
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj: ../DSA/STRINGS/Pattern_Searching/kmp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\kmp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\kmp.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.i: cmake_force
@@ -6097,7 +6058,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/kmp.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj: ../DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\longest_prefix_suffix.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.i: cmake_force
@@ -6110,7 +6071,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/longest_prefix_suffix.cpp.
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj: ../DSA/STRINGS/Pattern_Searching/robin-karp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\Pattern_Searching\robin-karp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\Pattern_Searching\robin-karp.cpp
 
 CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.i: cmake_force
@@ -6123,7 +6084,7 @@ CMakeFiles/untitled.dir/DSA/STRINGS/Pattern_Searching/robin-karp.cpp.s: cmake_fo
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj: ../DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\strictly_increasing_array.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\strictly_increasing_array.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.i: cmake_force
@@ -6136,7 +6097,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/strictly_increasing_array.cpp.s: cmake_
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj: ../DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\min_operations_to_convert_array_A_to_array_B.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\min_operations_to_convert_array_A_to_array_B.cpp
 
 CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp.i: cmake_force
@@ -6149,7 +6110,7 @@ CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_ar
 
 CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj: ../DSA/TRIE/trie_insert_and_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\trie_insert_and_search.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_insert_and_search.cpp
 
 CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.i: cmake_force
@@ -6162,7 +6123,7 @@ CMakeFiles/untitled.dir/DSA/TRIE/trie_insert_and_search.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj: ../DSA/TRIE/trie_delete.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\trie_delete.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\trie_delete.cpp
 
 CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.i: cmake_force
@@ -6175,7 +6136,7 @@ CMakeFiles/untitled.dir/DSA/TRIE/trie_delete.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj: ../DSA/TRIE/count_no_of_strings_with_given_prefix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\count_no_of_strings_with_given_prefix.cpp
 
 CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.i: cmake_force
@@ -6188,7 +6149,7 @@ CMakeFiles/untitled.dir/DSA/TRIE/count_no_of_strings_with_given_prefix.cpp.s: cm
 
 CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.obj: ../DSA/TRIE/auto_complete_feature.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TRIE\auto_complete_feature.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TRIE\auto_complete_feature.cpp
 
 CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.i: cmake_force
@@ -6201,7 +6162,7 @@ CMakeFiles/untitled.dir/DSA/TRIE/auto_complete_feature.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj: ../DSA/BINARY_SEARCH/ternary_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\ternary_search.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\ternary_search.cpp
 
 CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.i: cmake_force
@@ -6214,7 +6175,7 @@ CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj: ../DAA_ASSIGNMENTS/tsp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\tsp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\tsp.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.i: cmake_force
@@ -6227,7 +6188,7 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj: ../DSA/GRAPHS/tsp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\tsp.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\tsp.cpp
 
 CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.i: cmake_force
@@ -6240,7 +6201,7 @@ CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj: ../DAA_ASSIGNMENTS/exam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj"
 	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\exam.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\exam.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.i: cmake_force
@@ -6250,6 +6211,331 @@ CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.i: cmake_force
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.s"
 	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DAA_ASSIGNMENTS\exam.cpp -o CMakeFiles\untitled.dir\DAA_ASSIGNMENTS\exam.cpp.s
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj: ../DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp > CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp.i
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\kth_smallest_element_in_matrix.cpp.s
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj: ../DSA/BINARY_SEARCH/order_not_known_search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\order_not_known_search.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\order_not_known_search.cpp
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\order_not_known_search.cpp > CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\order_not_known_search.cpp.i
+
+CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\BINARY_SEARCH\order_not_known_search.cpp -o CMakeFiles\untitled.dir\DSA\BINARY_SEARCH\order_not_known_search.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj: ../DSA/DP/DP_EXTRAS/string_ss_game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\string_ss_game.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\string_ss_game.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\string_ss_game.cpp > CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\string_ss_game.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_EXTRAS\string_ss_game.cpp -o CMakeFiles\untitled.dir\DSA\DP\DP_EXTRAS\string_ss_game.cpp.s
+
+CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj: ../DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp
+
+CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp > CMakeFiles\untitled.dir\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp.i
+
+CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp -o CMakeFiles\untitled.dir\DSA\DP\DP_MCM\boolean_parenthesization_alternative.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj: ../DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\detect_cycle_in_undirected_graph_using_bfs.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj: ../DSA/GRAPHS/maximum_bipartite_matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\maximum_bipartite_matching.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\maximum_bipartite_matching.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\maximum_bipartite_matching.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\maximum_bipartite_matching.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\maximum_bipartite_matching.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\maximum_bipartite_matching.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj: ../DSA/GRAPHS/print_all_bridge_edges.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_bridge_edges.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_bridge_edges.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_bridge_edges.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_bridge_edges.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\print_all_bridge_edges.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\print_all_bridge_edges.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj: ../DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\shortest_path_in_weighted_dag_using_bfs.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj: ../DSA/GRAPHS/water_connection_problem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\water_connection_problem.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\water_connection_problem.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\water_connection_problem.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\water_connection_problem.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\water_connection_problem.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\water_connection_problem.cpp.s
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj: ../DSA/GRAPHS/word_boggle_I.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\GRAPHS\word_boggle_I.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_boggle_I.cpp
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_boggle_I.cpp > CMakeFiles\untitled.dir\DSA\GRAPHS\word_boggle_I.cpp.i
+
+CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\GRAPHS\word_boggle_I.cpp -o CMakeFiles\untitled.dir\DSA\GRAPHS\word_boggle_I.cpp.s
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj: ../DSA/HEAP/k_subarray_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\HEAP\k_subarray_sum.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_subarray_sum.cpp
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_subarray_sum.cpp > CMakeFiles\untitled.dir\DSA\HEAP\k_subarray_sum.cpp.i
+
+CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\HEAP\k_subarray_sum.cpp -o CMakeFiles\untitled.dir\DSA\HEAP\k_subarray_sum.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj: ../DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp > CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp -o CMakeFiles\untitled.dir\DSA\SLIDING_WINDOW\VSSW\smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\BubbleSort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\InsertionSort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\MergeSort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\QuickSort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj: ../DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp > CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp.i
+
+CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp -o CMakeFiles\untitled.dir\DSA\SORTING_ALGORITHMS\SORTING\selectionSort.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj: ../DSA/STACK/my_stack/stack_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_1.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_1.cpp
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_1.cpp > CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_1.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_1.cpp -o CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_1.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj: ../DSA/STACK/my_stack/stack_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_2.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_2.cpp
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_2.cpp > CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_2.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STACK\my_stack\stack_2.cpp -o CMakeFiles\untitled.dir\DSA\STACK\my_stack\stack_2.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj: ../DSA/STRINGS/generate_ip_addresses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\generate_ip_addresses.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\generate_ip_addresses.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\generate_ip_addresses.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\generate_ip_addresses.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\generate_ip_addresses.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\generate_ip_addresses.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj: ../DSA/STRINGS/integer_to_roman.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\integer_to_roman.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\integer_to_roman.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\integer_to_roman.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\integer_to_roman.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\integer_to_roman.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\integer_to_roman.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj: ../DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\longest_palindromic_substring_in_linear_time.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj: ../DSA/STRINGS/roman_to_integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\roman_to_integer.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\roman_to_integer.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\roman_to_integer.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\roman_to_integer.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\roman_to_integer.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\roman_to_integer.cpp.s
+
+CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj: ../DSA/STRINGS/word_wrap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\STRINGS\word_wrap.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\word_wrap.cpp
+
+CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\word_wrap.cpp > CMakeFiles\untitled.dir\DSA\STRINGS\word_wrap.cpp.i
+
+CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\STRINGS\word_wrap.cpp -o CMakeFiles\untitled.dir\DSA\STRINGS\word_wrap.cpp.s
+
+CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj: ../DSA/TREES/TBT/TBT_use.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj"
+	D:\CodeBlocks\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\DSA\TREES\TBT\TBT_use.cpp.obj -c C:\Users\rapen\CLionProjects\untitled\DSA\TREES\TBT\TBT_use.cpp
+
+CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.i"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\rapen\CLionProjects\untitled\DSA\TREES\TBT\TBT_use.cpp > CMakeFiles\untitled.dir\DSA\TREES\TBT\TBT_use.cpp.i
+
+CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.s"
+	D:\CodeBlocks\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\rapen\CLionProjects\untitled\DSA\TREES\TBT\TBT_use.cpp -o CMakeFiles\untitled.dir\DSA\TREES\TBT\TBT_use.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
@@ -6268,11 +6554,8 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/algorithmic_toolbox/sum1.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj" \
-"CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj" \
-"CMakeFiles/untitled.dir/DM/occurances.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj" \
-"CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj" \
@@ -6405,9 +6688,9 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj" \
-"CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj" \
@@ -6727,7 +7010,32 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj" \
 "CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj" \
 "CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj" \
-"CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj"
+"CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj" \
+"CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -6747,11 +7055,8 @@ untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_1/main_interfac
 untitled.exe: CMakeFiles/untitled.dir/algorithmic_toolbox/sum1.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DM/occurances.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STL/vectors_tut.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/TEMPLATES/templates.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/TREES/sorting_algorithms/selectionSort.cpp.obj
@@ -6884,9 +7189,9 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS_OLD/graph2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/prim.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/EXPONENTATION/mod_exp.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/EXPONENTATION/matrix_exp.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/STL/priority_queue.cpp.obj
@@ -7207,11 +7512,36 @@ untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/ternary_search.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/tsp.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\rapen\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

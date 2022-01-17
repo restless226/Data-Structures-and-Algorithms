@@ -3,6 +3,8 @@
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/bellman_ford.cpp.obj: ../DAA_ASSIGNMENTS/bellman_ford.cpp
 
+CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/exam.cpp.obj: ../DAA_ASSIGNMENTS/exam.cpp
+
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp.obj: ../DAA_ASSIGNMENTS/fractional_knapsack_using_greedy.cpp
 
 CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/knapsack_01.cpp.obj: ../DAA_ASSIGNMENTS/knapsack_01.cpp
@@ -925,8 +927,6 @@ CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_middle.cpp.obj: ../OLD/HackerRa
 CMakeFiles/untitled.dir/OLD/HackerRank/insert_at_tail.cpp.obj: ../OLD/HackerRank/insert_at_tail.cpp
 
 CMakeFiles/untitled.dir/OLD/HackerRank/reverse_LL.cpp.obj: ../OLD/HackerRank/reverse_LL.cpp
-
-CMakeFiles/untitled.dir/ROUGH_FILES/exam.cpp.obj: ../ROUGH_FILES/exam.cpp
 
 CMakeFiles/untitled.dir/ROUGH_FILES/rough1.cpp.obj: ../ROUGH_FILES/rough1.cpp
 

@@ -304,87 +304,6 @@ DAA_ASSIGNMENTS/tsp.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DAA_ASSIGNMENTS/tsp.cpp.s
 .PHONY : DAA_ASSIGNMENTS/tsp.cpp.s
 
-DM/DM_lists.obj: DM/DM_lists.cpp.obj
-
-.PHONY : DM/DM_lists.obj
-
-# target to build an object file
-DM/DM_lists.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/DM_lists.cpp.obj
-.PHONY : DM/DM_lists.cpp.obj
-
-DM/DM_lists.i: DM/DM_lists.cpp.i
-
-.PHONY : DM/DM_lists.i
-
-# target to preprocess a source file
-DM/DM_lists.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/DM_lists.cpp.i
-.PHONY : DM/DM_lists.cpp.i
-
-DM/DM_lists.s: DM/DM_lists.cpp.s
-
-.PHONY : DM/DM_lists.s
-
-# target to generate assembly for a file
-DM/DM_lists.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/DM_lists.cpp.s
-.PHONY : DM/DM_lists.cpp.s
-
-DM/linear_searrch.obj: DM/linear_searrch.cpp.obj
-
-.PHONY : DM/linear_searrch.obj
-
-# target to build an object file
-DM/linear_searrch.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.obj
-.PHONY : DM/linear_searrch.cpp.obj
-
-DM/linear_searrch.i: DM/linear_searrch.cpp.i
-
-.PHONY : DM/linear_searrch.i
-
-# target to preprocess a source file
-DM/linear_searrch.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.i
-.PHONY : DM/linear_searrch.cpp.i
-
-DM/linear_searrch.s: DM/linear_searrch.cpp.s
-
-.PHONY : DM/linear_searrch.s
-
-# target to generate assembly for a file
-DM/linear_searrch.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/linear_searrch.cpp.s
-.PHONY : DM/linear_searrch.cpp.s
-
-DM/occurances.obj: DM/occurances.cpp.obj
-
-.PHONY : DM/occurances.obj
-
-# target to build an object file
-DM/occurances.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/occurances.cpp.obj
-.PHONY : DM/occurances.cpp.obj
-
-DM/occurances.i: DM/occurances.cpp.i
-
-.PHONY : DM/occurances.i
-
-# target to preprocess a source file
-DM/occurances.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/occurances.cpp.i
-.PHONY : DM/occurances.cpp.i
-
-DM/occurances.s: DM/occurances.cpp.s
-
-.PHONY : DM/occurances.s
-
-# target to generate assembly for a file
-DM/occurances.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DM/occurances.cpp.s
-.PHONY : DM/occurances.cpp.s
-
 DSA/BACKTRACKING/n_queens.obj: DSA/BACKTRACKING/n_queens.cpp.obj
 
 .PHONY : DSA/BACKTRACKING/n_queens.obj
@@ -763,6 +682,33 @@ DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
 .PHONY : DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp.s
 
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.obj: DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj
+
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.obj
+
+# target to build an object file
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.obj
+
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.i: DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i
+
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.i
+
+# target to preprocess a source file
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.i
+
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.s: DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s
+
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.s
+
+# target to generate assembly for a file
+DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s
+.PHONY : DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp.s
+
 DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj: DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp.obj
 
 .PHONY : DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj
@@ -897,6 +843,33 @@ DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.s: DSA/BINARY_SEARCH/no_
 DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s
 .PHONY : DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp.s
+
+DSA/BINARY_SEARCH/order_not_known_search.obj: DSA/BINARY_SEARCH/order_not_known_search.cpp.obj
+
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.obj
+
+# target to build an object file
+DSA/BINARY_SEARCH/order_not_known_search.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.obj
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.cpp.obj
+
+DSA/BINARY_SEARCH/order_not_known_search.i: DSA/BINARY_SEARCH/order_not_known_search.cpp.i
+
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.i
+
+# target to preprocess a source file
+DSA/BINARY_SEARCH/order_not_known_search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.i
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.cpp.i
+
+DSA/BINARY_SEARCH/order_not_known_search.s: DSA/BINARY_SEARCH/order_not_known_search.cpp.s
+
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.s
+
+# target to generate assembly for a file
+DSA/BINARY_SEARCH/order_not_known_search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/order_not_known_search.cpp.s
+.PHONY : DSA/BINARY_SEARCH/order_not_known_search.cpp.s
 
 DSA/BINARY_SEARCH/peak_element.obj: DSA/BINARY_SEARCH/peak_element.cpp.obj
 
@@ -1060,86 +1033,86 @@ DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s
 .PHONY : DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp.s
 
-DSA/DEQUEUE/deque2.obj: DSA/DEQUEUE/deque2.cpp.obj
+DSA/DEQUE/deque1.obj: DSA/DEQUE/deque1.cpp.obj
 
-.PHONY : DSA/DEQUEUE/deque2.obj
-
-# target to build an object file
-DSA/DEQUEUE/deque2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.obj
-.PHONY : DSA/DEQUEUE/deque2.cpp.obj
-
-DSA/DEQUEUE/deque2.i: DSA/DEQUEUE/deque2.cpp.i
-
-.PHONY : DSA/DEQUEUE/deque2.i
-
-# target to preprocess a source file
-DSA/DEQUEUE/deque2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.i
-.PHONY : DSA/DEQUEUE/deque2.cpp.i
-
-DSA/DEQUEUE/deque2.s: DSA/DEQUEUE/deque2.cpp.s
-
-.PHONY : DSA/DEQUEUE/deque2.s
-
-# target to generate assembly for a file
-DSA/DEQUEUE/deque2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque2.cpp.s
-.PHONY : DSA/DEQUEUE/deque2.cpp.s
-
-DSA/DEQUEUE/deque3.obj: DSA/DEQUEUE/deque3.cpp.obj
-
-.PHONY : DSA/DEQUEUE/deque3.obj
+.PHONY : DSA/DEQUE/deque1.obj
 
 # target to build an object file
-DSA/DEQUEUE/deque3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.obj
-.PHONY : DSA/DEQUEUE/deque3.cpp.obj
+DSA/DEQUE/deque1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.obj
+.PHONY : DSA/DEQUE/deque1.cpp.obj
 
-DSA/DEQUEUE/deque3.i: DSA/DEQUEUE/deque3.cpp.i
+DSA/DEQUE/deque1.i: DSA/DEQUE/deque1.cpp.i
 
-.PHONY : DSA/DEQUEUE/deque3.i
+.PHONY : DSA/DEQUE/deque1.i
 
 # target to preprocess a source file
-DSA/DEQUEUE/deque3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.i
-.PHONY : DSA/DEQUEUE/deque3.cpp.i
+DSA/DEQUE/deque1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.i
+.PHONY : DSA/DEQUE/deque1.cpp.i
 
-DSA/DEQUEUE/deque3.s: DSA/DEQUEUE/deque3.cpp.s
+DSA/DEQUE/deque1.s: DSA/DEQUE/deque1.cpp.s
 
-.PHONY : DSA/DEQUEUE/deque3.s
+.PHONY : DSA/DEQUE/deque1.s
 
 # target to generate assembly for a file
-DSA/DEQUEUE/deque3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/deque3.cpp.s
-.PHONY : DSA/DEQUEUE/deque3.cpp.s
+DSA/DEQUE/deque1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque1.cpp.s
+.PHONY : DSA/DEQUE/deque1.cpp.s
 
-DSA/DEQUEUE/dequeue.obj: DSA/DEQUEUE/dequeue.cpp.obj
+DSA/DEQUE/deque2.obj: DSA/DEQUE/deque2.cpp.obj
 
-.PHONY : DSA/DEQUEUE/dequeue.obj
+.PHONY : DSA/DEQUE/deque2.obj
 
 # target to build an object file
-DSA/DEQUEUE/dequeue.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.obj
-.PHONY : DSA/DEQUEUE/dequeue.cpp.obj
+DSA/DEQUE/deque2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.obj
+.PHONY : DSA/DEQUE/deque2.cpp.obj
 
-DSA/DEQUEUE/dequeue.i: DSA/DEQUEUE/dequeue.cpp.i
+DSA/DEQUE/deque2.i: DSA/DEQUE/deque2.cpp.i
 
-.PHONY : DSA/DEQUEUE/dequeue.i
+.PHONY : DSA/DEQUE/deque2.i
 
 # target to preprocess a source file
-DSA/DEQUEUE/dequeue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.i
-.PHONY : DSA/DEQUEUE/dequeue.cpp.i
+DSA/DEQUE/deque2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.i
+.PHONY : DSA/DEQUE/deque2.cpp.i
 
-DSA/DEQUEUE/dequeue.s: DSA/DEQUEUE/dequeue.cpp.s
+DSA/DEQUE/deque2.s: DSA/DEQUE/deque2.cpp.s
 
-.PHONY : DSA/DEQUEUE/dequeue.s
+.PHONY : DSA/DEQUE/deque2.s
 
 # target to generate assembly for a file
-DSA/DEQUEUE/dequeue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUEUE/dequeue.cpp.s
-.PHONY : DSA/DEQUEUE/dequeue.cpp.s
+DSA/DEQUE/deque2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque2.cpp.s
+.PHONY : DSA/DEQUE/deque2.cpp.s
+
+DSA/DEQUE/deque3.obj: DSA/DEQUE/deque3.cpp.obj
+
+.PHONY : DSA/DEQUE/deque3.obj
+
+# target to build an object file
+DSA/DEQUE/deque3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.obj
+.PHONY : DSA/DEQUE/deque3.cpp.obj
+
+DSA/DEQUE/deque3.i: DSA/DEQUE/deque3.cpp.i
+
+.PHONY : DSA/DEQUE/deque3.i
+
+# target to preprocess a source file
+DSA/DEQUE/deque3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.i
+.PHONY : DSA/DEQUE/deque3.cpp.i
+
+DSA/DEQUE/deque3.s: DSA/DEQUE/deque3.cpp.s
+
+.PHONY : DSA/DEQUE/deque3.s
+
+# target to generate assembly for a file
+DSA/DEQUE/deque3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DEQUE/deque3.cpp.s
+.PHONY : DSA/DEQUE/deque3.cpp.s
 
 DSA/DP/DP_EXTRAS/bell_numbers.obj: DSA/DP/DP_EXTRAS/bell_numbers.cpp.obj
 
@@ -2275,6 +2248,33 @@ DSA/DP/DP_EXTRAS/string_ss.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss.cpp.s
 .PHONY : DSA/DP/DP_EXTRAS/string_ss.cpp.s
 
+DSA/DP/DP_EXTRAS/string_ss_game.obj: DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj
+
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.obj
+
+# target to build an object file
+DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.cpp.obj
+
+DSA/DP/DP_EXTRAS/string_ss_game.i: DSA/DP/DP_EXTRAS/string_ss_game.cpp.i
+
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.i
+
+# target to preprocess a source file
+DSA/DP/DP_EXTRAS/string_ss_game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.i
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.cpp.i
+
+DSA/DP/DP_EXTRAS/string_ss_game.s: DSA/DP/DP_EXTRAS/string_ss_game.cpp.s
+
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.s
+
+# target to generate assembly for a file
+DSA/DP/DP_EXTRAS/string_ss_game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_EXTRAS/string_ss_game.cpp.s
+.PHONY : DSA/DP/DP_EXTRAS/string_ss_game.cpp.s
+
 DSA/DP/DP_EXTRAS/sus.obj: DSA/DP/DP_EXTRAS/sus.cpp.obj
 
 .PHONY : DSA/DP/DP_EXTRAS/sus.obj
@@ -2760,6 +2760,33 @@ DSA/DP/DP_MCM/boolean_parenthesization.s: DSA/DP/DP_MCM/boolean_parenthesization
 DSA/DP/DP_MCM/boolean_parenthesization.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization.cpp.s
 .PHONY : DSA/DP/DP_MCM/boolean_parenthesization.cpp.s
+
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.obj: DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj
+
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.obj
+
+# target to build an object file
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.obj
+
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.i: DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i
+
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.i
+
+# target to preprocess a source file
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.i
+
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.s: DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s
+
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.s
+
+# target to generate assembly for a file
+DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s
+.PHONY : DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp.s
 
 DSA/DP/DP_MCM/egg_dropping.obj: DSA/DP/DP_MCM/egg_dropping.cpp.obj
 
@@ -3949,6 +3976,33 @@ DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s
 .PHONY : DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp.s
 
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.obj: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.obj
+
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.i: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.i
+
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.s: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp.s
+
 DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj: DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp.obj
 
 .PHONY : DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj
@@ -4435,6 +4489,33 @@ DSA/GRAPHS/kruskal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/kruskal.cpp.s
 .PHONY : DSA/GRAPHS/kruskal.cpp.s
 
+DSA/GRAPHS/maximum_bipartite_matching.obj: DSA/GRAPHS/maximum_bipartite_matching.cpp.obj
+
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.obj
+
+# target to build an object file
+DSA/GRAPHS/maximum_bipartite_matching.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.obj
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.cpp.obj
+
+DSA/GRAPHS/maximum_bipartite_matching.i: DSA/GRAPHS/maximum_bipartite_matching.cpp.i
+
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.i
+
+# target to preprocess a source file
+DSA/GRAPHS/maximum_bipartite_matching.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.i
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.cpp.i
+
+DSA/GRAPHS/maximum_bipartite_matching.s: DSA/GRAPHS/maximum_bipartite_matching.cpp.s
+
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/maximum_bipartite_matching.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/maximum_bipartite_matching.cpp.s
+.PHONY : DSA/GRAPHS/maximum_bipartite_matching.cpp.s
+
 DSA/GRAPHS/min_cost_path.obj: DSA/GRAPHS/min_cost_path.cpp.obj
 
 .PHONY : DSA/GRAPHS/min_cost_path.obj
@@ -4624,6 +4705,33 @@ DSA/GRAPHS/prim.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/prim.cpp.s
 .PHONY : DSA/GRAPHS/prim.cpp.s
 
+DSA/GRAPHS/print_all_bridge_edges.obj: DSA/GRAPHS/print_all_bridge_edges.cpp.obj
+
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.obj
+
+# target to build an object file
+DSA/GRAPHS/print_all_bridge_edges.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.obj
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.cpp.obj
+
+DSA/GRAPHS/print_all_bridge_edges.i: DSA/GRAPHS/print_all_bridge_edges.cpp.i
+
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.i
+
+# target to preprocess a source file
+DSA/GRAPHS/print_all_bridge_edges.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.i
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.cpp.i
+
+DSA/GRAPHS/print_all_bridge_edges.s: DSA/GRAPHS/print_all_bridge_edges.cpp.s
+
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/print_all_bridge_edges.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/print_all_bridge_edges.cpp.s
+.PHONY : DSA/GRAPHS/print_all_bridge_edges.cpp.s
+
 DSA/GRAPHS/print_all_connected_components.obj: DSA/GRAPHS/print_all_connected_components.cpp.obj
 
 .PHONY : DSA/GRAPHS/print_all_connected_components.obj
@@ -4785,6 +4893,33 @@ DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s: DSA/GRAPHS/sho
 DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s
 .PHONY : DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp.s
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.obj: DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.obj
+
+# target to build an object file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.obj
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.i: DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.i
+
+# target to preprocess a source file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.i
+
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.s: DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s
+
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s
+.PHONY : DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp.s
 
 DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.obj: DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp.obj
 
@@ -5028,6 +5163,60 @@ DSA/GRAPHS/unit_area_of_largest_region_of_ones.s: DSA/GRAPHS/unit_area_of_larges
 DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s
 .PHONY : DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp.s
+
+DSA/GRAPHS/water_connection_problem.obj: DSA/GRAPHS/water_connection_problem.cpp.obj
+
+.PHONY : DSA/GRAPHS/water_connection_problem.obj
+
+# target to build an object file
+DSA/GRAPHS/water_connection_problem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.obj
+.PHONY : DSA/GRAPHS/water_connection_problem.cpp.obj
+
+DSA/GRAPHS/water_connection_problem.i: DSA/GRAPHS/water_connection_problem.cpp.i
+
+.PHONY : DSA/GRAPHS/water_connection_problem.i
+
+# target to preprocess a source file
+DSA/GRAPHS/water_connection_problem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.i
+.PHONY : DSA/GRAPHS/water_connection_problem.cpp.i
+
+DSA/GRAPHS/water_connection_problem.s: DSA/GRAPHS/water_connection_problem.cpp.s
+
+.PHONY : DSA/GRAPHS/water_connection_problem.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/water_connection_problem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/water_connection_problem.cpp.s
+.PHONY : DSA/GRAPHS/water_connection_problem.cpp.s
+
+DSA/GRAPHS/word_boggle_I.obj: DSA/GRAPHS/word_boggle_I.cpp.obj
+
+.PHONY : DSA/GRAPHS/word_boggle_I.obj
+
+# target to build an object file
+DSA/GRAPHS/word_boggle_I.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.obj
+.PHONY : DSA/GRAPHS/word_boggle_I.cpp.obj
+
+DSA/GRAPHS/word_boggle_I.i: DSA/GRAPHS/word_boggle_I.cpp.i
+
+.PHONY : DSA/GRAPHS/word_boggle_I.i
+
+# target to preprocess a source file
+DSA/GRAPHS/word_boggle_I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.i
+.PHONY : DSA/GRAPHS/word_boggle_I.cpp.i
+
+DSA/GRAPHS/word_boggle_I.s: DSA/GRAPHS/word_boggle_I.cpp.s
+
+.PHONY : DSA/GRAPHS/word_boggle_I.s
+
+# target to generate assembly for a file
+DSA/GRAPHS/word_boggle_I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/GRAPHS/word_boggle_I.cpp.s
+.PHONY : DSA/GRAPHS/word_boggle_I.cpp.s
 
 DSA/GRAPHS/word_ladder_I.obj: DSA/GRAPHS/word_ladder_I.cpp.obj
 
@@ -6081,6 +6270,33 @@ DSA/HEAP/k_sorted_array.s: DSA/HEAP/k_sorted_array.cpp.s
 DSA/HEAP/k_sorted_array.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_sorted_array.cpp.s
 .PHONY : DSA/HEAP/k_sorted_array.cpp.s
+
+DSA/HEAP/k_subarray_sum.obj: DSA/HEAP/k_subarray_sum.cpp.obj
+
+.PHONY : DSA/HEAP/k_subarray_sum.obj
+
+# target to build an object file
+DSA/HEAP/k_subarray_sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.obj
+.PHONY : DSA/HEAP/k_subarray_sum.cpp.obj
+
+DSA/HEAP/k_subarray_sum.i: DSA/HEAP/k_subarray_sum.cpp.i
+
+.PHONY : DSA/HEAP/k_subarray_sum.i
+
+# target to preprocess a source file
+DSA/HEAP/k_subarray_sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.i
+.PHONY : DSA/HEAP/k_subarray_sum.cpp.i
+
+DSA/HEAP/k_subarray_sum.s: DSA/HEAP/k_subarray_sum.cpp.s
+
+.PHONY : DSA/HEAP/k_subarray_sum.s
+
+# target to generate assembly for a file
+DSA/HEAP/k_subarray_sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/HEAP/k_subarray_sum.cpp.s
+.PHONY : DSA/HEAP/k_subarray_sum.cpp.s
 
 DSA/HEAP/kth_largest_element_in_a_stream.obj: DSA/HEAP/kth_largest_element_in_a_stream.cpp.obj
 
@@ -7810,6 +8026,33 @@ DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s
 .PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp.s
 
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.obj: DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.obj
+
+# target to build an object file
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.obj
+
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.i: DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.i
+
+# target to preprocess a source file
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.i
+
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.s: DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s
+
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.s
+
+# target to generate assembly for a file
+DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s
+.PHONY : DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp.s
+
 DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj: DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.obj
 
 .PHONY : DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
@@ -7836,6 +8079,141 @@ DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s: DSA/SLIDING_WINDOW/VSSW/subar
 DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
 .PHONY : DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.obj: DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.i: DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.s: DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.obj: DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.i: DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.s: DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.obj: DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.i: DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.s: DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.obj: DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.i: DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.s: DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp.s
+
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.obj: DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.obj
+
+# target to build an object file
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.obj
+
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.i: DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.i
+
+# target to preprocess a source file
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.i
+
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.s: DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s
+
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.s
+
+# target to generate assembly for a file
+DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s
+.PHONY : DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp.s
 
 DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.obj: DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp.obj
 
@@ -8214,6 +8592,60 @@ DSA/STACK/mar.s: DSA/STACK/mar.cpp.s
 DSA/STACK/mar.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/mar.cpp.s
 .PHONY : DSA/STACK/mar.cpp.s
+
+DSA/STACK/my_stack/stack_1.obj: DSA/STACK/my_stack/stack_1.cpp.obj
+
+.PHONY : DSA/STACK/my_stack/stack_1.obj
+
+# target to build an object file
+DSA/STACK/my_stack/stack_1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.obj
+.PHONY : DSA/STACK/my_stack/stack_1.cpp.obj
+
+DSA/STACK/my_stack/stack_1.i: DSA/STACK/my_stack/stack_1.cpp.i
+
+.PHONY : DSA/STACK/my_stack/stack_1.i
+
+# target to preprocess a source file
+DSA/STACK/my_stack/stack_1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.i
+.PHONY : DSA/STACK/my_stack/stack_1.cpp.i
+
+DSA/STACK/my_stack/stack_1.s: DSA/STACK/my_stack/stack_1.cpp.s
+
+.PHONY : DSA/STACK/my_stack/stack_1.s
+
+# target to generate assembly for a file
+DSA/STACK/my_stack/stack_1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_1.cpp.s
+.PHONY : DSA/STACK/my_stack/stack_1.cpp.s
+
+DSA/STACK/my_stack/stack_2.obj: DSA/STACK/my_stack/stack_2.cpp.obj
+
+.PHONY : DSA/STACK/my_stack/stack_2.obj
+
+# target to build an object file
+DSA/STACK/my_stack/stack_2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.obj
+.PHONY : DSA/STACK/my_stack/stack_2.cpp.obj
+
+DSA/STACK/my_stack/stack_2.i: DSA/STACK/my_stack/stack_2.cpp.i
+
+.PHONY : DSA/STACK/my_stack/stack_2.i
+
+# target to preprocess a source file
+DSA/STACK/my_stack/stack_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.i
+.PHONY : DSA/STACK/my_stack/stack_2.cpp.i
+
+DSA/STACK/my_stack/stack_2.s: DSA/STACK/my_stack/stack_2.cpp.s
+
+.PHONY : DSA/STACK/my_stack/stack_2.s
+
+# target to generate assembly for a file
+DSA/STACK/my_stack/stack_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STACK/my_stack/stack_2.cpp.s
+.PHONY : DSA/STACK/my_stack/stack_2.cpp.s
 
 DSA/STACK/ngl.obj: DSA/STACK/ngl.cpp.obj
 
@@ -8890,6 +9322,33 @@ DSA/STRINGS/find_string_in_grid.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/find_string_in_grid.cpp.s
 .PHONY : DSA/STRINGS/find_string_in_grid.cpp.s
 
+DSA/STRINGS/generate_ip_addresses.obj: DSA/STRINGS/generate_ip_addresses.cpp.obj
+
+.PHONY : DSA/STRINGS/generate_ip_addresses.obj
+
+# target to build an object file
+DSA/STRINGS/generate_ip_addresses.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.obj
+.PHONY : DSA/STRINGS/generate_ip_addresses.cpp.obj
+
+DSA/STRINGS/generate_ip_addresses.i: DSA/STRINGS/generate_ip_addresses.cpp.i
+
+.PHONY : DSA/STRINGS/generate_ip_addresses.i
+
+# target to preprocess a source file
+DSA/STRINGS/generate_ip_addresses.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.i
+.PHONY : DSA/STRINGS/generate_ip_addresses.cpp.i
+
+DSA/STRINGS/generate_ip_addresses.s: DSA/STRINGS/generate_ip_addresses.cpp.s
+
+.PHONY : DSA/STRINGS/generate_ip_addresses.s
+
+# target to generate assembly for a file
+DSA/STRINGS/generate_ip_addresses.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/generate_ip_addresses.cpp.s
+.PHONY : DSA/STRINGS/generate_ip_addresses.cpp.s
+
 DSA/STRINGS/implement_atoi.obj: DSA/STRINGS/implement_atoi.cpp.obj
 
 .PHONY : DSA/STRINGS/implement_atoi.obj
@@ -8916,6 +9375,33 @@ DSA/STRINGS/implement_atoi.s: DSA/STRINGS/implement_atoi.cpp.s
 DSA/STRINGS/implement_atoi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/implement_atoi.cpp.s
 .PHONY : DSA/STRINGS/implement_atoi.cpp.s
+
+DSA/STRINGS/integer_to_roman.obj: DSA/STRINGS/integer_to_roman.cpp.obj
+
+.PHONY : DSA/STRINGS/integer_to_roman.obj
+
+# target to build an object file
+DSA/STRINGS/integer_to_roman.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.obj
+.PHONY : DSA/STRINGS/integer_to_roman.cpp.obj
+
+DSA/STRINGS/integer_to_roman.i: DSA/STRINGS/integer_to_roman.cpp.i
+
+.PHONY : DSA/STRINGS/integer_to_roman.i
+
+# target to preprocess a source file
+DSA/STRINGS/integer_to_roman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.i
+.PHONY : DSA/STRINGS/integer_to_roman.cpp.i
+
+DSA/STRINGS/integer_to_roman.s: DSA/STRINGS/integer_to_roman.cpp.s
+
+.PHONY : DSA/STRINGS/integer_to_roman.s
+
+# target to generate assembly for a file
+DSA/STRINGS/integer_to_roman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/integer_to_roman.cpp.s
+.PHONY : DSA/STRINGS/integer_to_roman.cpp.s
 
 DSA/STRINGS/isomorphic_strings.obj: DSA/STRINGS/isomorphic_strings.cpp.obj
 
@@ -9051,6 +9537,33 @@ DSA/STRINGS/longest_palindromic_substring.s: DSA/STRINGS/longest_palindromic_sub
 DSA/STRINGS/longest_palindromic_substring.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring.cpp.s
 .PHONY : DSA/STRINGS/longest_palindromic_substring.cpp.s
+
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.obj: DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.obj
+
+# target to build an object file
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.obj
+
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.i: DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.i
+
+# target to preprocess a source file
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.i
+
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.s: DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s
+
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.s
+
+# target to generate assembly for a file
+DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s
+.PHONY : DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp.s
 
 DSA/STRINGS/match_specific_pattern.obj: DSA/STRINGS/match_specific_pattern.cpp.obj
 
@@ -9322,6 +9835,33 @@ DSA/STRINGS/reversing_equation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/reversing_equation.cpp.s
 .PHONY : DSA/STRINGS/reversing_equation.cpp.s
 
+DSA/STRINGS/roman_to_integer.obj: DSA/STRINGS/roman_to_integer.cpp.obj
+
+.PHONY : DSA/STRINGS/roman_to_integer.obj
+
+# target to build an object file
+DSA/STRINGS/roman_to_integer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.obj
+.PHONY : DSA/STRINGS/roman_to_integer.cpp.obj
+
+DSA/STRINGS/roman_to_integer.i: DSA/STRINGS/roman_to_integer.cpp.i
+
+.PHONY : DSA/STRINGS/roman_to_integer.i
+
+# target to preprocess a source file
+DSA/STRINGS/roman_to_integer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.i
+.PHONY : DSA/STRINGS/roman_to_integer.cpp.i
+
+DSA/STRINGS/roman_to_integer.s: DSA/STRINGS/roman_to_integer.cpp.s
+
+.PHONY : DSA/STRINGS/roman_to_integer.s
+
+# target to generate assembly for a file
+DSA/STRINGS/roman_to_integer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/roman_to_integer.cpp.s
+.PHONY : DSA/STRINGS/roman_to_integer.cpp.s
+
 DSA/STRINGS/run_length_encding.obj: DSA/STRINGS/run_length_encding.cpp.obj
 
 .PHONY : DSA/STRINGS/run_length_encding.obj
@@ -9510,6 +10050,33 @@ DSA/STRINGS/winner_of_election.s: DSA/STRINGS/winner_of_election.cpp.s
 DSA/STRINGS/winner_of_election.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/winner_of_election.cpp.s
 .PHONY : DSA/STRINGS/winner_of_election.cpp.s
+
+DSA/STRINGS/word_wrap.obj: DSA/STRINGS/word_wrap.cpp.obj
+
+.PHONY : DSA/STRINGS/word_wrap.obj
+
+# target to build an object file
+DSA/STRINGS/word_wrap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.obj
+.PHONY : DSA/STRINGS/word_wrap.cpp.obj
+
+DSA/STRINGS/word_wrap.i: DSA/STRINGS/word_wrap.cpp.i
+
+.PHONY : DSA/STRINGS/word_wrap.i
+
+# target to preprocess a source file
+DSA/STRINGS/word_wrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.i
+.PHONY : DSA/STRINGS/word_wrap.cpp.i
+
+DSA/STRINGS/word_wrap.s: DSA/STRINGS/word_wrap.cpp.s
+
+.PHONY : DSA/STRINGS/word_wrap.s
+
+# target to generate assembly for a file
+DSA/STRINGS/word_wrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/STRINGS/word_wrap.cpp.s
+.PHONY : DSA/STRINGS/word_wrap.cpp.s
 
 DSA/TEMPLATES/function_templates.obj: DSA/TEMPLATES/function_templates.cpp.obj
 
@@ -9753,6 +10320,33 @@ DSA/TREES/Binary_Trees_CN/binary_tree_use.s: DSA/TREES/Binary_Trees_CN/binary_tr
 DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s
 .PHONY : DSA/TREES/Binary_Trees_CN/binary_tree_use.cpp.s
+
+DSA/TREES/TBT/TBT_use.obj: DSA/TREES/TBT/TBT_use.cpp.obj
+
+.PHONY : DSA/TREES/TBT/TBT_use.obj
+
+# target to build an object file
+DSA/TREES/TBT/TBT_use.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.obj
+.PHONY : DSA/TREES/TBT/TBT_use.cpp.obj
+
+DSA/TREES/TBT/TBT_use.i: DSA/TREES/TBT/TBT_use.cpp.i
+
+.PHONY : DSA/TREES/TBT/TBT_use.i
+
+# target to preprocess a source file
+DSA/TREES/TBT/TBT_use.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.i
+.PHONY : DSA/TREES/TBT/TBT_use.cpp.i
+
+DSA/TREES/TBT/TBT_use.s: DSA/TREES/TBT/TBT_use.cpp.s
+
+.PHONY : DSA/TREES/TBT/TBT_use.s
+
+# target to generate assembly for a file
+DSA/TREES/TBT/TBT_use.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/DSA/TREES/TBT/TBT_use.cpp.s
+.PHONY : DSA/TREES/TBT/TBT_use.cpp.s
 
 DSA/TREES/Trees_CN/tree_use.obj: DSA/TREES/Trees_CN/tree_use.cpp.obj
 
@@ -12994,15 +13588,6 @@ help:
 	@echo ... DAA_ASSIGNMENTS/tsp.obj
 	@echo ... DAA_ASSIGNMENTS/tsp.i
 	@echo ... DAA_ASSIGNMENTS/tsp.s
-	@echo ... DM/DM_lists.obj
-	@echo ... DM/DM_lists.i
-	@echo ... DM/DM_lists.s
-	@echo ... DM/linear_searrch.obj
-	@echo ... DM/linear_searrch.i
-	@echo ... DM/linear_searrch.s
-	@echo ... DM/occurances.obj
-	@echo ... DM/occurances.i
-	@echo ... DM/occurances.s
 	@echo ... DSA/BACKTRACKING/n_queens.obj
 	@echo ... DSA/BACKTRACKING/n_queens.i
 	@echo ... DSA/BACKTRACKING/n_queens.s
@@ -13045,6 +13630,9 @@ help:
 	@echo ... DSA/BINARY_SEARCH/floor_in_a_sorted_array.obj
 	@echo ... DSA/BINARY_SEARCH/floor_in_a_sorted_array.i
 	@echo ... DSA/BINARY_SEARCH/floor_in_a_sorted_array.s
+	@echo ... DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.obj
+	@echo ... DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.i
+	@echo ... DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.s
 	@echo ... DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.obj
 	@echo ... DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.i
 	@echo ... DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.s
@@ -13060,6 +13648,9 @@ help:
 	@echo ... DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.obj
 	@echo ... DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.i
 	@echo ... DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.s
+	@echo ... DSA/BINARY_SEARCH/order_not_known_search.obj
+	@echo ... DSA/BINARY_SEARCH/order_not_known_search.i
+	@echo ... DSA/BINARY_SEARCH/order_not_known_search.s
 	@echo ... DSA/BINARY_SEARCH/peak_element.obj
 	@echo ... DSA/BINARY_SEARCH/peak_element.i
 	@echo ... DSA/BINARY_SEARCH/peak_element.s
@@ -13078,15 +13669,15 @@ help:
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.obj
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.i
 	@echo ... DSA/BINARY_SEARCH/unique_element_in_sorted_array.s
-	@echo ... DSA/DEQUEUE/deque2.obj
-	@echo ... DSA/DEQUEUE/deque2.i
-	@echo ... DSA/DEQUEUE/deque2.s
-	@echo ... DSA/DEQUEUE/deque3.obj
-	@echo ... DSA/DEQUEUE/deque3.i
-	@echo ... DSA/DEQUEUE/deque3.s
-	@echo ... DSA/DEQUEUE/dequeue.obj
-	@echo ... DSA/DEQUEUE/dequeue.i
-	@echo ... DSA/DEQUEUE/dequeue.s
+	@echo ... DSA/DEQUE/deque1.obj
+	@echo ... DSA/DEQUE/deque1.i
+	@echo ... DSA/DEQUE/deque1.s
+	@echo ... DSA/DEQUE/deque2.obj
+	@echo ... DSA/DEQUE/deque2.i
+	@echo ... DSA/DEQUE/deque2.s
+	@echo ... DSA/DEQUE/deque3.obj
+	@echo ... DSA/DEQUE/deque3.i
+	@echo ... DSA/DEQUE/deque3.s
 	@echo ... DSA/DP/DP_EXTRAS/bell_numbers.obj
 	@echo ... DSA/DP/DP_EXTRAS/bell_numbers.i
 	@echo ... DSA/DP/DP_EXTRAS/bell_numbers.s
@@ -13213,6 +13804,9 @@ help:
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.obj
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.i
 	@echo ... DSA/DP/DP_EXTRAS/string_ss.s
+	@echo ... DSA/DP/DP_EXTRAS/string_ss_game.obj
+	@echo ... DSA/DP/DP_EXTRAS/string_ss_game.i
+	@echo ... DSA/DP/DP_EXTRAS/string_ss_game.s
 	@echo ... DSA/DP/DP_EXTRAS/sus.obj
 	@echo ... DSA/DP/DP_EXTRAS/sus.i
 	@echo ... DSA/DP/DP_EXTRAS/sus.s
@@ -13267,6 +13861,9 @@ help:
 	@echo ... DSA/DP/DP_MCM/boolean_parenthesization.obj
 	@echo ... DSA/DP/DP_MCM/boolean_parenthesization.i
 	@echo ... DSA/DP/DP_MCM/boolean_parenthesization.s
+	@echo ... DSA/DP/DP_MCM/boolean_parenthesization_alternative.obj
+	@echo ... DSA/DP/DP_MCM/boolean_parenthesization_alternative.i
+	@echo ... DSA/DP/DP_MCM/boolean_parenthesization_alternative.s
 	@echo ... DSA/DP/DP_MCM/egg_dropping.obj
 	@echo ... DSA/DP/DP_MCM/egg_dropping.i
 	@echo ... DSA/DP/DP_MCM/egg_dropping.s
@@ -13399,6 +13996,9 @@ help:
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.obj
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.i
 	@echo ... DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.s
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.obj
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.i
+	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.s
 	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.obj
 	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.i
 	@echo ... DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.s
@@ -13453,6 +14053,9 @@ help:
 	@echo ... DSA/GRAPHS/kruskal.obj
 	@echo ... DSA/GRAPHS/kruskal.i
 	@echo ... DSA/GRAPHS/kruskal.s
+	@echo ... DSA/GRAPHS/maximum_bipartite_matching.obj
+	@echo ... DSA/GRAPHS/maximum_bipartite_matching.i
+	@echo ... DSA/GRAPHS/maximum_bipartite_matching.s
 	@echo ... DSA/GRAPHS/min_cost_path.obj
 	@echo ... DSA/GRAPHS/min_cost_path.i
 	@echo ... DSA/GRAPHS/min_cost_path.s
@@ -13474,6 +14077,9 @@ help:
 	@echo ... DSA/GRAPHS/prim.obj
 	@echo ... DSA/GRAPHS/prim.i
 	@echo ... DSA/GRAPHS/prim.s
+	@echo ... DSA/GRAPHS/print_all_bridge_edges.obj
+	@echo ... DSA/GRAPHS/print_all_bridge_edges.i
+	@echo ... DSA/GRAPHS/print_all_bridge_edges.s
 	@echo ... DSA/GRAPHS/print_all_connected_components.obj
 	@echo ... DSA/GRAPHS/print_all_connected_components.i
 	@echo ... DSA/GRAPHS/print_all_connected_components.s
@@ -13492,6 +14098,9 @@ help:
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.obj
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.i
 	@echo ... DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.s
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.obj
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.i
+	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.s
 	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.obj
 	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.i
 	@echo ... DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.s
@@ -13519,6 +14128,12 @@ help:
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.obj
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.i
 	@echo ... DSA/GRAPHS/unit_area_of_largest_region_of_ones.s
+	@echo ... DSA/GRAPHS/water_connection_problem.obj
+	@echo ... DSA/GRAPHS/water_connection_problem.i
+	@echo ... DSA/GRAPHS/water_connection_problem.s
+	@echo ... DSA/GRAPHS/word_boggle_I.obj
+	@echo ... DSA/GRAPHS/word_boggle_I.i
+	@echo ... DSA/GRAPHS/word_boggle_I.s
 	@echo ... DSA/GRAPHS/word_ladder_I.obj
 	@echo ... DSA/GRAPHS/word_ladder_I.i
 	@echo ... DSA/GRAPHS/word_ladder_I.s
@@ -13636,6 +14251,9 @@ help:
 	@echo ... DSA/HEAP/k_sorted_array.obj
 	@echo ... DSA/HEAP/k_sorted_array.i
 	@echo ... DSA/HEAP/k_sorted_array.s
+	@echo ... DSA/HEAP/k_subarray_sum.obj
+	@echo ... DSA/HEAP/k_subarray_sum.i
+	@echo ... DSA/HEAP/k_subarray_sum.s
 	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.obj
 	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.i
 	@echo ... DSA/HEAP/kth_largest_element_in_a_stream.s
@@ -13828,9 +14446,27 @@ help:
 	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.s
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.obj
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.i
+	@echo ... DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.s
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.obj
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.i
 	@echo ... DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/MergeSort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/MergeSort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/MergeSort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/QuickSort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/QuickSort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/QuickSort.s
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/selectionSort.obj
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/selectionSort.i
+	@echo ... DSA/SORTING_ALGORITHMS/SORTING/selectionSort.s
 	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.obj
 	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.i
 	@echo ... DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.s
@@ -13873,6 +14509,12 @@ help:
 	@echo ... DSA/STACK/mar.obj
 	@echo ... DSA/STACK/mar.i
 	@echo ... DSA/STACK/mar.s
+	@echo ... DSA/STACK/my_stack/stack_1.obj
+	@echo ... DSA/STACK/my_stack/stack_1.i
+	@echo ... DSA/STACK/my_stack/stack_1.s
+	@echo ... DSA/STACK/my_stack/stack_2.obj
+	@echo ... DSA/STACK/my_stack/stack_2.i
+	@echo ... DSA/STACK/my_stack/stack_2.s
 	@echo ... DSA/STACK/ngl.obj
 	@echo ... DSA/STACK/ngl.i
 	@echo ... DSA/STACK/ngl.s
@@ -13948,9 +14590,15 @@ help:
 	@echo ... DSA/STRINGS/find_string_in_grid.obj
 	@echo ... DSA/STRINGS/find_string_in_grid.i
 	@echo ... DSA/STRINGS/find_string_in_grid.s
+	@echo ... DSA/STRINGS/generate_ip_addresses.obj
+	@echo ... DSA/STRINGS/generate_ip_addresses.i
+	@echo ... DSA/STRINGS/generate_ip_addresses.s
 	@echo ... DSA/STRINGS/implement_atoi.obj
 	@echo ... DSA/STRINGS/implement_atoi.i
 	@echo ... DSA/STRINGS/implement_atoi.s
+	@echo ... DSA/STRINGS/integer_to_roman.obj
+	@echo ... DSA/STRINGS/integer_to_roman.i
+	@echo ... DSA/STRINGS/integer_to_roman.s
 	@echo ... DSA/STRINGS/isomorphic_strings.obj
 	@echo ... DSA/STRINGS/isomorphic_strings.i
 	@echo ... DSA/STRINGS/isomorphic_strings.s
@@ -13966,6 +14614,9 @@ help:
 	@echo ... DSA/STRINGS/longest_palindromic_substring.obj
 	@echo ... DSA/STRINGS/longest_palindromic_substring.i
 	@echo ... DSA/STRINGS/longest_palindromic_substring.s
+	@echo ... DSA/STRINGS/longest_palindromic_substring_in_linear_time.obj
+	@echo ... DSA/STRINGS/longest_palindromic_substring_in_linear_time.i
+	@echo ... DSA/STRINGS/longest_palindromic_substring_in_linear_time.s
 	@echo ... DSA/STRINGS/match_specific_pattern.obj
 	@echo ... DSA/STRINGS/match_specific_pattern.i
 	@echo ... DSA/STRINGS/match_specific_pattern.s
@@ -13996,6 +14647,9 @@ help:
 	@echo ... DSA/STRINGS/reversing_equation.obj
 	@echo ... DSA/STRINGS/reversing_equation.i
 	@echo ... DSA/STRINGS/reversing_equation.s
+	@echo ... DSA/STRINGS/roman_to_integer.obj
+	@echo ... DSA/STRINGS/roman_to_integer.i
+	@echo ... DSA/STRINGS/roman_to_integer.s
 	@echo ... DSA/STRINGS/run_length_encding.obj
 	@echo ... DSA/STRINGS/run_length_encding.i
 	@echo ... DSA/STRINGS/run_length_encding.s
@@ -14017,6 +14671,9 @@ help:
 	@echo ... DSA/STRINGS/winner_of_election.obj
 	@echo ... DSA/STRINGS/winner_of_election.i
 	@echo ... DSA/STRINGS/winner_of_election.s
+	@echo ... DSA/STRINGS/word_wrap.obj
+	@echo ... DSA/STRINGS/word_wrap.i
+	@echo ... DSA/STRINGS/word_wrap.s
 	@echo ... DSA/TEMPLATES/function_templates.obj
 	@echo ... DSA/TEMPLATES/function_templates.i
 	@echo ... DSA/TEMPLATES/function_templates.s
@@ -14044,6 +14701,9 @@ help:
 	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.obj
 	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.i
 	@echo ... DSA/TREES/Binary_Trees_CN/binary_tree_use.s
+	@echo ... DSA/TREES/TBT/TBT_use.obj
+	@echo ... DSA/TREES/TBT/TBT_use.i
+	@echo ... DSA/TREES/TBT/TBT_use.s
 	@echo ... DSA/TREES/Trees_CN/tree_use.obj
 	@echo ... DSA/TREES/Trees_CN/tree_use.i
 	@echo ... DSA/TREES/Trees_CN/tree_use.s
