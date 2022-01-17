@@ -98,15 +98,6 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DAA_ASSIGNMENTS/tsp.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/DM_lists.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/linear_searrch.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DM/occurances.cpp">
-			<Option target="untitled"/>
-		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BACKTRACKING/n_queens.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -149,6 +140,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/floor_in_a_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/median_in_row_wise_sorted_matrix.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -162,6 +156,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/no_of_times_a_sorted_array_is_rotated.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/order_not_known_search.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/peak_element.cpp">
@@ -182,13 +179,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/BINARY_SEARCH/unique_element_in_sorted_array.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/deque2.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUE/deque1.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/deque3.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUE/deque2.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUEUE/dequeue.cpp">
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DEQUE/deque3.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/bell_numbers.cpp">
@@ -317,6 +314,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/string_ss.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/string_ss_game.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_EXTRAS/sus.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -369,6 +369,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/boolean_parenthesization.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/DP/DP_MCM/egg_dropping.cpp">
@@ -503,6 +506,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_directed_graph_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/detect_cycle_in_undirected_graph_using_dfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -557,6 +563,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/kruskal.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/maximum_bipartite_matching.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/min_cost_path.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -578,6 +587,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/prim.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_bridge_edges.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/print_all_connected_components.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -594,6 +606,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_undirected_graph_with_unit_weights.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/shortest_path_in_weighted_dag_using_dfs.cpp">
@@ -621,6 +636,12 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/unit_area_of_largest_region_of_ones.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/water_connection_problem.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/word_boggle_I.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/GRAPHS/word_ladder_I.cpp">
@@ -738,6 +759,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_sorted_array.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/k_subarray_sum.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/HEAP/kth_largest_element_in_a_stream.cpp">
@@ -944,7 +968,25 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/smallest_distinct_window.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SLIDING_WINDOW/VSSW/subarray_with_given_sum.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/SORTING_ALGORITHMS/SORTING_AGAIN/merge_sort.cpp">
@@ -990,6 +1032,12 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/mar.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/my_stack/stack_1.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/my_stack/stack_2.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STACK/ngl.cpp">
@@ -1073,7 +1121,13 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/find_string_in_grid.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/generate_ip_addresses.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/implement_atoi.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/integer_to_roman.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/isomorphic_strings.cpp">
@@ -1089,6 +1143,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/match_specific_pattern.cpp">
@@ -1121,6 +1178,9 @@
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/reversing_equation.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/roman_to_integer.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/run_length_encding.cpp">
 			<Option target="untitled"/>
 		</Unit>
@@ -1140,6 +1200,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/winner_of_election.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/STRINGS/word_wrap.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TEMPLATES/function_templates.cpp">
@@ -1176,6 +1239,9 @@
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/TBT/TBT.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/TBT/TBT_use.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="C:/Users/rapen/CLionProjects/untitled/DSA/TREES/Trees_CN/tree_node.h">

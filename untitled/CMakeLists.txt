@@ -10,9 +10,9 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA_ASSIGNMENTS/assignment_1/assignment_1_using_struct.cpp DSA_ASSIGNMENTS/assignment_1/studDB.h DSA_ASSIGNMENTS/assignment_1/studDB_impl.cpp
         DSA_ASSIGNMENTS/assignment_1/main_interface.cpp algorithmic_toolbox/sum1.cpp DSA_ASSIGNMENTS/arrays_practice/ass1.cpp
         DSA_ASSIGNMENTS/arrays_practice/ass1_again.cpp
-        algorithmic_toolbox DM/linear_searrch.cpp
-        DM/occurances.cpp DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
-        DM/DM_lists.cpp DSA/STL/vectors_tut.cpp DSA/TEMPLATES/templates.cpp
+        algorithmic_toolbox
+        DSA_ASSIGNMENTS/assignment_3_queue/circular_queue_2.cpp DSA_ASSIGNMENTS/assignment_3_queue/queue_final.cpp
+        DSA/STL/vectors_tut.cpp DSA/TEMPLATES/templates.cpp
         DSA/STACK/stack_assignment DSA/STACK/stack_assignment/linkedlistwithstack.h DSA/TREES/sorting_algorithms/selectionSort.cpp
         DSA/TREES/sorting_algorithms/BubbleSort.cpp DSA/TREES/sorting_algorithms/InsertionSort.cpp
         DSA/TREES/sorting_algorithms/MergeSort.cpp DSA/TREES/sorting_algorithms/QuickSort.cpp
@@ -81,8 +81,8 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         algorithmic_toolbox/week3/car_fueling.cpp
         DSA/TEMPLATES/unordered_maps.cpp
         DSA/GRAPHS_OLD/graph.cpp DSA/GRAPHS_OLD/graph2.cpp DSA/GRAPHS/GRAPHS_CN/prim.cpp
-        DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp DSA/DEQUEUE/dequeue.cpp DSA/DEQUEUE/deque2.cpp
-        DSA/DEQUEUE/deque3.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
+        DSA/GRAPHS/GRAPHS_CN/dijkstra.cpp DSA/DEQUE/deque3.cpp DSA/DEQUE/deque1.cpp
+        DSA/DEQUE/deque2.cpp DSA/EXPONENTATION/mod_exp.cpp DSA/EXPONENTATION/matrix_exp.cpp DSA/STL/priority_queue.cpp
         ROUGH_FILES/rough1.cpp
         DSA/RECURSION/fib.cpp DSA/RECURSION/is_array_sorted.cpp
         DSA/RECURSION/first_index.cpp DSA/RECURSION/last_index.cpp
@@ -220,6 +220,16 @@ add_executable(untitled algorithmic_toolbox/test.cpp
         DSA/DP/DP_EXTRAS/min_operations_to_convert_array_A_to_array_B.cpp DSA/TRIE/trie_insert_and_search.cpp
         DSA/TRIE/trie_delete.cpp DSA/TRIE/count_no_of_strings_with_given_prefix.cpp DSA/TRIE/auto_complete_feature.cpp
         DSA/BINARY_SEARCH/ternary_search.cpp DAA_ASSIGNMENTS/tsp.cpp DSA/GRAPHS/tsp.cpp DAA_ASSIGNMENTS/exam.cpp
-        )
+        DAA_ASSIGNMENTS/exam.cpp DSA/BINARY_SEARCH/kth_smallest_element_in_matrix.cpp DSA/BINARY_SEARCH/order_not_known_search.cpp
+        DSA/DP/DP_EXTRAS/string_ss_game.cpp DSA/DP/DP_MCM/boolean_parenthesization_alternative.cpp
+        DSA/GRAPHS/detect_cycle_in_undirected_graph_using_bfs.cpp DSA/GRAPHS/maximum_bipartite_matching.cpp
+        DSA/GRAPHS/print_all_bridge_edges.cpp DSA/GRAPHS/shortest_path_in_weighted_dag_using_bfs.cpp
+        DSA/GRAPHS/water_connection_problem.cpp DSA/GRAPHS/word_boggle_I.cpp DSA/HEAP/k_subarray_sum.cpp
+        DSA/SLIDING_WINDOW/VSSW/smallest_window_in_a_string_containing_all_characters_of_another_string.cpp
+        DSA/SORTING_ALGORITHMS/SORTING/BubbleSort.cpp DSA/SORTING_ALGORITHMS/SORTING/InsertionSort.cpp
+        DSA/SORTING_ALGORITHMS/SORTING/MergeSort.cpp DSA/SORTING_ALGORITHMS/SORTING/QuickSort.cpp
+        DSA/SORTING_ALGORITHMS/SORTING/selectionSort.cpp DSA/STACK/my_stack/stack_1.cpp DSA/STACK/my_stack/stack_2.cpp
+        DSA/STRINGS/generate_ip_addresses.cpp DSA/STRINGS/integer_to_roman.cpp DSA/STRINGS/longest_palindromic_substring_in_linear_time.cpp
+        DSA/STRINGS/roman_to_integer.cpp DSA/STRINGS/word_wrap.cpp DSA/TREES/TBT/TBT_use.cpp)
 
 
